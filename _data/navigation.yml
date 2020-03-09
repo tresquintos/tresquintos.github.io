@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Elecciones"
+    url: /elecciones/
+
+  - title: "TSM"
+    url: /tsm/
+
+#  - title: "Blog"
+#    url: /year-archive/
+
+  - title: "🇨🇱 Plebiscito 2020"
+    url: /plebiscito2020/
+
+  - title: "🇨🇱 Convención 2020"
+    url: /convención2020/
+
+  - title: "🇨🇱 Presidenciales 2021"
+    url: /presidenciales2021/
+
+  - title: "¡Suscríbete!"
+    url: /suscripción/

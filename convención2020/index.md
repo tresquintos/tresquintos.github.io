@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Proyección Constitutentes 2020"
+title: "Proyección Constituyentes 2020"
 excerpt: "Proyección"
 collection: convención2020
 ---

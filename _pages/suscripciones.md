@@ -18,7 +18,7 @@ En esta página puedes suscribirte a Tresquintos.
 <div id="mc_embed_signup">
 <form action="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Llena el siguiente formulario:</h2>
+	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
@@ -39,6 +39,10 @@ En esta página puedes suscribirte a Tresquintos.
 	<label for="mce-TWITTER">Twitter (¡solo si tienes!) </label>
 	<input type="text" value="" name="TWITTER" class="" id="mce-TWITTER">
 </div>
+<div class="mc-field-group size1of2">
+	<label for="mce-MMERGE4">Fono (¡para Whatsapp!) </label>
+	<input type="text" name="MMERGE4" class="" value="" id="mce-MMERGE4">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -48,7 +52,7 @@ En esta página puedes suscribirte a Tresquintos.
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='TWITTER';ftypes[3]='text'; /*
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='TWITTER';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='phone'; /*
  * Translated default messages for the $ validation plugin.
  * Locale: ES
  */

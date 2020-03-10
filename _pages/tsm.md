@@ -30,9 +30,9 @@ Dado que esto no es un escenario viable, se opta por considerar solo las prefere
 
 Una vez que ambas encuestas se "recalibran", se pueden ponderar los datos en base a los tres criterios mencionados arriba (pasos 3-5). En otras palabras, se pone más confianza en una encuesta que en promedio obtiene un puntaje más alto después de considerar su nivel de precisión en elecciones anteriores (su ranking), su margen de error (número de encuestados), y su antiguedad (distancia temporal).
 
-De lo anterior, emerge una nueva base con pronósticos para cada uno de los candidatos. En la segunda fase, se estima la probabilidad de que el pronóstico que propone la segunda encuesta sea "verdadera" en base al pronóstico que propone la primera encuesta. Esto resulta en un pronóstico final para cada candidato en carrera para la fecha en que se registró la segunda (o la más reciente) de las encuestas. Ese es el pronóstico "si la elección fuera hoy".
+Luego, se estima la probabilidad de que el pronóstico que propone la segunda encuesta sea "verdadera" en base al pronóstico que propone la primera encuesta. Esto resulta en un pronóstico final para cada candidato en carrera para la fecha en que se registró la segunda (o la más reciente) de las encuestas. Ese es el pronóstico "si la elección fuera hoy".
 
-Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. La idea es tratar de reemplazar cada uno de los puntos en que se hizo una encuesta por un pronóstico "si la elección fuera hoy". Para hacer eso, sencillamanete se repite el proceso completo, sequencialmente. Primero para las dos primeras encuestas, luego para las tres priemra encuestas, luego para las cuatro primeras encuestas. Así sucesivamente hasta llegar a la décima.
+Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. La idea es tratar de reemplazar cada uno de los puntos en que se hizo una encuesta por un pronóstico "si la elección fuera hoy". Para hacer eso, sencillamanete se repite el proceso completo, sequencialmente. Primero para las dos primeras encuestas, luego para las tres primeras, luego para las cuatro primeras. Y así sucesivamente hasta llegar a la décima.
 
 
 ## Detalles técnicos

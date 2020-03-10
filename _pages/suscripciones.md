@@ -17,7 +17,7 @@ En esta página puedes suscribirte a Tresquintos.
 <div id="mc_embed_signup">
 <form action="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Lista de distribución Tresquintos</h2>
+	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
@@ -39,7 +39,7 @@ En esta página puedes suscribirte a Tresquintos.
 	<input type="text" value="" name="TWITTER" class="" id="mce-TWITTER">
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-MMERGE4">Fono (¡para Whatsapp!) </label>
+	<label for="mce-MMERGE4">WhatsApp (+56 X XXXX XXXX) </label>
 	<input type="text" name="MMERGE4" class="" value="" id="mce-MMERGE4">
 </div>
 	<div id="mce-responses" class="clear">

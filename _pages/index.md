@@ -32,3 +32,8 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 ### Otros enlaces
 
 Puedes encontrar más pronósticos e información sobre el plebiscito de 2020 [aquí](https://tresquintos.github.io/pronósticos/). Puedes ver tendencias de la elección presidencial de Chile de 2021 [aquí](https://tresquintos.github.io/presidenciales2021/), y de la elección legislativa de Chile de 2021 [aquí](https://tresquintos.github.io/legislativa2021/). Si quieres más información sobre el model de pronósticos (el TSM), puedes leer [esto](https://tresquintos.github.io/tsm/). Si quieres contribuir a Tresquintos, revisa [esto](https://tresquintos.github.io/suscripci%C3%B3n/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
+
+
+
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

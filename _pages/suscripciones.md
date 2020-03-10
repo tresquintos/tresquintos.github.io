@@ -38,7 +38,7 @@ En esta página puedes suscribirte a Tresquintos.
 	<label for="mce-TWITTER">Twitter (¡solo si tienes!) </label>
 	<input type="text" value="" name="TWITTER" class="" id="mce-TWITTER">
 </div>
-<div class="mc-field-group size1of2">
+<div class="mc-field-group">
 	<label for="mce-MMERGE4">WhatsApp (+56 X XXXX XXXX) </label>
 	<input type="text" name="MMERGE4" class="" value="" id="mce-MMERGE4">
 </div>

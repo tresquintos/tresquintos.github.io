@@ -12,7 +12,7 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Constituyente.
 
-![cc](/images/cc.png){:height="80%" width="80%"}
+![cc](/images/cc.png){:height="75%" width="75%"}
 
 
 
@@ -20,4 +20,4 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 
 
 
-![cm](/images/cm.png){:height="80%" width="80%"}
+![cm](/images/cm.png){:height="75%" width="75%"}

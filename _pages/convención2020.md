@@ -12,14 +12,14 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando.
 
 
-![cc](/images/coaliciones.png){:height="75%" width="75%"}
+![cc](/images/coaliciones.png){:height="100%" width="100%"}
 
 
 ## Convención Constituyente
 
 El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Constituyente. En este caso, se elige la totalidad de los representantes en una elección. Considerando que el quórum importante para alcanzar acuerdos es 2/3, el número de constituyentes necesarios para pasar una inciativa es **103** (+1). A su vez, el quórum para bloquear una iniciativa es el inverso, es decir 1/3, o bien **52** (+1) constituyentes.
 
-![cc](/images/cc.png){:height="75%" width="75%"}
+![cc](/images/cc.png){:height="100%" width="100%"}
 
 
 ## Convención Mixta

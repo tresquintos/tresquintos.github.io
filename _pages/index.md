@@ -26,6 +26,8 @@ Los gráficos que siguen muestran la tendencia para la segunda pregunta: ***¿Qu
 
 Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números proyectando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales en 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más detalles de la metodología, pincha [aquí](http://tresquintos.github.io/convención2020).
 
+![cc](/images/distribuciones.png){:height="45%" width="45%"}
+
 <div class="flourish-embed flourish-parliament" data-src="visualisation/1465050"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 

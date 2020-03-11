@@ -10,7 +10,7 @@ author_profile: true
 En esta página puedes ver una estimación de la distribución de escaños de los constituyentes. Los gráficos de abajo muestran una proyección basada en datos electorales de Chile en 1989-2017, los resultados de la elección de diputados de 2017, la fragmentación del sistema del partidos a partir del 18 de octubre, y los particulares efectos del sistema electoral. Distingue entre una Convención Mixta Constitucional (172 miembros) y una Convención Constitucional pura (155 miembros).
 
 
-![cc](/images/distribuciones.png){:height="100%" width="100%"}
+![cc](/images/distribuciones.png){:height="80%" width="80%"}
 
 
 

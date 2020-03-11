@@ -18,7 +18,7 @@ El TSM (Two-Stage Model) es un método para realizar pronósticos electorales us
 En la segunda de las dos fases, se toman los datos calibrados, y:
 
 6. Se estima la probabilidad de cada pronóstico usando inferencia Bayesiana,
-7. Se simula el resultado de la elección __50,000__ veces por medio de cadenas de Monte Carlo,
+7. Se simula el resultado de la elección **50,000** veces por medio de cadenas de Monte Carlo,
 8. Se repite el proceso sequencialmente para observar la linea de tiempo.
 
 

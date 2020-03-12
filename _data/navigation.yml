@@ -6,8 +6,8 @@ main:
   - title: "TSM"
     url: /tsm/
 
-  - title: "Blog"
-    url: /blog/
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "🇨🇱 Plebiscito 2020"
     url: /plebiscito2020/

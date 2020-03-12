@@ -76,6 +76,10 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-Si quieres hacer una donación, puedes hacerla por PayPal.
+Si quieres hacer una donación, puedes hacerla por PayPal o por Flow.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-large.png)](https://www.paypal.me/tresquintos/)
+
+<a href='https://www.flow.cl/btn.php?token=3vop8lw' target='_blank'>
+  <img src='https://www.flow.cl/img/botones/btn-donar-celeste.png'>
+</a>

@@ -1,9 +1,9 @@
 ---
-title: 'Blog Post number 2'
+title: 'Bienvenidos'
 date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2013/08/bienvenidos/
 tags:
-  - cool posts
+  - Tresquintos
   - category1
   - category2
 ---

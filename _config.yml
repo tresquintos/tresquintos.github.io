@@ -69,6 +69,12 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/tresquintos"
+    - "https://facebook.com/3quintos"
+    - "https://instagram.com/tresquintos"
+    - "https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/"
+
+
 
 
 # Analytics

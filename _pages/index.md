@@ -11,9 +11,7 @@ En este sitio web podrás encontrar análisis político y pronósticos electoral
 
 ### Mapa del sitio
 
-Si es tu primera vez en **Tresquintos**, te recomiendo partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones para las cuales habrá un pronóstico [aquí](https://tresquintos.github.io/pronósticos/). También puedes revisar el blog [aquí](https://tresquintos.github.io/blog/), y algunos comentarios sobre cómo funcionan los pronósticos [aquí](https://tresquintos.github.io/tsm/).
-
-Si estás buscando algo en especifico, puedes ver tendencias para el plebiscito [aquí](https://tresquintos.github.io/plebiscito2020/), y para la elección de constituyentes de 2020 [aquí](https://tresquintos.github.io/constituyentes2020/). Si estas buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.github.io/presidenciales2021/), y de la elección legislativa de Chile de 2021 [aquí](https://tresquintos.github.io/legislativa2021/).
+Si es tu primera vez en **Tresquintos**, te recomiendo partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones para las cuales habrá un pronóstico [aquí](https://tresquintos.github.io/pronósticos/). También puedes revisar el blog [aquí](https://tresquintos.github.io/blog/), y algunos comentarios sobre cómo funcionan los pronósticos [aquí](https://tresquintos.github.io/tsm/). Si estás buscando algo en especifico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.github.io/plebiscito2020/), y para la potencial elección de constituyentes de 2020 [aquí](https://tresquintos.github.io/constituyentes2020/). Si estas buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.github.io/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puede pinchar [aquí](https://tresquintos.github.io/legislativa2021/).
 
 
 ### La elección del momento: el plebiscito de Chile

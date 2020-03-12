@@ -1,6 +1,6 @@
 ---
 title: '¡Bienvenidos!'
-date: 2020-03-10
+date: 2020-03-11
 permalink: /posts/2020/03/bienvenidos/
 tags:
   - Tresquintos

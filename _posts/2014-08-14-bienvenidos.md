@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
+title: '¡Bienvenidos!'
 date: 2014-08-14
-permalink: /posts/2014/08/blog-post-1/
+permalink: /posts/2014/08/bienvenidos/
 tags:
   - cool posts
   - category1

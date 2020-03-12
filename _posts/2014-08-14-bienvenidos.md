@@ -4,6 +4,9 @@ date: 2014-08-14
 permalink: /posts/2014/08/bienvenidos/
 tags:
   - Tresquintos
+  - Métodos
+  - Gráficos
+  - Datos
   - Plebiscito Nacional 2020
   - Elección Constituyentes 2020
   - Elección Municipal 2020
@@ -11,13 +14,10 @@ tags:
   - Elección Concejales 2020
   - Elección Legislativa 2021
   - Elección Presidencial 2021
-  - Métodos
-  - Gráficos
-  - Datos
 ---
 
 
-!Hola! Aquí Kenneth Bunker, editor de Tresquintos. ¡Bienvenidos!
+!Hola! Aquí Kenneth Bunker, editor de Tresquintos.
 
 
 Presumiblemente, estas recibiendo este e-mail porque estás en lista de distribución de tresquintos. Si eres un miembro antiguo, puedes actualizar los datos de tu suscripción aquí; o si por algún motivo este e-mail te llegó por error, puedes anular tu suscripción aquí.

@@ -3,9 +3,10 @@ title: '¡Bienvenidos!'
 date: 2014-08-14
 permalink: /posts/2014/08/bienvenidos/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Tresquintos
+  - Plebiscito Nacional 2020
+  - Elección Constituyentes 2020
+  - Elección Presidencial 2021
 ---
 
 

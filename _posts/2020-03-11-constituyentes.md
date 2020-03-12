@@ -4,8 +4,6 @@ date: 2020-03-11
 permalink: /posts/2020/03/constituyentes/
 tags:
   - Elección Constituyentes 2020
-  - category1
-  - category2
 ---
 
 La convención constitucional va definir el grado de cambio y continuidad por el cuál atravesará el país si decide aprobar la carta fundamental en el plebisicito de salida. Por eso, es vital mirar la composición legislativa del órgano.

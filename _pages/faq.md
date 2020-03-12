@@ -28,7 +28,7 @@ Kenneth Bunker. Director de Tresquintos. Doctor (PhD.) en Ciencia Política, Lon
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 
-Si quieres contribuir a la continuidad de Tresquintos, puedes hacerlo vía una donación por PayPal o por Flow. El mínimo es $1,000 CLP, y el máximo es $1,000,000 CLP.
+Si quieres contribuir a la continuidad de Tresquintos, puedes hacerlo vía una donación por PayPal o por Flow. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000** CLP.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png)](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png)](https://www.flow.cl/btn.php?token=3vop8lw)
 

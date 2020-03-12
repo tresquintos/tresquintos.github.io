@@ -38,4 +38,4 @@ Si quieres hacer una donación, puedes hacerla por PayPal o por Flow.
 Sí, puedes anotar tu información abajo, y recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página.
 
 
-[![Flow](https://eep.io/images/yzco4xsimv0y/2fFzcPUT1TcAhNQqy7EKH/ff0f4146745dfbcd9c63ba5621a95243/brand-assets_logos_reverse.jpg?w=1960&q=95)](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+[![Flow](http://pluspng.com/img-png/mailchimp-logo-vector-png-mailchimp-714.png)](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)

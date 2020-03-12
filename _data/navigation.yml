@@ -7,7 +7,7 @@ main:
     url: /tsm/
 
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
 
   - title: "🇨🇱 Plebiscito 2020"
     url: /plebiscito2020/

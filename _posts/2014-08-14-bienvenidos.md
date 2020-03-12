@@ -1,7 +1,7 @@
 ---
 title: '¡Bienvenidos!'
 date: 2014-08-14
-permalink: /posts/bienvenidos/
+permalink: /posts/2014/08/bienvenidos/
 tags:
   - Tresquintos
   - Plebiscito Nacional 2020
@@ -17,7 +17,7 @@ tags:
 ---
 
 
-!Hola! Aquí Kenneth Bunker, editor de Tresquintos.
+!Hola! Aquí Kenneth Bunker, editor de Tresquintos. ¡Bienvenidos!
 
 
 Presumiblemente, estas recibiendo este e-mail porque estás en lista de distribución de tresquintos. Si eres un miembro antiguo, puedes actualizar los datos de tu suscripción aquí; o si por algún motivo este e-mail te llegó por error, puedes anular tu suscripción aquí.

@@ -78,6 +78,6 @@ $.extend($.validator.messages, {
 
 Si quieres hacer una donación, puedes hacerla por PayPal o por Flow.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-large.png)](https://www.paypal.me/tresquintos/)
+[![PayPal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-large.png){:height="50%" width="50%"}](https://www.paypal.me/tresquintos/)
 
 [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png)](https://www.flow.cl/btn.php?token=3vop8lw)

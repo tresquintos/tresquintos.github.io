@@ -23,10 +23,15 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 ### ¿Dónde más puedo seguir a Tresquintos?
 
-En todas las redes sociales. Para la página de Facebook, pincha aquí. Para la cuenta de Twitter, pincha aquí. Para Instagram, pincha aquí. Para Youtube, pincha aquí.
+Estamos en todas las redes sociales.
 
-[![facebook](https://www.facebook.com/images/fb_icon_325x325.png){:height="10%" width="10%"}](https://www.facebook.com/tresquintos)
+[![facebook](https://www.facebook.com/images/fb_icon_325x325.png){:height="10%" width="10%"}](https://www.facebook.com/3quintos)
 
+[![twitter](https://www.facebook.com/images/fb_icon_325x325.png){:height="10%" width="10%"}](https://www.twitter.com/tresquintos)
+
+[![instagram](https://www.facebook.com/images/fb_icon_325x325.png){:height="10%" width="10%"}](https://www.facebook.com/tresquintos)
+
+[![youtube](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png){:height="10%" width="10%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/)
 
 ### ¿Quiénes edita Tresquintos?
 

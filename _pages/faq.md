@@ -21,7 +21,7 @@ Tresquintos es un sitio sobre análisis político y pronósticos electorales. El
 El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y/o conglomerados
 
 
-##### ¿Quiénes edita Tresquintos?
+### ¿Quiénes edita Tresquintos?
 
 Kenneth Bunker. Director de Tresquintos. Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile).
 
@@ -38,4 +38,4 @@ Si quieres hacer una donación, puedes hacerla por PayPal o por Flow.
 Sí, puedes anotar tu información abajo, y recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página.
 
 
-[![Flow](http://pluspng.com/img-png/mailchimp-logo-vector-png-mailchimp-714.png)](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+[![MailChimp](http://pluspng.com/img-png/mailchimp-logo-vector-png-mailchimp-714.png)](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)

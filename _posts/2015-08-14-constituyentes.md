@@ -1,13 +1,12 @@
 ---
-layout: archive
-title: "Proyección Constitutentes 2020"
-excerpt: "Proyección"
-collection: blog
+title: 'Constituyentes'
+date: 2015-08-14
+permalink: /posts/2012/08/constituyentes/
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
-
-
-
-### Principales conclusiones
 
 La convención constitucional va definir el grado de cambio y continuidad por el cuál atravesará el país si decide aprobar la carta fundamental en el plebisicito de salida. Por eso, es vital mirar la composición legislativa del órgano.
 

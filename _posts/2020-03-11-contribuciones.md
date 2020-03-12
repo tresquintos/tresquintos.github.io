@@ -1,11 +1,9 @@
 ---
 title: 'Contribuciones'
-date: 2015-08-14
-permalink: /posts/2012/08/contribuciones/
+date: 2020-03-11
+permalink: /posts/2020/03/contribuciones/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Tresquintos
 ---
 
 Si quieres contrubuir a Tresquintos, tenemos alguna sugerencias.

@@ -1,7 +1,7 @@
 ---
 title: '¡Bienvenidos!'
-date: 2014-08-14
-permalink: /posts/2014/08/bienvenidos/
+date: 2020-03-11
+permalink: /posts/2020/03/bienvenidos/
 tags:
   - Tresquintos
   - Métodos

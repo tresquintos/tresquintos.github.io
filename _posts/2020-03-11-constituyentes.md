@@ -1,9 +1,9 @@
 ---
 title: 'Constituyentes'
-date: 2015-08-14
-permalink: /posts/2012/08/constituyentes/
+date: 2020-03-11
+permalink: /posts/2020/03/constituyentes/
 tags:
-  - cool posts
+  - Elección Constituyentes 2020
   - category1
   - category2
 ---

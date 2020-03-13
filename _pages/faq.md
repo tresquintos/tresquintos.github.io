@@ -50,7 +50,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 Se usan una serie de programas para producir los datos y gráficos de **Tresquintos**. Además de las interfaces más básicas, cómo TexEdit y Excel, se usan los siguientes programas.
 
-[![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos)
+[![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://www.github.com/tresquintos)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?

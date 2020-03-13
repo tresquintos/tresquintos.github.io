@@ -59,7 +59,7 @@ es: &DEFAULT_ES
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
-  minute_read                : "minuto de lectura"
+  minute_read                : "minutos de lectura"
   share_on_label             : "Compartir"
   meta_label                 :
   tags_label                 : "Etiquetas:"

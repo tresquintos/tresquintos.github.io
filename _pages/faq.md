@@ -43,6 +43,7 @@ Estamos en todas las redes sociales.
 
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile).
 
+[![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![twitter](/images/medium.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 

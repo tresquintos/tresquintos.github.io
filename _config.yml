@@ -17,13 +17,13 @@ repository               : "https://github.com/tresquintos/"
 teaser                   : "teaser.png" # default: 500x300
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : "facebook" # "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "tresquintos-github-io"
+    shortname            : # "tresquintos-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -73,9 +73,7 @@ social:
     - "https://facebook.com/3quintos"
     - "https://instagram.com/tresquintos"
     - "https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/"
-
-
-
+    - "https://www.twitch.tv/tresquintos"
 
 # Analytics
 analytics:

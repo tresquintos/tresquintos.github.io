@@ -15,7 +15,7 @@ url                      : https://tresquintos.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/tresquintos/"
 teaser                   : "teaser.png" # default: 500x300
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts

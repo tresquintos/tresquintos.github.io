@@ -31,23 +31,25 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 [![plebiscito2020](/images/election1.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020)
 
-[![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://www.servel.cl/primarias-2020/)
 
 [![concejales2020](/images/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
 
 [![alcaldes2020](/images/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
 
-[![consejeros2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![constituyentes2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020)
 
-[![constituyentes2020](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![gobernadores202](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2020)
 
 [![primarias2021](/images/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
 
-[![diputados2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![consejeros2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_consejeros_regionales_de_Chile_de_2021)
 
-[![senadores2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![diputados2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021)
 
-[![presidente2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![senadores2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021)
+
+[![presidente2021](/images/election11.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021)
 
 
 ### ¿Dónde más puedo seguir a Tresquintos?

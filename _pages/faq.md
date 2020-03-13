@@ -57,7 +57,7 @@ Se usan una serie de programas para producir los datos y gráficos de **Tresquin
 
 Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *PayPal* o por *Flow*, pinchando uno de los logos de abajo. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="5%" width="5%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="5%" width="5%"}](https://www.flow.cl/btn.php?token=3vop8lw)
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="8%" width="8%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="5%" width="5%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
 ### ¿Me puedo suscribir a Tresquintos?
@@ -65,4 +65,4 @@ Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *
 Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de envíar información de **Tresquintos**).
 
 
-[![MailChimp](https://www.dexigner.com/images/news/xxi/31385.jpg){:height="5%" width="5%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+[![MailChimp](https://www.dexigner.com/images/news/xxi/31385.jpg){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)

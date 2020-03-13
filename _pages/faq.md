@@ -8,7 +8,12 @@ author_profile: true
 
 ### ¿Qué significa Tresquintos?
 
-Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema político chileno. Por ejemplo, es el quórum que se necesita para hacer una reforma al sistema electoral.
+Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema político chileno. Por ejemplo, es el quórum que se necesita para hacer una reforma al sistema electoral. El logo anterior de **Tresquintos** reflejaba el efecto dicotómico de la ley.
+
+
+### ¿Qué representa el logo nuevo de Tresquintos?
+
+El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de representación.
 
 
 ### ¿Qué hace Tresquintos?

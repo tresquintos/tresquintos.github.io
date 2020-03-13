@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Preguntas Frecuentes"
 permalink: /faq/
 author_profile: true

@@ -15,6 +15,8 @@ Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema 
 
 El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de representación.
 
+[![logo2](/images/logo_short.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![logo3](/images/logo_long.png){:height="5%" width="5%"}](https://www.twitch.com/tresquintos) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker)
+
 
 ### ¿Qué hace Tresquintos?
 

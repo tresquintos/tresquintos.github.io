@@ -36,14 +36,14 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 Estamos en todas las redes sociales.
 
-[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.com/tresquintos) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker)
+[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.com/tresquintos)
 
 
 ### ¿Quién edita Tresquintos?
 
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile).
 
-[![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![twitter](/images/medium.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
+[![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 

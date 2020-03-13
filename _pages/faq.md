@@ -31,6 +31,7 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 [![plebiscito2020](/images/plebiscito2020.png){:height="5%" width="5%"}](https://www.tresquintos.github.io/images/logo_viejo.png)
 
+[![alcaldes2020](/images/alcaldes2020.png){:height="5%" width="5%"}](https://www.tresquintos.github.io/images/logo_viejo.png)
 
 
 

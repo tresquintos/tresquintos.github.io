@@ -25,7 +25,7 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 Estamos en todas las redes sociales.
 
-[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker)
+[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.com/tresquintos) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker)
 
 
 ### ¿Quién edita Tresquintos?

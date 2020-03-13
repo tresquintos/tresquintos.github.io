@@ -25,7 +25,9 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 Estamos en todas las redes sociales.
 
-[![facebook](https://www.facebook.com/images/fb_icon_325x325.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](http://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png){:height="10%" width="10%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/)
+[![facebook](https://www.facebook.com/images/fb_icon_325x325.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](https://aer.eu/wp-content/uploads/2017/06/twitter-logo-4.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](http://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![cc](/images/youtube.png){:height="30%" width="30%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/)
+
+![cc](/images/cc.png){:height="75%" width="75%"}
 
 ### ¿Quiénes edita Tresquintos?
 

@@ -29,10 +29,25 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para 2020 y 2021, la frecuencia será relativamente alta.
 
-[![plebiscito2020](/images/plebiscito2020.png)](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020)
+[![plebiscito2020](/images/election1.png)](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020)
 
-[![alcaldes2020](/images/alcaldes2020.png){:height=10%" width="10%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+[![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
 
+[![concejales2020](/images/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![alcaldes2020](/images/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![consejeros2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![constituyentes2020](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![primarias2021](/images/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![diputados2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![senadores2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
+
+[![presidente2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020)
 
 
 ### ¿Dónde más puedo seguir a Tresquintos?

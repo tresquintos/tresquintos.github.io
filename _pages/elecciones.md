@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Elecciones"
 permalink: /elecciones/
 author_profile: true

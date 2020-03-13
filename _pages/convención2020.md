@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Proyección Constituyentes 2020"
 permalink: /convención2020/
 author_profile: true

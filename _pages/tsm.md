@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "TSM"
 permalink: /tsm/
 author_profile: true

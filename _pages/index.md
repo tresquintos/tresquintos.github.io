@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: archive
+layout: single
 title: ¡Bienvenidos a Tresquintos!
 excerpt: "Análisis político y pronósticos electorales"
 author_profile: true

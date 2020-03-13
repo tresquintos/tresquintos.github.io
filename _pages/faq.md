@@ -50,7 +50,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 Además de las interfaces más básicas, como TextEdit y Excel, los siguientes programas se usan de forma frecuente.
 
-[![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://www.github.com/tresquintos)
+[![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?

@@ -48,7 +48,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 ### ¿Qué programas se usan para generar los datos y gráficos en en Tresquintos?
 
-Se usan una serie de programas para producir los datos y gráficos de **Tresquintos**. Además de las interfaces más básicas, cómo TexEdit y Excel, se usan los siguientes programas.
+Además de las interfaces más básicas, como TextEdit y Excel, los siguientes programas se usan de forma frecuente.
 
 [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://www.github.com/tresquintos)
 
@@ -60,7 +60,7 @@ Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="8%" width="8%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="8%" width="8%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
-### ¿Me puedo suscribir a Tresquintos?
+### ¿Cómo me puedo suscribir a Tresquintos?
 
 Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de envíar información de **Tresquintos**).
 

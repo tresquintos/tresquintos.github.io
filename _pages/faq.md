@@ -16,15 +16,13 @@ Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema 
 
 El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de representación. Además del logo oficial, tenemos dos logos alternativos.
 
-[![bayes](/images/logo_short.png){:height="5%" width="5%"}](https://www.tresquintos.github.io/images/logo_short.png) [![logo3](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
+[![logo2](/images/logo_short.png){:height="5%" width="5%"}] [![logo3](/images/logo_short2.png){:height="5%" width="5%"}]
 
 ### ¿Qué hace Tresquintos?
 
 **Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de simulaciones electorales para elecciones de concejales a regresiones bayesianas con cadenas de Monte Carlo.
 
-[![logo2](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![bayes2](/images/bayes2.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![logo3](/images/mcmc.png){:height="5%" width="5%"}](https://www.tresquintos.github.io/images/logo_short.png)
-
-
+[![logo2](/images/bayes2.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![bayes2](/images/bayes2.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![logo3](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
 
 ### ¿Con qué frecuencia se actualiza Tresquintos?

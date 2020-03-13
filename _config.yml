@@ -179,6 +179,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      # url:
 
 
 # Conversion

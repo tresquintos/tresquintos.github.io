@@ -238,7 +238,7 @@ defaults:
   # _pronósticos
   - scope:
       path: ""
-      type: pronósticos
+      type: elecciones
     values:
       layout: single
       author_profile: true

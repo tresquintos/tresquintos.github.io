@@ -29,6 +29,10 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para 2020 y 2021, la frecuencia será relativamente alta.
 
+[![plebiscito2020](/images/plebiscito2020.png){:height="5%" width="5%"}](https://www.tresquintos.github.io/images/logo_viejo.png)
+
+
+
 
 ### ¿Dónde más puedo seguir a Tresquintos?
 

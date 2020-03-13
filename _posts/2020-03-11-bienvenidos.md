@@ -17,10 +17,9 @@ tags:
 ---
 
 
-!Hola! Aquí Kenneth Bunker, editor de **Tresquintos**. Bienvenidos a nuestro nuevo sitio web. Aquí podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. Nuestra idea es entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. En este post te quiero contar de los principales cambios que han ocrurrido en **Tresquintos** y dibujar un mapa de lo que viene.
+Escribe Kenneth Bunker, editor de **Tresquintos**. Bienvenido al nuevo sitio web. Aquí podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. Mi idea es entregar contexto a votantes que no solo se ven abrumados por información excesiva, sino que también por información contradictoria. Mi objetivo es tratar de separar el ruido de la señal, y ponerlo a disposición de los votantes. Quizás no siempre voy a ser certero en mi análisis o en mis pronósticos, pero voy a ser transparente en mi razonamiento. Y quizás más importante, voy a tratar de fundamentar todas mis premisas con datos. Quedará a juicio del lector decidir cuánta confianza poner en las conclusiones. El nuevo sitio está diseñado para facilitar este proceso. Y en este post, te quiero contar brevemente sobre lo que dejó atrás y lo que viene.
 
-
-### Cambios
+### Principales cambios
 
 A diferencia del sitio anterior, que estaba colgado en Wordpress, el sitio nuevo está integrado a [GitHub](https://github.com/). La idea es facilitar la interactividad. En el sitio nuevo los gráficos se cargan de forma semi-automática cada vez que se actualizan las bases de datos. Es decir, cada vez que se publica una nueva encuesta, los gráficos se van a actualizar para reflejar su efecto sobre la tendencia. El sitio web va contener menos información que el anterior, pero la información que tenga va ser más profunda. Es un tradeoff, pero me parece que había que dejar algo atrás para poder crecer. Por ejemplo, ya no voy a estar confeccionando listas de candidatos ni armando manuales de uso. Pero sí voy a estar describiendo y explicando en mucho mas detalle cómo se hacen los pronósticos y contextualizando resultados para que puedan ser más útiles para los lectores.
 
@@ -35,7 +34,7 @@ Finalmente, hubo una notable reducción en el tamaño del equipo. En las version
 
 Los meses que vienen habrá más elecciones juntas que en ningún otro momento en la historia de Chile. En abril de 2020, se celebrará el plebisicito nacional, con dos boletas para dos preguntas. En junio de 2020, habrá primarias para las elecciones  muncipales. En octubre de 2020, se celebrará la elección de consejeros regionales, concejales y alcaldes. El mismo día, probablemente, se celebrará la elección de constituyentes. En junio de 2021, habrá primarias para las elecciones legislativas y presidenciales. En noviembre de 2021, se celebrará la elección concurrente de diputados y senadores, además de la primera vuelta presidencial. Y como si fuera poco, en diciembre de 2021, habrá una segunda vuelta en el caso de que ninguno de los candidatos presidenciales obtenga más de 50% de los votos.
 
-Es decir, hay mucho por hacer. En los tiempos que corren, no solo hay cada vez más información, sino que hay cada vez más información contradictoria. 
+Es decir, hay mucho por hacer. En los tiempos que corren, no solo hay cada vez más información, sino que hay cada vez más información contradictoria.
 
 La frecuencia. No tengo claridad con respecto a la frecuencia de las actualizaciones. En el fondo, va depender de la cantidad de datos que tenga. Mientras más datos tenga, más puedo actualizar. Pero si hay pocos datos, no es mucho lo que pueda hacer. Así también, los últimos pronósticos van a ser para los último día en que hay datos. Es difícil hacer un pronóstico certero aventurándose en lo desconocido. 
 

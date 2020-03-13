@@ -31,3 +31,6 @@ El primero de los dos gráficos muestra la línea de tendencia. Es la evolución
 ![Manuel José Ossandón](/images/ts_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"} ![Manuel José Ossandón](/images/kd_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}
 
 ![Otros](/images/ts_2021_Otros.png){:height="45%" width="45%"} ![Otros](/images/kd_2021_Otros.png){:height="45%" width="45%"}
+
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tendencia, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub> 

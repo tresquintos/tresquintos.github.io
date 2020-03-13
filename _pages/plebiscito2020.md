@@ -14,6 +14,7 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 ![Rechaza](/images/ts_2020-1_Rechaza.png){:height="45%" width="45%"} ![Rechaza](/images/kd_2020-1_Rechaza.png){:height="45%" width="45%"}
 
+![.](/images/danger.png){:height="5%" width="5%"} Por favor lee esto.
 
 
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?

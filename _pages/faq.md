@@ -50,14 +50,14 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 Se usan una serie de programas para producir los datos y gráficos de **Tresquintos**. Además de las interfaces más básicas, cómo TexEdit y Excel, se usan los siguientes programas.
 
-[![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/)
+[![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 
 Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *PayPal* o por *Flow*, pinchando uno de los logos de abajo. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png)](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png)](https://www.flow.cl/btn.php?token=3vop8lw)
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="5%" width="5%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="5%" width="5%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
 ### ¿Me puedo suscribir a Tresquintos?
@@ -65,4 +65,4 @@ Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *
 Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de envíar información de **Tresquintos**).
 
 
-[![MailChimp](https://www.dexigner.com/images/news/xxi/31385.jpg){:height="10%" width="10%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+[![MailChimp](https://www.dexigner.com/images/news/xxi/31385.jpg){:height="5%" width="5%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)

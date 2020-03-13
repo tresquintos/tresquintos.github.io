@@ -6,7 +6,7 @@ excerpt: "Análisis político y pronósticos electorales"
 author_profile: true
 ---
 
-En este sitio web podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomiendo partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones para las cuales habrá un pronóstico [aquí](https://tresquintos.github.io/pronósticos/).
+En este sitio web podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomiendo partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con pronóstico [aquí](https://tresquintos.github.io/pronósticos/).
 
 
 ### Mapa del sitio

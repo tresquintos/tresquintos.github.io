@@ -28,7 +28,7 @@ Estamos en todas las redes sociales.
 [![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/)
 
 
-### ¿Quiénes edita Tresquintos?
+### ¿Quién edita Tresquintos?
 
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile).
 

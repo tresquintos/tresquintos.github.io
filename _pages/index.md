@@ -14,13 +14,13 @@ En este sitio web podrás encontrar análisis político y pronósticos electoral
 Si estás buscando algo en específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.github.io/plebiscito2020/), y para la probable elección de constituyentes de 2020 [aquí](https://tresquintos.github.io/constituyentes2020/). Si estas buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.github.io/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puede pinchar [aquí](https://tresquintos.github.io/legislativa2021/). Puedes revisar el blog [aquí](https://tresquintos.github.io/blog/), y algunos comentarios sobre cómo funcionan los pronósticos [aquí](https://tresquintos.github.io/tsm/). Puedes suscribirte a nuestras redes sociales [aquí](https://tresquintos.github.io/faq/).
 
 
-### La elección del momento: el plebiscito de Chile
+### La elección del momento: el plebiscito nacional de Chile
 
 Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), que se llevará a cabo el 26 de abril. El plebiscito buscará determinar dos cosas: (1) si se reemplaza la actual Constitución, y (2) el mecanismo para hacerlo. Los dos gráficos de abajo muestran la tendencia para la primera pregunta: ***¿Quiere usted una nueva Constitución?***
 
 ![Aprueba](./images/ts_2020-1_Aprueba.png){:height="45%" width="45%"} ![Rechaza](./images/ts_2020-1_Rechaza.png){:height="45%" width="45%"}
 
-Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** Para ver más gráficos relacionados a las dos preguntas del plebisicito, pincha [aquí](https://tresquintos.github.io/plebiscito2020/). Para ver todo el análisis que rodea y sostiene estos gráficos, pincha [aquí](https://tresquintos.github.io/tags/#plebiscito-nacional-2020).
+Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** Para ver más gráficos relacionados al plebisicito, pincha [aquí](https://tresquintos.github.io/plebiscito2020/). Para ver todo el análisis que rodea y sostiene estos gráficos, pincha [aquí](https://tresquintos.github.io/tags/#plebiscito-nacional-2020).
 
 ![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"} ![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 

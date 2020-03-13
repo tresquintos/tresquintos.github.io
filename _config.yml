@@ -87,7 +87,7 @@ author:
   name             : "Tresquintos"
   avatar           : "profile.png"
   bio              : "Análisis político y pronósticos electorales"
-  location         : "Chile" #
+  location         : #
   employer         :
   pubmed           : #
   googlescholar    : #
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitch           : "tresquintos"  
+  twitch           : "tresquintos"
   twitter          : "tresquintos"
   vine             :
   weibo            :

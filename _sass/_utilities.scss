@@ -223,10 +223,6 @@ body:hover .visually-hidden button {
     color: $instagram-color;
   }
 
-  .fa-twitch {
-    color: $twitch-color;
-  }
-
   .fa-lastfm,
   .fa-lastfm-square {
     color: $lastfm-color;
@@ -262,6 +258,10 @@ body:hover .visually-hidden button {
     color: $tumblr-color;
   }
 
+  .fa-twitch {
+    color: $twitch-color;
+  }
+  
   .fa-twitter,
   .fa-twitter-square {
     color: $twitter-color;

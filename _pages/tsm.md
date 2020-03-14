@@ -13,7 +13,7 @@ El TSM (Two-Stage Model) es un método para realizar pronósticos electorales us
 
 1. Se determina las encuestas que se pueden agregar a la base de datos;
 2. Se eliminan [preferencias inválidas](https://en.wikipedia.org/wiki/Spoilt_vote) (e.g., no sabe, no responde);
-3. Se pondera cada encuesta en base a su ranking de encuestas;
+3. Se pondera cada encuesta en base a su puntaje en el ranking de encuestas;
 4. Se pondera cada encuesta en base a su [margen de error](https://en.wikipedia.org/wiki/Margin_of_error) estimado;
 5. Se pondera cada encuesta en base a su distancia del día de la elección usando una función de [media-vida](https://en.wikipedia.org/wiki/Half-life).
 

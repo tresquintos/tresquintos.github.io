@@ -15,7 +15,7 @@ El plebiscito nacional de 2020, será realizado el 26 de abril de 2020, con el o
 
 ### 🇨🇱 Constituyentes 2020
 
-Las elecciones de convencionales constituyentes de 2020 podrían ser realizadas el 25 de octubre de 2020, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes ver una proyección de los resultados [aquí](https://tresquintos.github.io/convención2020/).
+Las elecciones de convencionales constituyentes de 2020 podrían ser realizadas el 25 de octubre de 2020, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes ver una simulación de los resultados [aquí](https://tresquintos.github.io/convención2020/).
 
 
 ### 🇨🇱 Presidenciales 2021

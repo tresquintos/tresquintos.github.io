@@ -1,30 +1,29 @@
 ---
 layout: single
-title: "Sx"
+title: "Simulaciones"
 permalink: /simulaciones/
 author_profile: true
 ---
 
-En esta página podrás conocer el método que se utiliza para realizar pronósticos electorales. Primero, describe el modelo, y sus dos etapas sequenciales. Luego, da un ejemplo a partir de una carrera con dos candidatos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre el modelo.
-
-### Qué es el TSM?
-
-El TSM (Two-Stage Model) es un método para realizar pronósticos electorales usando datos de encuestas que buscan estimar preferencias para cada uno de los candidatos (o opciones, en caso de un plebiscito) que están en carrera. Tal como su nombre lo indica, el proceso diferencia entre dos fases: una fase de *input* y una fase de *output*. En la primera de las dos fases:
-
-1. Se determina las encuestas que se pueden agregar a la base de datos,
-2. Se elimina los votos que no son válidos (e.g., no sabe, no responde),
-3. Se pondera cada encuesta en base a su ranking de encuestas,
-4. Se pondera cada encuesta en base a su margen de error estimado,
-5. Se pondera cada encuesta en base a su distancia del día de la elección.
-
-En la segunda de las dos fases, se toman los datos calibrados, y:
-
-6. Se estima la probabilidad de cada pronóstico usando inferencia Bayesiana,
-7. Se simula el resultado de la elección **50,000** veces por medio de cadenas de Monte Carlo,
-8. Se repite el proceso sequencialmente para observar la linea de tiempo.
+En esta página podrás conocer el método que se utiliza para realizar simulaciones legislativas. Primero, describe los dos métodos más utilizados. Luego, da un ejemplo a partir de una carrera con dos candidatos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre los métodos presentados aquí.
 
 
-### Un ejemplo
+### Qué son las Sx?
+
+Las simulaciones (Sx) son métodos para realizar proyecciones electorales para elecciónes en cuales se distribuyen más de un escaño (como en elecciones de concejales, diputados o senadores). La selección del método especifico depende, escencialmente, en el contexto de la elección. Considerando que hay los escenarios políticos pueden varían significativamente de una elección a otra, hay dos alternativas:
+
+1. Simulaciones micro (Sx1): Estas simulaciones buscan usar información de elecciones anteriores, a nivel de comuna/distrito/circunscripción para proyectar resultados considerando nuevos partidos y coaliciones. Este tipo de simulación normalmente se escoge cuando hay continuidad en el sistema político.
+
+2. Simulaciones macro (Sx2): Estas simulaciones buscan usar información de elecciones anteriores, a nivel de sistema para proyectar resultados considerando nuevos partidos y coaliciones. Este tipo de simulación normalmente se escoge cuando hay una disrrupción en el sistema político.
+
+A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyctar la elección de diputados de 1997, sería relativamente usar los datos de 1993 para hacerlo, pues entre ambas elecciones no hubo grandes cambios en los partidos o en las coaliciones. Tampoco habría elecciones presidenciales concurrentes en 1997 para esperar algun efecto inesperado. En este escenario, escogería Sx1.
+
+Ahora supongamos que nos piden proyectar la elección de constituyentes de 2020. Las cosas han cambiado bastante. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Este último punto es extremadamente relevante. No se pueden proyectar escaños para partidos en 2020 si no existían en 2017. En este escenario, escogería Sx2.
+
+Antes de pasar a los detalles, la lección de lo anterior es que no bastan solo los datos. Por supuesto que se puede usar Sx1 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar un *approach* más general y con mayor margen de error y minimizar la cantidad de supuestos que sostienen el argumento.
+
+
+### Sx1
 
 Lo anterior solo es posible cuando hay al menos 2 encuestas. A modo de ejemplo, supongamos que hay 2 encuestas que buscan pronosticar el resultado de una elección con dos candidatos (alternativas). Supongamos también que en una de esas dos encuestas se reporta que el candidato **A** obtiene 40% de las preferencias y el candidato **B** obtiene 35% de las preferencias. Esto significa que hay un total de 75% de preferencias validas.
 

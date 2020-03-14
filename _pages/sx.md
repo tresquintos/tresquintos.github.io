@@ -5,7 +5,7 @@ permalink: /simulaciones/
 author_profile: true
 ---
 
-En esta página podrás conocer el método que se utiliza para realizar simulaciones legislativas. Primero, describe los dos métodos más utilizados. Luego, da un ejemplo a partir de una carrera con dos candidatos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre los métodos presentados aquí.
+En esta página podrás conocer el método que se utiliza para realizar simulaciones legislativas. Primero, describe los dos métodos más utilizados para proyectar escaños. Luego, detalla con ejemplos cada uno de los dos métodos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre los métodos presentados aquí.
 
 
 ### Qué son las Sx?
@@ -18,22 +18,34 @@ Las simulaciones (Sx) son métodos para realizar proyecciones electorales para e
 
 A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyctar la elección de diputados de 1997, sería relativamente usar los datos de 1993 para hacerlo, pues entre ambas elecciones no hubo grandes cambios en los partidos o en las coaliciones. Tampoco habría elecciones presidenciales concurrentes en 1997 para esperar algun efecto inesperado. En este escenario, escogería Sx1.
 
-Ahora supongamos que nos piden proyectar la elección de constituyentes de 2020. Las cosas han cambiado bastante. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Este último punto es extremadamente relevante. No se pueden proyectar escaños para partidos en 2020 si no existían en 2017. En este escenario, escogería Sx2.
+Ahora supongamos que nos piden proyectar la elección de constituyentes de 2020. Las cosas han cambiado bastante. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Este último punto es extremadamente relevante. Dificilmente se pueden proyectar escaños para partidos que no existían en la elección anterior. En este escenario, escogería Sx2.
 
-Antes de pasar a los detalles, la lección de lo anterior es que no bastan solo los datos. Por supuesto que se puede usar Sx1 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar un *approach* más general y con mayor margen de error y minimizar la cantidad de supuestos que sostienen el argumento.
+Antes de pasar a los detalles, la lección de lo anterior es que no bastan solo los datos. Por supuesto que se puede usar Sx1 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar un *approach* más general y con mayor margen de error y minimizar la cantidad de supuestos que sostienen los argumentos.
 
 
 ### Sx1
 
-Lo anterior solo es posible cuando hay al menos 2 encuestas. A modo de ejemplo, supongamos que hay 2 encuestas que buscan pronosticar el resultado de una elección con dos candidatos (alternativas). Supongamos también que en una de esas dos encuestas se reporta que el candidato **A** obtiene 40% de las preferencias y el candidato **B** obtiene 35% de las preferencias. Esto significa que hay un total de 75% de preferencias validas.
+En el caso de una simulación micro, con un sistema de partidos relativamente estable, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) en cada distrito usando datos de elecciones anteriroes. Estos son los pasos que siguen:
 
-Dado que esto no es un escenario viable, se opta por considerar solo las preferencias que son validas. Para hacer aquello, simplemente se "infla" el porcentaje de votos a 100%. Es decir, el candidato **A** automáticamente pasa a tener 53% y el candidato **B** automáticamente pasa a tener 47%. Si bien esta operación se basa en un "supuesto", es probablemente el mejor supuesto posible.
+1. Notar inscripción de partidos (a nivel de distrito);
+2. Suponer que ciertos partidos van a formar ciertas listas (a nivel de distrito);
+3. Sumar total de votos por cada coalición, reasignando votos a listas (a nivel de distrito);
+4. Simular la elección con nuevo total de votos usando criterios específicos de sistema electoral (a nivel de distrito);
+5. Corregir considerando fenómenos locales, como independientes o listas locales (a nivel de distrito);
+6. Sumar total de escaños por distrito por lista (a nivel nacional).
 
-Una vez que ambas encuestas se "recalibran", se pueden ponderar los datos en base a los tres criterios mencionados arriba (pasos 3-5). En otras palabras, se pone más confianza en una encuesta que en promedio obtiene un puntaje más alto después de considerar su nivel de precisión en elecciones anteriores (su ranking), su margen de error (número de encuestados), y su antiguedad (distancia temporal).
 
-Luego, se estima la probabilidad de que el pronóstico que propone la segunda encuesta sea "verdadera" en base al pronóstico que propone la primera encuesta. Esto resulta en un pronóstico final para cada candidato en carrera para la fecha en que se registró la segunda (o la más reciente) de las encuestas. Ese es el pronóstico "si la elección fuera hoy".
+### Sx2
 
-Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. La idea es tratar de reemplazar cada uno de los puntos en que se hizo una encuesta por un pronóstico "si la elección fuera hoy". Para hacer eso, sencillamanete se repite el proceso completo, sequencialmente. Primero para las dos primeras encuestas, luego para las tres primeras, luego para las cuatro primeras. Y así sucesivamente hasta llegar a la décima.
+1. Notar inscripción de partidos (a nivel nacional);
+2. Suponer que ciertos partidos van a formar ciertas coaliciones (a nivel nacional);
+3. Sumar total de votos por cada coalición (a nivel nacional);
+4. Redistribuir condierando entrada de nuevos partidos (a nivel nacional);
+5. Observar resultados de elecciones anteriores para generar rango de votación para listas existentes y estimar rango de votación para listas nuevos (a nivel nacional);
+6. Simular la elección suponiendo que hay estricta proporcionalidad: % de votos = % de escaños (a nivel nacional);
+7. Determinar una cifra correctora en base a tamaño de lista (rango de votación);
+8. Recalcular porcentaje de votos por coalición considerando la cifra correctora (a nivel nacional);
+9. Recalcular número de escaños suponiendo que hay estricta proporcionalidad (a nivel nacional);
 
 
 ### Detalles técnicos

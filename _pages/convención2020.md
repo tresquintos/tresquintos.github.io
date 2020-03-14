@@ -10,7 +10,7 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 ### Suposiciones iniciales
 
-El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando.
+El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.github.io/sx/).
 
 
 ![cc](/images/coaliciones.png){:height="75%" width="75%"}

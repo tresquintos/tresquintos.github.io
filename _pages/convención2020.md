@@ -21,6 +21,7 @@ El primer paso es suponer que ciertos partidos o movimientos van a formar cierta
 El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Constituyente. En este caso, se elige la totalidad de los representantes en una elección. Considerando que el quórum importante para alcanzar acuerdos es 2/3, el número de constituyentes necesarios para pasar una inciativa es **103** (+1). A su vez, el quórum para bloquear una iniciativa es el inverso, es decir 1/3, o bien **52** (+1) constituyentes.
 
 ![cc](/images/cc.png){:height="75%" width="75%"}
+
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estas tendencias, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ### Convención Mixta
@@ -28,6 +29,7 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Mixta. En este caso, se elige la mitad de los representantes en una elección y la otra mitad se asigna vía legislativa. Considerando que el quórum importante para alcanzar acuerdos es 2/3, el número de constituyentes necesarios para pasar una inciativa es **115** (+1). A su vez, el quórum para bloquear una iniciativa es el inverso, es decir 1/3, o bien **57** (+1) constituyentes.
 
 ![cm](/images/cm.png){:height="75%" width="75%"}
+
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estas tendencias, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 

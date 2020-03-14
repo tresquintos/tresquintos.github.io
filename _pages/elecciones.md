@@ -5,7 +5,7 @@ permalink: /elecciones/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebisicito de 2020, la elección de constituytentes de 2020, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a los últimos datos.
+En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebisicito de 2020, la elección de constituytentes de 2020, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a las simulaciones y pronósticos más recientes.
 
 
 ### 🇨🇱 Plebiscito 2020

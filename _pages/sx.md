@@ -5,7 +5,7 @@ permalink: /simulaciones/
 author_profile: true
 ---
 
-En esta página podrás conocer los métodos que se utilizan para realizar simulaciones en elecciones donde se reparte más de un escaño por unidad electoral. Primero, describe los dos métodos más utilizados. Luego, detalla un ejemplo del uso del segundo de los dos métodos. Para este ejercicio, propone la elección de constituyentes de 2020.
+En esta página podrás conocer los métodos que se utilizan para realizar simulaciones en elecciones donde se reparte más de un escaño por unidad electoral (distrito). Primero, describe los dos métodos más utilizados. Luego, detalla un ejemplo del uso del segundo de los dos métodos. Para este ejercicio, se usa la elección de constituyentes de 2020.
 
 
 ### Qué son las Sx?
@@ -64,4 +64,6 @@ Con los totales de votos por cada lista, simplemente se reparten los escaños de
 - 10% > 05%	= -2
 - 04% > 00%	= 00
 
-El paso final es simplemente usar esa cifra correctora para "corregir" la repartición proporcional en el sexto paso. Con eso, tenemos cada una de las listas con un total de votos a nivel nacional. Con eso, sencillamente se presume que la repartición sera proprrcional. (Esto solo es posible porque se realizó la corrección anterior. De lo contrario sería un error). Finalmente, se corrige la cantidad de escaños en los casos en que falta o sobra un escaño considerando el redondeo de los decimales. Se asignan, o quitan, escaños a las listas que obtiene los decimales más altos (o bajos) en la tabla comparativa. En un esfuerzo por comprobar la robustez del método, se aplicó a elecciones anteriores. Naturalmente funciona bien en elecciones estables, como la de 1997, pero también produjo resultados dentro de los rangos para elecciones menos estables como la de 2017. Como nota final, ambos métodos (Sx1 y Sx2) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error.
+El paso final es simplemente usar esa cifra correctora para "corregir" la repartición proporcional en el sexto paso. Con eso, tenemos cada una de las listas con un total de votos a nivel nacional. Con eso, sencillamente se presume que la repartición sera proprrcional. (Esto solo es posible porque se realizó la corrección anterior. De lo contrario sería un error). Finalmente, se corrige la cantidad de escaños en los casos en que falta o sobra un escaño considerando el redondeo de los decimales. Se asignan, o quitan, escaños a las listas que obtiene los decimales más altos (o bajos) en la tabla comparativa. En un esfuerzo por comprobar la robustez del método, se aplicó a elecciones anteriores. Naturalmente funciona bien en elecciones estables, como la de 1997, pero también produjo resultados dentro de los rangos para elecciones menos estables como la de 2017.
+
+Como nota final, ambos métodos (Sx1 y Sx2) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error.

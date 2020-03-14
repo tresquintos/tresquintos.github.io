@@ -58,8 +58,8 @@ Con todas las listas identificadas, se suman los votos para cada uno de ellos a 
 
 Con los totales de votos por cada lista, simplemente se reparten los escaños de forma proporcional. Pero como sabemos que todos los sistemas electorales distorsionan la traducción de votos a escaños, hay que determinar una cifra correctora. Para esto simplemente se observa el patrón hisotrico. En el caso chileno (y otros que usan sistemas electorales similares), parece haber una tendencia que favorece a las dos primeras listas, y castiga la tercera. A su vez, este orden parece estar mediado por el porcentaje de votos por cada lista. En esa línea, se determinó que ciertos rangos de votación producen ciertos "bonos" o "castigos". Listas que obtiene el primer lugar con más de 40% de lavotación son premiados con alrededor de 6% más escaños de lo que le correspondería estrictamente. Aquí están los otros parámetros:
 
-- 40%>31%	+6
-- 30%>21%	+3
-- 20%>11%	-4
-- 10%>05%	-2
-- 04%>00%	 0
+- 40% > 31%	= +6
+- 30% > 21%	= +3
+- 20% > 11%	= -4
+- 10% > 5%	= -2
+-  4% > 0%	=  0

@@ -20,7 +20,7 @@ Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](h
 
 ![Aprueba](./images/ts_2020-1_Aprueba.png){:height="45%" width="45%"} ![Rechaza](./images/ts_2020-1_Rechaza.png){:height="45%" width="45%"}
 
-Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.github.io/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/tsm/).
+Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.github.io/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** 
 
 ![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"} ![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 

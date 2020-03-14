@@ -5,27 +5,27 @@ permalink: /simulaciones/
 author_profile: true
 ---
 
-En esta página podrás conocer el método que se utiliza para realizar simulaciones legislativas. Primero, describe los dos métodos más utilizados para proyectar escaños. Luego, detalla con ejemplos cada uno de los dos métodos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre los métodos presentados aquí.
+En esta página podrás conocer los métodos que se utilizan para realizar simulaciones en elecciones donde se reparte más de un escaño por unidad electoral. Primero, describe los dos métodos más utilizados. Luego, detalla un ejemplo del uso del segundo de los dos métodos. Para este ejercicio, propone la elección de constituyentes de 2020.
 
 
 ### Qué son las Sx?
 
-Las simulaciones (Sx) son métodos para realizar proyecciones electorales para elecciónes en cuales se distribuyen más de un escaño (como en elecciones de concejales, diputados o senadores). La selección del método especifico depende, escencialmente, en el contexto de la elección. Considerando que hay los escenarios políticos pueden varían significativamente de una elección a otra, hay dos alternativas:
+Las simulaciones (Sx) son métodos para realizar proyecciones electorales para elecciones en las cuales se distribuye más de un escaño por distrito (e.g., concejales, diputados o senadores). La selección del método depende, escencialmente, del contexto de la elección. Considerando que los escenarios políticos pueden varían significativamente de una elección a otra, hay dos alternativas:
 
-1. Simulaciones micro (Sx1): Estas simulaciones buscan usar información de elecciones anteriores, a nivel de comuna/distrito/circunscripción para proyectar resultados considerando nuevos partidos y coaliciones. Este tipo de simulación normalmente se escoge cuando hay continuidad en el sistema político.
+1. Micro simulaciones (Sx1): Estas simulaciones usan información de elecciones anteriores, a nivel de comuna/distrito/circunscripción, para proyectar resultados considerando la nueva conformación de listas. Este tipo de simulación normalmente se escoge cuando hay continuidad en el sistema de partidos.
 
-2. Simulaciones macro (Sx2): Estas simulaciones buscan usar información de elecciones anteriores, a nivel de sistema para proyectar resultados considerando nuevos partidos y coaliciones. Este tipo de simulación normalmente se escoge cuando hay una disrrupción en el sistema político.
+2. Macro simulaciones (Sx2): Estas simulaciones usan información de elecciones anteriores, a nivel de sistema, para proyectar resultados considerando la nueva conformación de listas. Este tipo de simulación normalmente se utiliza cuando hay una disrrupción importante al sistema de partidos.
 
-A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyctar la elección de diputados de 1997, sería relativamente usar los datos de 1993 para hacerlo, pues entre ambas elecciones no hubo grandes cambios en los partidos o en las coaliciones. Tampoco habría elecciones presidenciales concurrentes en 1997 para esperar algun efecto inesperado. En este escenario, escogería Sx1.
+A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyectar la elección de diputados de 1997, sería relativamente simple usar los datos de 1993 para hacerlo, pues entre ambas elecciones no hubo grandes cambios a nivel de lista electoral. Considerando que en 1997 tampoco habría elecciones presidenciales concurrentes, sería recomendable usar Sx1.
 
-Ahora supongamos que nos piden proyectar la elección de constituyentes de 2020. Las cosas han cambiado bastante. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Este último punto es extremadamente relevante. Dificilmente se pueden proyectar escaños para partidos que no existían en la elección anterior. En este escenario, escogería Sx2.
+Ahora supongamos que nos pidieran proyectar la elección de constituyentes de 2020. Aquí, el escenario es diferente. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Dado que difícilmente se podría proyectar escaños para partidos que no existían en la elección anterior, sería recomendable usar Sx2.
 
-Antes de pasar a los detalles, la lección de lo anterior es que no bastan solo los datos. Por supuesto que se puede usar Sx1 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar un *approach* más general y con mayor margen de error y minimizar la cantidad de supuestos que sostienen los argumentos.
+Lo anterior ilustra que no basta la riqueza de información. Por supuesto que se puede usar Sx1 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar una aproximación general con mayor margen de error que minimiza la cantidad de supuestos que sostienen los argumentos que una aproximación meticulosa que miniza el margen de error pero aumenta la cantidad de supuestos que sostienen los argumentos.
 
 
-### Sx1
+### Sx1 (micro simulaciones)
 
-En el caso de una simulación micro, con un sistema de partidos relativamente estable, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) en cada distrito usando datos de elecciones anteriroes. Estos son los pasos que siguen:
+En el caso de una micro simulación, con un sistema de partidos relativamente estable, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) en cada distrito usando datos de elecciones anteriores. En esenecia, se parte de la unidad electoral más pequeña y se trabaja hacia el total nacional. Estos son los pasos:
 
 1. Notar inscripción de partidos (a nivel de distrito);
 2. Suponer que ciertos partidos van a formar ciertas listas (a nivel de distrito);
@@ -35,19 +35,31 @@ En el caso de una simulación micro, con un sistema de partidos relativamente es
 6. Sumar total de escaños por distrito por lista (a nivel nacional).
 
 
-### Sx2
+### Sx2 (macro simulaciones)
+
+En el caso de una macro simulación, con un sistema de partidos fluctuante, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) a nivel nacional usando datos de elecciones anteriores y calibrando por la entrada de nuevas fuerzas. En esenecia, se parte del total nacional más probable y se corrige ese total de acuerdo a distribuciones probables. Estos son los pasos:
 
 1. Notar inscripción de partidos (a nivel nacional);
 2. Suponer que ciertos partidos van a formar ciertas coaliciones (a nivel nacional);
 3. Sumar total de votos por cada coalición (a nivel nacional);
-4. Redistribuir condierando entrada de nuevos partidos (a nivel nacional);
-5. Observar resultados de elecciones anteriores para generar rango de votación para listas existentes y estimar rango de votación para listas nuevos (a nivel nacional);
+4. Redistribuir votos condierando entrada de nuevos partidos (a nivel nacional);
+5. Observar resultados de elecciones anteriores para generar rango de votación para listas existentes y estimar rango de votación para listas nuevas (a nivel nacional);
 6. Simular la elección suponiendo que hay estricta proporcionalidad: % de votos = % de escaños (a nivel nacional);
 7. Determinar una cifra correctora en base a tamaño de lista (rango de votación);
 8. Recalcular porcentaje de votos por coalición considerando la cifra correctora (a nivel nacional);
-9. Recalcular número de escaños suponiendo que hay estricta proporcionalidad (a nivel nacional);
+9. Recalcular número de escaños suponiendo que hay estricta proporcionalidad (a nivel nacional).
 
 
-### Detalles técnicos
+### Un ejemplo
 
-Para ver los detalles técnicos del TSM, pincha [aquí](https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies). Para ver un ejemplo de la aplicación para el caso chileno en 2013, pincha [aquí](https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile). Para ver un ejemplo de su aplicación para el caso italiano en tres elecciones (2008, 2013 y 2017), pincha [aquí](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
+Dado que Sx1 es la forma más tradicional de realizar simulaciones electorales, es mejor explicar los detalles del método menos empleado. Para explicar cómo funciona Sx2, usemos la elección de constituyentes de 2020 como ejemplo. En este caso, la idea es primero suponer que ciertos partidos van a formar ciertas coaliciones. Esto se puede hacer simplemente considerando comportamiento anterior de esos partidos y la aproximación ideológica de cada uno de ellos. Por ejemplo, no sería sorpresa que la DC forme una coalición con Ciudadanos, dado que ambos se ubican en el centro. En cualquier caso, las listas se pueden ir corrigiendo a medida que pasa el tiempo. (Una vez que se inscriban las listas de proyectan los resultados con una simulación definitiva).
+
+Con todas las listas identificadas, se suman los votos para cada uno de ellos a nivel nacional. Para las listas existentes se estima una votación en base a sus rendimientos anteriores, corrigiendo por caídas o alazas en su aprobación. Una lista que obtuvo 40% en la elección anterior pero ha tenido mal rendimiento (caída en popularidad) en el último tiempo debe ser castigada proprocionalmente. Para las listas nuevas, se redistribuye la diferencia. Por ejemplo, el PH normalmente obtiene en torno al 5% de los votos. Ese 5% en 2017 contribuyó a la lista del Frente Amplio. Pero dado que el PH se salió del FA en 2019, ese porcentaje se redistribuye a la nueva lista del PH. En este caso, puede ser una lista propia del PH o una lista que suma votos con otros partidos.
+
+Con los totales de votos por cada lista, simplemente se reparten los escaños de forma proporcional. Pero como sabemos que todos los sistemas electorales distorsionan la traducción de votos a escaños, hay que determinar una cifra correctora. Para esto simplemente se observa el patrón hisotrico. En el caso chileno (y otros que usan sistemas electorales similares), parece haber una tendencia que favorece a las dos primeras listas, y castiga la tercera. A su vez, este orden parece estar mediado por el porcentaje de votos por cada lista. En esa línea, se determinó que ciertos rangos de votación producen ciertos "bonos" o "castigos". Listas que obtiene el primer lugar con más de 40% de lavotación son premiados con alrededor de 6% más escaños de lo que le correspondería estrictamente. Aquí están los otros parámetros:
+
+- 40%>31%	+6
+- 30%>21%	+3
+- 20%>11%	-4
+- 10%>05%	-2
+- 04%>00%	 0

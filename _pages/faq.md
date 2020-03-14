@@ -24,6 +24,10 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
+### ¿Qué son simulaciones y pronósticos?
+
+Para leer algunos comentarios sobre cómo funcionan los pronósticos, pincha [aquí](https://tresquintos.github.io/tsm/); y para leer algunos comentarios sobre cómo funcionan las simulaciones, pincha [aquí](https://tresquintos.github.io/sx/).
+
 
 ### ¿Con qué frecuencia se actualiza Tresquintos?
 

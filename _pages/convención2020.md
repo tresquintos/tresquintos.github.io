@@ -22,7 +22,7 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 
 ![cc](/images/cc.png){:height="75%" width="75%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estas tendencias, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/) y los comentarios asociados [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ### Convención Mixta
 
@@ -30,7 +30,7 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 
 ![cm](/images/cm.png){:height="75%" width="75%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estas tendencias, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/) y los comentarios asociados [aquí](https://tresquintos.github.io/sx/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 
 ### Los números

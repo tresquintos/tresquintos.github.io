@@ -6,7 +6,7 @@ excerpt: "Análisis político y pronósticos electorales"
 author_profile: true
 ---
 
-En este sitio web podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con un pronóstico o proyección [aquí](https://tresquintos.github.io/elecciones/).
+En este sitio web podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con un pronóstico o simulación [aquí](https://tresquintos.github.io/elecciones/).
 
 
 ### Mapa del sitio
@@ -27,7 +27,7 @@ Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://t
 
 ### Otros números: la elección de constituyentes de octubre
 
-Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números proyectando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales en 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.github.io/convención2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/sx/).
+Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.github.io/convención2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/sx/).
 
 ![cc](/images/cc.png){:height="45%" width="45%"} ![CM](/images/cm.png){:height="45%" width="45%"}
 

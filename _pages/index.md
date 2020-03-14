@@ -20,14 +20,14 @@ Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](h
 
 ![Aprueba](./images/ts_2020-1_Aprueba.png){:height="45%" width="45%"} ![Rechaza](./images/ts_2020-1_Rechaza.png){:height="45%" width="45%"}
 
-Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** Para ver más gráficos relacionados al plebisicito, pincha [aquí](https://tresquintos.github.io/plebiscito2020/). Para ver todo el análisis que rodea y sostiene estos gráficos, pincha [aquí](https://tresquintos.github.io/tags/#plebiscito-nacional-2020).
+Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?*** Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.github.io/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/tsm/).
 
 ![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"} ![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
 
 ### Otros números: la elección de constituyentes de octubre
 
-Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números proyectando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales en 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más detalles de la metodología, pincha [aquí](http://tresquintos.github.io/convención2020).
+Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números proyectando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales en 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.github.io/convención2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.github.io/sx/).
 
 ![cc](/images/cc.png){:height="45%" width="45%"} ![CM](/images/cm.png){:height="45%" width="45%"}
 

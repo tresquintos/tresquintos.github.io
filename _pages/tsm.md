@@ -11,18 +11,21 @@ En esta página podrás conocer el método que se utiliza para realizar pronóst
 
 El TSM (Two-Stage Model) es un método para realizar pronósticos electorales usando datos de encuestas que buscan estimar preferencias para cada uno de los candidatos (o opciones, en caso de un plebiscito) que están en carrera. Tal como su nombre lo indica, el proceso diferencia entre dos fases: una fase de *input* y una fase de *output*. En la primera de las dos fases:
 
-1. Se determina las encuestas que se pueden agregar a la base de datos,
-2. Se elimina los votos que no son válidos (e.g., no sabe, no responde),
-3. Se pondera cada encuesta en base a su ranking de encuestas,
-4. Se pondera cada encuesta en base a su margen de error estimado,
+1. Se determina las encuestas que se pueden agregar a la base de datos;
+2. Se elimina los votos que no son válidos (e.g., no sabe, no responde);
+3. Se pondera cada encuesta en base a su ranking de encuestas;
+4. Se pondera cada encuesta en base a su margen de error estimado;
 5. Se pondera cada encuesta en base a su distancia del día de la elección.
 
 En la segunda de las dos fases, se toman los datos calibrados, y:
 
-6. Se estima la probabilidad de cada pronóstico usando inferencia Bayesiana,
-7. Se simula el resultado de la elección **50,000** veces por medio de cadenas de Monte Carlo,
-8. Se repite el proceso sequencialmente para observar la linea de tiempo.
+6. Se estima la probabilidad de cada pronóstico usando un proceso de [inferencia Bayesiana](https://en.wikipedia.org/wiki/Bayesian_inference);
+7. Se simula el resultado de la elección **50,000** veces por medio de una [Cadena de Markov](https://en.wikipedia.org/wiki/Markov_chain) [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) ([MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo));
+8. Se repite el proceso sequencialmente para generar la línea de tiempo;
 
+Lo anterior resulta en un pronóstico para la elección "si fuera hoy". Pero no produce un margen de error asociado. Para computar ese margen de error, hay al menos dos alternativas. La primera es usar los parámetros generados por el MCMC (i.e., el [interválo de credibilidad](https://en.wikipedia.org/wiki/Credible_interval)). La segunda alternativa es construirlos a partir de una extensión de los argumentos que sostiene el MCMC.
+
+En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Luego, a partir de la forma de esa curva, se computa el área dentro de la cual caen 80% de las simulaciones (ver el detalle en el [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como el rango probable de resultados. Esos puntos conforman el margen de error.
 
 ### Un ejemplo
 

@@ -21,7 +21,7 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 ### ¿Qué hace Tresquintos?
 
-**Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [simulaciones legislativas ](https://tresquintos.github.io/sx/) a [pronósticos presidenciales](https://tresquintos.github.io/tsm/) pasando por regresiones bayesianas y cadenas de Monte Carlo.
+**Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [simulaciones](https://tresquintos.github.io/sx/) legislativas a [pronósticos](https://tresquintos.github.io/tsm/) presidenciales, y de regresiones bayesianas a cadenas de Monte Carlo.
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 

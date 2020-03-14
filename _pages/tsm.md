@@ -19,13 +19,13 @@ El TSM (Two-Stage Model) es un método para realizar pronósticos electorales us
 
 En la segunda de las dos fases, se toman los datos calibrados, y:
 
-6. Se estima la probabilidad de cada pronóstico usando un proceso de [inferencia Bayesiana](https://en.wikipedia.org/wiki/Bayesian_inference)  ([^1]: My footnote.);
+6. Se estima la probabilidad de cada pronóstico usando un proceso de [inferencia Bayesiana](https://en.wikipedia.org/wiki/Bayesian_inference);
 7. Se simula el resultado de la elección **50,000** veces por medio de una [Cadena de Markov](https://en.wikipedia.org/wiki/Markov_chain) [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) ([MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo));
-8. Se repite el proceso sequencialmente para generar la línea de tiempo;
+8. Se repite el proceso anterior (6-7) sequencialmente para generar la línea de tiempo.
 
 Lo anterior resulta en un pronóstico para la elección "si fuera hoy". Pero no produce un margen de error asociado. Para computar ese margen de error, hay al menos dos alternativas. La primera es usar los parámetros generados por el MCMC (i.e., el [interválo de credibilidad](https://en.wikipedia.org/wiki/Credible_interval)). La segunda alternativa es construirlos a partir de una extensión de los argumentos que sostiene el MCMC.
 
-En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Esa curva constituye la [distribución de probabilidades](https://en.wikipedia.org/wiki/Probability_density_function) o [densidad de probabilidades](https://en.wikipedia.org/wiki/Kernel_density_estimation). De esa curva se cálcula el área dentro de la cual caen 80% de las simulaciones (ver [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como los límites en el rango de resultados más probables.
+En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Esa curva constituye la [distribución de probabilidades](https://en.wikipedia.org/wiki/Probability_density_function) o [densidad de probabilidades](https://en.wikipedia.org/wiki/Kernel_density_estimation). De esa curva se cálcula el área dentro de la cual caen 80% de las simulaciones (ver [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como los límites en el rango de resultados probables.
 
 ### Un ejemplo
 

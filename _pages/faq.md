@@ -58,7 +58,7 @@ Además de las interfaces más básicas, como TextEdit y Excel, los siguientes p
 
 Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación por *PayPal* o por *Flow*, pinchando uno de los logos de abajo. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="8%" width="8%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="8%" width="8%"}](https://www.flow.cl/btn.php?token=3vop8lw)
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="8%" width="8%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
 ### ¿Cómo me puedo suscribir a Tresquintos?

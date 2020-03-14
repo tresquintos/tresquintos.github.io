@@ -5,7 +5,7 @@ permalink: /simulaciones/
 author_profile: true
 ---
 
-En esta página podrás conocer los métodos que se utilizan para realizar simulaciones en elecciones donde se reparte más de un escaño por unidad electoral (distrito). Primero, describe los dos métodos más utilizados. Luego, detalla un ejemplo del uso del segundo de los dos métodos. Para este ejercicio, se usa la elección de constituyentes de 2020.
+En esta página podrás conocer los métodos que se utilizan para realizar simulaciones en elecciones donde se reparte más de un escaño por unidad electoral (distrito). Primero, presenta una descripción general. Luego, describe los dos métodos más utilizados. Luego, usa la elección de constituyentes de 2020 para dar un ejemplo del uso del segundo de los dos métodos.
 
 
 ### Qué son las Sx?

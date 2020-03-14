@@ -5,7 +5,7 @@ permalink: /plebiscito2020/
 author_profile: true
 ---
 
-En esta página puedes ver la tendencia en la intención de voto para las dos preguntas del plebisicito. Muestra dos gráficos para cada una de los cutaro opciones (Apruebo; Rechazo; Convención Constitucional; Convcención Mixta). El primero de los dos gráficos muestra la línea de tendencia. Es la evolución de apoyo para cada opción a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". El segundo de los dos gráficos muestra la distribución de probabilidades. Es la dispersión de posibles resultados, y se puede interpretar como el márgen de error. Para más detalles de la estimación de tendencias y distribuciones, puedes pinchar [aquí](https://tresquintos.github.io/tsm/).
+En esta página puedes ver la tendencia en la intención de voto para las dos preguntas del plebisicito. Muestra la tendencia para cada una de las cutaro opciones (Apruebo/Rechazo; Convención Constitucional/Convcención Mixta). La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://kennethbunker.github.io/tsm/). La línea de tendencia es la evolución de apoyo para cada alterativa a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se pueden interpretar como el margen de error.
 
 
 ### Primera Pregunta: ¿Quiere usted una nueva Constitución?

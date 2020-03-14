@@ -58,10 +58,17 @@ Con todas las listas identificadas, se suman los votos para cada una de ellas a 
 
 Con los totales de votos por cada lista, simplemente se reparten los escaños de forma proporcional. Pero como sabemos que todos los sistemas electorales distorsionan la traducción de votos a escaños, hay que determinar una cifra correctora. Para esto simplemente se observa el patrón histórico. En el caso chileno (y en otras democtacias que utilizan sistemas electorales similares), hay una tendencia a favorecer a las dos primeras listas, y castigar a la tercera. A su vez, este orden parece estar mediado por el porcentaje de votos de cada lista. En esa línea, se determina ciertos rangos de votación para generar "bonos" y "castigos". Por ejemplo, listas que obtienen el primer lugar con más de 40% de la votación son premiados con 6% más de escaños de lo que le correspondería estrictamente. Aquí están los parámetros:
 
+
+```html
+40% > 31%	= +6
+30% > 21%	= +3
+20% > 11%	= -4
+10% > 05%	= -2
+04% > 00%	= 00
+```
+
 > 40% > 31%	= +6
-
 > 30% > 21%	= +3
-
 > 20% > 11%	= -4
 > 10% > 05%	= -2
 > 04% > 00%	= 00

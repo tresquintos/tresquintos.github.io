@@ -25,7 +25,7 @@ En la segunda de las dos fases, se toman los datos calibrados, y:
 
 Lo anterior resulta en un pronóstico para la elección "si fuera hoy". Pero no produce un margen de error asociado. Para computar ese margen de error, hay al menos dos alternativas. La primera es usar los parámetros generados por el MCMC (i.e., el [interválo de credibilidad](https://en.wikipedia.org/wiki/Credible_interval)). La segunda alternativa es construirlos a partir de una extensión de los argumentos que sostiene el MCMC.
 
-En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Luego, a partir de la forma de esa curva, se computa el área dentro de la cual caen 80% de las simulaciones (ver el detalle en el [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como el rango probable de resultados. Esos puntos conforman el margen de error.
+En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Esa curva constituye la [distribución de probabilidades](https://en.wikipedia.org/wiki/Probability_density_function) o [densidad de probabilidades](https://en.wikipedia.org/wiki/Kernel_density_estimation). De esa curva se cálcula el área dentro de la cual caen 80% de las simulaciones (ver [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como los límites en el rango de resultados más probables.
 
 ### Un ejemplo
 

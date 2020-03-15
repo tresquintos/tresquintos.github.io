@@ -41,7 +41,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : '{your-app-id}',
+      appId      : '{1487978781361011}',
       cookie     : true,
       xfbml      : true,
       version    : '{api-version}'

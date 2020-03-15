@@ -30,7 +30,7 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 Para efectos de este sitio, un pronóstico es una proyección para una elección en que hay un solo ganador (como una elección presidencial) y una simulación es una proyección para una elección en que hay múltiples ganadores (como una elección legislativa). Por lo mismo, los métodos para hacer simulaciones difieren de los métodos para hacer pronósticos. Para simulaciones se usa el [Sx](https://tresquintos.github.io/sx/) y para los pronósticos se usa el [TSM](https://tresquintos.github.io/tsm/).
 
-[![bayes](/images/dice.png){:height="7%" width="7%"}](https://tresquintos.github.io/sx/) [![mcmc](/images/dice2.png){:height="7%" width="7%"}](https://tresquintos.github.io/tsm/)
+[![bayes](/images/dice.png){:height="6%" width="6%"}](https://tresquintos.github.io/sx/) [![mcmc](/images/dice2.png){:height="6%" width="6%"}](https://tresquintos.github.io/tsm/)
 
 
 ### ¿Con qué frecuencia se actualiza Tresquintos?

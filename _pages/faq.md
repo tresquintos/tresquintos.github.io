@@ -21,9 +21,14 @@ El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Da
 
 ### ¿Qué hace Tresquintos?
 
-**Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [simulaciones](https://tresquintos.github.io/sx/) legislativas a [pronósticos](https://tresquintos.github.io/tsm/) presidenciales, y de regresiones bayesianas a cadenas de Monte Carlo.
+**Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [mesas electorales](https://twitter.com/kennethbunker/status/1233376890850861063) a [aprendizaje automático](https://en.wikipedia.org/wiki/Machine_learning), y de teoremas [bayesianos](https://en.wikipedia.org/wiki/Bayes%27_theorem) a [cadenas de Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo).
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
+
+
+### ¿Cuál es la diferencia entre un pronóstico y una simulación?
+
+Para efectos de este sitio, un pronóstico es una proyección para una elección en que hay un solo ganador (como una elección presidencial) y una simulación es una proyección para una elección en que hay múltiples ganadores (como una elección legislativa). Por lo mismo, los métodos para hacer simulaciones difieren de los métodos para hacer pronósticos. Para simulaciones se usa el [Sx](https://tresquintos.github.io/sx/) y para los pronósticos se usa el [TSM](https://tresquintos.github.io/tsm/).
 
 
 ### ¿Con qué frecuencia se actualiza Tresquintos?

@@ -38,19 +38,7 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
-<script src="js/konami.js"></script>
+<script src="./konami.js"></script>
 
-
-<script type="text/javascript">
-if ( window.addEventListener ) {  
-  var state = 0, konami = [38,38,40,40,37,39,37,39,66,65];  
-  window.addEventListener("keydown", function(e) {  
-    if ( e.keyCode == konami[state] ) state++;  
-    else state = 0;  
-    if ( state == 10 )  
-      window.location = "http://www.go4expert.com";  //you can write your own code here
-    }, true);  
-}  
-</script>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

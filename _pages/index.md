@@ -38,6 +38,21 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
-<script src="js/konami.js"></script>
+<script>
+const pressed = [];
+const secretCode = 'ArrowUphiArrowDown';
+
+window.addEventListener('keyup', (e) => {
+    console.log(e.key);
+    pressed.push(e.key);
+    pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+
+    if(pressed.join('').includes(secretCode)) {
+        console.log("Any quellcode that will be executed if you enter the correct code.");
+    }
+
+    console.log(pressed);
+})
+</script>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

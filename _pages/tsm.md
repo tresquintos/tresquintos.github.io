@@ -9,7 +9,7 @@ En esta página podrás conocer el método que se utiliza para realizar pronóst
 
 ### Qué es el TSM?
 
-El TSM (Two-Stage Model) es un método para realizar pronósticos electorales usando datos de encuestas que buscan estimar preferencias para cada uno de los candidatos (o opciones, en caso de un plebiscito) que están en carrera. Tal como su nombre lo indica, el proceso diferencia entre dos fases: una fase de *input* y una fase de *output*. En la primera de las dos fases:
+El **TSM** (Two-Stage Model) es un método para realizar pronósticos electorales usando datos de encuestas que buscan estimar preferencias para cada uno de los candidatos (o opciones, en caso de un plebiscito) que están en carrera. Tal como su nombre lo indica, el proceso diferencia entre dos fases: una fase de *input* y una fase de *output*. En la primera de las dos fases:
 
 1. Se determina las encuestas que se pueden agregar a la base de datos;
 2. Se eliminan [preferencias inválidas](https://en.wikipedia.org/wiki/Spoilt_vote) (e.g., no sabe, no responde);
@@ -42,4 +42,4 @@ Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. 
 
 ### Detalles técnicos
 
-Para ver los detalles técnicos del TSM, pincha [aquí](https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies). Para ver un ejemplo de la aplicación para el caso chileno en 2013, pincha [aquí](https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile). Para ver un ejemplo de su aplicación para el caso italiano en tres elecciones (2008, 2013 y 2017), pincha [aquí](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
+Para ver los detalles técnicos del **TSM**, pincha [aquí](https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies). Para ver un ejemplo de la aplicación para el caso chileno en 2013, pincha [aquí](https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile). Para ver un ejemplo de su aplicación para el caso italiano en tres elecciones (2008, 2013 y 2017), pincha [aquí](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).

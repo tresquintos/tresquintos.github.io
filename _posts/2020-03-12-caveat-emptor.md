@@ -8,7 +8,7 @@ tags:
   - Métodos
 ---
 
-[**Caveat emptor**](https://en.wikipedia.org/wiki/Caveat_emptor) es una frase en latín que significa «cuidado por parte del comprador». Otras traducciones menos literales son «el comprador asume el riesgo» o «como está es como se vende; asuma el riesgo». En esa línea, es importante explicar lo que son, y lo que no son, los números que se podrán encontarr en este sitio web. Es especialmenete importante explicarlo para las simulaciones y los pronósticos. Los siguientes puntos contienen algunas definiciones que son importantes para la interpretación:
+[**Caveat emptor**](https://en.wikipedia.org/wiki/Caveat_emptor) es una frase en latín que significa «cuidado por parte del comprador». Otras traducciones menos literales son «el comprador asume el riesgo» o «como está, es como se vende; asuma el riesgo». En esa línea, es importante explicar lo que son, y lo que no son, los números que se podrán encontar en este sitio. Es especialmenete importante explicarlo para las simulaciones y los pronósticos. En esa línea, los siguientes puntos contienen algunas definiciones:
 
 1. Las simulaciones y los pronósticos publicados en este sitio son experimentales. El objetivo central es usar datos de elecciones anteriores y tendencias en la opinión pública para determinar parámetros dentro de las tendencias;
 

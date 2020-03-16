@@ -14,7 +14,7 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 ![Rechaza](/images/ts_2020-1_Rechaza.png){:height="45%" width="45%"} ![Rechaza](/images/kd_2020-1_Rechaza.png){:height="45%" width="45%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/tsm/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/bienvenidos/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
@@ -24,4 +24,4 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 ![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"} ![CM](/images/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/tsm/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/bienvenidos/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>

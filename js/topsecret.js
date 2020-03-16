@@ -38,12 +38,16 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  window.location.replace("http://www.supermariobros.io");
-    //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+
 
 
   var audio = new Audio('audio/pling.mp3');
   audio.play();
 
   alert("Cheat code activated!");
+
+  window.location.replace("http://www.supermariobros.io");
+    //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+
+    
 }

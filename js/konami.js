@@ -38,8 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  window.location.href("http://www.w3schools.com");
-    //document.body.style.backgroundImage = "url('https://supermariobros.io/')";
+  window.location.href("http://www.supermariobros.io");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 

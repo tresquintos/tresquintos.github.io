@@ -3,6 +3,8 @@ title: '¡Bienvenidos!'
 date: 2020-03-11
 permalink: /posts/2020/03/bienvenidos/
 comments: true
+categories:
+  - Tresquintos2
 tags:
   - Tresquintos
   - Métodos

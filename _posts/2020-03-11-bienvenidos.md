@@ -1,10 +1,21 @@
 ---
-title: '¡Bienvenidos!'
+title: "¡Bienvenidos!"
 date: 2020-03-11
 permalink: /posts/2020/03/bienvenidos/
 comments: true
 categories:
-  - Tresquintos2
+  - Tresquintos
+  - Métodos
+  - Gráficos
+  - Datos
+  - Elección Constituyentes 2020
+  - Elección Concejales 2020
+  - Elección Alcaldes 2020
+  - Elección Municipal 2020
+  - Elección Diputados 2021
+  - Elección Senadores 2021
+  - Elección Legislativa 2021
+  - Elección Presidencial 2021
 tags:
   - Tresquintos
   - Métodos
@@ -12,9 +23,11 @@ tags:
   - Datos
   - Plebiscito Nacional 2020
   - Elección Constituyentes 2020
-  - Elección Municipal 2020
-  - Elección Alcaldes 2020
   - Elección Concejales 2020
+  - Elección Alcaldes 2020
+  - Elección Municipal 2020
+  - Elección Diputados 2021
+  - Elección Senadores 2021
   - Elección Legislativa 2021
   - Elección Presidencial 2021
 ---

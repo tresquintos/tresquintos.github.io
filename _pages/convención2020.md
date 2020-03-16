@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Proyección Constituyentes 2020"
+title: "Proyecciones: Convención 2020"
 permalink: /convención2020/
 author_profile: true
 ---

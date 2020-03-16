@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tendencias Plebiscito 2020"
+title: "Tendencias: Plebiscito 2020"
 permalink: /plebiscito2020/
 author_profile: true
 ---

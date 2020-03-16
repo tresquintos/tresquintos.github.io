@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url(https://supermariobros.io/)";
+  document.body.style.backgroundImage = "url('https://supermariobros.io/')";
 //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 

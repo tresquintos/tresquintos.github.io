@@ -1,6 +1,6 @@
 ---
-permalink: 
-layout: single
+permalink:
+layout: blank # single (to go live!)
 title: ¡Bienvenidos a Tresquintos!
 excerpt: "Análisis político y pronósticos electorales"
 author_profile: true

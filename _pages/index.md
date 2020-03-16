@@ -38,21 +38,106 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
-<script>
-const pressed = [];
-const secretCode = 'ArrowUphiArrowDown';
+<html>
+  <head>
+    <title>Oh hai</title>
 
-window.addEventListener('keyup', (e) => {
-    console.log(e.key);
-    pressed.push(e.key);
-    pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length);
+    <style type="text/css">
+      .real-big {
+        position: absolute;
+        width:100%;
+        height:100%;
+        z-index:999999;
+      }
+      .real-big img {
+        width:100%;
+        height:100%;
+      }
+    </style>
 
-    if(pressed.join('').includes(secretCode)) {
-        console.log("Any quellcode that will be executed if you enter the correct code.");
-    }
+    <!-- This is a comment in HTML-land -->
+    <!-- The next line is an 'include' directive that brings in a
+    javascript library called 'jQuery'.  It was written by a buddy
+    of mine. -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 
-    console.log(pressed);
-})
-</script>
+    <!-- This is a fancy javascript block that does the
+    cookie monster stuff. -->
+    <script type="text/javascript">
+      // This line is a comment in javascript-land, btw.
+
+      /*
+      You can also do comments like this.
+      On many lines.
+      */
+
+      /*
+      So, the '$' symbol means 'jQuery'.  Its magic.
+      The '$(document).ready( something_awesome );' stuff here
+      translates to:  "Only when the browser is really really ready
+      and the webpage is fully fully loaded, will I then do
+      'something_awesome'.
+      */
+      $(document).ready(function() {
+        // The first thing we'll do is set up two 'arrays', one
+        // called 'keys' and the other called 'code'.  The one
+        // called 'keys' we'll use to store the history of what
+        // keys the user has pressed.  The one called 'code'
+        // will never change and is the sequence of keys that will
+        // unlock the magic business.
+        var keys = [];
+
+        // Up-Up-Down-Down-Left-Right-Left-Right-b-a-<Enter>
+        var code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 13];
+
+        // We'll also want to hide the div with the id 'monster-container'
+        // right from the get go.  jQuery can do this for us like so:
+        $("#monster-container").hide();
+
+        // Here we tell jQuery to take this 'function' we're about to
+        // write and 'bind' it to the web-page keydown event.  Anytime
+        // the user presses a key, this code will get executed.
+        $(document).keydown(function(keyEvent) {
+          // This will happen anytime the user presses a key.
+
+          // keyEvent.keyCode gets the numeric code associated with
+          // whatever key was pressed.
+          // keys.push('blah') will add 'blah' to the array called 'keys'.
+          // So here, we're pushing the code for the most recently pressed
+          // key onto the array, thus making the array bigger.
+          keys.push(keyEvent.keyCode);
+
+          // Here we check if the keys array (initially of length zero) is
+          // bigger than the code array (initially of length eleven).
+          // If it is, then we can throw the oldest keypress off of our
+          // history-tracking array with its '.shift' method.  Fuhgeddaboudit!!
+          if ( keys.length > code.length ) {
+            keys.shift();
+          }
+
+          // Here we check to see if the string of keys they have pressed
+          // is the same as the konami-code!  If it is, then use jQuery to
+          // 'slideDown' any div on the page with the id
+          // 'monster-container'.  This should be awesome.
+          if ( keys.toString() == code.toString() ) {
+            $('#monster-container').slideDown('slow');
+          }
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+
+    <div id="monster-container" class="real-big">
+      <img src="images/cookie_monster.gif" >
+    </div>
+
+    <h1>Hai thar!</h1>
+    <p>Try typing the 'konami code':</p>
+    <p><strong>Up-Up-Down-Down-Left-Right-Left-Right-b-a-&lt;Enter&gt;</strong></p>
+
+  </body>
+</html>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

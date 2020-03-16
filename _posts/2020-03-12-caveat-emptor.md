@@ -26,4 +26,4 @@ tags:
 
 8. Las simulaciones y los pronósticos publicados en este sitio están hechos pensando en votantes menos informados. Tienen menos utilidad para votantes informados que navegan cómodamente entre los datos y el contexto.
 
-9. Las simulaciones y los pronósticos publicados en este sitio se deben interpretar a la luz de la documentación que la acompaña. La documentación para las simulaciones está [aquí](https://tresquintos.github.io/pronósticos/) y la documentación para los pronósticos está [aquí](https://tresquintos.github.io/tsm/).
+9. Las simulaciones y los pronósticos publicados en este sitio se deben interpretar a la luz de la documentación que la acompaña. La documentación para las simulaciones está [aquí](https://tresquintos.github.io/sx/) y la documentación para los pronósticos está [aquí](https://tresquintos.github.io/tsm/).

@@ -38,8 +38,9 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.body.style.backgroundImage = "url('https://supermariobros.io/')";
-//document.body.style.backgroundImage = "url('images/cheatBackground.png')";
+  window.location.replace("http://www.w3schools.com")
+    //document.body.style.backgroundImage = "url('https://supermariobros.io/')";
+    //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 
   var audio = new Audio('audio/pling.mp3');

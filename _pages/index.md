@@ -6,39 +6,6 @@ excerpt: "Análisis político y pronósticos electorales"
 author_profile: true
 ---
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@%                                                                   .@@@@@@@
-@@@@%                                                                 &@@@@&@@@@
-@@@@%              .,.                                              @@@@@/  @@@@
-@@@@%        ,@@(      %@@@&                                     @@@@@@     @@@@
-@@@@%       @@%          &@@@@                                .@@@@@*       @@@@
-@@@@%      #@@@@/         @@@@                              @@@@@@          @@@@
-@@@@%       @@@@          @@@@                           .@@@@@/            @@@@
-@@@@%                    &@@@                          @@@@@@               @@@@
-@@@@%                 ,@@&                          .@@@@@*                 @@@@
-@@@@%            ,     #@@@#                      @@@@@@                    @@@@
-@@@@%                     &@@@                 .@@@@@/                      @@@@
-@@@@%       .*             @@@@,             @@@@@@                         @@@@
-@@@@%     @@@@@@           @@@@@          .@@@@@/                           @@@@
-@@@@%     @@@@@            @@@@.        @@@@@&                              @@@@
-@@@@%      @@.            @@@@        @@@@@/        @@@@@@@@@@@@@@@%        @@@@
-@@@@%        %@@@#,.,(@@@@@,       @@@@@@           @&@@@@@@@@@@.           @@@@
-@@@@%                            @@@@@/             @                       @@@@
-@@@@%                         @@@@@&                @                       @@@@
-@@@@%                      .@@@@@(                 %@   (@@@@@*             @@@@
-@@@@%                    @@@@@@                    @@@%      ,@@@@@         @@@@
-@@@@%                  @@@@@/                     @@            @@@@&       @@@@
-@@@@%               @@@@@@                                       @@@@@      @@@@
-@@@@%            .@@@@@(                           %#            %@@@@      @@@@
-@@@@%          &@@@@@                            @@@@@@          @@@@@      @@@@
-@@@@%        @@@@@/                              @@@@            @@@@       @@@@
-@@@@%     @@@@@@                                  @@           .@@@@        @@@@
-@@@@%   @@@@@/                                      @@@@%*/&@@@@@           @@@@
-@@@@%@@@@@@                                                                 @@@@
-@@@@@@@@/                                                                   @@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
 
 En este sitio web podrás encontrar análisis político y pronósticos electorales para las próximas elecciones que se llevarán a cabo en Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.github.io/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con un pronóstico o simulación [aquí](https://tresquintos.github.io/elecciones/).
 
@@ -72,3 +39,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/
 
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>
+
+
+<script type="text/javascript" console.log("My message") </script>

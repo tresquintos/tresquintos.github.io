@@ -39,8 +39,6 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
 
-
-
   var audio = new Audio('audio/pling.mp3');
   audio.play();
 
@@ -49,5 +47,4 @@ function activateCheats() {
   window.location.replace("http://www.supermariobros.io");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
-    
 }

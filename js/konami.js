@@ -38,7 +38,7 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  window.location.href("http://www.supermariobros.io");
+  window.location.replace("http://www.supermariobros.io");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 

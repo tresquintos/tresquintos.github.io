@@ -33,4 +33,4 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 ![Otros](/images/ts_2021_Otros.png){:height="45%" width="45%"} ![Otros](/images/kd_2021_Otros.png){:height="45%" width="45%"}
 
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/bienvenidos/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.github.io/tsm/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>

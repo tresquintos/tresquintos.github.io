@@ -1,7 +1,7 @@
 ---
 title: 'Caveat Emptor'
 date: 2020-03-12
-permalink: /posts/2020/03/bienvenidos/
+permalink: /posts/2020/03/caveat/
 comments: true
 tags:
   - Tresquintos

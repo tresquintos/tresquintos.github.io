@@ -68,4 +68,7 @@ Con los totales de votos por cada lista, simplemente se reparten los escaños de
 
 Finalmente, se usa la cifra correctora para "corregir" la repartición proporcional del sexto paso. Con eso, tenemos cada una de las listas con un total de votos a nivel nacional. Luego, sencillamente se presume una repartición proporcional. (Esto solo es posible porque se realizó la corrección anterior. De lo contrario sería un error). Finalmente, se corrige la cantidad de escaños en los casos en que falta o sobra un escaño considerando los decimales. Se asignan o se quitan escaños a las listas que obtiene los decimales más altos (o bajos) en la tabla comparativa. En un esfuerzo por comprobar la robustez del método, se aplicó a elecciones anteriores. Naturalmente funciona bien en elecciones estables, como la de 1997, pero también produjo resultados dentro de los rangos esperados para elecciones menos estables, como la de 2017.
 
-Como nota final, ambos métodos (**Sx1** y **Sx2**) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error.
+
+### Detalles técnicos
+
+Como nota final, ambos métodos (**Sx1** y **Sx2**) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.github.io/posts/2020/03/caveat/).

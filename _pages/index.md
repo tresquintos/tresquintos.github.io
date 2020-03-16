@@ -34,35 +34,7 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 
 ### Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos** y no sabes cómo, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
-
-
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '{1487978781361011}',
-      cookie     : true,
-      xfbml      : true,
-      version    : '{api-version}'
-    });
-
-    FB.AppEvents.logPageView();   
-
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-
-<fb:login-button
-  scope="public_profile,email"
-  onlogin="checkLoginState();">
-</fb:login-button>
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

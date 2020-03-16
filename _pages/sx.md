@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Simulaciones"
-permalink: /simulaciones/
+permalink: /sx/
 author_profile: true
 ---
 

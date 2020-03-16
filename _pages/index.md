@@ -38,6 +38,9 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.github.io/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.github.io/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
+<script src="js/konami.js"></script>
+
+
 <script type="text/javascript">
 if ( window.addEventListener ) {  
   var state = 0, konami = [38,38,40,40,37,39,37,39,66,65];  

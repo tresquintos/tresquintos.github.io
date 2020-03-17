@@ -1,3 +1,11 @@
+---
+permalink: /
+layout: blank
+title: ¡Bienvenidos a Tresquintos!
+excerpt: "Análisis político y pronósticos electorales"
+author_profile: true
+---
+
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: blank
 title: Tresquintos
 excerpt: ""
 author_profile: true

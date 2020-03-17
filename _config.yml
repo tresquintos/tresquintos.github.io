@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Tresquintos"
 description              : &description "Análisis político y pronósticos electorales"
 url                      : https://tresquintos.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/index" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/pages" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/tresquintos/"
 teaser                   : "teaser.png" # default: 500x300
 breadcrumbs              : false # true, false (default)

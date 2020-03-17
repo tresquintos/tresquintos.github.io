@@ -44,7 +44,7 @@ function activateCheats() {
 
   alert("Cheat code activated!");
 
-  window.location.replace("http://www.supermariobros.io");
+  window.location.replace("https://www.youtube.com/watch?v=oHg5SJYRHA0");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 }

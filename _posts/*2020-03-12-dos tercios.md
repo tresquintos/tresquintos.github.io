@@ -6,9 +6,9 @@ tags:
   - Elección Constituyentes 2020
 ---
 
-La convención constitucional va definir el grado de cambio y continuidad por el cuál atravesará el país si decide aprobar la carta fundamental en el plebisicito de salida. Por eso, es vital mirar la composición legislativa del órgano.
+En caso de ganar la opción de Apruebo en el plebisicito nacional de 2020, se le encargará a una Convención redacatr el nuevo documento (el que luego será sometido a un plebisicito ratificatorio). El principal determinante del grado de cambio y continuidad entre la Constitución actual y la que se redacte dentro de la Convención, estará dado por el quorum que se necesita para legislar unilateralmente dentro de la Convención. En este caso, independiente del tipo de Convención (Pura o Mixta), el quorum será 2/3.
 
-El principal indicador de cambio y continuidad en la Convención Constiuyente va ser el porcentaje de escaños para cada coalición, y naturalmente, su distancia del quorum para hacer cambios unilaterales (2/3). La lógica es la siguiente: si una coalición obtiene más de 2/3 (o 66,7%), puede redactar la constitución unilateralmente. En cambio, si obtiene menos de 1/3 (o 33,3%), no podrá hacer mucho para detener las negociaciones y pactos de los demás.
+La lógica del razonamiento es la siguiente: si una coalición obtiene más de 2/3 (o 66,7%), puede redactar el documento unilateralmente. En cambio, si obtiene menos de 1/3 (o 33,3%), no podrá hacer mucho para detener negociaciones entre los demás. En otras palabras, obtener 2/3 permite avanzar sin transar, obtener entre 2/3 y 1/3 permite sentarse a la mesa a negociar, y obtener menos de 1/3 te deja como un espectador en todas las negociaciones relevantes. Por lo anterior, lo más importante de la potencial elección de constituyentes, es entender en qué rango cae cada sector.
 
 El siguiente gráfico muestran la potencial distribución de escaños para las dos modalidades de la Convención Constituyente. En general, muestra que:
 

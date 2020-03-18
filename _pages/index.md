@@ -1,5 +1,5 @@
 ---
-permalink: /tresquintos/
+permalink: /
 layout: blank
 title: Tresquintos
 excerpt: ""

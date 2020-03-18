@@ -6,7 +6,9 @@ tags:
   - Elección Constituyentes 2020
 ---
 
-En caso de ganar la opción de Apruebo en el plebisicito nacional de 2020, se le encargará a una Convención redacatr el nuevo documento (el que luego será sometido a un plebisicito ratificatorio). El principal determinante del grado de cambio y continuidad entre la Constitución actual y la que se redacte dentro de la Convención, estará dado por el quorum que se necesita para legislar unilateralmente dentro de la Convención. En este caso, independiente del tipo de Convención (Pura o Mixta), el quorum será 2/3.
+En caso de ganar la opción de Apruebo en el plebisicito nacional de 2020, se le encargará a una Convención Constitucional (una 100% elegida o una Mixta) redactar el documento que tendrá que ser sometido a un plebisicito ratificatorio para ser aprobado como la nueva carta fundamental. En ambas convenciones (cualquiera) está estipulado que se usará un quorum de 2/3 para aprobar materia fundamental. Es decir, los artículos que entren dentro del documento resultante habrán pasado por el filtro de la mayoría calificada  
+
+Suponiendo que se aprobará, el principal determinante del grado de cambio y continuidad entre la carta actual y la futura, sera el quórum que se necesita para legislar unilateralmente dentro de la Convención. En este caso, independiente del tipo de Convención (Pura o Mixta), el quorum será 2/3.
 
 La lógica del razonamiento es la siguiente: si una coalición obtiene más de 2/3 (o 66,7%), puede redactar el documento unilateralmente. En cambio, si obtiene menos de 1/3 (o 33,3%), no podrá hacer mucho para detener negociaciones entre los demás. En otras palabras, obtener 2/3 permite avanzar sin transar, obtener entre 2/3 y 1/3 permite sentarse a la mesa a negociar, y obtener menos de 1/3 te deja como un espectador en todas las negociaciones relevantes. Por lo anterior, lo más importante de la potencial elección de constituyentes, es entender en qué rango cae cada sector.
 

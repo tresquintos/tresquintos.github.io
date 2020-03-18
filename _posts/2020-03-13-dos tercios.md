@@ -1,6 +1,6 @@
 ---
 title: 'Dos tercios'
-date: 2020-03-12
+date: 2020-03-13
 permalink: /posts/2020/03/dos-tercios/
 tags:
   - Elección Constituyentes 2020

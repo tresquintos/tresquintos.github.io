@@ -10,7 +10,7 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 ### Suposiciones iniciales
 
-El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.github.io/sx/).
+El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
 
 
 ![cc](/images/coaliciones.png){:height="90%" width="90%"}
@@ -22,7 +22,7 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 
 ![cc](/images/cc.png){:height="90%" width="90%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ### Convención Mixta
 
@@ -30,7 +30,7 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 
 ![cm](/images/cm.png){:height="90%" width="90%"}
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.github.io/sx/) y los comentarios asociados [aquí](https://tresquintos.github.io/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 
 ### Los números

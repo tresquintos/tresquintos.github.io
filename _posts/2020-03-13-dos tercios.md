@@ -12,7 +12,7 @@ La pregunta más importante relacionada a todo el proceso es: ¿qué tan distint
 
 La lógica del razonamiento es la siguiente: si una coalición obtiene más de 2/3 (o 66,7%), puede redactar el documento unilateralmente. En cambio, si obtiene menos de 1/3 (o 33,3%), no podrá hacer mucho para detener las negociaciones entre los demás. En otras palabras, obtener 2/3 permite avanzar sin transar, obtener entre 2/3 y 1/3 permite sentarse a la mesa a negociar, y obtener menos de 1/3 no permite más que el derecho a ser un espectador. Por lo anterior, es relevante determinar en qué rango cae cada coalición.
 
-Las simulaciones hechas en este sitio (ver los números más actualizados [aquí](https://tresquintos.github.io/sx/), arrojan algunas conclusiones preliminares. De acuerdo a los criterios de relevancia mencionados arriba, las conclusiones más destacables son las siguientes:
+Las simulaciones hechas en este sitio (ver los números más actualizados [aquí](https://tresquintos.cl/sx/), arrojan algunas conclusiones preliminares. De acuerdo a los criterios de relevancia mencionados arriba, las conclusiones más destacables son las siguientes:
 
 1. Ninguna coalición obtendría más de **2/3**;
 2. La derecha tradicional y la ex Concertación obtendrían entre **2/3** y **1/3** de los escaños;

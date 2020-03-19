@@ -10,34 +10,34 @@ author_profile: true
 
 Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema político chileno. Por ejemplo, es el quórum que se necesita para hacer una reforma al sistema electoral. El logo anterior de **Tresquintos** reflejaba el efecto dicotómico de la ley.
 
-[![logoviejo](/images/logo_viejo.png){:height="5%" width="5%"}](https://www.tresquintos.cl/images/logo_viejo.png)
+[![logoviejo](/logos/logo_viejo.png){:height="5%" width="5%"}](https://www.tresquintos.cl/logos/logo_viejo.png)
 
 ### ¿Qué representa el logo nuevo de Tresquintos?
 
 El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de representación. Además del logo oficial, tenemos dos logos alternativos.
 
-[![logo2](/images/logo_short.png){:height="5%" width="5%"}](https://www.tresquintos.cl/images/logo_viejo.png) [![logo3](/images/logo_short2.png){:height="5%" width="5%"}](https://www.tresquintos.cl/images/logo_viejo.png)
+[![logo2](/logos/logo_short.png){:height="5%" width="5%"}](https://www.tresquintos.cl/logos/logo_viejo.png) [![logo3](/logos/logo_short2.png){:height="5%" width="5%"}](https://www.tresquintos.cl/images/logo_viejo.png)
 
 
 ### ¿Qué hace Tresquintos?
 
 **Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [mesas electorales](https://twitter.com/kennethbunker/status/1233376890850861063) a [aprendizaje automático](https://en.wikipedia.org/wiki/Machine_learning), y de [teoremas bayesianos](https://en.wikipedia.org/wiki/Bayes%27_theorem) a [cadenas de Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo).
 
-[![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
+[![bayes](/logos/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/logos/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
 
 ### ¿Cuál es la diferencia entre un pronóstico y una simulación?
 
 Para efectos de este sitio, un pronóstico es una proyección para una elección en que hay un solo ganador (como una elección presidencial) y una simulación es una proyección para una elección en que hay múltiples ganadores (como una elección legislativa). Por lo mismo, los métodos para hacer simulaciones difieren de los métodos para hacer pronósticos. Para simulaciones se usa el [Sx](https://tresquintos.cl/sx/) y para los pronósticos se usa el [TSM](https://tresquintos.cl/tsm/).
 
-[![bayes](/images/dice.png){:height="6%" width="6%"}](https://tresquintos.cl/sx/) [![mcmc](/images/dice2.png){:height="5%" width="5%"}](https://tresquintos.cl/tsm/)
+[![bayes](/logos/dice.png){:height="6%" width="6%"}](https://tresquintos.cl/sx/) [![mcmc](/logos/dice2.png){:height="5%" width="5%"}](https://tresquintos.cl/tsm/)
 
 
 ### ¿Con qué frecuencia se actualiza Tresquintos?
 
 El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para 2020 y 2021, la frecuencia será relativamente alta.
 
-[![plebiscito2020](/images/election1.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020) [![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://www.servel.cl/primarias-2020/) [![concejales2020](/images/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![alcaldes2020](/images/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![constituyentes2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020) [![gobernadores202](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2020) [![primarias2021](/images/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![consejeros2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_consejeros_regionales_de_Chile_de_2021) [![diputados2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![senadores2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![presidente2021](/images/election11.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021)
+[![plebiscito2020](/logos/election1.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020) [![primarias2020](/logos/election2.png){:height=5%" width="5%"}](https://www.servel.cl/primarias-2020/) [![concejales2020](/logos/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![alcaldes2020](/logos/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![constituyentes2020](/logos/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020) [![gobernadores202](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2020) [![primarias2021](/logos/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![consejeros2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_consejeros_regionales_de_Chile_de_2021) [![diputados2021](/logos/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![senadores2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![presidente2021](/images/election11.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021)
 
 
 ### ¿Dónde más puedo seguir a Tresquintos?
@@ -51,14 +51,14 @@ Estamos en todas las redes sociales.
 
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile). Mantiene las siguientes páginas.
 
-[![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
+[![github](/logos/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/logos/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/logos/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/logos/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/logos/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/logos/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![twitter](/logos/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
 
 
 ### ¿Qué programas se usan para generar los datos y gráficos en en Tresquintos?
 
 Además de las programas más básicos, como TextEdit y Excel, las siguientes interfaces se usan de forma frecuente.
 
-[![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
+[![r](/logos/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/logos/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/logos/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/logos/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/logos/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/logos/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?

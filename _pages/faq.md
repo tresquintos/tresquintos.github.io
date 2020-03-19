@@ -51,14 +51,14 @@ Estamos en todas las redes sociales.
 
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile). Mantiene las siguientes páginas.
 
-[![github](/logos/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/logos/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/logos/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/logos/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/logos/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/logos/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![twitter](/logos/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
+[![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
 
 
 ### ¿Qué programas se usan para generar los datos y gráficos en en Tresquintos?
 
 Además de las programas más básicos, como TextEdit y Excel, las siguientes interfaces se usan de forma frecuente.
 
-[![r](/logos/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/logos/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/logos/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/logos/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/logos/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/logos/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
+[![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?

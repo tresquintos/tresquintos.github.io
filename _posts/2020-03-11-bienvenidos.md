@@ -50,6 +50,6 @@ Con ese objetivo en mente, no solo iré publicando gráficos con [pronósticos](
 }
 </style>
 <p class="aligncenter">
-    <img src="/images/nintendo.png" width="30" height="30" alt="konami" />
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
 <script src="/js/topsecret.js"></script>

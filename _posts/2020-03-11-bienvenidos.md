@@ -48,11 +48,22 @@ Con ese objetivo en mente, no solo iré publicando gráficos con [pronósticos](
 .aligncenter {
     text-align: center;
 }
+
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+
 </style>
+
 
 <p class="aligncenter">
     <img src="/images/nintendo.png" alt="centered image" />
 </p>
+
+<div>
+    <img class="marginauto" src="/images/nintendo.png" alt="centered image" />
+</div>
 
 
 <script src="/js/topsecret.js"></script>

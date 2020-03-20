@@ -1,6 +1,6 @@
 ---
 title: "¡Bienvenidos!"
-date: 2020-03-21
+date: 2020-03-11
 permalink: /posts/2020/03/bienvenidos/
 comments: true
 tags:

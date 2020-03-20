@@ -80,7 +80,7 @@ Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscri
 
 Es un misterio solo resuleto por las mentes más curiosas.
 
-[![nes]((/images/nes.png)){:height="50%" width="50%"}]
+[![nes]((/images/nes.png))]
 
 
 <style>

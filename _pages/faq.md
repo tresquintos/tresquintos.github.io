@@ -80,7 +80,7 @@ Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscri
 
 Es un misterio solo resuleto por las mentes más curiosas.
 
-[]![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Kagemasa_K%C5%8Dzuki)
+[![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Kagemasa_K%C5%8Dzuki)
 
 
 <script src="/js/topsecret.js"></script>

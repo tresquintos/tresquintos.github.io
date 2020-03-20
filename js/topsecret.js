@@ -42,7 +42,7 @@ function activateCheats() {
   var audio = new Audio('audio/pling.mp3');
   audio.play();
 
-  alert("Cheat code activated!");
+  alert("Felcitaciones! Activaste el código secreto!");
 
   window.location.replace("https://www.youtube.com/watch?v=oHg5SJYRHA0");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";

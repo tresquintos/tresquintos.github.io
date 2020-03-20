@@ -76,7 +76,7 @@ Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscri
 [![MailChimp](/images/mailchimp.png){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
 
 
-### ¿Por qué hay controlladores del NES en algunas partes de la página?
+### ¿Qué representan los controladores NES?
 
 Es un misterio solo resuleto por las mentes más curiosas.
 

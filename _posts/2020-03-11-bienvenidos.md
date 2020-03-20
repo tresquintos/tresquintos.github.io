@@ -58,7 +58,7 @@ Con ese objetivo en mente, no solo iré publicando gráficos con [pronósticos](
 
 
 <p class="aligncenter">
-    <img src="/images/nintendo.png" alt="centered image" />
+    <img src="/images/nintendo.png" width="20" height="20" alt="konami" />
 </p>
 
 <div>

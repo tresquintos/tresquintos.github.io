@@ -80,15 +80,7 @@ Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscri
 
 Es un misterio solo resuleto por las mentes más curiosas.
 
-[![nes](/images/nes.png){:height="30%" width="30%"}]
+[]![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Kagemasa_K%C5%8Dzuki)
 
 
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-<p class="aligncenter">
-    <img src="/images/nes.png" width="30" height="30" alt="konami" />
-</p>
 <script src="/js/topsecret.js"></script>

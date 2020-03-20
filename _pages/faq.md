@@ -73,4 +73,22 @@ Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación únic
 Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de envíar información de **Tresquintos**).
 
 
-[![MailChimp](https://www.dexigner.com/images/news/xxi/31385.jpg){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+[![MailChimp](/images/mailchimp.png){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
+
+
+### ¿Por qué hay controlladores del NES en algunas partes de la página?
+
+Es un misterio solo resuleto por las mentes más curiosas.
+
+[![nes]((/images/nes.png)){:height="8%" width="8%"}]
+
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+<script src="/js/topsecret.js"></script>

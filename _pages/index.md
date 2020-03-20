@@ -38,6 +38,14 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.cl/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
 <script src="/js/topsecret.js"></script>
 
 

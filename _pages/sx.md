@@ -72,3 +72,13 @@ Finalmente, se usa la cifra correctora para "corregir" la repartición proporcio
 ### Detalles técnicos
 
 Como nota final, ambos métodos (**Sx1** y **Sx2**) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.cl/posts/2020/03/caveat/).
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+<script src="/js/topsecret.js"></script>

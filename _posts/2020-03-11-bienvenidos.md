@@ -44,8 +44,15 @@ Con ese objetivo en mente, no solo iré publicando gráficos con [pronósticos](
 
 ¿Cómo puedes contribuir? Hay varias formas. La primera es siguiendo a **Tresquintos** en todas sus plataformas. Además de los ya tradicionales [Twitter](https://www.twitter.com/tresquintos), [Facebook](https://wwww.facebook.com/3quintos) e [Instagram](https://www.instagram.com/tresquintos), en esta nueva etapa sumo [Twitch](https://www.twitch.tv/tresquintos) y [Youtube](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/). La última plataforma es especialmente importante, pues creo que será centrales en lo que viene. La idea es levantar un canal de análisis político donde pueda generar contenido original e independiente. Otra forma de contribuir es con una donación única. Puedes hacerlo vía [PayPal](https://www.paypal.me/tresquintos/) o por [Flow](https://www.flow.cl/btn.php?token=3vop8lw). Por lo demás, comentarios son siempre bienvenidos. En ese caso me puedes contactar directamente por [Twitter](https://www.twitter.com/kennethbunker). Y si simplemente te quieres informar de actualidad, métodos y su interacción, te puedes suscribir a la [lista de ditribución de **Tresquintos**](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f) para recibir todos los contenidos directo en tu inbox (y WhatsApp, si quieres).
 
-<span class="img-container">
-  <img src="/images/nintendo.png" alt="usa el teclado" />
-</span>
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
+<p class="aligncenter">
+    <img src="/images/nintendo.png" alt="centered image" />
+</p>
+
 
 <script src="/js/topsecret.js"></script>

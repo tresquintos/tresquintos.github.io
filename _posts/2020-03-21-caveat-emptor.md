@@ -1,6 +1,6 @@
 ---
 title: "Caveat Emptor"
-date: 2020-03-12
+date: 2020-03-21
 permalink: /posts/2020/03/caveat/
 comments: true
 tags:

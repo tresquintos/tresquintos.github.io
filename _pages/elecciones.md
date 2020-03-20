@@ -5,17 +5,17 @@ permalink: /elecciones/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebisicito nacional de 2020, la elección de constituytentes de 2020, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a las simulaciones y los pronósticos más recientes.
+En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebisicito nacional de 2020, la elección de constituytentes de 2021, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a las simulaciones y los pronósticos más recientes.
 
 
 ### 🇨🇱 Plebiscito Nacional de 2020
 
-El plebiscito nacional de 2020, será realizado el 26 de abril de 2020, con el objeto de determinar si (1) la ciudadanía está de acuerdo con iniciar un proceso constituyente para generar una nueva Constitución, y (2) el mecanismo para dicho proceso. Con ese objetivo, habrán dos preguntas en las urnas. Puedes leer más sobre el plebisicito [aquí](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), y puedes ver la tendencia de apoyo para cada una de las preguntas [aquí](https://tresquintos.cl/plebiscito2020/).
+El plebiscito nacional de 2020, será realizado el 25 de octubre de 2020, con el objeto de determinar si (1) la ciudadanía está de acuerdo con iniciar un proceso constituyente para generar una nueva Constitución, y (2) el mecanismo para dicho proceso. Con ese objetivo, habrán dos preguntas en las urnas. Puedes leer más sobre el plebisicito [aquí](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), y puedes ver la tendencia de apoyo para cada una de las preguntas [aquí](https://tresquintos.cl/plebiscito2020/).
 
 
-### 🇨🇱 Constituyentes 2020
+### 🇨🇱 Constituyentes 2021
 
-Las elecciones de convencionales constituyentes de 2020 podrían ser realizadas el 25 de octubre de 2020, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y una proyección de los resultados [aquí](https://tresquintos.cl/convención2020/).
+Las elecciones de convencionales constituyentes de 2021 podrían ser realizadas el 4 de abril de 2021, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y una proyección de los resultados [aquí](https://tresquintos.cl/convención2020/).
 
 
 ### 🇨🇱 Presidenciales 2021

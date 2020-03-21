@@ -23,14 +23,14 @@ Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](h
 
 Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.cl/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?***
 
-[![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
+[![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
 
 
 ### Otros números: la elección de constituyentes de 2021
 
 Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
 
-![cc](/images/cc.png){:height="45%" width="45%"} ![CM](/images/cm.png){:height="45%" width="45%"}
+[![cc](/images/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![CM](/images/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
 
 
 ### Otros enlaces

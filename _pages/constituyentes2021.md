@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Proyecciones: Convención 2020"
-permalink: /convención2020/
+title: "Proyecciones: Constituyentes 2021"
+permalink: /constituyentes2021/
 author_profile: true
 ---
 

@@ -26,7 +26,7 @@ Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://t
 [![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
 
 
-### Otros números: la elección de constituyentes de 2020
+### Otros números: la elección de constituyentes de 2021
 
 Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
 
@@ -35,7 +35,7 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 
 ### Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.cl/faq/). Y si aun tienes preguntas, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, revisa [esto](https://tresquintos.cl/faq/). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker).
 
 
 <style>

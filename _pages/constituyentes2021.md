@@ -38,3 +38,13 @@ El gráfico de abajo muestra la distribución de escaños en el caso de una Conv
 La tabla de abajo muestra la comparación entre ambos escenarios. Muestra el número (#) y porcentaje (%) de escaños por cada coalición/sector, diferenciado por Convcención Constituyente y Convención Mixta. La tabla también muestra la diferencia en términos de ganancia relativa. Las flechas verdes indican que una coalición/sector gana un mayor porcentaje de escaños en el caso de una Convención Constituyente. Las flechas rojas indican lo contrario.
 
 ![comp](/images/comp.png){:height="90%" width="90%"}
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+<script src="/js/topsecret.js"></script>

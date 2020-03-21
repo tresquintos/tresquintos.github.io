@@ -25,3 +25,13 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 ![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"} ![CM](/images/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+<script src="/js/topsecret.js"></script>

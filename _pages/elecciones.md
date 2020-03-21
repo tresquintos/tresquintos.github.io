@@ -21,3 +21,13 @@ La elecció de constituyentes de 2021 podrían ser realizadas el 4 de abril de 2
 ### 🇨🇱 Presidenciales 2021
 
 La elección presidencial de 2021 Chile se realizará el 21 de noviembre de 2021, para elegir al presidente que estará en el poder para el período 2022-2026. En caso de ocurrir una segunda vuelta electoral, ésta tendrá lugar el 19 de diciembre. Se llevará a cabo en conjunto con las elecciones de diputados y senadores. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021), y puedes ver la tendencia de apoyo para los principales candidatos en la primera vuelta [aquí](https://tresquintos.cl/presidenciales2021/).
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+<script src="/js/topsecret.js"></script>

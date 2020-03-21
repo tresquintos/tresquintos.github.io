@@ -5,7 +5,7 @@ permalink: /elecciones/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebisicito nacional de 2020, la elección de constituytentes de 2021, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a las simulaciones y los pronósticos más recientes.
+En esta página puedes ver la lista de elecciones que estamos monitoreando, junto con una breve descripción de cada una de ellas. Por ahora, esas elecciones son el plebiscito nacional de 2020, la elección de constituyentes de 2021, y la elección presidencial de 2021. En la descripción de cada elección podrás encontrar un enlace para acceder directamente a las simulaciones y los pronósticos más recientes.
 
 
 ### 🇨🇱 Plebiscito Nacional de 2020
@@ -15,7 +15,7 @@ El plebiscito nacional de 2020, será realizado el 25 de octubre de 2020, con el
 
 ### 🇨🇱 Constituyentes 2021
 
-Las elecciones de convencionales constituyentes de 2021 podrían ser realizadas el 4 de abril de 2021, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y una proyección de los resultados [aquí](https://tresquintos.cl/convención2020/).
+La elecció de constituyentes de 2021 podrían ser realizadas el 4 de abril de 2021, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/constituyentes2021/).
 
 
 ### 🇨🇱 Presidenciales 2021

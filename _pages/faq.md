@@ -54,7 +54,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)
 
 
-### ¿Qué programas se usan para generar los datos y gráficos en en Tresquintos?
+### ¿Qué programas se usan para generar los datos y gráficos en Tresquintos?
 
 Además de las programas más básicos, como TextEdit y Excel, las siguientes interfaces se usan de forma frecuente.
 

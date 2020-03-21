@@ -44,7 +44,7 @@ function activateCheats() {
 
   alert("Cheat code activated!");
 
-  window.location.replace("https://www.youtube.com/watch?v=zBBOy_uWzVU");
+  window.location.replace("https://www.youtube.com/watch?v=Cz41FXw1lWA&t=186s");
     //document.body.style.backgroundImage = "url('images/cheatBackground.png')";
 
 }

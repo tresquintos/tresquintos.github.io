@@ -22,7 +22,7 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 [![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-2_Convención%20Constituyente.png) [![CC](/images/kd_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2020-2_Convención%20Constituyente.png)
 
 
-[![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-2_Convención%20Mixta.png) [![CM](/images/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-2_Convención%20Mixta.png)
+[![CM](/images/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-2_Convención%20Mixta.png) [![CM](/images/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2020-2_Convención%20Mixta.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

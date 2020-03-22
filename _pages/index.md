@@ -88,4 +88,4 @@ bla, bla, bla, bla.
 Altrove c’è l’Altrove,
 io non mi occupo dell’Altrove.
 Dunque che questo romanzo abbia inizio.
-In fondo è solo un trucco, si è solo un trucco. -->
+In fondo è solo un trucco, si è solo un trucco. kb. -->

@@ -72,3 +72,20 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+
+
+<!-- Finisce sempre così, con la morte.
+Prima però c’è stata la vita,
+nascosta sotto i bla, bla, bla, bla, bla.
+È tutto sedimentato sotto il chiacchiericcio e il rumore:
+il silenzio e il sentimento,
+l’emozione e la paura,
+gli sparuti incostanti sprazzi di bellezza
+e poi lo squallore disgraziato e l’uomo miserabile.
+Tutto sepolto nella coperta
+dell’imbarazzo dello stare al mondo:
+bla, bla, bla, bla.
+Altrove c’è l’Altrove,
+io non mi occupo dell’Altrove.
+Dunque che questo romanzo abbia inizio.
+In fondo è solo un trucco, si è solo un trucco. -->

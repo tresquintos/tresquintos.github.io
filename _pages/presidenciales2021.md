@@ -14,7 +14,7 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![Joaquín Lavín](/images/ts_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/kd_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2021_Joaquín%20Lavín.png)
 
-[![Beatriz Sánchez](/images/ts_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2021_Beatriz%20Sánchez.png)] [![Beatriz Sánchez](/images/kd_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2021_Beatriz%20Sánchez.png)
+[![Beatriz Sánchez](/images/ts_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2021_Beatriz%20Sánchez.png) [![Beatriz Sánchez](/images/kd_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2021_Beatriz%20Sánchez.png)
 
 [![José Antonio Kast](/images/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/kd_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2021_José%20Antonio%20Kast.png)
 

@@ -22,6 +22,9 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+      {% if author.facebook %}
+        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -45,9 +48,6 @@
       {% endif %}
       {% if author.twitch %}
         <li><a href="https://www.twitch.tv/{{ author.twitch }}"><i class="fab fa-fw fa-twitch" aria-hidden="true"></i> Twitch</a></li>
-      {% endif %}
-      {% if author.facebook %}
-        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>

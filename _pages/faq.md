@@ -56,21 +56,21 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 ### ¿Qué programas se usan para generar los datos y gráficos en Tresquintos?
 
-Además de las programas más básicos, como TextEdit y Excel, las siguientes interfaces se usan de forma frecuente.
+Además de los programos más básicos, como TextEdit y Excel, se usan las siguientes interfaces de forma frecuente.
 
 [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 
-Si quieres contribuir a **Tresquintos**, puedes hacerlo vía una donación única por *PayPal* o por *Flow*, pinchando uno de los logos de abajo. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
+Si quieres contribuir a **Tresquintos**, puedes hacerlo con una donación única por medio de *PayPal* o *Flow*, pinchando uno de los logos de abajo. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="8%" width="8%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
 ### ¿Cómo me puedo suscribir a Tresquintos?
 
-Sí, te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de envíar información de **Tresquintos**).
+Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).
 
 
 [![MailChimp](/images/mailchimp.png){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)

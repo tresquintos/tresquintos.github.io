@@ -12,7 +12,7 @@ Los siguientes gráficos tienen como objetivo monitorear el avance de casos conf
 
 ### Casos confirmados
 
-El siguiente gráfico muestra el número de casos confirmados por día.
+El siguiente gráfico muestra el número de casos confirmados por día. El primer día es el 3 de Marzo de 2020.
 
 [![ep](/images/casos_diario.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_diario.png)
 

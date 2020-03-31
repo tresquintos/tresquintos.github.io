@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Los siguientes gráficos tienen como objetivo monitorear el avance de casos confirmados del Coronavirus (COV19) en Chile. Los gráficos se actualizarán a medida que se van conciendo los datos. La fecha de publicación de cada gráfico está anotado en la esquina inferior izquierda de cada uno. La fuente de los datos es el Ministerio de Salud de Chile.
+Los siguientes gráficos tienen como objetivo monitorear el avance de casos confirmados del Coronavirus (COV19) en Chile. Los gráficos se actualizarán a medida que se van conciendo los datos. La fecha de publicación de cada gráfico está anotado en la esquina inferior izquierda de cada uno de ellos. La fuente de los datos es el Ministerio de Salud de Chile.
 
 ### Casos confirmados
 

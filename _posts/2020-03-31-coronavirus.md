@@ -19,16 +19,14 @@ El siguiente gráfico muestra el número de casos confirmados por día.
 
 ### Avance
 
-Los siguientes graficos muestran el avance de casos a través del tiempo. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con el eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con el eje vertical en escala log.
+Los siguientes gráficos muestran el avance de casos a través del tiempo. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con el eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con el eje vertical en escala log.
 
 [![ep](/images/casos_acumulados_frecuencia.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
 
 
-
-
 ### Estándar
 
-El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran pronósoticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
+El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
 [![ep](/images/casos_acumulados_referencia_todos.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
 

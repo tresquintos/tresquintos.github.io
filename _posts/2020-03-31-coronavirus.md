@@ -1,6 +1,6 @@
 ---
 title: "Monitoreo avance Coronavirus (COVID-19)"
-date: 2020-03-21
+date: 2020-03-31
 permalink: /posts/2020/03/coronavirus/
 comments: true
 tags:

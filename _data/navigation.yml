@@ -1,14 +1,23 @@
 # main links links
 main:
 
-  - title: "⚠️ COVID-19"
+  - title: "⚠️COVID-19"
     url: /covid19/
 
-  - title: "📫 Blog"
+  - title: "📫Blog"
     url: /year-archive/
 
-  - title: "🗳 Elecciones"
+  - title: "🗳Elecciones"
     url: /elecciones/
+
+  - title: "🇨🇱Plebiscito 2020"
+    url: /plebiscito2020/
+
+  - title: "🇨🇱Constituyentes 2021"
+    url: /constituyentes2021/
+
+  - title: "🇨🇱Presidenciales 2021"
+    url: /presidenciales2021/
 
   - title: "TSM"
     url: /tsm/
@@ -16,14 +25,5 @@ main:
   - title: "Sx"
     url: /sx/
 
-  - title: "🇨🇱 Plebiscito 2020"
-    url: /plebiscito2020/
-
-  - title: "🇨🇱 Constituyentes 2021"
-    url: /constituyentes2021/
-
-  - title: "🇨🇱 Presidenciales 2021"
-    url: /presidenciales2021/
-
-  - title: "📌 FAQ"
+  - title: "📌FAQ"
     url: /faq/

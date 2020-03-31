@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Casos diarios
+El gráfico de abajo muestra el número de casos reportados diariamente.
 
 
 
@@ -16,6 +16,8 @@ Casos diarios
 
 
 ### Avance
+
+Los siguientes graficos muestran el avance de casos a través del tiempo.
 
 [![ep](/images/casos_acumulados_frecuencia.png){:height="75%" width="75%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png)
 
@@ -25,6 +27,9 @@ Casos diarios
 
 
 ### Estándar
+
+El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintas velocidades de propagación. La línea azul muestra el número de casos confirmados. Las líneas grises muestran el avance
+
 
 [![ep](/images/casos_acumulados_referencia_todos.png){:height="75%" width="75%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
 

@@ -28,21 +28,10 @@ Los siguientes graficos muestran el avance de casos a través del tiempo. La lí
 
 ### Estándar
 
-El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran el avance
-
+El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran pronósoticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
 [![ep](/images/casos_acumulados_referencia_todos.png){:height="75%" width="75%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
 
-
-
-
-
-
-### Otros
-
-[**Descargar datos aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CXKYAB).
-
-**Cita recomendada**: Bunker, Kenneth, 2020, "Replication Data for: La mesa más predictiva", https://doi.org/10.7910/DVN/CXKYAB, Harvard Dataverse, V1, UNF:6:NwN9JL9ZevhkgPD8pQwJQg== [fileUNF].
 
 <style>
 .aligncenter {

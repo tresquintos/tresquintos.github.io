@@ -4,10 +4,16 @@ main:
   - title: "⚠️COVID-19"
     url: /covid19/
 
-  - title: "📫Blog"
+  - title: "Blog"
     url: /year-archive/
 
-  - title: "🗳Elecciones"
+  - title: "TSM"
+    url: /tsm/
+
+  - title: "Sx"
+    url: /sx/
+
+  - title: "Elecciones"
     url: /elecciones/
 
   - title: "🇨🇱Plebiscito 2020"
@@ -18,12 +24,6 @@ main:
 
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
-
-  - title: "TSM"
-    url: /tsm/
-
-  - title: "Sx"
-    url: /sx/
 
   - title: "📌FAQ"
     url: /faq/

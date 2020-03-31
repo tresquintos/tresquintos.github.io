@@ -26,7 +26,7 @@ Casos diarios
 
 ### Estándar
 
-[![ep](/images/casos_diario.png){:height="75%" width="75%"}](https://tresquintos.cl/images/casos_diario.png)
+[![ep](/images/casos_acumulados_referencia_todos.png){:height="75%" width="75%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
 
 
 

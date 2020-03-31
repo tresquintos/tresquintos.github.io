@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Tresquintos / Chile"
+title                    : "Tresquintos"
 title_separator          : "-"
 name                     : &name "Tresquintos"
 description              : &description "Análisis político y pronósticos electorales"

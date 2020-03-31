@@ -18,7 +18,7 @@ El siguiente gráfico muestra el número de casos confirmados por día. El prime
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con el eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con el eje vertical en escala log.
 
-[![ep](/images/casos_acumulados_frecuencia.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
+[![ep](/images/casos_acumulados_frecuencia.png){:height="50%" width="50%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="50%" width="50%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
 
 
 ### Estándar de comparación

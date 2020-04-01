@@ -8,7 +8,7 @@ tags:
 ---
 
 
-Los siguientes gráficos tienen como objetivo monitorear el avance de casos confirmados del Coronavirus (COVID-19) en Chile. Los gráficos se actualizarán a medida que se van reportando casos. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/). Para conocer más detalles sobre COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/). Para ver nuestra página especial que sigue el desarollo del COVID-19 en Chile, pincha [aquí](https://tresquintos.cl/covid19/).
+Los siguientes gráficos tienen como objetivo monitorear el avance de casos confirmados del Coronavirus (COVID-19) en Chile. Los gráficos se actualizarán a medida que se van reportando casos. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/). Para conocer más detalles sobre COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/). Para conectarte a nuestra página especial que sigue el desarrollo del COVID-19 en Chile, pincha [aquí](https://tresquintos.cl/covid19/).
 
 ### Casos confirmados
 

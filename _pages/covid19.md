@@ -28,6 +28,10 @@ El último gráfico muestra el avance de casos a través del tiempo, comparando 
 [![ep](/images/casos_acumulados_referencia_todos.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
 
 
+### Uso avanzado
+
+Si quieres replicar estos datos, descarag los datos usados para hacer la tenedencia diaria en formato CSV [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo desde ese enlace).
+
 <style>
 .aligncenter {
     text-align: center;

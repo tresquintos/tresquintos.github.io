@@ -5,18 +5,18 @@ permalink: /covid19/
 author_profile: true
 ---
 
-En esta página podrás conocer la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/). Para conocer más detalles sobre COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
+En esta página podrás conocer la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/). Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
 ### Casos confirmados
 
-El siguiente gráfico muestra el número de casos confirmados por día. El primer día es el 3 de Marzo de 2020.
+El siguiente gráfico muestra el número de casos confirmados por día. El primer caso reportado es el 3 de Marzo de 2020.
 
 [![ep](/images/casos_diario.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_diario.png)
 
 
 ### Avance desde el primer caso
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con el eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con el eje vertical en escala log.
+Los siguientes gráficos muestran el avance de casos a través del tiempo, desde el 3 de Marzo de 2020. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con un eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con un eje vertical en escala log.
 
 [![ep](/images/casos_acumulados_frecuencia.png){:height="47%" width="47%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="47%" width="47%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
 

@@ -11,7 +11,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ### ⚠️ Especial: COVID-19 ⚠️
 
-Por razones extraordinarias, estaremos cubriendo la evolución del Coronavirus (COVID-19) en Chile. Para aquello, montamos una [página especial](https://tresquintos.cl/covid19/) que monitorea el desarrollo del virus, en la cual podrás encontrar gráficos de la evolución diaria, la evolución agregada y la evolución esperada. También podrás encontrar gráficos que comparan la evolución del COVID-19 en Chile con otros países de la región y del mundo. Finalmente, podrás descargar todos los datos que necesites para replicar los gráficos. Para ir a la página, pincha [aquí](https://tresquintos.cl/covid19/). Si en cambio estás buscando tendencias para las próximas elecciones, sigue los enlances mencionados más abajo!
+Por razones extraordinarias, estamos cubriendo la evolución del Coronavirus (COVID-19) en Chile. Montamos una [página especial](https://tresquintos.cl/covid19/) que monitorea el desarrollo del virus. En ella, podrás encontrar gráficos de la evolución diaria, la evolución agregada y la evolución esperada del COVID-19. También podrás encontrar gráficos que comparan su evolución en Chile con su evolución en otros países de la región y el mundo. Finalmente, podrás descargar todos los datos que necesites para replicar los gráficos. Para ir a la página, pincha [aquí](https://tresquintos.cl/covid19/). Si en cambio estás buscando tendencias para las próximas elecciones, sigue los enlances mencionados más abajo!
 
 
 ### Mapa del sitio

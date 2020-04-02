@@ -91,6 +91,9 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/channel/{{ author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
       {% endif %}
+      {% if author.discord %}
+        <li><a href="https://www.discord.com/channels/{{ author.discord }}"><i class="fab fa-fw fa-discord" aria-hidden="true"></i> Discord</a></li>
+      {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}

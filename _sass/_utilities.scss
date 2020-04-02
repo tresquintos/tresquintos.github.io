@@ -262,7 +262,7 @@ body:hover .visually-hidden button {
   .fa-twitch-square {
     color: $twitch-color;
   }
-  
+
   .fa-twitter,
   .fa-twitter-square {
     color: $twitter-color;
@@ -281,6 +281,11 @@ body:hover .visually-hidden button {
   .fa-youtube-square,
   .fa-youtube-play {
     color: $youtube-color;
+  }
+
+  .discord,
+  .fa-discord-square {
+    color: $discord-color;
   }
 
   .fa-xing,

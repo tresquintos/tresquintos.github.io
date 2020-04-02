@@ -41,7 +41,7 @@ Los dos últimos gráficos muestran una comparación de la evolución de casos C
 
 ### Uso avanzado
 
-Si quieres replicar estos datos, descarag los datos usados para hacer la tenedencia diaria en formato CSV [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con esa dirección).
+Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con esa dirección).
 
 <style>
 .aligncenter {

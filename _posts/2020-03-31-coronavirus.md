@@ -12,24 +12,39 @@ Los siguientes gráficos tienen como objetivo monitorear el avance de casos conf
 
 ### Casos confirmados
 
-El siguiente gráfico muestra el número de casos confirmados por día. El primer día es el 3 de Marzo de 2020.
+El siguiente gráfico muestra el número de casos confirmados por día. El primer caso reportado es el 3 de Marzo de 2020.
 
-[![ep](/images/casos_diario.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_diario.png)
+[![ep](/images/chile_casos_diarios.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_diarios.png)
 
 
 ### Avance desde el primer caso
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con el eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con el eje vertical en escala log.
+Los siguientes gráficos muestran el avance de casos a través del tiempo, desde el 3 de Marzo de 2020. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con un eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con un eje vertical en escala log.
 
-[![ep](/images/casos_acumulados_frecuencia.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="45%" width="45%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
+[![ep](/images/chile_casos_acumulados_freq.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_freq.png) [![ep](/images/chile_casos_acumulados_log.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_log.png)
 
 
 ### Estándar de comparación
 
-El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
+El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
-[![ep](/images/casos_acumulados_referencia_todos.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
+[![ep](/images/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_standard.png)
 
+
+### Comparación de Chile con otros países
+
+El último gráfico muestra la comparación de la evolución de casos COVID-19 en Chile con Argentina y Brasil.
+
+[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard.png)
+
+Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Italia y España.
+
+
+[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/world_casos_standard.png){:height="47%" width="47%"}](https://tresquintos.cl/images/world_casos_standard.png)
+
+### Uso avanzado
+
+Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con esa dirección).
 
 <style>
 .aligncenter {

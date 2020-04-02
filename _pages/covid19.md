@@ -11,21 +11,21 @@ En esta página podrás conocer la evolución del Coronavirus (COVID-19) en Chil
 
 El siguiente gráfico muestra el número de casos confirmados por día. El primer caso reportado es el 3 de Marzo de 2020.
 
-[![ep](/images/casos_diario.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_diario.png)
+[![ep](/images/chile_casos_diarios.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_diarios.png)
 
 
 ### Avance desde el primer caso
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, desde el 3 de Marzo de 2020. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con un eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con un eje vertical en escala log.
 
-[![ep](/images/casos_acumulados_frecuencia.png){:height="47%" width="47%"}](https://tresquintos.cl/images/casos_acumulados_frecuencia.png) [![ep](/images/casos_acumulados_log.png){:height="47%" width="47%"}](https://tresquintos.cl/images/casos_acumulados_log.png)
+[![ep](/images/chile_casos_acumulados_freq.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_freq.png) [![ep](/images/chile_casos_acumulados_log.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_log.png)
 
 
 ### Estándar de comparación
 
 El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
-[![ep](/images/casos_acumulados_referencia_todos.png){:height="100%" width="100%"}](https://tresquintos.cl/images/casos_acumulados_referencia_todos.png)
+[![ep](/images/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_standard.png)
 
 
 ### Uso avanzado

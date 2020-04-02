@@ -23,9 +23,18 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, desde
 
 ### Estándar de comparación
 
-El último gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
+El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
 [![ep](/images/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_standard.png)
+
+
+### Comparación de Chile con otros países
+
+El último gráfico muestra la comparación de la evolución de casos COVID-19 en Chile con otros países.
+
+[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard.png)
+
+
 
 
 ### Uso avanzado

@@ -30,10 +30,14 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 
 ### Comparación de Chile con otros países
 
-El último gráfico muestra la comparación de la evolución de casos COVID-19 en Chile con otros países.
+El último gráfico muestra la comparación de la evolución de casos COVID-19 en Chile con Argentina y Brasil.
 
 [![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard.png)
 
+Los dos últimos gráficos muestra la comparación de la evolución de casos COVID-19 en Chile con un grupo más grande de países Latinoamericanos, y el grupo de países europeos más afectados--Italia y España.
+
+
+[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/world_casos_standard.png){:height="47%" width="47%"}](https://tresquintos.cl/images/world_casos_standard.png)
 
 ### Uso avanzado
 

@@ -35,8 +35,6 @@ El último gráfico muestra la comparación de la evolución de casos COVID-19 e
 [![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard.png)
 
 
-
-
 ### Uso avanzado
 
 Si quieres replicar estos datos, descarag los datos usados para hacer la tenedencia diaria en formato CSV [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con esa dirección).

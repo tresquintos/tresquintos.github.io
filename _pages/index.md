@@ -9,6 +9,11 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
 
+### ⚠️ Especial: COVID-19 ⚠️
+
+Por razones extraordinarias, estaremos cubriendo la evolución del Coronavirus (COVID-19) en Chile. Para aquello, montamos una página especial que monitorea el desarrollo del virus, en la cual podrás encontrar gráficos de la evolución diaria, la evolución agregada y la evolución esperada. También podrás encontrar gráficos que comparan la evolución del COVID-19 en Chile con otros países de la región y del mundo. Finalmente, podrás descargar todos los datos que necesites para replicar los gráficos. Para ir a la página, pincha [aquí](https://tresquintos.cl/covid19/).
+
+
 ### Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).

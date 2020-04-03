@@ -37,7 +37,7 @@ El último gráfico muestra la comparación de la evolución de casos COVID-19 e
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Italia y España.
 
 
-[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/world_casos_standard.png){:height="47%" width="47%"}](https://tresquintos.cl/images/world_casos_standard.png)
+[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/europa_casos_standard.png){:height="47%" width="47%"}](https://tresquintos.cl/images/europa_casos_standard.png)
 
 ### Uso avanzado
 

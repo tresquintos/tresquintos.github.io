@@ -46,7 +46,7 @@ El último gráfico muestran una comparación de la evolución de casos COVID-19
 
 ### Uso avanzado
 
-Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con esa dirección).
+Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv). Si quieres los datos de América Latina, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_latam.csv) y si quieres los datos de Europa y Estados Unidos, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_europa.csv). Finalmente, si quieres los datos de Asia, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_asia.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con la dirección del enlace).
 
 <style>
 .aligncenter {

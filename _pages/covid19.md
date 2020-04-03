@@ -41,7 +41,7 @@ Los dos siguientes gráficos muestran una comparación de la evolución de casos
 
 El último gráfico muestran una comparación de la evolución de casos COVID-19 en Chile con los países más grandes de Europa.
 
-[![ep](/images/latam_casos_standard2.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard2.png)
+[![ep](/images/europa_casos_standard2.png){:height="100%" width="100%"}](https://tresquintos.cl/images/europa_casos_standard2.png)
 
 
 ### Uso avanzado

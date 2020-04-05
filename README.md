@@ -17,4 +17,4 @@ https://tresquintos.cl
 
 ## Detalles
 
-Para acceder directamente a las preguntas frecuentes, con más detalles sobre el sitio, pincha [aquí](https://tresquintos.cl/faq/).
+Para acceder directamente a las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/).

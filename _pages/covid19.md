@@ -32,6 +32,9 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil.
 
+[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_arica.png) [![ep](/images/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
+
+
 [![ep](/images/chile_metropolitana.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_metropolitana.png)
 
 

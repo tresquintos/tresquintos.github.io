@@ -40,8 +40,13 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por r
 
 [![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ohiggins.png)
 
-[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_arica.png) [![ep](/images/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
+[![ep](/images/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_maule.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
 
+[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_biobio.png) [![ep](/images/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
+
+[![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_losrios.png) [![ep](/images/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
+
+[![ep](/images/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_aysen.png) [![ep](/images/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_magallanes.png)
 
 
 ### Comparación de Chile con otros países

@@ -14,9 +14,9 @@ Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema 
 
 ### ¿Qué representa el logo nuevo de Tresquintos?
 
-El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de representación. Además del logo oficial, tenemos dos logos alternativos.
+El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y mucho de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de presentación. Además del logo oficial, tenemos dos logos alternativos. Descarga el logo oficial [aquí](https://tresquintos.cl/images/logo_short_code.png)
 
-[![logo2](/images/favicon-32x32.png){:height="15%" width="15%"}](https://tresquintos.cl/images/favicon-32x32.png) [![logo](/images/logo.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo.png) [![logo3](/images/logo_short2.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short2.png)
+[![logo2](/images/logo_short.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short.png) [![logo](/images/logo.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo.png) [![logo3](/images/logo_short2.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short2.png)
 
 
 ### ¿Qué hace Tresquintos?

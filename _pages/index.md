@@ -69,6 +69,9 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
+// console
+console.log('\n💬 %cFor development updates → %o\n', 'color: #1da1f2', 'https://twitter.com/kennethbunker');
+
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

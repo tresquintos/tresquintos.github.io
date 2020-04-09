@@ -1,6 +1,6 @@
-(function ($, app, tresquintos) {
+(function ($, app, cyberdelia) {
 
-    console.log('Hi cyber-space traveller. Maybe you want to see our tresquintos.menu().');
+    console.log('Hi cyber-space traveller. Maybe you want to see our cyberdelia.menu().');
 
     var printMenu = function () {
         var lines = [
@@ -16,7 +16,7 @@
         console.log(lines.join("\n"));
     };
 
-    tresquintos.menu = function (opt) {
+    cyberdelia.menu = function (opt) {
 
         if (opt) {
             switch (opt) {
@@ -39,4 +39,4 @@
 
     };
 
-}($, app, tresquintos));
+}($, app, cyberdelia));

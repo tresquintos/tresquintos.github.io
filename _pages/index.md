@@ -69,8 +69,10 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
+<!-- 🍺 Aren't you thirsty? Why don't you cyberdelia.knock() on the door? 🍻
+
 // console
-console.log('\n💬 %cFor development updates → %o\n', 'color: #1da1f2', 'https://twitter.com/kennethbunker');
+console.log('\n💬 %cFor development updates → %o\n', 'color: #1da1f2', 'https://twitter.com/kennethbunker');-->
 
 
 <!-- Finisce sempre così, con la morte.

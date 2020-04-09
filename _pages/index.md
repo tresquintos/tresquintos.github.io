@@ -58,7 +58,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
 <script src="/js/topsecret.js"></script>
-<script src="/js/tresquintos.js"></script>
+<script src="/js/cyberdelia.js"></script>
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

@@ -44,7 +44,7 @@ El sitio se actualiza constantemente  dependiendo de la contingencia política d
 
 Estamos en todas las redes sociales.
 
-[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/tresquintos) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.tv/tresquintos)
+[![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos/) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos/) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/3quintos/) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/channel/UCCote-kyiWk17x29X_0nsHw/) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.tv/tresquintos/)
 
 
 ### ¿Quién edita Tresquintos?
@@ -54,9 +54,9 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker)
 
 
-### ¿Qué programas se usan para generar los datos y gráficos en Tresquintos?
+### ¿Qué programas se usan para generar y distribuir contenido?
 
-Además de los programos más básicos, como TextEdit y Excel, se usan las siguientes interfaces de forma frecuente.
+Además de los programas más básicos, como TextEdit y Excel, se usan las siguientes interfaces de forma frecuente.
 
 [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 

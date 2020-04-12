@@ -30,14 +30,14 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 
 ### Evolución regional
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones con más casos:
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones con más casos (más de 500):
 
 
 [![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
 
 [![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_biobio.png) [![ep](/images/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
 
- Los siguientes gráficos muestran el resto de las regiones:
+ Los siguientes gráficos muestran el resto de las regiones, que no han superado los 500 casos:
 
 [![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_arica.png) [![ep](/images/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
 

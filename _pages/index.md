@@ -76,39 +76,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
-<!--
- _________   _______       ___     ___    ___      _____      _                  _      _ _
-|         | |        \    |   |   |   |  |   |    / ____|    | |                | |    | (_)
-|__     __| |    _    \   |   |   '   |  '   '   | |    _   _| |__   ___ _ __ __| | ___| |_  __ _
-   |   |    |   |  \   \  |   '_ /    '_/   /    | |   | | | | '_ \ / _ \ '__/ _` |/ _ \ | |/ _` |
-   |   |    |   |   |   | |         /      /     | |___| |_| | |_) |  __/ | | (_| |  __/ | | (_| |
-   '___'    '___'   '___' '_______ / '____/       \_____\__, |_.__/ \___|_|  \__,_|\___|_|_|\__,_|
-                                                         __/ |
-                                                        |___/
-Design by:
-——————————
-
-    ALEXANDER GRIFFIOEN
-   ✉alexander🐺thenextweb.com
-   ✎@oscaralexander
-   ✈Amsterdam, NL
-
-Implementation/Development by:
-——————————————————
-
-    RONAN O'LEARY           |  JAMES SCOTT      | JULIO FOULQUIÉ            | JULIAN AIJAL
-    ✉ronan🚀thenextweb.com  |  ✈Amsterdam, NL   | ✉julio🐼thenextweb.com    | ✉julian🍻thenextweb.com
-    ✎@ro_oleary             |                   | ✎@julioelpoeta            | ✎@jaijal ✈Amsterdam, NL
-    ✈Dublin, IE             |                   | ✈Montevideo, UY
-    ✈Amsterdam, NL
-
-
-🍺 Aren't you thirsty? Why don't you cyberdelia.knock() on the door? 🍻
-
-console.log('\n💬 %cFor development updates → %o\n', 'color: #1da1f2', 'https://twitter.com/kennethbunker')
-
-
--->
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

@@ -9,7 +9,7 @@ En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile
 
 ### Casos confirmados
 
-Los siguientes gráficos muestra el número de casos confirmados por día. El gráfico de la izquierda muestra la evolución por fecha, y el gráfico de la derecha muestra la evolución por día (a partir del primer caso reportado: 3 de Marzo de 2020.)
+Los siguientes gráficos muestra el número de casos confirmados por día. El gráfico de la izquierda muestra la evolución por fecha, y el gráfico de la derecha muestra la evolución por día (a partir del primer caso reportado: 3 de Marzo de 2020).
 
 [![ep](/images/chile_casos_diarios_fecha.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_diarios_fecha.png) [![ep](/images/chile_casos_diarios_dia.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_diarios_dia.png)
 
@@ -47,6 +47,18 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por r
 [![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_losrios.png) [![ep](/images/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
 
 [![ep](/images/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_aysen.png) [![ep](/images/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_magallanes.png)
+
+
+### Fallecidos
+
+Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chile.
+
+
+[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_daily.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily.png)
+
+Los próximos gráficos muestran la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.
+
+[![ep](/images/latam_muertes.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_muertes.png)
 
 
 ### Comparación de Chile con otros países

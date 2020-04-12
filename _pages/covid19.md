@@ -30,7 +30,14 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 
 ### Evolución regional
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil.
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones con más casos:
+
+
+[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
+
+[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_biobio.png) [![ep](/images/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
+
+ Los siguientes gráficos muestran el resto de las regiones:
 
 [![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_arica.png) [![ep](/images/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
 
@@ -38,11 +45,7 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por r
 
 [![ep](/images/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_coquimbo.png) [![ep](/images/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_valparaiso.png)
 
-[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ohiggins.png)
-
-[![ep](/images/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_maule.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
-
-[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_biobio.png) [![ep](/images/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
+[![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ohiggins.png) [![ep](/images/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_maule.png)
 
 [![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_losrios.png) [![ep](/images/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
 
@@ -65,7 +68,7 @@ Los dos últimos gráficos muestran una comparación de la evolución de casos C
 Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chile.
 
 
-[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png) 
+[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png)
 
 
 El siguiente gráfico muestra la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.

@@ -36,15 +36,9 @@ Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chi
 [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png) [![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png)
 
 
-El siguiente gráfico muestra la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.
+### Evolución de casos a nivel regional
 
-[![ep](/images/latam_muertes.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_muertes.png)
-
-
-
-### Evolución regional
-
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por región. Las barras muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones con más casos (más de 500):
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones con más casos (más de 500):
 
 
 [![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)

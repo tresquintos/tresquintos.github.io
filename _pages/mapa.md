@@ -5,7 +5,7 @@ permalink: /mapa/
 author_profile: true
 ---
 
-En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es desarrollar una carta política nacional (anclada en plataformas electorales) que pueda servir para comparar candidatos y partidos a través del tiempo. El mapa está inspirado en el trabajo de [The Political Compass](https://www.politicalcompass.org/), que popularizó la aproximación minimalista de mapear preferencias políticas de acuerdo a dos variables (relacionadas a lo económico y a lo social). Para descargar los datos usados para hacer todos los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de la página.
+En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es desarrollar una carta política nacional (anclada en plataformas electorales) que pueda servir para comparar candidatos y partidos a través del tiempo. El mapa está inspirado en el trabajo de [The Political Compass](https://www.politicalcompass.org/), que popularizó la aproximación minimalista de mapear preferencias políticas de acuerdo a dos variables (relacionadas a lo económico y a lo social). Para descargar los datos usados para hacer todos los gráficos, pincha [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true) o revisa las instrucciones de "uso avanzado" al final de la página.
 
 ### Coordenadas espaciales
 
@@ -43,7 +43,7 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 
 ### Uso avanzado
 
-Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv).
+Si quieres replicar los gráficos, descarga los datos en formato CSV [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true).
 
 <style>
 .aligncenter {

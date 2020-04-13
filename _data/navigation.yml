@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "⚠️COVID-19⚠️"
+  - title: "⚠️ COVID-19 ⚠️"
     url: /covid19/
 
   - title: "Blog"
@@ -25,8 +25,8 @@ main:
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
 
-  - title: "📌FAQ"
-    url: /faq/
-
   - title: "Mapa"
     url: /mapa/
+
+  - title: "📌FAQ"
+    url: /faq/

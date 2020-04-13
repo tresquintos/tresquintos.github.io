@@ -7,11 +7,11 @@ author_profile: true
 
 En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es proponer una cartografía política/electoral nacional que pueda servir para comparar candidatos y partidos a través del tiempo. Los gráficos están inspirados en [The Political Compass](https://www.politicalcompass.org/), que a su vez propone una aproximación minimalista para mapear preferencias políticas. Para descargar los datos usados para hacer los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de la página.
 
-### Coordenadas Espaciales
+### Coordenadas espaciales
 
 Para construir un mapa politico, se necesitan coordenadas. Pero para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es definir los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Estas variables no solo son útiles por su uso tradicional, sino también porque están fundamentalmente ancladas en escalas ordinales. Mientras que la primera esta anclada en una escala de izquierda a derecha, la segunda está anclada en una escala de mayor a menor autoritarismo.
 
-### Candidatos Presidenciales
+### Candidatos presidenciales
 
 Los siguientes gráficos usan candidatos presidenciales como *proxy* para posicionar partidos políticos. Dado que la gran mayoría de los partidos ha endosado un candidato presidencial, no sería raro observar una alta correlación entre la posición política de candidato y la de un partidos político que lo endosa. Es decir, se puede usar la plataforma política de cada candidato presidencial para posicionar a los partidos que lo apoyaron en los respectivos años electorales. El primer gráfico muestra todos los candidatos presidenciales que han competido en primarias, primera vuelta o segunda vuelta entre 1989 y 2017.
 
@@ -20,6 +20,7 @@ Los siguientes gráficos usan candidatos presidenciales como *proxy* para posici
 El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición notoriamente auotitaria a una levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Bachelet en 2009 y contra Guillier en 2017.
 
 [![ep](/images/coaliciones_zoom.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
+
 
 ### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta
 
@@ -38,7 +39,6 @@ Los siguientes gráficos muestran lo mismo de arriba, pero desargegado por el a�
 [![ep](/images/2013p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013p.png) [![ep](/images/2013pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013pv.png) [![ep](/images/2013sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013sv.png)
 
 [![ep](/images/2017p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017p.png) [![ep](/images/2017pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017pv.png) [![ep](/images/2017sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017sv.png)
-
 
 
 ### Uso avanzado

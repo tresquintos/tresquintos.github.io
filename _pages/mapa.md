@@ -21,8 +21,9 @@ El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anteri
 
 [![ep](/images/coaliciones_zoom.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 
-### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vueltas
+### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta
 
+Los siguientes gráficos muestran lo mismo de arriba, pero desargegado por el aó y el tipo de elección.
 
 [![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
 

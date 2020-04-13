@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "⚠️ El mapa político de Chile"
+title: "El mapa político de Chile"
 permalink: /mapa/
 author_profile: true
 ---
 
-En esta página podrás conocer la distribución de la oferta política en Chile desde 1989. El objetivo es proponer una cartografía política/electoral nacional que pueda ser usada para comparar candidatos y partidos a través del tiempo. Los gráficos están inspirados en [The Political Compass](https://www.politicalcompass.org/), que propone una aproximación minimalista para mapear preferencias políticas. Para descargar los datos usados para hacer los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de esta página.
+En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es proponer una cartografía política/electoral nacional que pueda servir para comparar candidatos y partidos a través del tiempo. Los gráficos están inspirados en [The Political Compass](https://www.politicalcompass.org/), que a su vez propone una aproximación minimalista para mapear preferencias políticas. Para descargar los datos usados para hacer los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de la página.
 
 ### Coordenadas Espaciales
 
-Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es escoger los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Ambos son especialmente útiles porque están fundamentalmente ancladas en escalas ordinales. Mientras que los primeros se pueden ordenar de izquierda a derecha, los segundos se pueden ordenar de mayor autoritarismo a mayor liberalismo.
+Para construir un mapa politico, se necesitan coordenadas. Pero para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es definir los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Estas variables no solo son útiles por su uso tradicional, sino también porque están fundamentalmente ancladas en escalas ordinales. Mientras que la primera esta anclada en una escala de izquierda a derecha, la segunda está anclada en una escala de mayor a menor autoritarismo.
 
 ### Candidatos Presidenciales
 

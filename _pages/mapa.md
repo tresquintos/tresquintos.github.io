@@ -9,17 +9,15 @@ En esta página podrás conocer la distribución de la oferta política en Chile
 
 ### Coordenadas Espaciales
 
-Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es escoger los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Ambos son especialmente útiles porque conllevan escalas ordinales. Los primeros se pueden ordenar de izquierda a derecha y los segundos se pueden ordenar de mayor autoriarismo a mayor liberalismo. 
+Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es escoger los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Ambos son especialmente útiles porque conllevan escalas ordinales. Los primeros se pueden ordenar de izquierda a derecha y los segundos se pueden ordenar de mayor autoriarismo a mayor liberalismo.
 
 ### Candidatos Presidenciales
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
 
-[![ep](/images/coaliciones.png){:height="47%" width="47%"}](https://tresquintos.cl/images/coaliciones.png)
+[![ep](/images/coaliciones.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones.png)
 
-
-
-[![ep](/images/coaliciones_zoom.png){:height="47%" width="47%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
+[![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 
 
 ### Uso avanzado

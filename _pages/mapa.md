@@ -15,9 +15,9 @@ Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar c
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
 
-[![ep](/images/coaliciones.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones.png)
+[![ep](/images/coaliciones.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones.png)
 
-[![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
+[![ep](/images/coaliciones_zoom.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 
 
 ### Uso avanzado

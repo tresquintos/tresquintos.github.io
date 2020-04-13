@@ -17,7 +17,7 @@ Los siguientes gráficos usan candidatos presidenciales como *proxy* para posici
 
 [![ep](/images/coaliciones.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones.png)
 
-El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición notoriamente auotitaria a una levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Bachelet en 2009 y contra Guillier en 2017.
+El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición notoriamente autoritaria a una levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Michelle Bachelet en 2009 y contra Alejandro Guillier en 2017.
 
 [![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 

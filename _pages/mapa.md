@@ -5,7 +5,7 @@ permalink: /mapa/
 author_profile: true
 ---
 
-En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es proponer una cartografía política/electoral nacional que pueda servir para comparar candidatos y partidos a través del tiempo. Los gráficos están inspirados en [The Political Compass](https://www.politicalcompass.org/), que a su vez propone una aproximación minimalista para mapear preferencias políticas. Para descargar los datos usados para hacer los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de la página.
+En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es desarrollar una carta política nacional (anclada en plataformas electorales) que pueda servir para comparar candidatos y partidos a través del tiempo. El mapa está inspirado en el trabajo de [The Political Compass](https://www.politicalcompass.org/), que popularizó la aproximación minimalista de mapear preferencias políticas de acuerdo a dos variables (relacionadas a lo económico y a lo social). Para descargar los datos usados para hacer todos los gráficos, pincha [aquí](https://twitter.com/kennethbunker/) o revisa las instrucciones de "uso avanzado" al final de la página.
 
 ### Coordenadas espaciales
 

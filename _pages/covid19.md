@@ -33,7 +33,7 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chile.
 
 
-[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png)
+[![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png) [![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png)
 
 
 El siguiente gráfico muestra la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.

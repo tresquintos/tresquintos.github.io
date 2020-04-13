@@ -24,7 +24,7 @@ El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anteri
 
 ### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta
 
-Los siguientes gráficos muestran lo mismo de arriba, pero desargegado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta. En 2005, hubo solo primera y segunda vuelta. En 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
+Los siguientes gráficos muestran lo mismo de arriba, pero desargegado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta; en 2005, hubo solo primera y segunda vuelta, y en 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
 
 [![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
 

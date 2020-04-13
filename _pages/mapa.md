@@ -30,6 +30,13 @@ El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anteri
 
 [![ep](/images/1999p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999p.png) [![ep](/images/1999pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999pv.png) [![ep](/images/1999sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
 
+[![ep](/images/2005p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005p.png) [![ep](/images/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005pv.png) [![ep](/images/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
+
+[![ep](/images/2009p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009p.png) [![ep](/images/2009pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009pv.png) [![ep](/images/2009sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009sv.png)
+
+[![ep](/images/2013p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013p.png) [![ep](/images/2013pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013pv.png) [![ep](/images/2013sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2013sv.png)
+
+[![ep](/images/2017p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017p.png) [![ep](/images/2017pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017pv.png) [![ep](/images/2017sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017sv.png)
 
 
 

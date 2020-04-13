@@ -14,7 +14,7 @@ Los siguientes gráficos muestra el número de casos confirmados por día. El gr
 [![ep](/images/chile_casos_diarios_fecha.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_diarios_fecha.png) [![ep](/images/chile_casos_diarios_dia.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_diarios_dia.png)
 
 
-### Avance desde el primer caso
+### Avance de casos confirmados
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, desde el 3 de Marzo de 2020. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con un eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con un eje vertical en escala log.
 
@@ -26,6 +26,20 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, desde
 El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
 [![ep](/images/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_standard.png)
+
+
+### Avance de fallecidos
+
+Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chile.
+
+
+[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png)
+
+
+El siguiente gráfico muestra la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.
+
+[![ep](/images/latam_muertes.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_muertes.png)
+
 
 
 ### Evolución regional
@@ -61,19 +75,6 @@ El próximo gráfico muestra la comparación de la evolución de casos COVID-19 
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Alemania, Estados Unidos, España, Italia y Francia.
 
 [![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/europa_casos_standard2.png)
-
-
-### Fallecidos
-
-Los próximos gráficos muestran la evolución de fallecidos por COVID-19 en Chile.
-
-
-[![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png) [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png)
-
-
-El siguiente gráfico muestra la comparación de la evolución de fallecidos por COVID-19 en Chile, con el de fallecidos en Argentina y Brasil.
-
-[![ep](/images/latam_muertes.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_muertes.png)
 
 
 ### Uso avanzado

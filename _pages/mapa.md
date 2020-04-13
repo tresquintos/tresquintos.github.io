@@ -9,13 +9,15 @@ En esta página podrás conocer la distribución de la oferta política en Chile
 
 ### Coordenadas Espaciales
 
-Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es escoger los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Ambos son especialmente útiles porque conllevan escalas ordinales. Los primeros se pueden ordenar de izquierda a derecha y los segundos se pueden ordenar de mayor autoriarismo a mayor liberalismo.
+Para construir un mapa politico, se necesitan coordenadas. A su vez, para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es escoger los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Ambos son especialmente útiles porque están fundamentalmente ancladas en escalas ordinales. Mientras que los primeros se pueden ordenar de izquierda a derecha, los segundos se pueden ordenar de mayor autoritarismo a mayor liberalismo.
 
 ### Candidatos Presidenciales
 
-Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
+Los siguientes gráficos usan candidatos presidenciales como *proxy* para posicionar partidos políticos. Dado que la gran mayoría de los partidos ha endosado un candidato presidencial, no sería raro observar una correlación entre candidatos presidenciales y partidos políticos. Es decir, se puede usar la plataforma política de cada candidato presidencial para posicionar a los partidos que lo apoyaron en los respectivos años electorales. El primer gráfico muestra todos los candidatos presidenciales que han competido en primarias, primera vuelta o segunda vuelta desde 1989 a 2017.
 
 [![ep](/images/coaliciones.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones.png)
+
+El siguiente gráfico muestra un zoom al gráfico anterior.
 
 [![ep](/images/coaliciones_zoom.png){:height="80%" width="80%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 

@@ -31,7 +31,7 @@ Los siguientes gr√°ficos muestran lo mismo de arriba, pero desargegado por el a√
 
 [![ep](/images/1999p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999p.png) [![ep](/images/1999pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999pv.png) [![ep](/images/1999sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
 
-[![ep](/images/2005p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005p.png) [![ep](/images/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005pv.png) [![ep](/images/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
+[![ep](/images/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005pv.png) [![ep](/images/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
 
 [![ep](/images/2009p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009p.png) [![ep](/images/2009pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009pv.png) [![ep](/images/2009sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009sv.png)
 

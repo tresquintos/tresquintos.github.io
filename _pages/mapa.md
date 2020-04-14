@@ -5,26 +5,26 @@ permalink: /mapa/
 author_profile: true
 ---
 
-En esta página podrás conocer la primera propuesta extensiva de un mapa político de Chile. El objetivo es desarrollar una carta política nacional (anclada en plataformas electorales) que pueda servir para comparar candidatos y partidos a través del tiempo. El mapa está inspirado en el trabajo de [The Political Compass](https://www.politicalcompass.org/), que popularizó la aproximación minimalista de mapear preferencias políticas de acuerdo a dos variables (relacionadas a lo económico y a lo social). Para descargar los datos usados para hacer todos los gráficos, pincha [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true) o revisa las instrucciones de "uso avanzado" al final de la página.
+En esta página podrás conocer una propuesta para un mapa político de Chile. El objetivo es desarrollar una carta política nacional (anclada en plataformas electorales) que pueda servir para comparar candidatos y partidos a través del tiempo. El mapa está inspirado en el trabajo de [The Political Compass](https://www.politicalcompass.org/), que popularizó la aproximación minimalista de mapear preferencias políticas de acuerdo a dos variables (relacionadas a lo económico y a lo social). Para descargar los datos usados para hacer todos los gráficos, pincha [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true) o revisa las instrucciones de "uso avanzado" al final de la página.
 
 ### Coordenadas espaciales
 
-Para construir un mapa politico, se necesitan coordenadas. Pero para usar coordenadas, se necesitan ejes. Por aquello, el primer paso es definir los ejes. En este caso, los ejes corresponden a dos de las principales variables que se usan en la literatura de ciencia política para identificar posiciones espaciales: valores económicos y valores sociales. Estas variables no solo son útiles por su uso tradicional, sino también porque están fundamentalmente ancladas en escalas ordinales. Mientras que la primera esta anclada en una escala de izquierda a derecha, la segunda está anclada en una escala de mayor a menor autoritarismo.
+Para construir un mapa politico, se necesitan coordenadas. Pero para tener coordenadas, se necesitan ejes. Por aquello, el primer paso es definir los ejes. En este caso, los ejes corresponden a dos de las principales variables que se han usado en la literatura de ciencia política para identificar posiciones espaciales: economía y sociedad. Estas dos variables no solo son útiles por su uso tradicional, sino también porque están fundamentalmente ancladas en escalas ordinales. Mientras que la primera está anclada en un ordenamiento que va de izquierda a derecha, la segunda está anclada en una escala que va de autoritarismo a liberalismo.
 
 ### Candidatos presidenciales
 
-Los siguientes gráficos usan candidatos presidenciales como *proxy* para posicionar partidos políticos. Dado que la gran mayoría de los partidos ha endosado un candidato presidencial, no sería raro observar una alta correlación entre la posición política de candidato y la de un partidos político que lo endosa. Es decir, se puede usar la plataforma política de cada candidato presidencial para posicionar a los partidos que lo apoyaron en los respectivos años electorales. El primer gráfico muestra todos los candidatos presidenciales que han competido en primarias, primera vuelta o segunda vuelta entre 1989 y 2017.
+Los siguientes gráficos usan candidatos presidenciales como *proxy* para posicionar partidos políticos. Dado que la gran mayoría de los partidos ha endosado un candidato presidencial, no sería raro observar una alta correlación entre la posición política de un candidato y la del partido que lo endosa. Es decir, se puede usar la plataforma política de cada candidato presidencial para posicionar a los partidos que los apoyaron en sus respectivas apuestas electorales. El primer gráfico muestra todos los candidatos presidenciales que han competido en primarias, primera vuelta o segunda vuelta entre 1989 y 2017.
 
 [![ep](/images/coaliciones.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones.png)
 
-El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición notoriamente autoritaria a una levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Michelle Bachelet en 2009 y contra Alejandro Guillier en 2017.
+El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición relativamente autoritaria a una posición levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Michelle Bachelet en 2009 y contra Alejandro Guillier en 2017.
 
 [![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}](https://tresquintos.cl/images/coaliciones_zoom.png)
 
 
 ### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta
 
-Los siguientes gráficos muestran el posicionamiento de candidatos presidenciales, desagregado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta; en 2005, hubo solo primera y segunda vuelta, y en 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
+Los siguientes gráficos muestran el posicionamiento de candidatos presidenciales entre 1989 y 2017, desagregado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta; en 2005, hubo solo primera y segunda vuelta, y en 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
 
 ![ep](/images/zero.png){:height="30%" width="30%"} [![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
 
@@ -43,7 +43,7 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 
 ### Uso avanzado
 
-Si quieres replicar los gráficos, descarga los datos en formato CSV [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true).
+Los nombres de los candidatos y sus coordenadas [*x*,*y*] están en los archivos adjuntos. Si quieres replicar los gráficos, descarga los datos en formato CSV [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true).
 
 <style>
 .aligncenter {

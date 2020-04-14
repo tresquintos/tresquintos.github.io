@@ -15,11 +15,11 @@ Para construir un mapa politico, se necesitan coordenadas. Pero para tener coord
 
 Los siguientes gráficos usan candidatos presidenciales como *proxy* para posicionar partidos políticos. Dado que la gran mayoría de los partidos ha endosado un candidato presidencial, no sería raro observar una alta correlación entre la posición política de un candidato y la del partido que lo endosa. Es decir, se puede usar la plataforma política de cada candidato presidencial para posicionar a los partidos que los apoyaron en sus respectivas apuestas electorales. El primer gráfico muestra todos los candidatos presidenciales que han competido en primarias, primera vuelta o segunda vuelta entre 1989 y 2017.
 
-[![ep](/images/coaliciones.png){:height="100%" width="100%"}]
+![ep](/images/coaliciones.png){:height="100%" width="100%"}
 
 El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anterior. No solo se puede observar de mejor manera el posicionamiento de los candidatos, sino que también la trayectoria de aquellos que han disputado más de una elección. Por ejemplo, la de Sebastián Piñera, que se movió de una posición relativamente autoritaria a una posición levemente más liberal, entre 2005 y 2017. A su vez, también se movió de derecha a izquierda para disputar segundas vueltas, como fue el caso contra Michelle Bachelet en 2009 y contra Alejandro Guillier en 2017.
 
-[![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}]
+![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}
 
 
 ### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta

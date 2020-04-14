@@ -26,7 +26,7 @@ El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anteri
 
 Los siguientes gráficos muestran el posicionamiento de candidatos presidenciales, desagregado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta; en 2005, hubo solo primera y segunda vuelta, y en 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
 
-[![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
+[![ep](/images/zero.png){:height="30%" width="30%"}](https://tresquintos.cl/images/zero.png) [![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
 
 [![ep](/images/1993pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1993pv.png)
 

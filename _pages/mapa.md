@@ -22,7 +22,7 @@ El siguiente gráfico muestra un *zoom* a la zona más densa del gráfico anteri
 ![ep](/images/coaliciones_zoom.png){:height="100%" width="100%"}
 
 
-### Posicionamiento espacial 1989-2017: Primarias, primera vuelta y segunda vuelta
+### Posicionamiento espacial: Primarias, primera vuelta y segunda vuelta
 
 Los siguientes gráficos muestran el posicionamiento de candidatos presidenciales entre 1989 y 2017, desagregado por el año y el tipo de elección. En 1989 y 1993 hubo solo primera vuelta; en 2005, hubo solo primera y segunda vuelta, y en 1999, 2009, 2013 y 2017, hubo primarias, primera vuelta y segunda vuelta.
 

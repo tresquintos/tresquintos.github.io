@@ -28,11 +28,11 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 
 ![ep](/images/zero.png){:height="30%" width="30%"} [![ep](/images/1989pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1989pv.png)
 
-[![ep](/images/1993pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1993pv.png)
+![ep](/images/zero.png){:height="30%" width="30%"} [![ep](/images/1993pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1993pv.png)
 
 [![ep](/images/1999p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999p.png) [![ep](/images/1999pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999pv.png) [![ep](/images/1999sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
 
-[![ep](/images/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005pv.png) [![ep](/images/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
+![ep](/images/zero.png){:height="30%" width="30%"} [![ep](/images/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2005pv.png) [![ep](/images/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999sv.png)
 
 [![ep](/images/2009p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009p.png) [![ep](/images/2009pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009pv.png) [![ep](/images/2009sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2009sv.png)
 

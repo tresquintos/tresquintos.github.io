@@ -11,7 +11,7 @@ En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
 
-[![ep](/images/chile_casos_diarios_dia.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_diarios_dia.png) [![ep](/images/chile_casos_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_totales.png)
+[![ep](/images/chile_casos_confirmados.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_confirmados.png) [![ep](/images/chile_casos_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_totales.png)
 
 
 ### Avance de casos confirmados

@@ -8,7 +8,7 @@ author_profile: true
 En esta página podrás conocer los métodos que se utilizan para realizar simulaciones electorales. Primero, presenta una descripción general. Luego, describe los dos métodos más utilizados. Finalmente, usa la elección de constituyentes de 2020 para dar un ejemplo del uso del segundo de los dos métodos.
 
 
-### ¿Qué son las Sx?
+### ![ep](/images/pc.png){:height="2%" width="2%"}  ¿Qué son las Sx?
 
 Las simulaciones (**Sx**) son métodos para realizar proyecciones electorales en elecciones para las cuales se distribuye más de un escaño por distrito (e.g., concejales, diputados o senadores). La selección del método depende, escencialmente, del contexto de la elección. Considerando que los escenarios políticos pueden varían significativamente de una elección a otra, hay dos alternativas:
 

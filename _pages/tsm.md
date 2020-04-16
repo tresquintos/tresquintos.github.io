@@ -7,7 +7,8 @@ author_profile: true
 
 En esta página podrás conocer el método que se utiliza para realizar pronósticos electorales. Primero, describe el modelo, y sus dos etapas sequenciales. Luego, da un ejemplo a partir de una carrera con dos candidatos. Finalmente, sugiere algunos enclaces que se pueden seguir para encontrar información más detallada sobre el modelo.
 
-### Qué es el TSM?
+
+### ![ep](/images/pc.png){:height="4%" width="4%"} ¿Qué es el TSM?
 
 El **TSM** (Two-Stage Model) es un método para realizar pronósticos electorales usando datos de encuestas que buscan estimar preferencias para cada uno de los candidatos (o opciones, en caso de un plebiscito) que están en carrera. Tal como su nombre lo indica, el proceso diferencia entre dos fases: una fase de *input* y una fase de *output*. En la primera de las dos fases:
 
@@ -27,7 +28,7 @@ Lo anterior resulta en un pronóstico para la elección "si fuera hoy". Pero no 
 
 En este caso, se opta por la segunda alternativa. Es decir, se extrae el resultado de las cadenas, y se computa una [curva Gaussiana](https://en.wikipedia.org/wiki/Normal_distribution). Esa curva constituye la [distribución de probabilidades](https://en.wikipedia.org/wiki/Probability_density_function) o [densidad de probabilidades](https://en.wikipedia.org/wiki/Kernel_density_estimation). De esa curva se cálcula el área dentro de la cual caen 80% de las simulaciones (ver [z-score](https://www.pindling.org/Math/Learning/Statistics/z_scores_table.htm)). Finalmente, se identifican los puntos más extremos y se asignan como los límites en el rango de resultados probables.
 
-### Un ejemplo
+### ![ep](/images/pc.png){:height="4%" width="4%"} Un ejemplo
 
 Lo anterior solo es posible cuando hay al menos 2 encuestas. A modo de ejemplo, supongamos que hay 2 encuestas que buscan pronosticar el resultado de una elección con dos candidatos (alternativas). Supongamos también que en una de esas dos encuestas se reporta que el candidato **A** obtiene 40% de las preferencias y el candidato **B** obtiene 35% de las preferencias. Esto significa que hay un total de 75% de preferencias validas.
 
@@ -40,7 +41,7 @@ Luego, se estima la probabilidad de que el pronóstico que propone la segunda en
 Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. La idea es tratar de reemplazar cada uno de los puntos en que se hizo una encuesta por un pronóstico "si la elección fuera hoy". Para hacer eso, sencillamanete se repite el proceso completo, sequencialmente. Primero para las dos primeras encuestas, luego para las tres primeras, luego para las cuatro primeras. Y así sucesivamente hasta llegar a la décima.
 
 
-### Detalles técnicos
+### ![ep](/images/pc.png){:height="4%" width="4%"} Detalles técnicos
 
 Como nota final, el TSM es experimental. Es solo una aproximación "informada", y por ende inevitablemente conlleva error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.cl/posts/2020/03/caveat/). Para ver los detalles técnicos del **TSM**, pincha [aquí](https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies). Para ver un ejemplo de la aplicación para el caso chileno en 2013, pincha [aquí](https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile). Para ver un ejemplo de su aplicación para el caso italiano en tres elecciones (2008, 2013 y 2017), pincha [aquí](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 

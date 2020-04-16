@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "![ep](/images/pc.png){:height="2%" width="2%"} Simulaciones"
+title: "Simulaciones"
 permalink: /sx/
 author_profile: true
 ---

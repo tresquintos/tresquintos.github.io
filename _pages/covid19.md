@@ -69,7 +69,7 @@ Los dos últimos gráficos muestran una comparación de la evolución de casos C
 [![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/europa_casos_standard2.png)
 
 
-### Uso avanzado
+### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
 Si quieres replicar estos datos, descarga los datos en formato CSV de Chile [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_chile.csv) y del resto del mundo [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_mundo.csv). Si quieres los datos de América Latina, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_latam.csv) y si quieres los datos de Europa y Estados Unidos, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_europa.csv). Finalmente, si quieres los datos de Asia, pincha [aquí](https://raw.githubusercontent.com/tresquintos/tresquintos.github.io/master/files/covid19_asia.csv). (Si usas **R** o **Stata** puedes abrir el archivo directo con la dirección del enlace).
 

@@ -41,7 +41,7 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 [![ep](/images/2017p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017p.png) [![ep](/images/2017pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017pv.png) [![ep](/images/2017sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/2017sv.png)
 
 
-### Uso avanzado
+### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
 Los nombres de los candidatos y sus coordenadas [*x*,*y*] están en los archivos adjuntos. Si quieres replicar los gráficos, descarga los datos en formato CSV [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true).
 

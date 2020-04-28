@@ -12,7 +12,7 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 [![Todo1](/images/ts_2020-1_all.png)](https://tresquintos.cl/images/ts_2020-1_all.png)
 
-Y desagregado por pregunta:
+Y desagregado por opción:
 
 [![Aprueba](/images/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-1_Aprueba.png) [![Aprueba](/images/kd_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2020-1_Aprueba.png)
 
@@ -22,6 +22,10 @@ Y desagregado por pregunta:
 
 
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
+
+[![Todo2](/images/ts_2020-2_all.png)](https://tresquintos.cl/images/ts_2020-2_all.png)
+
+Y desagregado por opción:
 
 [![CC](/images/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2020-2_Convención%20Constituyente.png) [![CC](/images/kd_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/kd_2020-2_Convención%20Constituyente.png)
 

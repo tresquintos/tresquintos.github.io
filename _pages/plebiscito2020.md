@@ -23,7 +23,7 @@ Y desagregado por opción:
 
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
 
-[![Todo2](/images/ts_2020-2_all.png)](https://tresquintos.cl/images/ts_2020-2_all.png)
+![Todo2](/images/ts_2020-2_all.png)
 
 Y desagregado por opción:
 

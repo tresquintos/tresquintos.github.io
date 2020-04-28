@@ -10,7 +10,7 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 ### Primera Pregunta: ¿Quiere usted una nueva Constitución?
 
-[![Rechaza](/images/ts_2020-1_all.png)](https://tresquintos.cl/images/ts_2020-1_all.png)
+[![Todo1](/images/ts_2020-1_all.png)](https://tresquintos.cl/images/ts_2020-1_all.png)
 
 Y desagregado por pregunta:
 

@@ -19,11 +19,11 @@ main:
   - title: "🇨🇱Plebiscito 2020"
     url: /plebiscito2020/
 
-  - title: "🇨🇱Constituyentes 2021"
-    url: /constituyentes2021/
-
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
+
+  - title: "🇨🇱Constituyentes 2021"
+    url: /constituyentes2021/
 
   - title: "Mapas"
     url: /mapa/

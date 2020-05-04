@@ -14,13 +14,6 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 [![ep](/images/chile_casos_confirmados.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_confirmados.png) [![ep](/images/chile_casos_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_totales.png)
 
 
-### Avance de casos confirmados
-
-Los próximos gráficos muestran el avance de casos a través del tiempo, desde el 3 de Marzo de 2020. La línea azul muestra el número de casos confirmados. El gráfico de la izquierda muestra la acumulación de casos por día con un eje vertical variable, y el gráfico de la derecha muestra la acumulación de casos por día con un eje vertical en escala log.
-
-[![ep](/images/chile_casos_acumulados_freq.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_freq.png) [![ep](/images/chile_casos_acumulados_log.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_acumulados_log.png)
-
-
 ### Avance de casos confirmados: estándar de comparación
 
 El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.

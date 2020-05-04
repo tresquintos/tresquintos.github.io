@@ -35,6 +35,13 @@ Los siguientes gráficos muestran el número de fallecidos confirmados por día 
 [![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png) [![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png)
 
 
+### Capacidad Hospitalaria
+
+Los siguientes gráficos muestran el número de pacientes en unidades críticas (izquierda) y el porcentaje de ventiladores mecánicos ocupados (derecha).
+
+[![ep](/images/chile_hospitalizados_unidades_criticas.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_hospitalizados_unidades_criticas.png) [![ep](/images/chile_ventiladores_ocupados.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ventiladores_ocupados.png)
+
+
 ### Evolución de casos confirmados a nivel regional
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía.

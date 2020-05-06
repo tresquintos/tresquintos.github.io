@@ -13,13 +13,13 @@ En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). Los gráficos tienen distintos ejes dew acuerdo al número de contagios
 
 
-## Casos confirmados (más de 1,000)
+#### Casos confirmados (más de 1,000)
 
 ![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
 ![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
-## Casos confirmados (entre 100 y 1,000)
+#### Casos confirmados (entre 100 y 1,000)
 
 
 ![ep](/images/covid19/comunas/Santiago.png){:height="30%" width="30%"}
@@ -27,22 +27,20 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/Talca.png){:height="30%" width="30%"}
 
 
-## Casos confirmados (entre 50 y 100)
+#### Casos confirmados (entre 50 y 100)
 
 ![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
 ![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
 
-## Casos confirmados (entre 10 y 50)
+#### Casos confirmados (entre 10 y 50)
 
 ![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
 ![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
-
-
-## Casos confirmados (menos de 10)
+#### Casos confirmados (menos de 10)
 
 ![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
 ![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}

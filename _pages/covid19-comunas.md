@@ -53,7 +53,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_%C3%91u%C3%B1oa.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Osorno.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pedro%20Aguirre%20Cerda.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Peñalolén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Peñalolén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Providencia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pudahuel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Punta%20Arenas.png){:height="31%" width="31%"}
@@ -62,10 +62,10 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Recoleta.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Renca.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_San%20Bernardo.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_San%20Joaquín.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Joaquín.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_San%20Miguel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_San%20Pedro%20de%20la%20Paz.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_San%20Ramón.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Ramón.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Talca.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Talcahuano.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Temuco.png){:height="31%" width="31%"}

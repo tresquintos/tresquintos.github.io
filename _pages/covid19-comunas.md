@@ -188,9 +188,46 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/10_Chimbarongo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_CholChol.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Coelemu.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Coinco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Colbún.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Collipulli.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Corral.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Coyhaique.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Cunco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Curacautín.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Curanilahue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Curarrehue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Curepto.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Diego de Almagro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Doñihue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_El Carmen.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Diego%20de%20Almagro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Doñihue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_El%20Carmen.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_El%20Quisco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Florida.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Freire.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Freirina.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Frutillar.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Futrono.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Galvarino.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Graneros.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Hijuelas.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Hualaihué.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Huara.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Huasco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Isla%20de%20Pascua.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_La%20Cruz.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_La%20Ligua.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Lago%20Ranco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Lanco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Las%20Cabras.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Licantén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Litueche.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Llaillay.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Llanquihue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Longaví.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Los%20Álamos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
@@ -204,50 +241,13 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 
 
-10_Coinco.png
-10_Colbún.png
-10_Collipulli.png
-10_Corral.png
-10_Coyhaique.png
-10_Cunco.png
-10_Curacautín.png
-10_Curanilahue.png
-10_Curarrehue.png
-10_Curepto.png
-10_Diego de Almagro.png
-10_Doñihue.png
-10_El Carmen.png
-10_El Quisco.png
-10_Florida.png
-10_Freire.png
-10_Freirina.png
-10_Frutillar.png
-10_Futrono.png
-10_Galvarino.png
-10_Graneros.png
-10_Hijuelas.png
-10_Hualaihué.png
-10_Huara.png
-10_Huasco.png
-10_Isla de Pascua.png
-10_La Cruz.png
-10_La Ligua.png
-10_Lago Ranco.png
-10_Lanco.png
-10_Las Cabras.png
-10_Licantén.png
-10_Litueche.png
-10_Llaillay.png
-10_Llanquihue.png
-10_Longaví.png
-10_Los Álamos.png
-10_Los Muermos.png
-10_Los Sauces.png
-10_Los Vilos.png
+10_Los%20Muermos.png
+10_Los%20Sauces.png
+10_Los%20Vilos.png
 10_Lota.png
 10_Lumaco.png
 10_Máfil.png
-10_María Pinto.png
+10_María%20Pinto.png
 10_Mariquina.png
 10_Maullín.png
 10_Molina.png
@@ -273,17 +273,17 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 10_Peumo.png
 10_Placilla.png
 10_Porvenir.png
-10_Pozo Almonte.png
+10_Pozo%20Almonte.png
 10_Primavera.png
 10_Puchuncaví.png
-10_Puerto Octay.png
-10_Puerto Varas.png
+10_Puerto%20Octay.png
+10_Puerto%20Varas.png
 10_Punitaqui.png
 10_Purén.png
 10_Putaendo.png
 10_Puyehue.png
 10_Quinchao.png
-10_Quinta de Tilcoco.png
+10_Quinta%20de%20Tilcoco.png
 10_Quintero.png
 10_Quirihue.png
 10_Rauco.png
@@ -292,33 +292,33 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 10_Requínoa.png
 10_Retiro.png
 10_Rinconada.png
-10_Río Claro.png
-10_Río Hurtado.png
-10_Sagrada Familia.png
+10_Río%20Claro.png
+10_Río%20Hurtado.png
+10_Sagrada%20Familia.png
 10_Salamanca.png
-10_San Esteban.png
-10_San Fabián.png
-10_San Fernando.png
-10_San Gregorio.png
-10_San Pablo.png
-10_San Pedro de Atacama.png
-10_San Rafael.png
-10_San Vicente de Tagua Tagua.png
-10_Santa Bárbara.png
-10_Santa Cruz.png
-10_Santa Juana.png
+10_San%20Esteban.png
+10_San%20Fabián.png
+10_San%20Fernando.png
+10_San%20Gregorio.png
+10_San%20Pablo.png
+10_San%20Pedro%20de%20Atacama.png
+10_San%20Rafael.png
+10_San%20Vicente%20de%20Tagua%20Tagua.png
+10_Santa%20Bárbara.png
+10_Santa%20Cruz.png
+10_Santa%20Juana.png
 10_Taltal.png
 10_Teno.png
-10_Teodoro Schmidt.png
-10_Tierra Amarilla.png
+10_Teodoro%20Schmidt.png
+10_Tierra%20Amarilla.png
 10_Tirúa.png
 10_Toltén.png
 10_Tortel.png
 10_Traiguén.png
 10_Tucapel.png
 10_Vicuña.png
-10_Villa Alegre.png
-10_Yerbas Buenas.png
+10_Villa%20Alegre.png
+10_Yerbas%20Buenas.png
 10_Yumbel.png
 
 

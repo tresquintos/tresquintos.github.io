@@ -5,7 +5,7 @@ permalink: /covid19/
 author_profile: true
 ---
 
-En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
+En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/). Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
 ### Casos confirmados
 
@@ -41,7 +41,7 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 ### Evolución de casos confirmados a nivel regional
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía.
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
 
 [![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
 

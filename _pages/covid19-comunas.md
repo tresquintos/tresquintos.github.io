@@ -21,7 +21,6 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 #### Comunas con entre 100 y 1,000 casos confirmados
 
-
 ![ep](/images/covid19/comunas/1000_Angol.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Antofagasta.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Arica.png){:height="31%" width="31%"}
@@ -82,6 +81,11 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
 
 
 
@@ -91,6 +95,16 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
+
 
 
 
@@ -100,6 +114,11 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
 
 
 

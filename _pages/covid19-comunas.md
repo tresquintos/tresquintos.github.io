@@ -95,9 +95,9 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 ![ep](/images/covid19/comunas/50_Algarrobo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ancud.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Cabo de Hornos.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Cabo%20de%20Hornos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Cabrero.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Calera de Tango.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Calera%20de%20Tango.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Carahue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Cauquenes.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Coihueco.png){:height="31%" width="31%"}
@@ -108,27 +108,27 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/50_Coronel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Curacaví.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Curicó.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_El Monte.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_El Tabo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_El%20Monte.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_El%20Tabo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ercilla.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Gorbea.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Hualqui.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Illapel.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Isla de Maipo.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_La Calera.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_La Serena.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Isla%20de%20Maipo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_La%20Calera.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_La%20Serena.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_La Unión.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Lautaro.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Limache.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Linares.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Loncoche.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Los Andes.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Los Ángeles.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Los%20Andes.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Los%20Ángeles.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Machalí.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_María Elena.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_María%20Elena.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Maule.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Nacimiento.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Nueva Imperial.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Nueva%20Imperial.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ovalle.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Paine.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Penco.png){:height="31%" width="31%"}
@@ -137,26 +137,26 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/50_Pirque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Pitrufquén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Pucón.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Puerto Montt.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Puerto%20Montt.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Purranque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quillón.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quillota.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quilpué.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Rancagua.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ránquil.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Río Bueno.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Río Negro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Río%20Bueno.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Río%20Negro.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Romeral.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Saavedra.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Carlos.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Clemente.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Felipe.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Ignacio.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Javier.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San José de Maipo.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Juan de la Costa.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Nicolás.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San Pedro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Carlos.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Clemente.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Felipe.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Ignacio.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Javier.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20José de Maipo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Juan de la Costa.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Nicolás.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Pedro.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santa María.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santo Domingo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Talagante.png){:height="31%" width="31%"}

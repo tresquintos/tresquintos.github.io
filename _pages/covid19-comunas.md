@@ -32,7 +32,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Conchalí.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_El%20Bosque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Estación%20Central.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Hualpén.png.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Hualpén.png.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Huechuraba.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Independencia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Iquique.png){:height="31%" width="31%"}
@@ -47,12 +47,10 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Lo%20Espejo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Lo%20Prado.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Macul.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Maipú.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Maipú.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Mejillones.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Melipilla.png){:height="31%" width="31%"}
-
 ![ep](/images/covid19/comunas/1000_%C3%91u%C3%B1oa.png){:height="31%" width="31%"}
-
 ![ep](/images/covid19/comunas/1000_Osorno.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pedro%20Aguirre%20Cerda.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Peñalolén.png){:height="31%" width="31%"}
@@ -72,7 +70,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Talcahuano.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Temuco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Valdivia.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Valparaíso.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Valparaíso.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Viña%20del Mar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Vitacura.png){:height="31%" width="31%"}
 

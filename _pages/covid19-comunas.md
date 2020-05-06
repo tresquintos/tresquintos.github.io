@@ -15,8 +15,8 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 #### Comunas con más de 1,000 casos confirmados
 
-![ep](/images/covid19/comunas/1000_Santiago.png){:height="47%" width="47%"}
-![ep](/images/covid19/comunas/1000_Puente%20Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/2000_Santiago.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/2000_Puente%20Alto.png){:height="47%" width="47%"}
 
 
 #### Comunas con entre 100 y 1,000 casos confirmados

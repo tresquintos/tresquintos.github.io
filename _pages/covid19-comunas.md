@@ -32,7 +32,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Conchalí.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_El%20Bosque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Estación%20Central.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Hualpén.png.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Hualpén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Huechuraba.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Independencia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Iquique.png){:height="31%" width="31%"}
@@ -170,6 +170,30 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 #### Comunas con menos de 10 casos confirmados
 
+![ep](/images/covid19/comunas/10_Andacollo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Arauco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Aysén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Cabildo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Calbuco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Caldera.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Calle Larga.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Canela.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Cartagena.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Casablanca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Castro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Catemu.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Chaitén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Chanco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Chile Chico.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Chimbarongo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_CholChol.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Coelemu.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
@@ -179,6 +203,123 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
 
+
+10_Coinco.png
+10_Colbún.png
+10_Collipulli.png
+10_Corral.png
+10_Coyhaique.png
+10_Cunco.png
+10_Curacautín.png
+10_Curanilahue.png
+10_Curarrehue.png
+10_Curepto.png
+10_Diego de Almagro.png
+10_Doñihue.png
+10_El Carmen.png
+10_El Quisco.png
+10_Florida.png
+10_Freire.png
+10_Freirina.png
+10_Frutillar.png
+10_Futrono.png
+10_Galvarino.png
+10_Graneros.png
+10_Hijuelas.png
+10_Hualaihué.png
+10_Huara.png
+10_Huasco.png
+10_Isla de Pascua.png
+10_La Cruz.png
+10_La Ligua.png
+10_Lago Ranco.png
+10_Lanco.png
+10_Las Cabras.png
+10_Licantén.png
+10_Litueche.png
+10_Llaillay.png
+10_Llanquihue.png
+10_Longaví.png
+10_Los Álamos.png
+10_Los Muermos.png
+10_Los Sauces.png
+10_Los Vilos.png
+10_Lota.png
+10_Lumaco.png
+10_Máfil.png
+10_María Pinto.png
+10_Mariquina.png
+10_Maullín.png
+10_Molina.png
+10_Mostazal.png
+10_Mulchén.png
+10_Nancagua.png
+10_Natales.png
+10_Navidad.png
+10_Negrete.png
+10_Ninhue.png
+10_Ñiquén.png
+10_Olivar.png
+10_Olmué.png
+10_Paillaco.png
+10_Papudo.png
+10_Parral.png
+10_Pelarco.png
+10_Pelluhue.png
+10_Pemuco.png
+10_Pencahue.png
+10_Perquenco.png
+10_Petorca.png
+10_Peumo.png
+10_Placilla.png
+10_Porvenir.png
+10_Pozo Almonte.png
+10_Primavera.png
+10_Puchuncaví.png
+10_Puerto Octay.png
+10_Puerto Varas.png
+10_Punitaqui.png
+10_Purén.png
+10_Putaendo.png
+10_Puyehue.png
+10_Quinchao.png
+10_Quinta de Tilcoco.png
+10_Quintero.png
+10_Quirihue.png
+10_Rauco.png
+10_Renaico.png
+10_Rengo.png
+10_Requínoa.png
+10_Retiro.png
+10_Rinconada.png
+10_Río Claro.png
+10_Río Hurtado.png
+10_Sagrada Familia.png
+10_Salamanca.png
+10_San Esteban.png
+10_San Fabián.png
+10_San Fernando.png
+10_San Gregorio.png
+10_San Pablo.png
+10_San Pedro de Atacama.png
+10_San Rafael.png
+10_San Vicente de Tagua Tagua.png
+10_Santa Bárbara.png
+10_Santa Cruz.png
+10_Santa Juana.png
+10_Taltal.png
+10_Teno.png
+10_Teodoro Schmidt.png
+10_Tierra Amarilla.png
+10_Tirúa.png
+10_Toltén.png
+10_Tortel.png
+10_Traiguén.png
+10_Tucapel.png
+10_Vicuña.png
+10_Villa Alegre.png
+10_Yerbas Buenas.png
+10_Yumbel.png
 
 
 

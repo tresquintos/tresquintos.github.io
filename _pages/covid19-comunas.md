@@ -10,7 +10,7 @@ En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile
 
 ### Comunas con casos confirmados
 
-Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). Los gráficos tienen distintos ejes dew acuerdo al número de contagios
+Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). Por ahora, los datos reportados a nivel comunal comienzan a fines de marzo. Los gráficos tienen distintos ejes de acuerdo al número de contagios, y están agrupados de mayor a menor.
 
 
 #### Casos confirmados (más de 1,000)

@@ -53,7 +53,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_%C3%91u%C3%B1oa.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Osorno.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pedro%20Aguirre%20Cerda.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Pe%C3%B1alolén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Pe%C3%B1alolén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Providencia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pudahuel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Punta%20Arenas.png){:height="31%" width="31%"}

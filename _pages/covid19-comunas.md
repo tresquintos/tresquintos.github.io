@@ -34,7 +34,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 
 ![ep](/images/covid19/comunas/1000_Colina.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Concepción.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Concepción.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Conchalí.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_El%20Bosque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Estación%20Central.png){:height="31%" width="31%"}

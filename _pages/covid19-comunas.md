@@ -71,7 +71,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Temuco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Valdivia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Valparaíso.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Viña%20del Mar.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Viña%20del%20Mar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Vitacura.png){:height="31%" width="31%"}
 
 

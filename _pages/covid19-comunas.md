@@ -16,7 +16,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ## Comunas con menos de 10 casos confirmados
 
 ![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-[![ep](../images/covid19/comunas/Talca.png){:height="47%" width="47%"}]
+![ep](../images/covid19/comunas/Talca.png){:height="47%" width="47%"}
 
 
 

@@ -81,12 +81,12 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/100_Bulnes.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Calama.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Chiguayante.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/100_Chillán Viejo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/100_Chillán Viejo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Padre Hurtado.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Padre Las Casas.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/100_Peñaflor.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/100_Peñaflor.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_San Antonio.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/100_Tomé.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/100_Tomé.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Victoria.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Yungay.png){:height="31%" width="31%"}
 

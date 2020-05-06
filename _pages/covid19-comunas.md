@@ -27,18 +27,14 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Arica.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Cerrillos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Cerro%20Navia.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Chillán.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Colina.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Concepción.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Conchalí.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_El%20Bosque.png){:height="31%" width="31%"}
 
 
 
-1000_Angol.png
-1000_Antofagasta.png
-1000_Arica.png
-1000_Cerrillos.png
 1000_Cerro Navia.png
 1000_Chillán.png
 1000_Colina.png

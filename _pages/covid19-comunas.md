@@ -242,7 +242,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/10_Navidad.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Negrete.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Ninhue.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_%C3%91iquén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_%C3%91iquén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Olivar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Olmué.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Paillaco.png){:height="31%" width="31%"}

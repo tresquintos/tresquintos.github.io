@@ -228,100 +228,85 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/10_Llanquihue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Longaví.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Los%20Álamos.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
-
-
-10_Los%20Muermos.png
-10_Los%20Sauces.png
-10_Los%20Vilos.png
-10_Lota.png
-10_Lumaco.png
-10_Máfil.png
-10_María%20Pinto.png
-10_Mariquina.png
-10_Maullín.png
-10_Molina.png
-10_Mostazal.png
-10_Mulchén.png
-10_Nancagua.png
-10_Natales.png
-10_Navidad.png
-10_Negrete.png
-10_Ninhue.png
-10_Ñiquén.png
-10_Olivar.png
-10_Olmué.png
-10_Paillaco.png
-10_Papudo.png
-10_Parral.png
-10_Pelarco.png
-10_Pelluhue.png
-10_Pemuco.png
-10_Pencahue.png
-10_Perquenco.png
-10_Petorca.png
-10_Peumo.png
-10_Placilla.png
-10_Porvenir.png
-10_Pozo%20Almonte.png
-10_Primavera.png
-10_Puchuncaví.png
-10_Puerto%20Octay.png
-10_Puerto%20Varas.png
-10_Punitaqui.png
-10_Purén.png
-10_Putaendo.png
-10_Puyehue.png
-10_Quinchao.png
-10_Quinta%20de%20Tilcoco.png
-10_Quintero.png
-10_Quirihue.png
-10_Rauco.png
-10_Renaico.png
-10_Rengo.png
-10_Requínoa.png
-10_Retiro.png
-10_Rinconada.png
-10_Río%20Claro.png
-10_Río%20Hurtado.png
-10_Sagrada%20Familia.png
-10_Salamanca.png
-10_San%20Esteban.png
-10_San%20Fabián.png
-10_San%20Fernando.png
-10_San%20Gregorio.png
-10_San%20Pablo.png
-10_San%20Pedro%20de%20Atacama.png
-10_San%20Rafael.png
-10_San%20Vicente%20de%20Tagua%20Tagua.png
-10_Santa%20Bárbara.png
-10_Santa%20Cruz.png
-10_Santa%20Juana.png
-10_Taltal.png
-10_Teno.png
-10_Teodoro%20Schmidt.png
-10_Tierra%20Amarilla.png
-10_Tirúa.png
-10_Toltén.png
-10_Tortel.png
-10_Traiguén.png
-10_Tucapel.png
-10_Vicuña.png
-10_Villa%20Alegre.png
-10_Yerbas%20Buenas.png
-10_Yumbel.png
-
-
+![ep](/images/covid19/comunas/10_Los%20Muermos.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Los%20Sauces.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Los%20Vilos.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Lota.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Lumaco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Máfil.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_María%20Pinto.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Mariquina.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Maullín.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Molina.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Mostazal.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Mulchén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Nancagua.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Natales.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Navidad.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Negrete.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Ninhue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Ñiquén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Olivar.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Olmué.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Paillaco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Papudo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Parral.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Pelarco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Pelluhue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Pemuco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Pencahue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Perquenco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Petorca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Peumo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Placilla.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Porvenir.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Pozo%20Almonte.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Primavera.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Puchuncaví.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Puerto%20Octay.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Puerto%20Varas.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Punitaqui.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Purén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Putaendo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Puyehue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Quinchao.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Quinta%20de%20Tilcoco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Quintero.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Quirihue.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Rauco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Renaico.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Rengo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Requínoa.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Retiro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Rinconada.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Río%20Claro.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Río%20Hurtado.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Sagrada%20Familia.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Salamanca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Esteban.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Fabián.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Fernando.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Gregorio.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Pablo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Pedro%20de%20Atacama.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Rafael.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_San%20Vicente%20de%20Tagua%20Tagua.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Santa%20Bárbara.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Santa%20Cruz.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Santa%20Juana.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Taltal.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Teno.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Teodoro%20Schmidt.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Tierra%20Amarilla.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Tirúa.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Toltén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Tortel.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Traiguén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Tucapel.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Vicuña.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Villa%20Alegre.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Yerbas%20Buenas.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Yumbel.png){:height="31%" width="31%"}
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado

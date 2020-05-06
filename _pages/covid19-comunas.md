@@ -8,15 +8,38 @@ author_profile: true
 En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile, a nivel comunal. El objetivo es monitorear el avance de los casos confirmados en cada una de las comunas en que se han reportado contagios. Los gráficos se actualizarán a medida que se vayan registrando datos oficiales. Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
 
-### Casos confirmados
+### Comunas con casos confirmados
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). Los gráficos tienen distintos ejes dew acuerdo al número de contagios
 
 
-## Comunas con menos de 10 casos confirmados
+## Casos confirmados (más de 1,000)
 
 ![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](../images/covid19/comunas/Talca.png){:height="47%" width="47%"}
+![ep](./images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+
+
+
+## Casos confirmados (entre 100 y 1,000)
+
+
+
+## Casos confirmados (entre 50 y 100)
+
+
+
+## Casos confirmados (entre 10 y 50)
+
+
+
+## Casos confirmados (menos de 10)
+
+
+
+
+
+
+![ep](./images/covid19/comunas/Talca.png){:height="47%" width="47%"}
 
 
 

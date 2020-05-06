@@ -26,13 +26,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Arica.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Cerrillos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Cerro%20Navia.png){:height="31%" width="31%"}
-
-
 ![ep](/images/covid19/comunas/1000_Chillán.png){:height="31%" width="31%"}
-
-[![José Antonio Kast](/images/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/ts_2021_José%20Antonio%20Kast.png)
-
-
 ![ep](/images/covid19/comunas/1000_Colina.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Concepción.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Conchalí.png){:height="31%" width="31%"}

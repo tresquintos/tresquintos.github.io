@@ -44,39 +44,36 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_La%20Reina.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Lampa.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Las%20Condes.png){:height="31%" width="31%"}
-
-
-
-1000_Lo Barnechea.png
-1000_Lo Espejo.png
-1000_Lo Prado.png
-1000_Macul.png
-1000_Maipú.png
-1000_Mejillones.png
-1000_Melipilla.png
-1000_Ñuñoa.png
-1000_Osorno.png
-1000_Pedro Aguirre Cerda.png
-1000_Peñalolén.png
-1000_Providencia.png
-1000_Pudahuel.png
-1000_Punta Arenas.png
-1000_Quilicura.png
-1000_Quinta Normal.png
-1000_Recoleta.png
-1000_Renca.png
-1000_San Bernardo.png
-1000_San Joaquín.png
-1000_San Miguel.png
-1000_San Pedro de la Paz.png
-1000_San Ramón.png
-1000_Talca.png
-1000_Talcahuano.png
-1000_Temuco.png
-1000_Valdivia.png
-1000_Valparaíso.png
-1000_Viña del Mar.png
-1000_Vitacura.png
+![ep](/images/covid19/comunas/1000_Lo%20Barnechea.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Lo%20Espejo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Lo%20Prado.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Macul.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Maipú.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Mejillones.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Melipilla.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Ñuñoa.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Osorno.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Pedro%20Aguirre%20Cerda.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Peñalolén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Providencia.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Pudahuel.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Punta%20Arenas.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Quilicura.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Quinta%20Normal.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Recoleta.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Renca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Bernardo.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Joaquín.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Miguel.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Pedro%20de%20la%20Paz.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_San%20Ramón.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Talca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Talcahuano.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Temuco.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Valdivia.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Valparaíso.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Viña%20del Mar.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Vitacura.png){:height="31%" width="31%"}
 
 
 #### Comunas con entre 50 y 100 casos confirmados

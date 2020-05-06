@@ -22,27 +22,98 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 #### Comunas con entre 100 y 1,000 casos confirmados
 
 
-![ep](/images/covid19/comunas/Santiago.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/Puente%20Alto.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/Talca.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Angol.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Antofagasta.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Arica.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Cerrillos.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Cerro%20Navia.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
+
+
+1000_Angol.png
+1000_Antofagasta.png
+1000_Arica.png
+1000_Cerrillos.png
+1000_Cerro Navia.png
+1000_Chillán.png
+1000_Colina.png
+1000_Concepción.png
+1000_Conchalí.png
+1000_El Bosque.png
+1000_Estación Central.png
+1000_Hualpén.png
+1000_Huechuraba.png
+1000_Independencia.png
+1000_Iquique.png
+1000_La Cisterna.png
+1000_La Florida.png
+1000_La Granja.png
+1000_La Pintana.png
+1000_La Reina.png
+1000_Lampa.png
+1000_Las Condes.png
+1000_Lo Barnechea.png
+1000_Lo Espejo.png
+1000_Lo Prado.png
+1000_Macul.png
+1000_Maipú.png
+1000_Mejillones.png
+1000_Melipilla.png
+1000_Ñuñoa.png
+1000_Osorno.png
+1000_Pedro Aguirre Cerda.png
+1000_Peñalolén.png
+1000_Providencia.png
+1000_Pudahuel.png
+1000_Punta Arenas.png
+1000_Quilicura.png
+1000_Quinta Normal.png
+1000_Recoleta.png
+1000_Renca.png
+1000_San Bernardo.png
+1000_San Joaquín.png
+1000_San Miguel.png
+1000_San Pedro de la Paz.png
+1000_San Ramón.png
+1000_Talca.png
+1000_Talcahuano.png
+1000_Temuco.png
+1000_Valdivia.png
+1000_Valparaíso.png
+1000_Viña del Mar.png
+1000_Vitacura.png
 
 
 #### Comunas con entre 50 y 100 casos confirmados
 
-![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
 
 
 #### Comunas con entre 10 y 50 casos confirmados
 
-![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
 
 
 #### Comunas con menos de 10 casos confirmados
 
-![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/XXXXXXXXXXXXXXXXXXXXXX.png){:height="31%" width="31%"}
+
 
 
 

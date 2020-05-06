@@ -28,5 +28,8 @@ main:
   - title: "Mapas"
     url: /mapa/
 
+  - title: "COVID-19: Foco Comunal"
+    url: /covid19-comunas/
+
   - title: "📌FAQ"
     url: /faq/

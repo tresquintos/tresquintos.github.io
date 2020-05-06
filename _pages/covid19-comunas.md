@@ -15,42 +15,37 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 ## Casos confirmados (más de 1,000)
 
-![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](../images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
 ## Casos confirmados (entre 100 y 1,000)
 
 
-![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](./images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Santiago.png){:height="30%" width="30%"}
+![ep](/images/covid19/comunas/Puente_Alto.png){:height="30%" width="30%"}
+![ep](/images/covid19/comunas/Talca.png){:height="30%" width="30%"}
 
 
 ## Casos confirmados (entre 50 y 100)
 
-![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](./images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
 
 ## Casos confirmados (entre 10 y 50)
 
-![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](./images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
+
 
 
 
 ## Casos confirmados (menos de 10)
 
-![ep](./images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
-![ep](./images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
-
-
-
-
-
-
-![ep](./images/covid19/comunas/Talca.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Santiago.png){:height="47%" width="47%"}
+![ep](/images/covid19/comunas/Puente_Alto.png){:height="47%" width="47%"}
 
 
 

@@ -53,7 +53,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_%C3%91u%C3%B1oa.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Osorno.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pedro%20Aguirre%20Cerda.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Peñalolén.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Pe%C3%B1alolén.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Providencia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Pudahuel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Punta%20Arenas.png){:height="31%" width="31%"}
@@ -71,7 +71,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/1000_Temuco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Valdivia.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Valparaíso.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/1000_Viña%20del%20Mar.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Vi%C3%B1a%20del%20Mar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Vitacura.png){:height="31%" width="31%"}
 
 
@@ -84,7 +84,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/100_Chillán%20Viejo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Padre%20Hurtado.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Padre%20Las%20Casas.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/100_Peñaflor.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/100_Pe%C3%B1aflor.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_San%20Antonio.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Tomé.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Victoria.png){:height="31%" width="31%"}

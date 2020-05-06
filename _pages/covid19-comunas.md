@@ -102,7 +102,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/50_Cauquenes.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Coihueco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Concón.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Constitución.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Constitución.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Copiapó.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Coquimbo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Coronel.png){:height="31%" width="31%"}
@@ -143,7 +143,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 ![ep](/images/covid19/comunas/50_Quillota.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quilpué.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Rancagua.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Ránquil.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Ránquil.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Río%20Bueno.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Río%20Negro.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Romeral.png){:height="31%" width="31%"}

@@ -18,11 +18,11 @@ El siguiente gráfico muestra la evolución en el número de ministros a través
 
 ### Evolución de mujeres en el gabinete
 
-El siguiente gráfico muestra el porcentaje de mujeres en el gabinete a través del tiempo. Por ejemplo, muestra que al comienzo del gobierno de Bachelet hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres bajó hacia la mitad del periodo y solo volvió a subir hacia el final del gobierno.
+Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.
 
 
-![cc](/images/chile_gabinete_numero_mujeres.png){:height="90%" width="90%"}
-![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="90%" width="90%"}
+![cc](/images/chile_gabinete_numero_mujeres.png){:height="46%" width="46%"}
+![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}
 
 
 

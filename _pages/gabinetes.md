@@ -25,6 +25,12 @@ Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabi
 [![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/chile_gabinete_porcentaje_mujeres.png)
 
 
+### La edad de los ministros
+
+El siguiente gráfico muestra la evolución en edad de los ministros a través del tiempo. Específicamente, muestra el promedio (móvil) de edad de todo los ministros de un gobierno en el momento que hay un cambio de gabinete. Esto implica dos cosas. Primero, que los gobiernos que están en ejercicio (como el de Piñera, 2018-2022) tienen mayor variación que los gobiernos terminados, y segundo, que los gobiernos que tienen pocos cambios de gabinete (como el de Aylwin, 1990-1994) tienen menos variación intermedia que los gobiernos con muchos cambios de gabinete
+
+![cc](/images/chile_gabinete_promedi_edad.png){:height="100%" width="100%"}
+
 
 
 <!-- NES -->

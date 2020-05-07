@@ -5,15 +5,24 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile.
 
 
-### Evolución en el número de minsistros
+### Evolución en el número total de minsistros
 
-El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
+El siguiente gráfico muestra la evolución en el número de ministros a través del tiempo. Las líneas son acumulativas. Es decir, comienzan con el número de ministros que son nombrados en el primer día de cada gobierno (11 de marzo), y van aumentado a medida que van saliendo viejos ministros y entrando nuevos ministros.
 
 
 ![cc](/images/chile_gabinete_numero_total.png){:height="90%" width="90%"}
+
+
+### Evolución de mujeres en el gabinete
+
+El siguiente gráfico muestra el porcentaje de mujeres en el gabinete a través del tiempo. Por ejemplo, muestra que al comienzo del gobierno de Bachelet hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres bajó hacia la mitad del periodo y solo volvió a subir hacia el final del gobierno.
+
+
+![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="90%" width="90%"}
+
 
 
 

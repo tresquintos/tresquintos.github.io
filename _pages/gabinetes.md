@@ -8,7 +8,7 @@ author_profile: true
 En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el ajuste influye en el patrón existente.
 
 
-### Evolución en el número total de minsistros
+### Evolución en el número total de ministros
 
 El siguiente gráfico muestra la evolución en el número de ministros a través del tiempo. Las líneas son acumulativas. Es decir, comienzan con el número de ministros que son nombrados en el primer día de cada gobierno (11 de marzo), y van aumentado a medida que van saliendo viejos ministros y entrando nuevos ministros.
 

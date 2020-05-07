@@ -27,7 +27,7 @@ Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabi
 
 ### La edad de los ministros cuando debutan, por cartera
 
-Los siguientes gráfico muestran la evolución en la edad de los ministros que entran a un gabinete a través del tiempo.
+Los siguientes gráficos muestran la evolución en la edad de los ministros que entran a un gabinete, diferenciando por cartera.
 
 ![cc](/images/gabinete/edad/chile_edad_Agricultura.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Bienes%20Nacionales.png){:height="31%" width="31%"}

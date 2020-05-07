@@ -28,6 +28,9 @@ main:
   - title: "Mapas"
     url: /mapa/
 
+  - title: "Gabinetes y Ministros en Chile"
+    url: /gabinetes/
+
   - title: "COVID-19: Foco Comunal"
     url: /covid19-comunas/
 

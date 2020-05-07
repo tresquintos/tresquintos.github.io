@@ -32,22 +32,22 @@ Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabi
 
 
 ![cc](/images/gabinete/edad/chile_edad_Agricultura.png){:height="31%" width="31%"}
-![cc](/images/gabinete/edad/chile_edad_Bienes Nacionales.png){:height="31%" width="31%"}
+![cc](/images/gabinete/edad/chile_edad_Bienes%20Nacionales.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Cultura.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Defensa.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Deporte.png){:height="31%" width="31%"}
-![cc](/images/gabinete/edad/chile_edad_Desarollo Social.png){:height="31%" width="31%"}
+![cc](/images/gabinete/edad/chile_edad_Desarollo%20Social.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Economía.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Educación.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Energía.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Hacienda.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Interior.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Justicia.png){:height="31%" width="31%"}
-![cc](/images/gabinete/edad/chile_edad_Medio Ambiente.png){:height="31%" width="31%"}
+![cc](/images/gabinete/edad/chile_edad_Medio%20Ambiente.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Minería.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Mujer.png){:height="31%" width="31%"}
-![cc](/images/gabinete/edad/chile_edad_Obras Públicas.png){:height="31%" width="31%"}
-![cc](/images/gabinete/edad/chile_edad_Relaciones Exteriores.png){:height="31%" width="31%"}
+![cc](/images/gabinete/edad/chile_edad_Obras%20Públicas.png){:height="31%" width="31%"}
+![cc](/images/gabinete/edad/chile_edad_Relaciones%20Exteriores.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Salud.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Segegob.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Segpres.png){:height="31%" width="31%"}

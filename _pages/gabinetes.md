@@ -5,7 +5,7 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile.
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el ajuste influye en el patrón existente.
 
 
 ### Evolución en el número total de minsistros
@@ -22,7 +22,7 @@ Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabi
 
 
 [![cc](/images/chile_gabinete_numero_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/chile_gabinete_numero_mujeres.png)
-![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}(/images/chile_gabinete_numero_mujeres.png)
+[![cc](/images/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/chile_gabinete_porcentaje_mujeres.png)
 
 
 

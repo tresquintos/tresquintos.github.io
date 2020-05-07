@@ -13,7 +13,7 @@ En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile
 El siguiente gráfico muestra la evolución en el número de ministros a través del tiempo. Las líneas son acumulativas. Es decir, comienzan con el número de ministros que son nombrados en el primer día de cada gobierno (11 de marzo), y van aumentado a medida que van saliendo viejos ministros y entrando nuevos ministros.
 
 
-![cc](/images/gabinete/edad/chile_gabinete_numero_total.png){:height="100%" width="100%"}
+![cc](/images/gabinete/chile_gabinete_numero_total.png){:height="100%" width="100%"}
 
 
 ### Evolución de mujeres en el gabinete
@@ -21,15 +21,13 @@ El siguiente gráfico muestra la evolución en el número de ministros a través
 Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.
 
 
-[![cc](/images/gabinete/edad/chile_gabinete_numero_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/chile_gabinete_numero_mujeres.png)
-[![cc](/images/gabinete/edad/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/chile_gabinete_porcentaje_mujeres.png)
-
-
+[![cc](/images/gabinete/chile_gabinete_numero_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/gabinete/chile_gabinete_numero_mujeres.png)
+[![cc](/images/gabinete/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/gabinete/images/chile_gabinete_porcentaje_mujeres.png)
 
 
 ### La edad de los ministros cuando debutan, por cartera
 
-Los siguientes gráfico muestran la evolución en la edad de los ministros que entran a un gabinete a través del tiempo. 
+Los siguientes gráfico muestran la evolución en la edad de los ministros que entran a un gabinete a través del tiempo.
 
 ![cc](/images/gabinete/edad/chile_edad_Agricultura.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Bienes%20Nacionales.png){:height="31%" width="31%"}

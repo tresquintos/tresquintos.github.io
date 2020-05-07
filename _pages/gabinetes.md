@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Gabinetes"
+title: "Gabinetes Ministeriales"
 permalink: /gabinetes/
 author_profile: true
 ---

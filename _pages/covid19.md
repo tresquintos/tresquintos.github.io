@@ -73,7 +73,7 @@ Los siguientes gráficos buscan comparar el número de casos confirmados y falle
 
 El próximo gráfico muestra la comparación de la evolución de casos COVID-19 entre Chile, Argentina y Brasil.
 
-[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/latam_casos_standard.png)
+[![ep](/images/covid19/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/latam_casos_standard.png)
 
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Alemania, Estados Unidos, España, Italia y Francia.
 

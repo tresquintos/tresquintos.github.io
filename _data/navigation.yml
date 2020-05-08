@@ -31,6 +31,9 @@ main:
   - title: "Gabinetes"
     url: /gabinetes/
 
+  - title: "Fichajes"
+    url: /fichajes/
+
   - title: "COVID-19: Foco Comunal"
     url: /covid19-comunas/
 

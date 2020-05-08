@@ -1,17 +1,11 @@
 # main links links
 main:
 
-  - title: "⚠️ COVID-19 ⚠️"
+  - title: "⚠️ COVID-19: Nacional"
     url: /covid19/
 
-  - title: "Blog"
-    url: /year-archive/
-
-  - title: "TSM"
-    url: /tsm/
-
-  - title: "Sx"
-    url: /sx/
+  - title: "⚠️ COVID-19: Foco Comunal"
+    url: /covid19-comunas/
 
   - title: "Elecciones"
     url: /elecciones/
@@ -25,6 +19,12 @@ main:
   - title: "🇨🇱Constituyentes 2021"
     url: /constituyentes2021/
 
+  - title: "TSM"
+    url: /tsm/
+
+  - title: "Sx"
+    url: /sx/
+
   - title: "Mapas"
     url: /mapa/
 
@@ -34,8 +34,8 @@ main:
   - title: "Fichajes"
     url: /fichajes/
 
-  - title: "COVID-19: Foco Comunal"
-    url: /covid19-comunas/
+  - title: "Blog"
+    url: /year-archive/
 
   - title: "📌FAQ"
     url: /faq/

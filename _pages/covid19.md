@@ -66,7 +66,7 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por R
 
 Los siguientes gráficos buscan comparar el número de casos confirmados y fallecidos con la reacción del gobierno frente al avance del COVID-19. Usa el Oxford COVID-19 Government Response Tracker o **OxCGRT** (ver sección final para fuente). El **OxCGRT** esencialmente mide el porcentaje de severidad de las medidas del gobierno (va de 0% a 100%). El gráfico de la izquierda muestra el índice en comparación con el avance en el número de casos, y el gráfico de la derecha muestra el índice en comparación al avance en el número de fallecidos.
 
-[![ep](/images/chile_contingency_cases.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_cases.png)  [![ep](/images/covid19/chile_contingency_deaths.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_deaths.png)
+[![ep](/images/covid19/chile_contingency_cases.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_cases.png)  [![ep](/images/covid19/chile_contingency_deaths.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_deaths.png)
 
 
 ### Comparación de Chile con otros países

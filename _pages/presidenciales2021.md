@@ -18,11 +18,11 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_José%20Antonio%20Kast.png)
 
-[![Daniel Jadue](/images/ts_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Daniel%20Jadue.png) [![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Daniel%20Jadue.png)
+[![Daniel Jadue](/images/tsm/ts_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Daniel%20Jadue.png) [![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Daniel%20Jadue.png)
 
 [![Michelle Bachelet](/images/tsm/ts_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Michelle%20Bachelet.png) [![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Michelle%20Bachelet.png)
 
-[![Felipe Kast](/images/ts_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Felipe%20Kast.png) [![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Felipe%20Kast.png)
+[![Felipe Kast](/images/tsm/ts_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Felipe%20Kast.png) [![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Felipe%20Kast.png)
 
 [![Manuel José Ossandón](/images/tsm/ts_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Manuel%20José%20Ossandón.png) [![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Manuel%20José%20Ossandón.png)
 

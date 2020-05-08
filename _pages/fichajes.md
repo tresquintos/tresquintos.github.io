@@ -10,7 +10,7 @@ En esta página puedes ver estadísticas de legisladores que se cambian de parti
 
 ### Renuncia de parlamentarios en ejercicio
 
-El siguiente gráfico muestra la evolución en el número de ministros a través del tiempo. Las líneas son acumulativas. Es decir, comienzan con el número de ministros que son nombrados en el primer día de cada gobierno (11 de marzo), y van aumentado a medida que van saliendo viejos ministros y entrando nuevos ministros.
+Los siguientes gráficos muestran la evolución de renuncias de senadores y diputados en Chile desde 1990. Las líneas son acumulativas. Es decir, comienzan con ecero renuncias el 11 de marzo de 1990, y van aumentado a medida que los parlamentarios van renunciando. El gráfico de la izquierda muestra la tendencia a través del tiempo y el gráfico de la derecha muestra la tendencia controlando por peridos presidenciales (normaliza periodos para facilitar la comparación).
 
 
 [![cc](/images/fichajes/chile_party_switchers.png){:height="46%" width="46%"}](https://tresquintos.cl/images/fichajes/chile_party_switchers.png)

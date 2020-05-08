@@ -11,21 +11,21 @@ En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
 
-[![ep](/images/chile_casos_confirmados.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_confirmados.png) [![ep](/images/chile_casos_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_casos_totales.png)
+[![ep](/images/covid19/chile_casos_confirmados.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_casos_confirmados.png) [![ep](/images/covid19/chile_casos_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_casos_totales.png)
 
 
 ### Avance de casos confirmados: estándar de comparación
 
 El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
-[![ep](/images/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/chile_casos_standard.png)
+[![ep](/images/covid19/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/chile_casos_standard.png)
 
 
 ### Fallecidos confirmados
 
 Los siguientes gráficos muestran el número de fallecidos confirmados por día en Chile.
 
-[![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_1.png) [![ep](/images/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_deaths_daily_steps.png)
+[![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_1.png) [![ep](/images/covid19/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_daily_steps.png)
 
 
 ### Capacidad Hospitalaria
@@ -43,23 +43,23 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
 
-[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_metropolitana.png) [![ep](/images/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
+[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
 
-[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_biobio.png) [![ep](/images/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
+[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
 
  Los siguientes gráficos muestran el resto las regiones que tienen **menos de 1,000 casos confirmados**: Arica, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, OHiggins, Maule, Los Ríos, Los Lagos, Aysén, y Magallanes.
 
-[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_arica.png) [![ep](/images/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
+[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png) [![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
 
-[![ep](/images/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_antofagasta.png) [![ep](/images/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_atacama.png)
+[![ep](/images/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_antofagasta.png) [![ep](/images/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png)
 
-[![ep](/images/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_coquimbo.png) [![ep](/images/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_valparaiso.png)
+[![ep](/images/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png) [![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_valparaiso.png)
 
-[![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ohiggins.png) [![ep](/images/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_maule.png)
+[![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png) [![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png)
 
-[![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_losrios.png) [![ep](/images/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
+[![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png) [![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
 
-[![ep](/images/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_aysen.png) [![ep](/images/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_magallanes.png)
+[![ep](/images/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png) [![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png)
 
 
 ### Número de Fallecidos vs. Medidas del Gobierno
@@ -73,11 +73,11 @@ Los siguientes gráficos buscan comparar el número de casos confirmados y falle
 
 El próximo gráfico muestra la comparación de la evolución de casos COVID-19 entre Chile, Argentina y Brasil.
 
-[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/latam_casos_standard.png)
+[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/regiones/latam_casos_standard.png)
 
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Alemania, Estados Unidos, España, Italia y Francia.
 
-[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/latam_casos_standard2.png) [![ep](/images/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/europa_casos_standard2.png)
+[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/latam_casos_standard2.png) [![ep](/images/covid19/regiones/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/europa_casos_standard2.png)
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado

@@ -25,7 +25,7 @@ El siguiente gráfico muestra el avance de casos a través del tiempo, comparand
 
 Los siguientes gráficos muestran el número de fallecidos confirmados por día en Chile.
 
-[![ep](/images/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_1.png) [![ep](/images/covid19/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_daily_steps.png)
+[![ep](/images/covid19/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_1.png) [![ep](/images/covid19/chile_deaths_daily_steps.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_deaths_daily_steps.png)
 
 
 ### Capacidad Hospitalaria
@@ -43,21 +43,21 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
 
-[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_ñuble.png)
+[![ep](/images/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
 
-[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_araucania.png)
+[![ep](/images/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png)
 
  Los siguientes gráficos muestran el resto las regiones que tienen **menos de 1,000 casos confirmados**: Arica, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, OHiggins, Maule, Los Ríos, Los Lagos, Aysén, y Magallanes.
 
-[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png) [![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_tarapaca.png)
+[![ep](/images/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png) [![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png)
 
-[![ep](/images/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_antofagasta.png) [![ep](/images/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png)
+[![ep](/images/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_antofagasta.png) [![ep](/images/covid19/regiones/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png)
 
-[![ep](/images/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png) [![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_valparaiso.png)
+[![ep](/images/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png) [![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_valparaiso.png)
 
 [![ep](/images/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png) [![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png)
 
-[![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png) [![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_loslagos.png)
+[![ep](/images/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png) [![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_loslagos.png)
 
 [![ep](/images/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png) [![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png)
 
@@ -66,18 +66,18 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por R
 
 Los siguientes gráficos buscan comparar el número de casos confirmados y fallecidos con la reacción del gobierno frente al avance del COVID-19. Usa el Oxford COVID-19 Government Response Tracker o **OxCGRT** (ver sección final para fuente). El **OxCGRT** esencialmente mide el porcentaje de severidad de las medidas del gobierno (va de 0% a 100%). El gráfico de la izquierda muestra el índice en comparación con el avance en el número de casos, y el gráfico de la derecha muestra el índice en comparación al avance en el número de fallecidos.
 
-[![ep](/images/chile_contingency_cases.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_contingency_cases.png)  [![ep](/images/chile_contingency_deaths.png){:height="47%" width="47%"}](https://tresquintos.cl/images/chile_contingency_deaths.png)
+[![ep](/images/chile_contingency_cases.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_cases.png)  [![ep](/images/covid19/chile_contingency_deaths.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_contingency_deaths.png)
 
 
 ### Comparación de Chile con otros países
 
 El próximo gráfico muestra la comparación de la evolución de casos COVID-19 entre Chile, Argentina y Brasil.
 
-[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/regiones/latam_casos_standard.png)
+[![ep](/images/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/latam_casos_standard.png)
 
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Alemania, Estados Unidos, España, Italia y Francia.
 
-[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/latam_casos_standard2.png) [![ep](/images/covid19/regiones/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/europa_casos_standard2.png)
+[![ep](/images/latam_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/latam_casos_standard2.png) [![ep](/images/covid19/europa_casos_standard2.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/europa_casos_standard2.png)
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado

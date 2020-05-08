@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "⚠️ Especial: COVID-19 - Foco Comunal"
+title: "⚠️ Especial: COVID-19 - Comunal"
 permalink: /covid19-comunas/
 author_profile: true
 ---

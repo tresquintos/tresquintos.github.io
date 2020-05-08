@@ -4,7 +4,7 @@ main:
   - title: "⚠️ COVID-19: Nacional"
     url: /covid19/
 
-  - title: "⚠️ COVID-19: Foco Comunal"
+  - title: "⚠️ COVID-19: Comunal"
     url: /covid19-comunas/
 
   - title: "Elecciones"

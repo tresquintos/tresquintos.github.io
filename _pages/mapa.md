@@ -30,11 +30,11 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 
 ![ep](/images/mapa/zero.png){:height="30%" width="30%"} [![ep](/images/mapa/1993pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1993pv.png)
 
-[![ep](/images/mapa/1999p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999p.png) [![ep](/images/mapa/1999pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/1999pv.png) [![ep](/images/1999sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999sv.png)
+[![ep](/images/mapa/1999p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999p.png) [![ep](/images/mapa/1999pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999pv.png) [![ep](/images/mapa/1999sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999sv.png)
 
 ![ep](/images/mapa/zero.png){:height="30%" width="30%"} [![ep](/images/mapa/2005pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2005pv.png) [![ep](/images/mapa/2005sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/1999sv.png)
 
-[![ep](/images/mapa/2009p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009p.png) [![ep](/images/mapa/2009pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009pv.png) [![ep](/images/2009sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009sv.png)
+[![ep](/images/mapa/2009p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009p.png) [![ep](/images/mapa/2009pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009pv.png) [![ep](/images/mapa/2009sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2009sv.png)
 
 [![ep](/images/mapa/2013p.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2013p.png) [![ep](/images/mapa/2013pv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2013pv.png) [![ep](/images/mapa/2013sv.png){:height="30%" width="30%"}](https://tresquintos.cl/images/mapa/2013sv.png)
 

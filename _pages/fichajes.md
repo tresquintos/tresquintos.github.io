@@ -5,12 +5,12 @@ permalink: /fichajes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de legisladores que se cambian de partido mientras están en el poder. Hay datos generales, como el número de diputados y senadores que se cambian de partido mientras están en ejercicio, pero también datos más específicos, como la tendencia normalizada por periodo de gobierno. Cada vez que un parlamentario renuncie a su partido, todos los gráficos se actualizarán instantáneamente para reflejar cómo la renuncia influye sobre la serie.
+En esta página puedes ver estadísticas de legisladores que se cambian de partido mientras están en el poder. Hay datos generales, como el número de senadores y diputados que se cambian de partido mientras están en ejercicio, pero también datos más específicos, como la tendencia normalizada por periodo de gobierno. Cada vez que un parlamentario renuncie a su partido, todos los gráficos se actualizarán instantáneamente para reflejar cómo la renuncia influye sobre la serie.
 
 
 ### Renuncia de parlamentarios en ejercicio
 
-Los siguientes gráficos muestran la evolución de renuncias de senadores y diputados en Chile desde 1990. Las líneas son acumulativas. Es decir, comienzan con ecero renuncias el 11 de marzo de 1990, y van aumentado a medida que los parlamentarios van renunciando. El gráfico de la izquierda muestra la tendencia a través del tiempo y el gráfico de la derecha muestra la tendencia controlando por peridos presidenciales (normaliza periodos para facilitar la comparación).
+Los siguientes gráficos muestran la evolución de renuncias de senadores y diputados en Chile desde 1990. Las líneas son acumulativas. Es decir, comienzan con cero renuncias el 11 de marzo de 1990, y van aumentado a medida que los parlamentarios van renunciando. El gráfico de la izquierda muestra la tendencia a través del tiempo y el gráfico de la derecha muestra la tendencia controlando por periodos presidenciales (los normaliza para facilitar la comparación).
 
 
 [![cc](/images/fichajes/chile_party_switchers.png){:height="46%" width="46%"}](https://tresquintos.cl/images/fichajes/chile_party_switchers.png)

@@ -5,7 +5,7 @@ permalink: /covid19/
 author_profile: true
 ---
 
-En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/). Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
+En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. **Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/).** Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
 ### Casos confirmados
 

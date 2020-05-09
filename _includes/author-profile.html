@@ -8,7 +8,7 @@
 
   <div class="author__avatar"><a href="https://{{ author.inicio }}"> Test1</a>
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" href="https://{{ author.inicio }}">
+    	<a href="https://{{ author.inicio }}"> Test2><img src="{{ author.avatar }}" alt="{{ author.name }}"></a>
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"><a href="https://www.facebook.com/{{ author.inicio }}"> Test3</a>
     {% endif %}

@@ -86,6 +86,7 @@ analytics:
 author:
   name             : "Tresquintos"
   avatar           : "logo_short.png"
+  inicio           : "tresquintos.cl" # testing this to make link to home
   bio              : "Análisis político y pronósticos electorales"
   location         : #
   employer         :

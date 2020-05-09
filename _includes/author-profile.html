@@ -6,7 +6,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar"><a href="https://{{ author.inicio }}"> Test1</a>
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}"><a href="https://www.facebook.com/{{ author.inicio }}"> Facebook</a>
     {% else %}

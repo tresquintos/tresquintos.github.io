@@ -69,12 +69,16 @@
    Author profile and links
    ========================================================================== */
 
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
+  <a href="https://www.google.com">
+  <img src="https://placehold.it/100" />
+</a>
 
   @include breakpoint($large) {
     display: block;

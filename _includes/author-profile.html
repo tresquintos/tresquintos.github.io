@@ -8,11 +8,13 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
+      <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
+
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>

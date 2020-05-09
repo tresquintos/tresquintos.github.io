@@ -13,7 +13,7 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 El primer paso es suponer que ciertos partidos o movimientos van a formar ciertas coaliciones. Y que esas coaliciones van a competir en las elecciones para maximizar su retorno en escaños. La tabla de abajo muestra una posible distribución de coaliciones. Las agrupaciones surgen de patrones históricos y cercanías ideológicas. A medida que avance el ciclo electoral, la lista se irá actualizando. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
 
 
-![cc](/images/coaliciones.png){:height="90%" width="90%"}
+![cc](/images/constituyente2021/coaliciones.png){:height="90%" width="90%"}
 
 
 ### Convención Constituyente

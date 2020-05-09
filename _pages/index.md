@@ -36,7 +36,7 @@ Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://t
 
 Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
 
-[![cc](/images/constituyentes2021/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![CM](/images/constituyentes2021/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
+[![Convención Constitucional](/images/constituyentes2021/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![Convención Mixta](/images/constituyentes2021/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
 
 
 ### Otros enlaces

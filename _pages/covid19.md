@@ -18,7 +18,7 @@ Los siguientes gráficos muestran el número de casos confirmados por día (a pa
 
 El siguiente gráfico muestra el avance de casos a través del tiempo, comparando con distintos pronósticos. La línea azul muestra el número de casos confirmados. Las líneas grises muestran distintos pronósticos para el avance de acuerdo a la duplicación de casos por día, por cada dos días, por cada tres días, y semanalmente.
 
-[![ep](/images/covid19/chile_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/chile_casos_standard.png)
+![ep](/images/covid19/chile_casos_standard.png){:height="100%" width="100%"}
 
 
 ### Fallecidos confirmados
@@ -41,13 +41,13 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 ### Evolución de casos confirmados a nivel regional
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros cuatro gráficos muestran las regiones que tienen **más de 1,000 casos confirmados**: Metropolitana, Ñuble, Biobío, y Araucanía. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros dos gráficos muestran el avance en la Región Mteropolitana y La Araucanía, que tienen más casos que el resto de las regiones. El resto de los gráficos muestra el avance en el resto de las regiones, que tienen **menos de 1000 casos confirmados**. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
 
-[![ep](/images/covid19/regiones/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
+![ep](/images/covid19/regiones/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png)[![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png)
 
-[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png)
+[![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
 
- Los siguientes gráficos muestran el resto las regiones que tienen **menos de 1,000 casos confirmados**: Arica, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, OHiggins, Maule, Los Ríos, Los Lagos, Aysén, y Magallanes.
+[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png)
 
 [![ep](/images/covid19/regiones/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png) [![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png)
 
@@ -73,7 +73,7 @@ Los siguientes gráficos buscan comparar el número de casos confirmados y falle
 
 El próximo gráfico muestra la comparación de la evolución de casos COVID-19 entre Chile, Argentina y Brasil.
 
-[![ep](/images/covid19/latam_casos_standard.png){:height="100%" width="100%"}](https://tresquintos.cl/images/covid19/latam_casos_standard.png)
+![ep](/images/covid19/latam_casos_standard.png){:height="100%" width="100%"}
 
 Los dos últimos gráficos muestran una comparación de la evolución de casos COVID-19 en Chile con dos grupos diferentes de países. El gráfico de la izquierda compara a Chile con Argentina, Brasil, Perú, Ecuador y Colombia, mientras que el gráfico de la derecha compara a Chile con Alemania, Estados Unidos, España, Italia y Francia.
 

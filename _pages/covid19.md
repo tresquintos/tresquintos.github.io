@@ -47,19 +47,19 @@ Los siguientes gráficos muestran el avance de casos a través del tiempo, por R
 
 [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
 
-[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png)
+[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png)
 
-[![ep](/images/covid19/regiones/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png) [![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png)
+[![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png) [![ep](/images/covid19/regiones/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_antofagasta.png)
 
-[![ep](/images/covid19/regiones/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_antofagasta.png) [![ep](/images/covid19/regiones/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png)
+[![ep](/images/covid19/regiones/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png) [![ep](/images/covid19/regiones/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png)
 
-[![ep](/images/covid19/regiones/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png) [![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_valparaiso.png)
+[![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_valparaiso.png) [![ep](/images/covid19/regiones/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png)
 
-[![ep](/images/covid19/regiones/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png) [![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png)
+[![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png) [![ep](/images/covid19/regiones/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png)
 
-[![ep](/images/covid19/regiones/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png) [![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_loslagos.png)
+[![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_loslagos.png) [![ep](/images/covid19/regiones/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png)
 
-[![ep](/images/covid19/regiones/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png) [![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png)
+[![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png)
 
 
 ### Número de Fallecidos vs. Medidas del Gobierno

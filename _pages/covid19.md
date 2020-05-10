@@ -41,7 +41,7 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 ### Evolución de casos confirmados a nivel regional
 
-Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros dos gráficos muestran el avance en la Región Mteropolitana y La Araucanía, que tienen más casos que el resto de las regiones. El resto de los gráficos muestra el avance en el resto de las regiones, que tienen **menos de 1000 casos confirmados**. Para revisar los datos a nivel comunal, pincha aquí [aquí](https://tresquintos.cl/covid19-comunas/).
+Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros dos gráficos muestran el avance en la Región Metropolitana y La Araucanía, que tienen más casos que el resto de las regiones (y están es escalas diferentes). Los otros gráficos muestran el avance en el resto de las regiones, que tienen **menos de 1000 casos confirmados**. Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/).
 
 [![ep](/images/covid19/regiones/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png)
 

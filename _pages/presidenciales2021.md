@@ -11,7 +11,10 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 
 ### Resumen primera vuelta
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}![Beatriz Sánchez](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}![2](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}
+![3](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}![4](/images/tsm/card_2021_Daniel%20Jadue.png){:height="45%" width="45%"}
+![5](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}![6](/images/tsm/card_2021_Felipe%20Kast.png){:height="45%" width="45%"}
+![7](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}![8](/images/tsm/card_2021_Otros.png){:height="45%" width="45%"}
 
 
 

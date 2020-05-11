@@ -9,11 +9,6 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
 
-### El pronóstico de HOY!
-
-
-[![ep](/images/tsm/card20200511.gif){:height="75%" width="75%"}](https://tresquintos.cl/presidenciales2021/)
-
 ### ⚠️ Especial: COVID-19 ⚠️
 
 Por razones extraordinarias, estamos cubriendo la evolución del Coronavirus (COVID-19) en Chile. Montamos una [página especial](https://tresquintos.cl/covid19/) que monitorea la evolución de contagios. En ella, podrás encontrar gráficos de la evolución diaria, la evolución agregada y la evolución esperada. También podrás encontrar gráficos que comparan su evolución en Chile con otros países de América Latina y el mundo. Finalmente, podrás descargar todos los datos que necesites para replicar los gráficos. Para ver **tendencias nacionales**, pincha [aquí](https://tresquintos.cl/covid19/). Para ver **tendencias comunales**, pincha [aquí](https://tresquintos.cl/covid19-comunas).

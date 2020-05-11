@@ -8,6 +8,12 @@ author_profile: true
 En esta página puedes ver la tendencia en la intención de voto para las dos preguntas del plebiscito. Muestra la tendencia para cada una de las cuatro opciones (Apruebo/Rechazo; Convención Constitucional/Convcención Mixta). La tendencia para cada alternativa está dividida en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada alternativa a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 
+### Resumen plebiscito
+
+![1](/images/tsm/card_2020-1_Aprueba.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechaza.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
+
+
 ### Primera Pregunta: ¿Quiere usted una nueva Constitución?
 
 [![Aprueba](/images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png) [![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png)

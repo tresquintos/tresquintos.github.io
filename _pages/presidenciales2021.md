@@ -10,6 +10,12 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 
+### Resumen primera vuelta
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}![Beatriz Sánchez](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}
+
+
+
+
 ### Primera vuelta
 
 [![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Joaquín%20Lavín.png)

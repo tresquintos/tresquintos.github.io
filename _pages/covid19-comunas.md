@@ -168,7 +168,6 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_San%20Nicolás.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_San%20Pedro.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_San%20Vicente%20de%20Tagua%20Tagua.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_Santa%20Cruz.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santa%20María.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santo%20Domingo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Talagante.png){:height="31%" width="31%"}
@@ -291,6 +290,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_San%20Pedro%20de%20Atacama.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_San%20Rafael.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Santa%20Bárbara.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/10_Santa%20Cruz.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Santa%20Juana.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Taltal.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Teno.png){:height="31%" width="31%"}

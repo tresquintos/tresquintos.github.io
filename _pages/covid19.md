@@ -7,6 +7,7 @@ author_profile: true
 
 En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. **Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/).** Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
+
 ### Casos confirmados
 
 Los siguientes gráficos muestran el número de casos confirmados por día (a partir del primer caso reportado: 3 de Marzo de 2020). El gráfico de la izquierda muestra la evolución de casos diarios confirmados, y el gráfico de la derecha muestra la evolución de casos confirmados totales.
@@ -43,23 +44,23 @@ Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del 
 
 Los siguientes gráficos muestran el avance de casos a través del tiempo, por Región. Las barras grises muestran el número de casos confirmados. Las líneas rojas muestran el promedio móvil. Los primeros dos gráficos muestran el avance en la Región Metropolitana y La Araucanía, que tienen más casos que el resto de las regiones (y están es escalas diferentes). Los otros gráficos muestran el avance en el resto de las regiones, que tienen **menos de 1000 casos confirmados**. Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/).
 
+
 [![ep](/images/covid19/regiones/chile_metropolitana.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_metropolitana.png) [![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png)
 
-[![ep](/images/covid19/regiones/chile_araucania.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_araucania.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
+[![ep](/images/covid19/regiones/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_antofagasta.png) [![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_valparaiso.png)
 
-[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png)
+[![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png) [![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_loslagos.png)
 
-[![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png) [![ep](/images/covid19/regiones/chile_antofagasta.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_antofagasta.png)
+[![ep](/images/covid19/regiones/chile_biobio.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_biobio.png) [![ep](/images/covid19/regiones/chile_ñuble.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ñuble.png)
+
+[![ep](/images/covid19/regiones/chile_tarapaca.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_tarapaca.png) [![ep](/images/covid19/regiones/chile_arica.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_arica.png)
 
 [![ep](/images/covid19/regiones/chile_atacama.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_atacama.png) [![ep](/images/covid19/regiones/chile_coquimbo.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_coquimbo.png)
 
-[![ep](/images/covid19/regiones/chile_valparaiso.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_valparaiso.png) [![ep](/images/covid19/regiones/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png)
+[![ep](/images/covid19/regiones/chile_ohiggins.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_ohiggins.png) [![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png)
 
-[![ep](/images/covid19/regiones/chile_maule.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_maule.png) [![ep](/images/covid19/regiones/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png)
+[![ep](/images/covid19/regiones/chile_losrios.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_losrios.png) [![ep](/images/covid19/regiones/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png)
 
-[![ep](/images/covid19/regiones/chile_loslagos.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_loslagos.png) [![ep](/images/covid19/regiones/chile_aysen.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_aysen.png)
-
-[![ep](/images/covid19/regiones/chile_magallanes.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/regiones/chile_magallanes.png)
 
 
 ### Número de Fallecidos vs. Medidas del Gobierno

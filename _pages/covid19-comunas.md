@@ -135,6 +135,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_Illapel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Isla%20de%20Maipo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_La%20Calera.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_La%20Cruz.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_La%20Serena.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_La%20Unión.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Las%20Cabras.png){:height="31%" width="31%"}
@@ -225,7 +226,6 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_Hualaihué.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Huasco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Isla%20de%20Pascua.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_La%20Cruz.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_La%20Ligua.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Lago%20Ranco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Lanco.png){:height="31%" width="31%"}

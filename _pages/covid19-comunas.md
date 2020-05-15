@@ -64,6 +64,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/1000_Punta%20Arenas.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Quilicura.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Quinta%20Normal.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/1000_Rancagua.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_Renca.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_San%20Antonio.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/1000_San%20Bernardo.png){:height="31%" width="31%"}
@@ -96,7 +97,6 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/100_Pirque.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Puerto%20Montt.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Quilpué.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/100_Rancagua.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Saavedra.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Talagante.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/100_Tomé.png){:height="31%" width="31%"}
@@ -123,6 +123,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_Coquimbo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Coronel.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Curacaví.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Do%C3%B1ihue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_El%20Monte.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_El%20Tabo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_El%20Quisco.png){:height="31%" width="31%"}
@@ -139,9 +140,12 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_La%20Serena.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_La%20Unión.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Las%20Cabras.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Llaillay.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Limache.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Linares.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Litueche.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Loncoche.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Longaví.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Lonquimay.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Los%20Andes.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Machalí.png){:height="31%" width="31%"}
@@ -149,7 +153,10 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_Maule.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Nacimiento.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Nueva%20Imperial.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Olivar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ovalle.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Parral.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Pelarco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Penco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Pica.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Pinto.png){:height="31%" width="31%"}
@@ -160,6 +167,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_Quillón.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quillota.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Quintero.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_Quirihue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Ránquil.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Renaico.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Río%20Bueno.png){:height="31%" width="31%"}
@@ -175,7 +183,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/50_San%20Juan%20de%20la%20Costa.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_San%20Nicolás.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_San%20Pedro.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/50_San%20Vicente%20de%20Tagua%20Tagua.png){:height="31%" width="31%"}
+![ep](/images/covid19/comunas/50_San%20Vicente.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santa%20María.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Santo%20Domingo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/50_Taltal.png){:height="31%" width="31%"}
@@ -215,7 +223,6 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_Curarrehue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Curepto.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Diego%20de%20Almagro.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Do%C3%B1ihue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_El%20Carmen.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Florida.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Freirina.png){:height="31%" width="31%"}
@@ -230,10 +237,7 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_Lago%20Ranco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Lanco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Licantén.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Litueche.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Llaillay.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Llanquihue.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Longaví.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Los%20Álamos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Los%20Muermos.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Los%20Sauces.png){:height="31%" width="31%"}
@@ -251,12 +255,9 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_Negrete.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Ninhue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_%C3%91iquén.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Olivar.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Olmué.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Paillaco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Papudo.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Parral.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Pelarco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Pelluhue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Pemuco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Pencahue.png){:height="31%" width="31%"}
@@ -275,7 +276,6 @@ Los siguientes gráficos muestran el número de casos confirmados acumulados por
 ![ep](/images/covid19/comunas/10_Puyehue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Quinchao.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Quinta%20de%20Tilcoco.png){:height="31%" width="31%"}
-![ep](/images/covid19/comunas/10_Quirihue.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Rauco.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Rengo.png){:height="31%" width="31%"}
 ![ep](/images/covid19/comunas/10_Requínoa.png){:height="31%" width="31%"}

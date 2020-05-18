@@ -35,7 +35,7 @@ Los siguientes gráficos muestran el número de ventiladores totales disponibles
 
 [![ep](/images/covid19/chile_ventiladores_totales.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_ventiladores_totales.png) [![ep](/images/covid19/chile_ventiladores_disponibles.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_ventiladores_disponibles.png)
 
-Los siguientes gráficos muestran el porcentaje de pacientes hospitalizados del total de casos positivos (izquierda) y el porcentaje de pacientes hospitalizados y conectados a un ventilador del total de casos positivos (derecha).
+Los siguientes gráficos muestran el porcentaje de ventiladores disponibles (izquierda), y el porcentaje de pacientes hospitalizados conectados a un ventilador del total de casos activos (derecha).
 
 [![ep](/images/covid19/chile_hospitalizados_del_total.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_hospitalizados_del_total.png) [![ep](/images/covid19/chile_ventilados_del_total.png){:height="47%" width="47%"}](https://tresquintos.cl/images/covid19/chile_ventilados_del_total.png)
 

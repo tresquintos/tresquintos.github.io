@@ -8,8 +8,7 @@ author_profile: true
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
-
-
+[![Aprueba](/images/tsm/blinkers/2020-1 - 20200525.gif){:height="45%" width="45%"}](https://tresquintos.cl/presidenciales2021/) [![Convención Constitucional](/images/tsm/blinkers/2020-2 - 20200525.gif){:height="45%" width="45%"}](https://tresquintos.cl/presidenciales2021/)
 
 
 ### Mapa del sitio
@@ -38,8 +37,6 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 ### Otros enlaces
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Patreon](https://www.patreon.com/tresquintos/). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
-
-[![Convención Constitucional](/images/tsm/blinkers/2020-1 - 20200525.gif){:height="45%" width="45%"}](https://tresquintos.cl/presidenciales2021/)
 
 
 <!-- Mailchimp -->

@@ -37,10 +37,6 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Patreon](https://www.patreon.com/tresquintos/). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
 
 
-### ⚠️ Especial: COVID-19 ⚠️
-
-Por razones extraordinarias, cubrimos la evolución del Coronavirus (COVID-19) en Chile, entre Marzo y Mayo de 2020. Montamos dos páginas especiales para monitorear la pandemia; una con [tendencias nacionales](https://tresquintos.cl/covid19/) y otra con [tendencias comunales](https://tresquintos.cl/covid19-comunas/). Por casi 90 días, programamos actualizaciones diarias y pusimos a disposición todos nuestros datos. Desde hoy (25 de Mayo de 2020), las páginas no se actualizarán más. El principal motivo para suspender la cobertura es porque dentro del equipo consideramos que nuestro objetivo de entregar información se cumplió. Cuando comenzamos éramos uno de los pocos que cubría la evolución en el país. Al momento de terminar, somos uno de muchos. Volvemos a nuestra especialidad: la política.
-
 
 <!-- Mailchimp -->
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>

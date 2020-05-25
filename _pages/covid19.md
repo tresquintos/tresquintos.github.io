@@ -5,6 +5,11 @@ permalink: /covid19/
 author_profile: true
 ---
 
+
+### ⚠️ Especial: COVID-19 ⚠️
+
+Por razones extraordinarias, cubrimos la evolución del Coronavirus (COVID-19) en Chile entre Marzo y Mayo de 2020. Montamos dos páginas especiales para monitorear la pandemia; una con [tendencias nacionales](https://tresquintos.cl/covid19/) y otra con [tendencias comunales](https://tresquintos.cl/covid19-comunas/). Por casi 90 días, programamos actualizaciones diarias y pusimos a disposición todos nuestros datos. Desde hoy (25 de Mayo de 2020), las páginas no se actualizarán más. El principal motivo para suspender la cobertura es porque dentro del equipo consideramos que nuestro objetivo de entregar información se cumplió. Cuando comenzamos éramos uno de los pocos que cubría la evolución en el país. Al momento de terminar, somos uno de muchos. Volvemos a nuestra especialidad: la política.
+
 **ESTÁ PÁGINA SE DEJÓ DE ACTUALIZAR EL 25 DE MAYO DE 2020**
 
 En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile. El objetivo es monitorear el avance de los casos confirmados. Los gráficos se actualizarán a medida que se vayan registrando casos oficiales. **Para revisar los datos a nivel comunal, pincha [aquí](https://tresquintos.cl/covid19-comunas/).** Para descargar los datos, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) o revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).

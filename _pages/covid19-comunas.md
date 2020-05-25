@@ -5,6 +5,9 @@ permalink: /covid19-comunas/
 author_profile: true
 ---
 
+
+**ESTÁ PÁGINA SE DEJÓ DE ACTUALIZAR DIARIAMENTE EL 25 DE MAYO DE 2020**
+
 En esta página podrás seguir la evolución del Coronavirus (COVID-19) en Chile, a nivel comunal. El objetivo es monitorear el avance de los casos confirmados en cada una de las comunas en que se han reportado contagios. Los gráficos se actualizarán a medida que se vayan registrando datos oficiales. **Para revisar los datos a nivel nacional, pincha [aquí](https://tresquintos.cl/covid19/).** Para descargar los datos, revisa las instrucciones de "uso avanzado" al final de esta página. Para conocer más detalles sobre el COVID-19, pincha [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/).
 
 

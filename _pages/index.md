@@ -39,7 +39,7 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Patreon](https://www.patreon.com/tresquintos/). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
 
-[![Convención Constitucional](/images/tsm/blinkers/2020-1 - 20200525.gif){:height="45%" width="45%"}]
+[![Convención Constitucional](/images/tsm/blinkers/2020-1 - 20200525.gif){:height="45%" width="45%"}](https://tresquintos.cl/presidenciales2021/)
 
 
 <!-- Mailchimp -->

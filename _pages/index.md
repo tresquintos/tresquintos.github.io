@@ -9,13 +9,6 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
 
-### ⚠️ Especial: COVID-19 ⚠️
-
-Por razones extraordinarias, estamos cubriendo la evolución del Coronavirus (COVID-19) en Chile. Montamos una [página especial](https://tresquintos.cl/covid19/) que monitorea la evolución de contagios. En ella, podrás encontrar gráficos de la evolución diaria, la evolución agregada y la evolución esperada. También podrás encontrar gráficos que comparan su evolución en Chile con otros países de América Latina y el mundo. Finalmente, podrás descargar todos los datos que necesites para replicar los gráficos. Para ver **tendencias nacionales**, pincha [aquí](https://tresquintos.cl/covid19/). Para ver **tendencias comunales**, pincha [aquí](https://tresquintos.cl/covid19-comunas).
-
-[![ep](/images/covid19/chile_deaths_1.png){:height="47%" width="47%"}](https://tresquintos.cl/covid19/) [![ep](/images/covid19/chile_ventiladores_disponibles.png){:height="47%" width="47%"}](https://tresquintos.cl/covid19/)
-
-
 ### Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
@@ -42,6 +35,11 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 ### Otros enlaces
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Patreon](https://www.patreon.com/tresquintos/). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
+
+
+### ⚠️ Especial: COVID-19 ⚠️
+
+Por razones extraordinarias, cubrimos la evolución del Coronavirus (COVID-19) en Chile, entre Marzo y Mayo de 2020. Montamos dos páginas especiales para monitorear la pandemia; una con [tendencias nacionales](https://tresquintos.cl/covid19/) y otra con [tendencias comunales](https://tresquintos.cl/covid19-comunas/). Por casi 90 días, programamos actualizaciones diarias y pusimos a disposición todos nuestros datos. Desde hoy (25 de Mayo de 2020), las páginas no se actualizarán más. El principal motivo para suspender la cobertura es porque dentro del equipo consideramos que nuestro objetivo de entregar información se cumplió. Cuando comenzamos éramos uno de los pocos que cubría la evolución en el país. Al momento de terminar, somos uno de muchos. Volvemos a nuestra especialidad: la política.
 
 
 <!-- Mailchimp -->

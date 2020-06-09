@@ -59,7 +59,7 @@ Los siguientes gráficos muestran la evolución en la edad de los ministros que 
 
 El siguiente gráfico muestra la evolución en la edad promedio de los ministros que entran a un gabinete a través del tiempo. Específicamente, muestra el promedio (móvil) de edad de todo los ministros que entran a un gobierno en el día que entran. Un número más bajo significa que entra un grupo de ministros más jovenes. La metodología conlleva dos cosas importantes de explicar. Primero, que los gobiernos que están en ejercicio (como el de Piñera, 2018-2022) tienen mayor variación que los gobiernos terminados, y segundo, que los gobiernos que tienen pocos cambios de gabinete (como el de Aylwin, 1990-1994) tienen menos variación intermedia que los gobiernos con muchos cambios de gabinete (como el de Bachelet, 2014-2018).
 
-![cc](/images/gabinete/edad/chile_gabinete_promedio_edad.png){:height="100%" width="100%"}
+![cc](/images/gabinete/chile_gabinete_promedio_edad.png){:height="100%" width="100%"}
 
 
 

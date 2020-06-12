@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 
-<html>
 
 <style>
 	/* info (hed, dek, source, credit) */
@@ -854,5 +853,3 @@ td.number {
 		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>
 	</div>
 </div>
-
-</html>

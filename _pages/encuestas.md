@@ -5,10 +5,6 @@ permalink: /encuestas/
 author_profile: true
 ---
 
-
-Hola
-
-
 <style>
 	/* info (hed, dek, source, credit) */
 .rg-container {
@@ -167,12 +163,12 @@ td.number {
     font-weight: normal;
   }
 }
-</style>
 
+</style>
 <div class='rg-container'>
 	<table class='rg-table zebra' summary='Hed'>
 		<caption class='rg-header'>
-			<span class='rg-hed'>Hola</span>
+			<span class='rg-hed'>Hed</span>
 			<span class='rg-dek'>Dek goes here.</span>
 		</caption>
 		<thead>
@@ -261,7 +257,7 @@ td.number {
 				</tr>
 
 
-				<tr class='hide-mobile'>
+				<tr class=''>
 					<td class='text ' data-title='date'>10/12/2019</td>
 					<td class='text ' data-title='house'>Coes</td>
 					<td class=' ' data-title='n'>1215</td>
@@ -275,7 +271,7 @@ td.number {
 				</tr>
 
 
-				<tr class='hide-mobile'>
+				<tr class=''>
 					<td class='text ' data-title='date'>26/12/2019</td>
 					<td class='text ' data-title='house'>Activa Research</td>
 					<td class=' ' data-title='n'>1030</td>
@@ -289,7 +285,7 @@ td.number {
 				</tr>
 
 
-				<tr class='hide-mobile'>
+				<tr class=''>
 					<td class='text ' data-title='date'>26/12/2019</td>
 					<td class='text ' data-title='house'>Activa Research</td>
 					<td class=' ' data-title='n'>562</td>
@@ -303,7 +299,7 @@ td.number {
 				</tr>
 
 
-				<tr class='hide-mobile'>
+				<tr class=''>
 					<td class='text ' data-title='date'>03/01/2020</td>
 					<td class='text ' data-title='house'>Cadem</td>
 					<td class=' ' data-title='n'>709</td>
@@ -317,7 +313,7 @@ td.number {
 				</tr>
 
 
-				<tr class='hide-mobile'>
+				<tr class=''>
 					<td class='text ' data-title='date'>06/01/2020</td>
 					<td class='text ' data-title='house'>CEP</td>
 					<td class=' ' data-title='n'>1496</td>
@@ -849,7 +845,6 @@ td.number {
 				</tr>
 
 		</tbody>
-
 	</table>
 	<div class='rg-source'>
 		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>

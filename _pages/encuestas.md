@@ -166,10 +166,10 @@ td.number {
 
 </style>
 <div class='rg-container'>
-	<table class='rg-table zebra' summary='Hed'>
+	<table class='rg-table zebra' summary='Plebiscito 2020'>
 		<caption class='rg-header'>
-			<span class='rg-hed'>Hed</span>
-			<span class='rg-dek'>Dek goes here.</span>
+			<span class='rg-hed'>Plebiscito 2020</span>
+			<span class='rg-dek'>¿Quiere usted una nueva Constitución?</span>
 		</caption>
 		<thead>
 			<tr>

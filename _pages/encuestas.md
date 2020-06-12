@@ -5,6 +5,10 @@ permalink: /encuestas/
 author_profile: true
 ---
 
+
+En esta página puedes ver la lista de todas las encuestas que estamos usando para generar pronósticos. Las tablas incluyen información de la fecha de la encuesta, el número de encuestados, el método de recopilación de datos, y si es una encuesta probabílistica. Además incluye información relativa a la intención de voto para los candidatos (o alternativas) que estamos monitoreando.
+
+
 <style>
 	/* info (hed, dek, source, credit) */
 .rg-container {

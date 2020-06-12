@@ -7,6 +7,14 @@ author_profile: true
 ---
 
 
+<html>
+<head>
+    <title>My Notes</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+
+
 <style>
 	/* info (hed, dek, source, credit) */
 .rg-container {
@@ -852,3 +860,8 @@ td.number {
 		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>
 	</div>
 </div>
+
+<body>
+    <h1>My notes</h1>
+    <?php markdown(file_get_contents('your_content.md')); ?>
+</body>

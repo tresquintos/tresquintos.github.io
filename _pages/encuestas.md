@@ -1,8 +1,7 @@
-
 ---
 layout: single
-title: "Gabinetes Ministeriales"
-permalink: /encuestas.html
+title: "Encuestas"
+permalink: /encuestas/
 author_profile: true
 ---
 

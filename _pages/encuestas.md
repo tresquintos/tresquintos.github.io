@@ -172,7 +172,7 @@ td.number {
 <div class='rg-container'>
 	<table class='rg-table zebra' summary='Hed'>
 		<caption class='rg-header'>
-			<span class='rg-hed'>Hed</span>
+			<span class='rg-hed'>Hola</span>
 			<span class='rg-dek'>Dek goes here.</span>
 		</caption>
 		<thead>

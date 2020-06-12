@@ -851,6 +851,6 @@ td.number {
 		</tbody>
 	</table>
 	<div class='rg-source'>
-		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>
+		<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquintos.cl</span>
 	</div>
 </div>

@@ -853,3 +853,5 @@ td.number {
 		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>
 	</div>
 </div>
+
+</style>

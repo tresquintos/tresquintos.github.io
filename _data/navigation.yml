@@ -28,6 +28,9 @@ main:
   - title: "Fichajes"
     url: /fichajes/
 
+  - title: "Encuestas"
+    url: /encuestas/
+
   - title: "Blog"
     url: /year-archive/
 

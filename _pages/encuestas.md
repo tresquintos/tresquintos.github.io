@@ -951,7 +951,7 @@ td.number {
 
 
 <style>
-/* PLEBISCITO PREGUNTA 2 */
+	/* info (hed, dek, source, credit) */
 .rg-container {
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -1111,21 +1111,20 @@ td.number {
 
 </style>
 <div class='rg-container'>
-	<table class='rg-table zebra' summary='Plebiscito 2020'>
+	<table class='rg-table zebra' summary='Plebiscito: Pregunta 2'>
 		<caption class='rg-header'>
-			<span class='rg-hed'>Plebiscito 2020</span>
+			<span class='rg-hed'>Plebiscito: Pregunta 2</span>
 			<span class='rg-dek'>¿Qué tipo de órgano debiera redactar la nueva Constitución?</span>
 		</caption>
 		<thead>
 			<tr>
 				<th class='text '>Fecha</th>
 				<th class='text '>Encuesta</th>
-				<th class=' '>N</th>
-				<th class='text '>Método</th>
-				<th class=' '>Prob.</th>
-				<th class='number '>Aprueba</th>
-				<th class='number '>Rechaza</th>
-				<th class='number '>Válido</th>
+				<th class='number '>N</th>
+				<th class='text '>Muestra</th>
+				<th class='number '>Constitucional</th>
+				<th class='number '>Mixta</th>
+				<th class='number '>Validos</th>
 				<th class='number '>NSNR</th>
 				<th class='number '>Total</th>
 			</tr>
@@ -1133,679 +1132,475 @@ td.number {
 		<tbody>
 
 				<tr class=''>
-					<td class='text ' data-title='Fecha'>30/05/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1215</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>45.20</td>
-					<td class='number ' data-title='Rechaza'>31.00</td>
-					<td class='number ' data-title='Válido'>76.20</td>
-					<td class='number ' data-title='NSNR'>12.60</td>
-					<td class='number ' data-title='Total'>88.80</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>30/05/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>661</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>62.00</td>
-					<td class='number ' data-title='Rechaza'>34.70</td>
-					<td class='number ' data-title='Válido'>96.70</td>
-					<td class='number ' data-title='NSNR'>1.80</td>
-					<td class='number ' data-title='Total'>98.50</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>12/05/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1209</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.10</td>
-					<td class='number ' data-title='Rechaza'>26.90</td>
-					<td class='number ' data-title='Válido'>78.00</td>
-					<td class='number ' data-title='NSNR'>13.30</td>
-					<td class='number ' data-title='Total'>91.30</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>12/05/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>724</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>67.10</td>
-					<td class='number ' data-title='Rechaza'>30.00</td>
-					<td class='number ' data-title='Válido'>97.10</td>
-					<td class='number ' data-title='NSNR'>0.30</td>
-					<td class='number ' data-title='Total'>97.40</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>30/04/2020</td>
+					<td class='text ' data-title='Fecha'>16/11/2019</td>
 					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>712</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.00</td>
-					<td class='number ' data-title='Rechaza'>42.00</td>
-					<td class='number ' data-title='Válido'>92.00</td>
-					<td class='number ' data-title='NSNR'>8.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>28/04/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1227</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>53.10</td>
-					<td class='number ' data-title='Rechaza'>23.50</td>
-					<td class='number ' data-title='Válido'>76.60</td>
-					<td class='number ' data-title='NSNR'>12.40</td>
-					<td class='number ' data-title='Total'>89.00</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>28/04/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>736</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>68.70</td>
-					<td class='number ' data-title='Rechaza'>27.60</td>
-					<td class='number ' data-title='Válido'>96.30</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>96.30</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>14/04/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1270</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>46.90</td>
-					<td class='number ' data-title='Rechaza'>29.90</td>
-					<td class='number ' data-title='Válido'>76.80</td>
-					<td class='number ' data-title='NSNR'>12.70</td>
-					<td class='number ' data-title='Total'>89.50</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>14/04/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>725</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>61.70</td>
-					<td class='number ' data-title='Rechaza'>31.50</td>
-					<td class='number ' data-title='Válido'>93.20</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>93.20</td>
-				</tr>
-
-
-				<tr class=''>
-					<td class='text ' data-title='Fecha'>27/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1230</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>54.60</td>
-					<td class='number ' data-title='Rechaza'>26.50</td>
-					<td class='number ' data-title='Válido'>81.10</td>
-					<td class='number ' data-title='NSNR'>9.00</td>
-					<td class='number ' data-title='Total'>90.10</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>27/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>690</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>67.00</td>
-					<td class='number ' data-title='Rechaza'>28.10</td>
-					<td class='number ' data-title='Válido'>95.10</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>95.10</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>20/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>702</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.00</td>
-					<td class='number ' data-title='Rechaza'>39.00</td>
-					<td class='number ' data-title='Válido'>90.00</td>
-					<td class='number ' data-title='NSNR'>10.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>16/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Data Influye</td>
-					<td class=' ' data-title='N'>1273</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>65.00</td>
-					<td class='number ' data-title='Rechaza'>24.00</td>
-					<td class='number ' data-title='Válido'>89.00</td>
-					<td class='number ' data-title='NSNR'>10.00</td>
-					<td class='number ' data-title='Total'>99.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>13/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>702</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>52.00</td>
-					<td class='number ' data-title='Rechaza'>38.00</td>
-					<td class='number ' data-title='Válido'>90.00</td>
-					<td class='number ' data-title='NSNR'>10.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>12/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1135</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.80</td>
-					<td class='number ' data-title='Rechaza'>22.80</td>
-					<td class='number ' data-title='Válido'>73.60</td>
-					<td class='number ' data-title='NSNR'>15.60</td>
-					<td class='number ' data-title='Total'>89.20</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>12/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>690</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>68.40</td>
-					<td class='number ' data-title='Rechaza'>27.10</td>
-					<td class='number ' data-title='Válido'>95.50</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>95.50</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>06/03/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>707</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>58.00</td>
-					<td class='number ' data-title='Rechaza'>33.00</td>
-					<td class='number ' data-title='Válido'>91.00</td>
-					<td class='number ' data-title='NSNR'>9.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>28/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1043</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.20</td>
-					<td class='number ' data-title='Rechaza'>24.40</td>
-					<td class='number ' data-title='Válido'>75.60</td>
-					<td class='number ' data-title='NSNR'>14.60</td>
-					<td class='number ' data-title='Total'>90.20</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>28/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>583</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>66.30</td>
-					<td class='number ' data-title='Rechaza'>26.30</td>
-					<td class='number ' data-title='Válido'>92.60</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>92.60</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>28/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>702</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>53.00</td>
-					<td class='number ' data-title='Rechaza'>36.00</td>
-					<td class='number ' data-title='Válido'>89.00</td>
-					<td class='number ' data-title='NSNR'>11.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>21/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>705</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.00</td>
-					<td class='number ' data-title='Rechaza'>42.00</td>
-					<td class='number ' data-title='Válido'>92.00</td>
-					<td class='number ' data-title='NSNR'>8.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>18/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Data Influye</td>
-					<td class=' ' data-title='N'>1445</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>58.00</td>
-					<td class='number ' data-title='Rechaza'>27.00</td>
-					<td class='number ' data-title='Válido'>85.00</td>
-					<td class='number ' data-title='NSNR'>15.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>14/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>705</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.00</td>
-					<td class='number ' data-title='Rechaza'>41.00</td>
-					<td class='number ' data-title='Válido'>91.00</td>
-					<td class='number ' data-title='NSNR'>9.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>13/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1045</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>44.10</td>
-					<td class='number ' data-title='Rechaza'>27.20</td>
-					<td class='number ' data-title='Válido'>71.30</td>
-					<td class='number ' data-title='NSNR'>14.20</td>
-					<td class='number ' data-title='Total'>85.50</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>13/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>525</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>58.40</td>
-					<td class='number ' data-title='Rechaza'>25.50</td>
-					<td class='number ' data-title='Válido'>83.90</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>83.90</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>07/02/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>709</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.00</td>
-					<td class='number ' data-title='Rechaza'>42.00</td>
-					<td class='number ' data-title='Válido'>93.00</td>
-					<td class='number ' data-title='NSNR'>7.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>31/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>708</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.00</td>
-					<td class='number ' data-title='Rechaza'>42.00</td>
-					<td class='number ' data-title='Válido'>92.00</td>
-					<td class='number ' data-title='NSNR'>8.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>30/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>975</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>50.30</td>
-					<td class='number ' data-title='Rechaza'>24.40</td>
-					<td class='number ' data-title='Válido'>74.70</td>
-					<td class='number ' data-title='NSNR'>15.40</td>
-					<td class='number ' data-title='Total'>90.10</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>30/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>477</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>65.80</td>
-					<td class='number ' data-title='Rechaza'>31.90</td>
-					<td class='number ' data-title='Válido'>97.70</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>97.70</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>28/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Criteria Research</td>
-					<td class=' ' data-title='N'>806</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>56.00</td>
-					<td class='number ' data-title='Rechaza'>35.00</td>
-					<td class='number ' data-title='Válido'>91.00</td>
-					<td class='number ' data-title='NSNR'>9.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>24/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>709</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>47.00</td>
-					<td class='number ' data-title='Rechaza'>45.00</td>
-					<td class='number ' data-title='Válido'>92.00</td>
-					<td class='number ' data-title='NSNR'>8.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>21/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Data Influye</td>
-					<td class=' ' data-title='N'>1033</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>54.00</td>
-					<td class='number ' data-title='Rechaza'>29.00</td>
-					<td class='number ' data-title='Válido'>83.00</td>
-					<td class='number ' data-title='NSNR'>17.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>16/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>950</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>57.20</td>
-					<td class='number ' data-title='Rechaza'>24.40</td>
-					<td class='number ' data-title='Válido'>81.60</td>
-					<td class='number ' data-title='NSNR'>8.60</td>
-					<td class='number ' data-title='Total'>90.20</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>16/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>487</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>68.30</td>
-					<td class='number ' data-title='Rechaza'>25.80</td>
-					<td class='number ' data-title='Válido'>94.10</td>
-					<td class='number ' data-title='NSNR'>0.00</td>
-					<td class='number ' data-title='Total'>94.10</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>15/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Mori</td>
-					<td class=' ' data-title='N'>1000</td>
-					<td class='text ' data-title='Método'>face to face</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>42.00</td>
-					<td class='number ' data-title='Rechaza'>32.00</td>
-					<td class='number ' data-title='Válido'>74.00</td>
-					<td class='number ' data-title='NSNR'>26.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>15/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Mori</td>
-					<td class=' ' data-title='N'>780</td>
-					<td class='text ' data-title='Método'>face to face</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>47.00</td>
-					<td class='number ' data-title='Rechaza'>34.00</td>
-					<td class='number ' data-title='Válido'>81.00</td>
-					<td class='number ' data-title='NSNR'>19.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>10/01/2020</td>
-					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>707</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>52.00</td>
-					<td class='number ' data-title='Rechaza'>43.00</td>
-					<td class='number ' data-title='Válido'>95.00</td>
+					<td class='number ' data-title='N'>704</td>
+					<td class='text ' data-title='Muestra'>Total</td>
+					<td class='number ' data-title='Constitucional'>60.00</td>
+					<td class='number ' data-title='Mixta'>35.00</td>
+					<td class='number ' data-title='Validos'>95.00</td>
 					<td class='number ' data-title='NSNR'>5.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class=''>
+					<td class='text ' data-title='Fecha'>17/11/2019</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>2000</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>63.50</td>
+					<td class='number ' data-title='Mixta'>24.40</td>
+					<td class='number ' data-title='Validos'>87.90</td>
+					<td class='number ' data-title='NSNR'>5.90</td>
+					<td class='number ' data-title='Total'>93.8</td>
+				</tr>
+
+
+				<tr class=''>
+					<td class='text ' data-title='Fecha'>22/11/2019</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>706</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>62.00</td>
+					<td class='number ' data-title='Mixta'>33.00</td>
+					<td class='number ' data-title='Validos'>95.00</td>
+					<td class='number ' data-title='NSNR'>5.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class=''>
+					<td class='text ' data-title='Fecha'>26/11/2019</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1159</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>47.40</td>
+					<td class='number ' data-title='Mixta'>26.50</td>
+					<td class='number ' data-title='Validos'>73.90</td>
+					<td class='number ' data-title='NSNR'>9.70</td>
+					<td class='number ' data-title='Total'>83.6</td>
+				</tr>
+
+
+				<tr class=''>
+					<td class='text ' data-title='Fecha'>26/11/2019</td>
+					<td class='text ' data-title='Encuesta'>Criteria Research</td>
+					<td class='number ' data-title='N'>1014</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.00</td>
+					<td class='number ' data-title='Mixta'>32.00</td>
+					<td class='number ' data-title='Validos'>83.00</td>
+					<td class='number ' data-title='NSNR'>10.00</td>
+					<td class='number ' data-title='Total'>93</td>
+				</tr>
+
+
+				<tr class=''>
+					<td class='text ' data-title='Fecha'>10/12/2019</td>
+					<td class='text ' data-title='Encuesta'>Coes</td>
+					<td class='number ' data-title='N'>1215</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.40</td>
+					<td class='number ' data-title='Mixta'>38.80</td>
+					<td class='number ' data-title='Validos'>90.20</td>
+					<td class='number ' data-title='NSNR'>9.80</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>06/01/2020</td>
-					<td class='text ' data-title='Encuesta'>CEP</td>
-					<td class=' ' data-title='N'>1496</td>
-					<td class='text ' data-title='Método'>face to face</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>44.00</td>
-					<td class='number ' data-title='Rechaza'>37.00</td>
-					<td class='number ' data-title='Válido'>81.00</td>
-					<td class='number ' data-title='NSNR'>19.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='text ' data-title='Fecha'>26/12/2019</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1030</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>53.70</td>
+					<td class='number ' data-title='Mixta'>23.70</td>
+					<td class='number ' data-title='Validos'>77.40</td>
+					<td class='number ' data-title='NSNR'>9.60</td>
+					<td class='number ' data-title='Total'>87</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
 					<td class='text ' data-title='Fecha'>03/01/2020</td>
 					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>709</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.00</td>
-					<td class='number ' data-title='Rechaza'>43.00</td>
-					<td class='number ' data-title='Válido'>94.00</td>
+					<td class='number ' data-title='N'>709</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.00</td>
+					<td class='number ' data-title='Mixta'>43.00</td>
+					<td class='number ' data-title='Validos'>94.00</td>
 					<td class='number ' data-title='NSNR'>6.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>26/12/2019</td>
+					<td class='text ' data-title='Fecha'>06/01/2020</td>
+					<td class='text ' data-title='Encuesta'>CEP</td>
+					<td class='number ' data-title='N'>1496</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>44.00</td>
+					<td class='number ' data-title='Mixta'>37.00</td>
+					<td class='number ' data-title='Validos'>81.00</td>
+					<td class='number ' data-title='NSNR'>19.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>10/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>707</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>52.00</td>
+					<td class='number ' data-title='Mixta'>43.00</td>
+					<td class='number ' data-title='Validos'>95.00</td>
+					<td class='number ' data-title='NSNR'>5.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>15/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Mori</td>
+					<td class='number ' data-title='N'>1000</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>42.00</td>
+					<td class='number ' data-title='Mixta'>32.00</td>
+					<td class='number ' data-title='Validos'>74.00</td>
+					<td class='number ' data-title='NSNR'>26.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>16/01/2020</td>
 					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1030</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>53.70</td>
-					<td class='number ' data-title='Rechaza'>23.70</td>
-					<td class='number ' data-title='Válido'>77.40</td>
-					<td class='number ' data-title='NSNR'>9.60</td>
-					<td class='number ' data-title='Total'>87.00</td>
+					<td class='number ' data-title='N'>950</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>57.20</td>
+					<td class='number ' data-title='Mixta'>24.40</td>
+					<td class='number ' data-title='Validos'>81.60</td>
+					<td class='number ' data-title='NSNR'>8.60</td>
+					<td class='number ' data-title='Total'>90.2</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>26/12/2019</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>500</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>62.90</td>
-					<td class='number ' data-title='Rechaza'>24.40</td>
-					<td class='number ' data-title='Válido'>87.30</td>
-					<td class='number ' data-title='NSNR'>4.10</td>
-					<td class='number ' data-title='Total'>91.40</td>
+					<td class='text ' data-title='Fecha'>21/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Data Influye</td>
+					<td class='number ' data-title='N'>1033</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>54.00</td>
+					<td class='number ' data-title='Mixta'>29.00</td>
+					<td class='number ' data-title='Validos'>83.00</td>
+					<td class='number ' data-title='NSNR'>17.00</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>10/12/2019</td>
-					<td class='text ' data-title='Encuesta'>Coes</td>
-					<td class=' ' data-title='N'>1215</td>
-					<td class='text ' data-title='Método'>face to face</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.40</td>
-					<td class='number ' data-title='Rechaza'>38.80</td>
-					<td class='number ' data-title='Válido'>90.20</td>
-					<td class='number ' data-title='NSNR'>9.80</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='text ' data-title='Fecha'>24/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>709</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>47.00</td>
+					<td class='number ' data-title='Mixta'>45.00</td>
+					<td class='number ' data-title='Validos'>92.00</td>
+					<td class='number ' data-title='NSNR'>8.00</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>26/11/2019</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>1159</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>47.40</td>
-					<td class='number ' data-title='Rechaza'>26.50</td>
-					<td class='number ' data-title='Válido'>73.90</td>
-					<td class='number ' data-title='NSNR'>9.70</td>
-					<td class='number ' data-title='Total'>83.60</td>
-				</tr>
-
-
-				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>26/11/2019</td>
+					<td class='text ' data-title='Fecha'>28/01/2020</td>
 					<td class='text ' data-title='Encuesta'>Criteria Research</td>
-					<td class=' ' data-title='N'>1014</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>51.00</td>
-					<td class='number ' data-title='Rechaza'>32.00</td>
-					<td class='number ' data-title='Válido'>83.00</td>
+					<td class='number ' data-title='N'>806</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>56.00</td>
+					<td class='number ' data-title='Mixta'>35.00</td>
+					<td class='number ' data-title='Validos'>91.00</td>
+					<td class='number ' data-title='NSNR'>9.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>30/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>975</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.30</td>
+					<td class='number ' data-title='Mixta'>24.40</td>
+					<td class='number ' data-title='Validos'>74.70</td>
+					<td class='number ' data-title='NSNR'>15.40</td>
+					<td class='number ' data-title='Total'>90.1</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>31/01/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>708</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.00</td>
+					<td class='number ' data-title='Mixta'>42.00</td>
+					<td class='number ' data-title='Validos'>92.00</td>
+					<td class='number ' data-title='NSNR'>8.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>07/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>709</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.00</td>
+					<td class='number ' data-title='Mixta'>42.00</td>
+					<td class='number ' data-title='Validos'>93.00</td>
+					<td class='number ' data-title='NSNR'>7.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>13/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1045</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>44.10</td>
+					<td class='number ' data-title='Mixta'>27.20</td>
+					<td class='number ' data-title='Validos'>71.30</td>
+					<td class='number ' data-title='NSNR'>14.20</td>
+					<td class='number ' data-title='Total'>85.5</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>14/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>705</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.00</td>
+					<td class='number ' data-title='Mixta'>41.00</td>
+					<td class='number ' data-title='Validos'>91.00</td>
+					<td class='number ' data-title='NSNR'>9.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>18/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Data Influye</td>
+					<td class='number ' data-title='N'>1445</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>58.00</td>
+					<td class='number ' data-title='Mixta'>27.00</td>
+					<td class='number ' data-title='Validos'>85.00</td>
+					<td class='number ' data-title='NSNR'>15.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>21/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>705</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.00</td>
+					<td class='number ' data-title='Mixta'>42.00</td>
+					<td class='number ' data-title='Validos'>92.00</td>
+					<td class='number ' data-title='NSNR'>8.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>28/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1043</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.20</td>
+					<td class='number ' data-title='Mixta'>24.40</td>
+					<td class='number ' data-title='Validos'>75.60</td>
+					<td class='number ' data-title='NSNR'>14.60</td>
+					<td class='number ' data-title='Total'>90.2</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>28/02/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>702</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>53.00</td>
+					<td class='number ' data-title='Mixta'>36.00</td>
+					<td class='number ' data-title='Validos'>89.00</td>
+					<td class='number ' data-title='NSNR'>11.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>06/03/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>707</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>58.00</td>
+					<td class='number ' data-title='Mixta'>33.00</td>
+					<td class='number ' data-title='Validos'>91.00</td>
+					<td class='number ' data-title='NSNR'>9.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>12/03/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1135</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.80</td>
+					<td class='number ' data-title='Mixta'>22.80</td>
+					<td class='number ' data-title='Validos'>73.60</td>
+					<td class='number ' data-title='NSNR'>15.60</td>
+					<td class='number ' data-title='Total'>89.2</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>13/03/2020</td>
+					<td class='text ' data-title='Encuesta'>Cadem</td>
+					<td class='number ' data-title='N'>702</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>52.00</td>
+					<td class='number ' data-title='Mixta'>38.00</td>
+					<td class='number ' data-title='Validos'>90.00</td>
 					<td class='number ' data-title='NSNR'>10.00</td>
-					<td class='number ' data-title='Total'>93.00</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>26/11/2019</td>
-					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>598</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>1</td>
-					<td class='number ' data-title='Aprueba'>61.70</td>
-					<td class='number ' data-title='Rechaza'>25.20</td>
-					<td class='number ' data-title='Válido'>86.90</td>
-					<td class='number ' data-title='NSNR'>4.30</td>
-					<td class='number ' data-title='Total'>91.20</td>
+					<td class='text ' data-title='Fecha'>16/03/2020</td>
+					<td class='text ' data-title='Encuesta'>Data Influye</td>
+					<td class='number ' data-title='N'>1273</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>65.00</td>
+					<td class='number ' data-title='Mixta'>24.00</td>
+					<td class='number ' data-title='Validos'>89.00</td>
+					<td class='number ' data-title='NSNR'>10.00</td>
+					<td class='number ' data-title='Total'>99</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>22/11/2019</td>
+					<td class='text ' data-title='Fecha'>20/03/2020</td>
 					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>706</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>62.00</td>
-					<td class='number ' data-title='Rechaza'>33.00</td>
-					<td class='number ' data-title='Válido'>95.00</td>
-					<td class='number ' data-title='NSNR'>5.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='number ' data-title='N'>702</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.00</td>
+					<td class='number ' data-title='Mixta'>39.00</td>
+					<td class='number ' data-title='Validos'>90.00</td>
+					<td class='number ' data-title='NSNR'>10.00</td>
+					<td class='number ' data-title='Total'>100</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>17/11/2019</td>
+					<td class='text ' data-title='Fecha'>27/03/2020</td>
 					<td class='text ' data-title='Encuesta'>Activa Research</td>
-					<td class=' ' data-title='N'>2000</td>
-					<td class='text ' data-title='Método'>online</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>63.50</td>
-					<td class='number ' data-title='Rechaza'>24.40</td>
-					<td class='number ' data-title='Válido'>87.90</td>
-					<td class='number ' data-title='NSNR'>5.90</td>
-					<td class='number ' data-title='Total'>93.80</td>
+					<td class='number ' data-title='N'>1230</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>54.60</td>
+					<td class='number ' data-title='Mixta'>26.50</td>
+					<td class='number ' data-title='Validos'>81.10</td>
+					<td class='number ' data-title='NSNR'>9.00</td>
+					<td class='number ' data-title='Total'>90.1</td>
 				</tr>
 
 
 				<tr class='hide-mobile'>
-					<td class='text ' data-title='Fecha'>16/11/2019</td>
+					<td class='text ' data-title='Fecha'>14/04/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1270</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>46.90</td>
+					<td class='number ' data-title='Mixta'>29.90</td>
+					<td class='number ' data-title='Validos'>76.80</td>
+					<td class='number ' data-title='NSNR'>12.70</td>
+					<td class='number ' data-title='Total'>89.5</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>28/04/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1227</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>53.10</td>
+					<td class='number ' data-title='Mixta'>23.50</td>
+					<td class='number ' data-title='Validos'>76.60</td>
+					<td class='number ' data-title='NSNR'>12.40</td>
+					<td class='number ' data-title='Total'>89</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>30/04/2020</td>
 					<td class='text ' data-title='Encuesta'>Cadem</td>
-					<td class=' ' data-title='N'>704</td>
-					<td class='text ' data-title='Método'>phone</td>
-					<td class=' ' data-title='Prob.'>0</td>
-					<td class='number ' data-title='Aprueba'>60.00</td>
-					<td class='number ' data-title='Rechaza'>35.00</td>
-					<td class='number ' data-title='Válido'>95.00</td>
-					<td class='number ' data-title='NSNR'>5.00</td>
-					<td class='number ' data-title='Total'>100.00</td>
+					<td class='number ' data-title='N'>712</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>50.00</td>
+					<td class='number ' data-title='Mixta'>42.00</td>
+					<td class='number ' data-title='Validos'>92.00</td>
+					<td class='number ' data-title='NSNR'>8.00</td>
+					<td class='number ' data-title='Total'>100</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>12/05/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1209</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>51.10</td>
+					<td class='number ' data-title='Mixta'>26.90</td>
+					<td class='number ' data-title='Validos'>78.00</td>
+					<td class='number ' data-title='NSNR'>13.30</td>
+					<td class='number ' data-title='Total'>91.3</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>30/05/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1215</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>45.20</td>
+					<td class='number ' data-title='Mixta'>31.00</td>
+					<td class='number ' data-title='Validos'>76.20</td>
+					<td class='number ' data-title='NSNR'>12.60</td>
+					<td class='number ' data-title='Total'>88.8</td>
+				</tr>
+
+
+				<tr class='hide-mobile'>
+					<td class='text ' data-title='Fecha'>13/05/2020</td>
+					<td class='text ' data-title='Encuesta'>Activa Research</td>
+					<td class='number ' data-title='N'>1730</td>
+					<td class='text ' data-title='Muestra'>0.00</td>
+					<td class='number ' data-title='Constitucional'>49.60</td>
+					<td class='number ' data-title='Mixta'>27.70</td>
+					<td class='number ' data-title='Validos'>77.30</td>
+					<td class='number ' data-title='NSNR'>11.20</td>
+					<td class='number ' data-title='Total'>88.5</td>
 				</tr>
 
 		</tbody>
 	</table>
 	<div class='rg-source'>
-		<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquintos.cl</span>
+		<span class='pre-colon'>SOURCE</span>: <span class='post-colon'>Sources</span>
 	</div>
 </div>

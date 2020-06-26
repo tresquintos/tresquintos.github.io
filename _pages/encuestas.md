@@ -829,7 +829,7 @@ td.number {
 				</tbody>
 			</table>
 			<div class='rg-source'>
-				<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquinto.cl</span>
+				<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquintos.cl</span>
 			</div>
 		</div>
 
@@ -1684,6 +1684,6 @@ td.number {
 		</tbody>
 	</table>
 	<div class='rg-source'>
-		<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquinto.cl</span>
+		<span class='pre-colon'>FUENTE</span>: <span class='post-colon'>tresquintos.cl</span>
 	</div>
 </div>

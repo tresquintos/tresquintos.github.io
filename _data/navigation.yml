@@ -10,14 +10,17 @@ main:
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
 
-  - title: "🇨🇱Constituyentes 2021"
-    url: /constituyentes2021/
+  - title: "Encuestas"
+    url: /encuestas/
 
   - title: "TSM"
     url: /tsm/
 
   - title: "Sx"
     url: /sx/
+
+  - title: "🇨🇱Constituyentes 2021"
+    url: /constituyentes2021/
 
   - title: "Mapas"
     url: /mapa/
@@ -27,9 +30,6 @@ main:
 
   - title: "Fichajes"
     url: /fichajes/
-
-  - title: "Encuestas"
-    url: /encuestas/
 
   - title: "Blog"
     url: /year-archive/

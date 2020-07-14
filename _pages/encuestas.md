@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de todas las encuestas que estamos usando para generar pronósticos. Las tablas incluyen información de la fecha de la encuesta, el número de encuestados, el método de recopilación de datos, y si es una encuesta probabílistica. Además incluye información relativa a la intención de voto para los candidatos (o alternativas) que estamos monitoreando.
+En esta página puedes ver la lista de todas las encuestas que estamos usando para generar pronósticos. Las tablas incluyen información de la fecha de la encuesta, el número de encuestados, además de la información relativa a la intención de voto para los principales candidatos (o alternativas). (Las bases de datos para suscriptores incluyen además el método de recopilación de datos [fono, online, presencial], si es una encuesta probabílistica [sí/no]. También incluyen información para todos los candidatos/alternativas).
 
 
 <iframe title="Encuestas: Elección Presidencial 2021" aria-label="chart" id="datawrapper-chart-C2yZk" src="https://datawrapper.dwcdn.net/C2yZk/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2363"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();

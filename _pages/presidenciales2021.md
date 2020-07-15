@@ -32,11 +32,11 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_José%20Antonio%20Kast.png)
 
-[![Franco Parisi](/images/tsm/ts_2021_Franco&Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco&Parisi.png) [![José Antonio Kast](/images/tsm/kd_2021_Franco&Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco&Parisi.png)
+[![Franco Parisi](/images/tsm/ts_2021_Franco&20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco&20Parisi.png) [![Franco Parisi](/images/tsm/kd_2021_Franco&20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco&20Parisi.png)
 
 [![Michelle Bachelet](/images/tsm/ts_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Michelle%20Bachelet.png) [![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Michelle%20Bachelet.png)
 
-[![Leonardo Farkas](/images/tsm/ts_2021_Leonardo&Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Leonardo&Farkas.png) [![José Antonio Kast](/images/tsm/kd_2021_Leonardo&Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Leonardo&Farkas.png)
+[![Leonardo Farkas](/images/tsm/ts_2021_Leonardo&20Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Leonardo&20Farkas.png) [![José Antonio Kast](/images/tsm/kd_2021_Leonardo&20Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Leonardo&20Farkas.png)
 
 [![Felipe Kast](/images/tsm/ts_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Felipe%20Kast.png) [![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Felipe%20Kast.png)
 

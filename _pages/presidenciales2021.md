@@ -19,7 +19,7 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 ![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="45%" width="45%"} ![8](/images/tsm/card_2021_Felipe%20Kast.png){:height="45%" width="45%"}
 
-![9](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}![10](/images/tsm/card_2021_Otros.png){:height="45%" width="45%"}
+![9](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}![10](/images/tsm/card_2021_Izkia%20Siches.png){:height="45%" width="45%"}
 
 
 ### Primera vuelta

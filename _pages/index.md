@@ -8,7 +8,9 @@ author_profile: true
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
-[![Aprueba](/images/tsm/blinkers/2020-1 blinker.gif){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Convención Constitucional](/images/tsm/blinkers/2020-2 blinker.gif){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
+![1](/images/tsm/card_2020-1_Aprueba.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechaza.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
+
 
 
 ### Mapa del sitio

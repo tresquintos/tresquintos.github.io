@@ -5,9 +5,12 @@ permalink: /club/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de ganadores de #TriviaTresquintos.
+En esta página puedes ver la lista de ganadores de 📣 #TriviaTresquintos 📣. Son todos qul
 
 ### 2020
+
+Competencias de 2020:
+
 
 <div class="center">
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">📣<a href="https://twitter.com/hashtag/TriviaTresquintos?src=hash&amp;ref_src=twsrc%5Etfw">#TriviaTresquintos</a> 📣<br><br>🥁 Nombra al partido político con mas ministros nombrados desde 1990 (diferentes carteras/gobiernos) 🇨🇱<br><br>👉🏼Participa y te enviamos una sorpresa directo a tu domicilio👈🏼 <br><br>Anota abajo tu respuesta abajo 👇🏻</p>&mdash; tresquintos.cl (@tresquintos) <a href="https://twitter.com/tresquintos/status/1283161794647863298?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,7 +18,7 @@ En esta página puedes ver la lista de ganadores de #TriviaTresquintos.
 
 Ganadores:
 
-- @Claudio_Lohse
+- [@Claudio_Lohse](https://twitter.com/Claudio_Lohse)
 - @SenorIwai
 - @subustiun
 - @ignaciabarrost

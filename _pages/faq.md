@@ -65,7 +65,7 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 
 Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscriptores de *Reveniu*. Allí podrás elegir uno de los tres segmentos (Básico, VIP, o Súper VIP) para recibir contenido inédito directo en tú inbox, además de invitaciones especiales a sesiones ¡Live! de ZOOM y una membresía en el servidor exclusivo de Tresquintos en *Discord*. Si prefieres hacer una donación única, la puedes hacer por medio de *PayPal* o *Flow*. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
 
-[![Reveniu](/images/reveniu.png){:height="4%" width="4%"}](https://app.reveniu.com/tresquintos) [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
+[![Reveniu](/images/reveniu.png){:height="70%" width="70%"}](https://app.reveniu.com/tresquintos) [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
 ### ¿Cómo me puedo suscribir a Tresquintos?

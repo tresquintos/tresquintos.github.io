@@ -63,7 +63,7 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 
-Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscriptores de *Reveniu*. Allí podrás elegir uno de los tres segmentos (Básico, VIP, o Súper VIP) para recibir contenido inédito directo en tú inbox, además de invitaciones especiales a sesiones ¡Live! de ZOOM y una membresía en el servidor exclusivo de Tresquintos en *Discord*. Si prefieres hacer una donación única, la puedes hacer por medio de *PayPal* o *Flow*. El mínimo es **$1,000 CLP**, y el máximo es **$1,000,000 CLP**.
+Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscriptores de *Reveniu*. Allí podrás elegir uno de los tres segmentos (Básico, VIP, o Súper VIP) para recibir contenido inédito directo en tú inbox, además de invitaciones especiales a sesiones ¡Live! de ZOOM y una membresía en el servidor exclusivo de Tresquintos en *Discord*. O, si prefieres hacer una donación única. También recibimos donaciones únicas por *PayPal* o *Flow*.
 
 [![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos) [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
@@ -78,7 +78,7 @@ Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, r
 
 ### ¿Qué representan los controladores NES?
 
-Es un misterio solo resuleto por las mentes más curiosas.
+Es un misterio solo resuelto por las mentes más curiosas.
 
 [![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Iliad#Menis)
 

@@ -7,13 +7,19 @@ author_profile: true
 
 En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay tres categorías
 
-
-
 ![9](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 
 ![9](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
+- Resultados por comuna, 1989-2017
+
 ![9](/images/datos/parlamentarias.png){:height="45%" width="45%"}
+
+- Resultados elecciones de Senadores por comuna, 1989-2017
+
+- Resultados elecciones de Diputados por comuna, 1989-2017
+
+![9](/images/datos/otros.png){:height="45%" width="45%"}
 
 
 

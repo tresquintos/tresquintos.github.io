@@ -9,12 +9,11 @@ En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay
 
 
 
-![9](/images/datos/base_de_datos.png){:height="45%" width="45%"}![10](/images/datos/base_de_datos.png){:height="45%" width="45%"}
+![9](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 
-![9](/images/datos/presidenciales.png){:height="45%" width="45%"}![10](/images/datos/presidenciales.png){:height="45%" width="45%"}
+![9](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
-
-![9](/images/datos/parlamentarias.png){:height="45%" width="45%"}![10](/images/datos/parlamentarias.png){:height="45%" width="45%"}
+![9](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
 
 

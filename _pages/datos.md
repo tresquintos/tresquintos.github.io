@@ -21,11 +21,11 @@ En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay
 
 ![9](/images/datos/municipales.png){:height="45%" width="45%"}
 
-- Resultados elecciones municipales por comuna, 1992-2016
+- Resultados elecciones municipales por comuna, 1992-2000
 
-- Resultados elecciones alcaldes por comuna, 1992-2016
+- Resultados elecciones alcaldes por comuna, 2004-2016
 
-- Resultados elecciones concejales por comuna, 1992-2016
+- Resultados elecciones concejales por comuna, 2004-2016
 
 
 ![9](/images/datos/otros.png){:height="45%" width="45%"}

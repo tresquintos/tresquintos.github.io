@@ -19,8 +19,18 @@ En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay
 
 - Resultados elecciones de Diputados por comuna, 1989-2017
 
+![9](/images/datos/municipales.png){:height="45%" width="45%"}
+
+- Resultados elecciones municipales por comuna, 1992-2016
+
+- Resultados elecciones alcaldes por comuna, 1992-2016
+
+- Resultados elecciones concejales por comuna, 1992-2016
+
+
 ![9](/images/datos/otros.png){:height="45%" width="45%"}
 
+- Resultados por comuna Plebiscito 1988
 
 
 <!-- NES -->

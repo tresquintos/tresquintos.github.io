@@ -9,6 +9,9 @@ En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay
 
 ![9](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 
+Abajo podrás encontrar los distintos tipos de elección, y sus bases de datos asociadas. Cada archivo viene con una base de datos en formato ".csv", además de una nota con la fuente y una sugerencia de cómo citar.
+
+
 ![9](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados por comuna, 1989-2017

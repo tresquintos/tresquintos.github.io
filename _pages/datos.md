@@ -5,7 +5,7 @@ permalink: /datos/
 author_profile: true
 ---
 
-En esta página ver la lista de bases de datos que manejamos en **Tresquintos**. Hay tres categorías: bases gratuitas; bases light; bases premium.
+En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay tres categorías: bases gratuitas; bases light; bases premium.
 
 ![1](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 

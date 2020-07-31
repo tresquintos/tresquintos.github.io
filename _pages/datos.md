@@ -5,24 +5,26 @@ permalink: /datos/
 author_profile: true
 ---
 
-En esta página ver la lista de bases de datos que manejamos en Tresquintos. Hay tres categorías
+En esta página ver la lista de bases de datos que manejamos en **Tresquintos**. Hay tres categorías: bases gratuitas; bases light; bases premium.
 
-![9](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
+![1](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 
-Abajo podrás encontrar los distintos tipos de elección, y sus bases de datos asociadas. Cada archivo viene con una base de datos en formato ".csv", además de una nota con la fuente y una sugerencia de cómo citar.
+Abajo podrás encontrar los distintos tipos de elección, y sus bases de datos asociadas. Al descargar los datos, tendrás un archivo comprimido (en formato ".rar") que contiene la base de datos (en formato ".csv") y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato "".txt").
 
 
-![9](/images/datos/presidenciales.png){:height="45%" width="45%"}
+![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
-- Resultados por comuna, 1989-2017
+- Resultados elecciones presidenciales por comuna, 1989-2017
 
-![9](/images/datos/parlamentarias.png){:height="45%" width="45%"}
+
+![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
 - Resultados elecciones de Senadores por comuna, 1989-2017
 
 - Resultados elecciones de Diputados por comuna, 1989-2017
 
-![9](/images/datos/municipales.png){:height="45%" width="45%"}
+
+![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
 - Resultados elecciones municipales por comuna, 1992-2000
 
@@ -31,7 +33,7 @@ Abajo podrás encontrar los distintos tipos de elección, y sus bases de datos a
 - Resultados elecciones concejales por comuna, 2004-2016
 
 
-![9](/images/datos/otros.png){:height="45%" width="45%"}
+![5](/images/datos/otros.png){:height="45%" width="45%"}
 
 - Resultados por comuna Plebiscito 1988
 

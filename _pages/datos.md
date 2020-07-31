@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bases de Datos de Tresquintos"
+title: "Bases de Datos"
 permalink: /datos/
 author_profile: true
 ---

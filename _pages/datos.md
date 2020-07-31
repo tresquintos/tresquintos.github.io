@@ -9,12 +9,13 @@ En esta página ver la lista de bases de datos que manejamos en **Tresquintos**.
 
 ![1](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
 
-Abajo podrás encontrar los distintos tipos de elección, y sus bases de datos asociadas. Al descargar los datos, tendrás un archivo comprimido (en formato ".rar") que contiene la base de datos (en formato ".csv") y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato "".txt").
+Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) que contiene la base de datos (en formato **".csv"**) y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato **".txt"**).
 
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados elecciones presidenciales por comuna, 1989-2017
+  - [variables: comuna; número_votos_candidato; nulos; blancos; emitidos]
 
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}

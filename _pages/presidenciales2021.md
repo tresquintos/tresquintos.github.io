@@ -13,9 +13,9 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 ### Resumen primera vuelta
 ![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="45%" width="45%"}
 
-![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}![4](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}
+![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="45%" width="45%"}![4](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}
 
-![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="45%" width="45%"} ![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}
+![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}
 
 ![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="45%" width="45%"} ![8](/images/tsm/card_2021_Felipe%20Kast.png){:height="45%" width="45%"}
 
@@ -28,11 +28,11 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![Daniel Jadue](/images/tsm/ts_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Daniel%20Jadue.png) [![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Daniel%20Jadue.png)
 
-[![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Beatriz%20Sánchez.png) [![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Beatriz%20Sánchez.png)
+[![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco%20Parisi.png) [![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco%20Parisi.png)
 
 [![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_José%20Antonio%20Kast.png)
 
-[![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco%20Parisi.png) [![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco%20Parisi.png)
+[![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Beatriz%20Sánchez.png) [![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Beatriz%20Sánchez.png)
 
 [![Michelle Bachelet](/images/tsm/ts_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Michelle%20Bachelet.png) [![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Michelle%20Bachelet.png)
 

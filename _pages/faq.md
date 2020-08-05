@@ -68,11 +68,11 @@ Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscripto
 [![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos) [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 
-[![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos)
-[![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos)
-[![Reveniu](/images/diezmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos)
-[![Reveniu](/images/veintemil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos)
-[![Reveniu](/images/cienmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos)
+[![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
+[![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)
+[![Reveniu](/images/diezmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/XtOEi2ah7oxt2GnJOQrcRRO1Lr6rn13m/tresquintos)
+[![Reveniu](/images/veintemil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/0xq99UCczFY3Ws7he0CA9jr2cGh9lkIN/tresquintos)
+[![Reveniu](/images/cienmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/uOMuPVaBAajcc88clP7bK5D7yCtyDSbl/tresquintos)
 
 ### ¿Cómo me puedo suscribir a Tresquintos?
 

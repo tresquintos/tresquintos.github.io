@@ -63,7 +63,7 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 
 ### ¿Cómo puedo contribuir?
 
-Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra lista de planes de [Reveniu](https://app.reveniu.com/tresquintos), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Con una pequeña contribución recibirás una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores VIP. Aquí puedes ver las opciones de **donación única**:
+Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra lista de planes de [**Reveniu**](https://app.reveniu.com/tresquintos), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Aquí puedes ver las opciones de **donación única**:
 
 [![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
 [![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)
@@ -81,6 +81,8 @@ Aquí puedes ver las opciones de **plan mensual**:
 O, si prefieres puedes hacer una donación única vía *PayPal* o *Flow*.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
+
+Por tu contribución te enviaremos una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores **VIP**.
 
 ### ¿Cómo me puedo suscribir a Tresquintos?
 

@@ -23,9 +23,10 @@ Pincha aquí para hacer una **donación mensual**:
 [![Reveniu](/images/dosmil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/x4uYMXcTeLolNIuKSVqxLjHKkGfNj3ug/tresquintos)
 [![Reveniu](/images/cincomil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/7zKtTSeNIGTecH8eJPIThnIaLHFaDlvi/tresquintos)
 
-Si prefieres puedes donar vía **PayPal**.
+O, si prefieres, puedes donar vía **PayPal** o **Bitcoin**.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/)
+[![Bitcoin](/images/bitcoin.png){:height="6%" width="6%"}](https://www.bitcoin.com)
 
 
 <!-- NES -->

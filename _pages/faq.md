@@ -65,7 +65,7 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 
 Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra página de [**donaciones**](https://tresquintos.cl/donaciones), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Para contribuciones con cuentas bancarias chilenas (Transbank), pincha aquí:
 
-<div align="center">[![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://tresquintos.cl/donaciones)</div>
+[![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://tresquintos.cl/donaciones)
 
 ### ¿Cómo me puedo suscribir?
 

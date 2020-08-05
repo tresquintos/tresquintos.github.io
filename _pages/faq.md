@@ -74,7 +74,7 @@ Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes 
 
 Aquí puedes ver las opciones de planes mensual:
 
-![Reveniu](/images/mil_mensual.png){:height="14%" width="14%"}(https://app.reveniu.com/checkout/xjXeI5gCK9dHERJYFrnVPp1qjYJpJLZU/tresquintos)
+[[Reveniu](/images/mil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/xjXeI5gCK9dHERJYFrnVPp1qjYJpJLZU/tresquintos)
 [![Reveniu](/images/dosmil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/x4uYMXcTeLolNIuKSVqxLjHKkGfNj3ug/tresquintos)
 [![Reveniu](/images/cincomil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/7zKtTSeNIGTecH8eJPIThnIaLHFaDlvi/tresquintos)
 

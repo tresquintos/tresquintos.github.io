@@ -61,9 +61,9 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
-### ¿Cómo puedo contribuir a Tresquintos?
+### ¿Cómo puedo contribuir?
 
-Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo por medio de nuestra cuenta [Reveniu](https://app.reveniu.com/tresquintos), donde podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Con una pequeña contribución recibirás una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores VIP. Aquí puedes ver las opciones de donación única:
+Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra lista de planes de [Reveniu](https://app.reveniu.com/tresquintos), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Con una pequeña contribución recibirás una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores VIP. Aquí puedes ver las opciones de donación única:
 
 [![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
 [![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)
@@ -71,6 +71,12 @@ Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes 
 [![Reveniu](/images/veintemil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/0xq99UCczFY3Ws7he0CA9jr2cGh9lkIN/tresquintos)
 [![Reveniu](/images/cienmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/uOMuPVaBAajcc88clP7bK5D7yCtyDSbl/tresquintos)
 [![Reveniu](/images/otro_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/rQlHnoDyO72NnFTsfts3xVJH5p4qbmF6/tresquintos)
+
+Aquí puedes ver las opciones de planes mensual:
+
+![Reveniu](/images/mil_mensual.png){:height="14%" width="14%"}(https://app.reveniu.com/checkout/xjXeI5gCK9dHERJYFrnVPp1qjYJpJLZU/tresquintos)
+[![Reveniu](/images/dosmil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/x4uYMXcTeLolNIuKSVqxLjHKkGfNj3ug/tresquintos)
+[![Reveniu](/images/cincomil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/7zKtTSeNIGTecH8eJPIThnIaLHFaDlvi/tresquintos)
 
 O, si prefieres puedes hacer una donación única vía *PayPal* o *Flow*.
 

@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-### ¿Cómo puedo contribuir?
-
 Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra página de [**donaciones**](https://tresquintos.cl/donaciones), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Para contribuciones con cuentas bancarias chilenas (Transbank), pincha aquí:
 
 Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra lista de planes de [**Reveniu**](https://app.reveniu.com/tresquintos), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Aquí puedes ver las opciones de **donación única**:
@@ -28,7 +25,7 @@ Aquí puedes ver las opciones de **plan mensual**:
 
 O, si prefieres puedes hacerlo vía *PayPal*.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) 
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/)
 
 
 <!-- NES -->

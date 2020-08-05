@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-En esta página podrás contribuir a mantener **Tresquintos** activo e independiente con una pequeña donación vía [**Reveniu**](https://app.reveniu.com/tresquintos). Las distintas modalidades permiten elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Pincha aquí para hacer una **donación única**:
+En esta página podrás contribuir a mantener **Tresquintos** activo e independiente con una pequeña donación vía [**Reveniu**](https://app.reveniu.com/tresquintos). Las distintas modalidades permiten elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual.
+
+Pincha aquí para hacer una **donación única**:
 
 [![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
 [![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)

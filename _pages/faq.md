@@ -33,7 +33,7 @@ Para efectos de este sitio, un pronóstico es una proyección para una elección
 [![bayes](/images/dice.png){:height="6%" width="6%"}](https://tresquintos.cl/sx/) [![mcmc](/images/dice2.png){:height="5%" width="5%"}](https://tresquintos.cl/tsm/)
 
 
-### ¿Con qué frecuencia se actualiza Tresquintos?
+### ¿Con qué frecuencia se actualiza el sitio?
 
 El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para 2020 y 2021, la frecuencia será relativamente alta.
 
@@ -68,7 +68,7 @@ Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes 
 [![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://tresquintos.cl/donaciones)
 
 
-### ¿Cómo me puedo suscribir a Tresquintos?
+### ¿Cómo me puedo suscribir?
 
 Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).
 

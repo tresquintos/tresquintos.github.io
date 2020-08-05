@@ -25,7 +25,7 @@ Pincha aquí para hacer una **donación mensual**:
 
 O, si prefieres, puedes donar vía **PayPal** o **Bitcoin**.
 
-[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="12%" width="12%"}](https://www.paypal.me/tresquintos/)
+[![PayPal](/images/paypal.png){:height="10%" width="10%"}](https://www.paypal.me/tresquintos/)
 [![Bitcoin](/images/bitcoin.png){:height="10%" width="10%"}](https://www.bitcoin.com)
 
 

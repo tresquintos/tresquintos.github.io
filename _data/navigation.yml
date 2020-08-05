@@ -25,13 +25,13 @@ main:
   - title: "Mapas"
     url: /mapa/
 
-  - title: "Gabinetes"
+  - title: "💼Gabinetes"
     url: /gabinetes/
 
-  - title: "Fichajes"
+  - title: "🎱Fichajes"
     url: /fichajes/
 
-  - title: "Blog"
+  - title: "🔖Blog"
     url: /year-archive/
 
   - title: "📌FAQ"

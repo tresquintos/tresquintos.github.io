@@ -82,8 +82,6 @@ O, si prefieres puedes hacer una donación única vía *PayPal* o *Flow*.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
-Por tu contribución te enviaremos una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores **VIP**.
-
 ### ¿Cómo me puedo suscribir a Tresquintos?
 
 Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación vía [**Reveniu**](https://app.reveniu.com/tresquintos). Allí podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Pincha aquí para hacer una **donación única**:
+En esta página podrás contribuir a mantener **Tresquintos** activo e independiente con una pequeña donación vía [**Reveniu**](https://app.reveniu.com/tresquintos). Las distintas modalidades permiten elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Pincha aquí para hacer una **donación única**:
 
 [![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
 [![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)
@@ -21,7 +21,7 @@ Pincha aquí para hacer suscribirte a un **plan mensual**:
 [![Reveniu](/images/dosmil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/x4uYMXcTeLolNIuKSVqxLjHKkGfNj3ug/tresquintos)
 [![Reveniu](/images/cincomil_mensual.png){:height="14%" width="14%"}](https://app.reveniu.com/checkout/7zKtTSeNIGTecH8eJPIThnIaLHFaDlvi/tresquintos)
 
-O, si prefieres puedes donar vía *PayPal*.
+Si prefieres puedes hacerlo vía **PayPal**.
 
 [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/)
 

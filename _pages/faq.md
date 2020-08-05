@@ -63,10 +63,7 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 
 ### ¿Cómo puedo contribuir a Tresquintos?
 
-Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscriptores de *Reveniu*. Allí podrás elegir uno de los tres segmentos (Básico, VIP, o Súper VIP) para recibir contenido inédito directo en tú inbox, además de invitaciones especiales a sesiones ¡Live! de ZOOM y una membresía en el servidor exclusivo de Tresquintos en *Discord*. O, si prefieres hacer una donación única. También recibimos donaciones únicas por *PayPal* o *Flow*.
-
-[![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://app.reveniu.com/tresquintos) [![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
-
+Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo por medio de nuestra cuenta [Reveniu](https://app.reveniu.com/tresquintos), donde podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Con una pequeña contribución recibirás una sorpresa en el correo directo a tu domicilio y te agregaremos a nuestra lista de suscriptores VIP. Aquí puedes ver las opciones de donación única:
 
 [![Reveniu](/images/mil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/Pt7A2hI118XxaHem4W8bysV31hUbdm58/tresquintos)
 [![Reveniu](/images/cincomil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/CdZ8ia4zw99ZY214VjopDzKLz51P1rdQ/tresquintos)
@@ -75,6 +72,9 @@ Si quieres contribuir a **Tresquintos**, te puedes sumar a la lista de suscripto
 [![Reveniu](/images/cienmil_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/uOMuPVaBAajcc88clP7bK5D7yCtyDSbl/tresquintos)
 [![Reveniu](/images/otro_una.png){:height="14%" width="14%"}](https://app.reveniu.com/wp/checkout/rQlHnoDyO72NnFTsfts3xVJH5p4qbmF6/tresquintos)
 
+O, si prefieres puedes hacer una donación única vía *PayPal* o *Flow*.
+
+[![PayPal](https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png){:height="6%" width="6%"}](https://www.paypal.me/tresquintos/) [![Flow](https://www.flow.cl/img/botones/btn-donar-celeste.png){:height="9%" width="9%"}](https://www.flow.cl/btn.php?token=3vop8lw)
 
 ### ¿Cómo me puedo suscribir a Tresquintos?
 

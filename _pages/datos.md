@@ -186,7 +186,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - readme.txt
 - Acusaciones Constitucionales, 1868-2020
   - descarga (comprimido)
-  - ejemplo.csv
+  - [ejemplo.csv](/datos/Acusaciones Constitucionales, 1868-2020/Acusaciones Constitucionales, 1868-2020(ejemplo).xlsx)
   - readme.txt
 - Interpelaciones, 2006-2020
   - descarga (comprimido)

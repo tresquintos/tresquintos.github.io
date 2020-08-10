@@ -15,7 +15,7 @@ Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) q
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados elecciones presidenciales por mesa, 1989
-  - ejemplo
+  - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales por mesa, 1993
 - Resultados elecciones presidenciales por mesa, 1999

@@ -11,15 +11,21 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados elecciones presidenciales, 1989
-  - descarga (.rar: .csv + .txt)
+  - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1993
-  - descarga (.rar: .csv + .txt)
+  - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1999
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones presidenciales, 2000
+- descarga (comprimido)
+- ejemplo.csv
+- readme.txt
 - Resultados elecciones presidenciales, 2005
 - Resultados elecciones presidenciales, 2006
 - Resultados elecciones presidenciales, 2009

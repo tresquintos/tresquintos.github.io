@@ -62,23 +62,68 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
-- Resultados elecciones de Senadores por comuna, 1989-2017
+- Resultados elecciones de Senadores, 1989
 
-- Resultados elecciones de Diputados por comuna, 1989-2017
+- Resultados elecciones de Senadores, 1993
 
+- Resultados elecciones de Senadores, 1997
+
+- Resultados elecciones de Senadores, 2001
+
+- Resultados elecciones de Senadores, 2005
+
+- Resultados elecciones de Senadores, 2009
+
+- Resultados elecciones de Senadores, 2013
+
+- Resultados elecciones de Senadores, 2017
+
+- Resultados elecciones de Diputados, 1989
+
+- Resultados elecciones de Diputados, 1993
+
+- Resultados elecciones de Diputados, 1997
+
+- Resultados elecciones de Diputados, 2001
+
+- Resultados elecciones de Diputados, 2005
+
+- Resultados elecciones de Diputados, 2009
+
+- Resultados elecciones de Diputados, 2013
+
+- Resultados elecciones de Diputados, 2017
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
-- Resultados elecciones municipales por comuna, 1992-2000
+- Resultados elecciones municipales, 1992
 
-- Resultados elecciones alcaldes por comuna, 2004-2016
+- Resultados elecciones municipales, 1996
 
-- Resultados elecciones concejales por comuna, 2004-2016
+- Resultados elecciones municipales, 2000
 
+- Resultados elecciones alcaldes, 2004
+
+- Resultados elecciones alcaldes, 2008
+
+- Resultados elecciones alcaldes, 2012
+
+- Resultados elecciones alcaldes, 2016
+
+- Resultados elecciones concejales, 2004
+
+- Resultados elecciones concejales, 2008
+
+- Resultados elecciones concejales, 2012
+
+- Resultados elecciones concejales, 2016
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
-- Resultados por comuna Plebiscito 1988
+- Resultados Plebiscito, 1988
+
+- Resultados Plebiscito, 1989
+
 
 
 <!-- NES -->

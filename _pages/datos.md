@@ -62,67 +62,67 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
-- Resultados elecciones de senadores, 1989
+- Resultados elecciones senadores, 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 1993
+- Resultados elecciones senadores, 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 1997
+- Resultados elecciones senadores, 1997
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 2001
+- Resultados elecciones senadores, 2001
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 2005
+- Resultados elecciones senadores, 2005
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 2009
+- Resultados elecciones senadores, 2009
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 2013
+- Resultados elecciones senadores, 2013
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de senadores, 2017
+- Resultados elecciones senadores, 2017
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 1989
+- Resultados elecciones diputados, 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 1993
+- Resultados elecciones diputados, 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 1997
+- Resultados elecciones diputados, 1997
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 2001
+- Resultados elecciones diputados, 2001
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 2005
+- Resultados elecciones diputados, 2005
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 2009
+- Resultados elecciones diputados, 2009
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 2013
+- Resultados elecciones diputados, 2013
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones de diputados, 2017
+- Resultados elecciones diputados, 2017
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt

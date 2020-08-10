@@ -18,24 +18,46 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 1999
+- Resultados elecciones presidenciales, 1999 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2000
-- descarga (comprimido)
-- ejemplo.csv
-- readme.txt
-- Resultados elecciones presidenciales, 2005
-- Resultados elecciones presidenciales, 2006
-- Resultados elecciones presidenciales, 2009
-- Resultados elecciones presidenciales, 2010
-- Resultados elecciones presidenciales, 2013
-- Resultados elecciones presidenciales, 2013 (2)
-- Resultados elecciones presidenciales, 2017
-- Resultados elecciones presidenciales, 2017 (2)
-
-
+- Resultados elecciones presidenciales, 2000 (2v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2005 (1v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2006 (2v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2009 (1v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2010 (2v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2013 (1v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2013 (2v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2017 (1v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Resultados elecciones presidenciales, 2017 (2v)
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 
 
 

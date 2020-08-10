@@ -60,7 +60,6 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - readme.txt
 
 
-
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
 - Resultados elecciones de Senadores por comuna, 1989-2017

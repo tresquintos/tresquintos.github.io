@@ -5,7 +5,7 @@ permalink: /datos/
 author_profile: true
 ---
 
-En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay dos categorías: **bases gratuitas** y **bases premium**. Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) que contiene la base de datos (en formato **".csv"**) y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato **".txt"**).
+En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay dos categorías: **bases gratuitas** y **bases premium**. Al descargar los datos, tendrás un archivo comprimido (en formato comprimido **".rar"**) que contiene la base de datos (en formato **".csv"**) y un documento que describe la base, las variables y las fuentes (en formato **".txt"**).
 
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}

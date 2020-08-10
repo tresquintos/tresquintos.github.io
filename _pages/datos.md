@@ -62,37 +62,37 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
-- Resultados elecciones de Senadores, 1989
+- Resultados elecciones de senadores, 1989
 
-- Resultados elecciones de Senadores, 1993
+- Resultados elecciones de senadores, 1993
 
-- Resultados elecciones de Senadores, 1997
+- Resultados elecciones de senadores, 1997
 
-- Resultados elecciones de Senadores, 2001
+- Resultados elecciones de senadores, 2001
 
-- Resultados elecciones de Senadores, 2005
+- Resultados elecciones de senadores, 2005
 
-- Resultados elecciones de Senadores, 2009
+- Resultados elecciones de senadores, 2009
 
-- Resultados elecciones de Senadores, 2013
+- Resultados elecciones de senadores, 2013
 
-- Resultados elecciones de Senadores, 2017
+- Resultados elecciones de senadores, 2017
 
-- Resultados elecciones de Diputados, 1989
+- Resultados elecciones de diputados, 1989
 
-- Resultados elecciones de Diputados, 1993
+- Resultados elecciones de diputados, 1993
 
-- Resultados elecciones de Diputados, 1997
+- Resultados elecciones de diputados, 1997
 
-- Resultados elecciones de Diputados, 2001
+- Resultados elecciones de diputados, 2001
 
-- Resultados elecciones de Diputados, 2005
+- Resultados elecciones de diputados, 2005
 
-- Resultados elecciones de Diputados, 2009
+- Resultados elecciones de diputados, 2009
 
-- Resultados elecciones de Diputados, 2013
+- Resultados elecciones de diputados, 2013
 
-- Resultados elecciones de Diputados, 2017
+- Resultados elecciones de diputados, 2017
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 

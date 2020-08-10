@@ -5,17 +5,13 @@ permalink: /datos/
 author_profile: true
 ---
 
-En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay tres categorías: bases gratuitas; bases light; bases premium.
-
-![1](/images/datos/bases_de_datos.png){:height="45%" width="45%"}
-
-Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) que contiene la base de datos (en formato **".csv"**) y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato **".txt"**).
+En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay tres categorías: bases gratuitas; bases light; bases premium. Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) que contiene la base de datos (en formato **".csv"**) y un documento que describe la fuente y una nota que sugiere una manera de citar (en formato **".txt"**).
 
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados elecciones presidenciales, 1989
-  - descarga (zip: base + readme)
+  - descarga (.rar: .csv + .txt)
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1993

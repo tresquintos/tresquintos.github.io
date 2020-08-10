@@ -15,6 +15,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1993
+  - descarga (.rar: .csv + .txt)
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1999

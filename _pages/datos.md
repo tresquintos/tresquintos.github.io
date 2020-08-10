@@ -63,67 +63,127 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
 - Resultados elecciones de senadores, 1989
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 1993
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 1997
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 2001
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 2005
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 2009
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 2013
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de senadores, 2017
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 1989
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 1993
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 1997
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 2001
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 2005
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 2009
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 2013
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones de diputados, 2017
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
 - Resultados elecciones municipales, 1992
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones municipales, 1996
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones municipales, 2000
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones alcaldes, 2004
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones alcaldes, 2008
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones alcaldes, 2012
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones alcaldes, 2016
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones concejales, 2004
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones concejales, 2008
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones concejales, 2012
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados elecciones concejales, 2016
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
 - Resultados Plebiscito, 1988
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 - Resultados Plebiscito, 1989
-
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 
 
 <!-- NES -->

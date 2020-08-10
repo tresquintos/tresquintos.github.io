@@ -34,5 +34,8 @@ main:
   - title: "🔖Blog"
     url: /year-archive/
 
+  - title: "💎Donaciones"
+    url: /donaciones/
+
   - title: "📌FAQ"
     url: /faq/

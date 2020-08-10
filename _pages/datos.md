@@ -15,7 +15,7 @@ Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) q
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Resultados elecciones presidenciales, 1989
-  - descarga (base + readme)
+  - descarga (zip: base + readme)
   - ejemplo.csv
   - readme.txt
 - Resultados elecciones presidenciales, 1993

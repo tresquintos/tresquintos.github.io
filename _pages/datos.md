@@ -14,8 +14,23 @@ Al descargar los datos, tendrás un archivo comprimido (en formato **".rar"**) q
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
-- Resultados elecciones presidenciales por comuna, 1989-2017
-  - [variables: comuna; número_votos_candidato; nulos; blancos; emitidos]
+- Resultados elecciones presidenciales por mesa, 1989
+  - ejemplo
+  - readme.txt
+- Resultados elecciones presidenciales por mesa, 1993
+- Resultados elecciones presidenciales por mesa, 1999
+- Resultados elecciones presidenciales por mesa, 2000
+- Resultados elecciones presidenciales por mesa, 2005
+- Resultados elecciones presidenciales por mesa, 2006
+- Resultados elecciones presidenciales por mesa, 2009
+- Resultados elecciones presidenciales por mesa, 2010  - [variables: comuna; número_votos_candidato; nulos; blancos; emitidos]
+- Resultados elecciones presidenciales por mesa, 2013
+- Resultados elecciones presidenciales por mesa, 2013 (2)
+- Resultados elecciones presidenciales por mesa, 2017
+- Resultados elecciones presidenciales por mesa, 2017 (2)
+
+
+
 
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}

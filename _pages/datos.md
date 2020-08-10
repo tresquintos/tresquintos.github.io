@@ -176,15 +176,26 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
-- Resultados Plebiscito, 1988
+- Resultados plebiscito, 1988
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados Plebiscito, 1989
+- Resultados plebiscito, 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-
+- Acusaciones constitucionales, 1868-2020
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Interpelaciones, 2006-2020
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
+- Cuentas Públicas, 1832-2020
+  - descarga (comprimido)
+  - ejemplo.csv
+  - readme.txt
 
 <!-- NES -->
 <style>

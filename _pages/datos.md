@@ -11,121 +11,121 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Elección presidencial 1989
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 1993
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 1999 (1v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2000 (2v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2005 (1v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2006 (2v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2009 (1v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2010 (2v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2013 (1v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2013 (2v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2017 (1v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección presidencial 2017 (2v)
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
 - Elección senadores 1989
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 1993
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 1997
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 2001
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 2005
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 2009
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 2013
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección senadores 2017
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 1989
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 1993
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 1997
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 2001
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 2005
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 2009
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 2013
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección diputados 2017
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
@@ -185,16 +185,16 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - ejemplo.csv
   - readme.txt
 - Acusaciones Constitucionales, 1868-2020
-  - [archivo.xlsx](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
-  - [ejemplo.xlsx](https://www.dropbox.com/s/9cagpk766nksg04/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020%20corto.xlsx?dl=0)
+  - [archivo.csv](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
+  - [ejemplo.csv](https://www.dropbox.com/s/9cagpk766nksg04/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/l0lkn736h2euxlf/readme.txt?dl=0)
 - Interpelaciones, 2006-2020
-  - [archivo.xlsx](https://www.dropbox.com/s/lqkvk5or5e0d9of/Interpelaciones%20en%20Chile%2C%202006-2020.xlsx?dl=0)
-  - [ejemplo.xlsx](https://www.dropbox.com/s/nlpp94gtm40xz6r/Interpelaciones%20en%20Chile%2C%202006-2020%20corto.xlsx?dl=0)
+  - [archivo.csv](https://www.dropbox.com/s/lqkvk5or5e0d9of/Interpelaciones%20en%20Chile%2C%202006-2020.xlsx?dl=0)
+  - [ejemplo.csv](https://www.dropbox.com/s/nlpp94gtm40xz6r/Interpelaciones%20en%20Chile%2C%202006-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/m3y5vyruolrxqu9/readme.txt?dl=0)
 - Cuentas Públicas, 1832-2020
-  - [archivo.xlsx](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020.xlsx?dl=0)
-  - [ejemplo.xlsx](https://www.dropbox.com/s/zd1s6xz58x47oh3/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020%20corto.xlsx?dl=0)
+  - [archivo.csv](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020.xlsx?dl=0)
+  - [ejemplo.csv](https://www.dropbox.com/s/zd1s6xz58x47oh3/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/ivneqsxb0ol4nlk/readme.txt?dl=0)
 
 <!-- NES -->

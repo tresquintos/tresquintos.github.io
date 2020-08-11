@@ -10,51 +10,51 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
-- Elección presidencial, 1989
+- Elección presidencial 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 1993
+- Elección presidencial 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 1999 (1v)
+- Elección presidencial 1999 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2000 (2v)
+- Elección presidencial 2000 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2005 (1v)
+- Elección presidencial 2005 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2006 (2v)
+- Elección presidencial 2006 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2009 (1v)
+- Elección presidencial 2009 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2010 (2v)
+- Elección presidencial 2010 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2013 (1v)
+- Elección presidencial 2013 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2013 (2v)
+- Elección presidencial 2013 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2017 (1v)
+- Elección presidencial 2017 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Elección presidencial, 2017 (2v)
+- Elección presidencial 2017 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
@@ -62,67 +62,67 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![3](/images/datos/parlamentarias.png){:height="45%" width="45%"}
 
-- Resultados elecciones senadores, 1989
+- Elección senadores 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 1993
+- Elección senadores 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 1997
+- Elección senadores 1997
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 2001
+- Elección senadores 2001
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 2005
+- Elección senadores 2005
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 2009
+- Elección senadores 2009
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 2013
+- Elección senadores 2013
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones senadores, 2017
+- Elección senadores 2017
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 1989
+- Elección diputados 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 1993
+- Elección diputados 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 1997
+- Elección diputados 1997
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 2001
+- Elección diputados 2001
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 2005
+- Elección diputados 2005
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 2009
+- Elección diputados 2009
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 2013
+- Elección diputados 2013
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones diputados, 2017
+- Elección diputados 2017
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt

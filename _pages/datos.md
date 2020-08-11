@@ -129,47 +129,47 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
-- Resultados elecciones municipales, 1992
+- Elecciones municipales 1992
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones municipales, 1996
+- Elecciones municipales 1996
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones municipales, 2000
+- Elecciones municipales 2000
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones alcaldes, 2004
+- Elección alcaldes 2004
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones alcaldes, 2008
+- Elección alcaldes 2008
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones alcaldes, 2012
+- Elección alcaldes 2012
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones alcaldes, 2016
+- Elección alcaldes 2016
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones concejales, 2004
+- Elección concejales 2004
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones concejales, 2008
+- Elección concejales 2008
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones concejales, 2012
+- Elección concejales 2012
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones concejales, 2016
+- Elección concejales 2016
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt

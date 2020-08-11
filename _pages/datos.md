@@ -10,51 +10,51 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
-- Resultados elecciones presidenciales, 1989
+- Elección presidencial, 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 1993
+- Elección presidencial, 1993
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 1999 (1v)
+- Elección presidencial, 1999 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2000 (2v)
+- Elección presidencial, 2000 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2005 (1v)
+- Elección presidencial, 2005 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2006 (2v)
+- Elección presidencial, 2006 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2009 (1v)
+- Elección presidencial, 2009 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2010 (2v)
+- Elección presidencial, 2010 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2013 (1v)
+- Elección presidencial, 2013 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2013 (2v)
+- Elección presidencial, 2013 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2017 (1v)
+- Elección presidencial, 2017 (1v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados elecciones presidenciales, 2017 (2v)
+- Elección presidencial, 2017 (2v)
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
@@ -195,7 +195,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 - Cuentas Públicas, 1832-2020
   - [archivo.xlsx](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020.xlsx?dl=0)
   - [ejemplo.xlsx](https://www.dropbox.com/s/zd1s6xz58x47oh3/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020%20corto.xlsx?dl=0)
-  - [readme.txt](https://www.dropbox.com/s/ivneqsxb0ol4nlk/readme.txt?dl=0) 
+  - [readme.txt](https://www.dropbox.com/s/ivneqsxb0ol4nlk/readme.txt?dl=0)
 
 <!-- NES -->
 <style>

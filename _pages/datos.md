@@ -185,7 +185,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - ejemplo.csv
   - readme.txt
 - Acusaciones Constitucionales, 1868-2020
-  - [descarga (comprimido)](Acusaciones%20Constitucionales,%201868-2020/Archive.zip)
+  - [archivo.xlsx](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
   - [ejemplo.csv](https://github.com/tresquintos/datos/blob/master/Acusaciones%20Constitucionales,%201868-2020/data_corto.xlsx?raw=true)
   - [readme.txt](../datos/Acusaciones%20Constitucionales,%201868-2020/readme.txt)
 - Interpelaciones, 2006-2020

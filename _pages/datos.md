@@ -176,11 +176,11 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
-- Resultados plebiscito, 1988
+- Plebiscito 1988
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt
-- Resultados plebiscito, 1989
+- Plebiscito 1989
   - descarga (comprimido)
   - ejemplo.csv
   - readme.txt

@@ -18,7 +18,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 - Elección presidencial 2017 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_1v.xlsx?raw=true)
-  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_2v.csv)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_1v.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_17_1v.txt)
 
 - Elección presidencial 2013 (2v)
@@ -34,7 +34,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 - Elección presidencial 2010 (2v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_10_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_10_2v.csv)
-  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_09_2v.txt)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_10_2v.txt)
 
 - Elección presidencial 2009 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_09_1v.xlsx?raw=true)
@@ -44,7 +44,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 - Elección presidencial 2006 (2v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_06_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_06_2v.csv)
-  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_05_2v.txt)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_06_2v.txt)
 
 - Elección presidencial 2005 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_05_1v.xlsx?raw=true)
@@ -54,7 +54,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 - Elección presidencial 2000 (2v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_00_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_00_2v.csv)
-  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_99_2v.txt)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_00_2v.txt)
 
 - Elección presidencial 1999 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_99_1v.xlsx?raw=true)
@@ -203,17 +203,17 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
 - Elecciones presidenciales, 1989-2017
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89-17.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89-17.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_89-17.txt)
 
 - Elecciones senadores, 1989-2017
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_89-17.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_89-17.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/senadores/readme_89-17.txt)
 
 - Elecciones diputados, 1989-2017
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_89-17.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_89-17.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/diputados/readme_89-17.txt)      
 

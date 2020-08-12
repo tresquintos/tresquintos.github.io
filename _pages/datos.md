@@ -11,51 +11,63 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
 
 - Elección presidencial 1989
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_89.txt)
+  
 - Elección presidencial 1993
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_93.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_93.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_93.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_93.txt)
+
 - Elección presidencial 1999 (1v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_99_1v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_99_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_99_1v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_99_1v.txt)
+
 - Elección presidencial 2000 (2v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_00_2v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_00_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_00_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_00_2v.txt)
+
 - Elección presidencial 2005 (1v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_05_1v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_05_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_05_1v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_05_1v.txt)
+
 - Elección presidencial 2006 (2v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_06_2v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_06_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_06_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_06_2v.txt)
+
 - Elección presidencial 2009 (1v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_09_1v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_09_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_09_1v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_09_1v.txt)
+
 - Elección presidencial 2010 (2v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_10_2v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_10_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_10_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_10_2v.txt)
+
+
 - Elección presidencial 2013 (1v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_13_1v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_13_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_13_1v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_13_1v.txt)
+
 - Elección presidencial 2013 (2v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_13_2v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_13_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_13_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_13_2v.txt)
+
 - Elección presidencial 2017 (1v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_1v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_17_1v.txt)
+
 - Elección presidencial 2017 (2v)
-  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_2v.xlsx)
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_17_2v.txt)
 

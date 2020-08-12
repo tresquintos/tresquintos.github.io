@@ -130,60 +130,60 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
 - Elecciones municipales 1992
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elecciones municipales 1996
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elecciones municipales 2000
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección alcaldes 2004
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección alcaldes 2008
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección alcaldes 2012
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección alcaldes 2016
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección concejales 2004
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección concejales 2008
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección concejales 2012
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Elección concejales 2016
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
 - Plebiscito 1988
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Plebiscito 1989
-  - descarga (comprimido)
-  - ejemplo.csv
-  - readme.txt
+  - [archivo.csv]()
+  - [ejemplo.csv]()
+  - [readme.txt]()
 - Acusaciones Constitucionales, 1868-2020
   - [archivo.csv](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/9cagpk766nksg04/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020%20corto.xlsx?dl=0)
@@ -196,6 +196,8 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [archivo.csv](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/zd1s6xz58x47oh3/Cuentas%20P%C3%BAblicas%20Chile%2C%201832-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/ivneqsxb0ol4nlk/readme.txt?dl=0)
+
+
 
 <!-- NES -->
 <style>

@@ -12,7 +12,7 @@ Sitio: https://tresquintos.cl/datos
 INFORMACIÓN
 
 columnas: 25
-filas: 12.488
+filas: 7.808
 
 ##########################
 
@@ -49,6 +49,20 @@ válidos: votos válidos
 FUENTES
 
 [1]  Servel.cl: https://servel.cl/resultados-en-excel/
+
+
+##########################
+
+PATHS
+
+
+### R
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_93.csv'                
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+
+### Stata 
+import delimited "https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_93.csv", encoding(utf8) clear
 
 ##########################
 

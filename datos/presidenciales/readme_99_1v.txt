@@ -4,7 +4,7 @@ TRESQUINTOS
 
 Bases de Datos de Tresquintos
 Serie: “Elecciones Presidenciales, 1989-2017”
-Base: "presidenciales_99"
+Base: "presidenciales_99_1v"
 Sitio: https://tresquintos.cl/datos
 
 ##########################
@@ -12,7 +12,7 @@ Sitio: https://tresquintos.cl/datos
 INFORMACIÓN
 
 columnas: 25
-filas: xxxxx
+filas: 8.128
 
 ##########################
 
@@ -49,6 +49,20 @@ válidos: votos válidos
 FUENTES
 
 [1]  Servel.cl: https://servel.cl/resultados-en-excel/
+
+
+##########################
+
+PATHS
+
+
+### R
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_99_1v.csv'                
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+
+### Stata 
+import delimited "https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_99_1v.csv", encoding(utf8) clear
 
 ##########################
 

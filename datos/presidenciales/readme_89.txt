@@ -52,6 +52,19 @@ FUENTES
 
 ##########################
 
+PATHS
+
+
+### R
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89.csv'                
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+
+### Stata 
+import delimited "https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89.csv", encoding(utf8) clear
+
+##########################
+
 REFERENCIA
 
 Tresquintos.cl

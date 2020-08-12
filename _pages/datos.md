@@ -16,7 +16,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_2v.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_17_2v.txt)
 
-```
+```javascript
 path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89-17.csv'                
 df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
 length(df)

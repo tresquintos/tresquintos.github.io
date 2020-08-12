@@ -48,7 +48,7 @@ válidos: votos válidos
 
 FUENTES
 
-[1]  Servel.cl
+[1]  Servel.cl: https://servel.cl/resultados-en-excel/
 
 ##########################
 

@@ -205,17 +205,17 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 - Elecciones presidenciales, 1989-2017
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89-17.csv)
-  - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_89-17.txt)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_89-17.txt)
 
 - Elecciones senadores, 1989-2017
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_89-17.csv)
-  - [readme.txt](https://github.com/tresquintos/datos/blob/master/senadores/readme_89-17.txt)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_89-17.txt)
 
 - Elecciones diputados, 1989-2017
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_89-17.csv)
-  - [readme.txt](https://github.com/tresquintos/datos/blob/master/diputados/readme_89-17.txt)      
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_89-17.txt)      
 
 - Plebiscito 1989
   - [archivo.csv]()

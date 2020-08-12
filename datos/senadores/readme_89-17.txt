@@ -1,0 +1,96 @@
+##########################
+
+TRESQUINTOS
+
+Bases de Datos de Tresquintos
+Serie: “Elecciones Senadores, 1989-2017”
+Base: "senadores_89-17"
+Sitio: https://tresquintos.cl/datos
+
+##########################
+
+INFORMACIÓN
+
+columnas: 26
+filas: 36.931
+
+##########################
+
+VARIABLES 
+
+id:
+tipo: tipo de elección
+cargo: tipo de cargo
+fecha: fecha de la votación, dd/mm/aaaa
+año: [aaaa]
+periodo_inicio: [dd/mm/aaaa]
+periodo_fin: [dd/mm/aaaa]
+periodo: [dd/mm/aaaa] - [dd/mm/aaaa]
+vuelta: primera/segunda
+id_región:
+región: nombre región
+id_provincia:
+provincia: nombre provincia
+comuna: nombre comuna
+circunscripción: nombre circunscripción
+sexo_mesa: sexo de la mesa escrutadora
+candidato: nombre del candidato presidencial
+nombre: primer nombre
+apellido1: segundo apellido
+apellido2: segundo apellido
+sexo: sexo del candidato presidencial
+resultado: electo/no electo
+partido: partido del candidato presidencial
+sigla: sigla del partido
+válidos: votos válidos
+
+
+id
+tipo
+cargo
+fecha
+año
+periodo_inicio
+periodo_fin
+periodo
+id_región
+región
+circunscripción_senatorial
+distrito
+comuna
+id_circunscripción
+circunscripción
+sexo_mesa
+candidato
+nombre
+apellido1
+apellido2
+sexo
+resultado
+partido
+sigla
+lista
+válidos
+
+
+
+##########################
+
+FUENTES
+
+[1]  Servel.cl: https://servel.cl/resultados-en-excel/
+
+##########################
+
+REFERENCIA
+
+Tresquintos.cl
+
+##########################
+
+CONTACTO
+
+nombre: Kenneth Bunker
+email: kabunker [@] gmail [.] com
+
+##########################

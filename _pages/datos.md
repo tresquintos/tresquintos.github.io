@@ -16,6 +16,13 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_2v.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/readme_17_2v.txt)
 
+```
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89-17.csv'                
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+```
+
+
 - Elección presidencial 2017 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_17_1v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_17_1v.csv)

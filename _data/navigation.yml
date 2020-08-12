@@ -31,6 +31,9 @@ main:
   - title: "🎱Fichajes"
     url: /fichajes/
 
+  - title: "💾Data"
+    url: /data/
+
   - title: "🔖Blog"
     url: /year-archive/
 

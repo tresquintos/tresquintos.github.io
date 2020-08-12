@@ -14,7 +14,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_89.txt)
-  
+
 - Elección presidencial 1993
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_93.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_93.csv)
@@ -49,7 +49,6 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_10_2v.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_10_2v.csv)
   - [readme.txt](https://github.com/tresquintos/datos/blob/master/presidenciales/readme_10_2v.txt)
-
 
 - Elección presidencial 2013 (1v)
   - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_13_1v.xlsx?raw=true)

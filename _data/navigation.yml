@@ -5,9 +5,10 @@ main:
     url: /elecciones/
 
   - title: "🇨🇱Plebiscito 2020"
-    url: /plebiscito2020/
-    url: /presidenciales2021/
-    
+    sublinks:
+      url: /plebiscito2020/
+      url: /presidenciales2021/
+
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
 

@@ -12,16 +12,16 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 - Elección presidencial 1989
   - [archivo.csv](https://github.com/tresquintos/datos/blob/master/presidenciales_89.xlsx?raw=true)
-  - [ejemplo.csv]()
-  - [readme.txt](https://github.com/tresquintos/datos/blob/master/readme_89-17.txt)
+  - [import stata/R](https://github.com/tresquintos/datos/blob/master/presidenciales_89.csv?raw=true)
+  - [readme.txt](https://github.com/tresquintos/datos/blob/master/readme_89.txt)
 - Elección presidencial 1993
   - [archivo.csv]()
   - [ejemplo.csv]()
-  - [readme.txt]()
+  - [readme.txt](https://github.com/tresquintos/datos/blob/master/readme_93.txt)
 - Elección presidencial 1999 (1v)
   - [archivo.csv]()
   - [ejemplo.csv]()
-  - [readme.txt]()
+  - [readme.txt](https://github.com/tresquintos/datos/blob/master/readme_99_1v.txt)
 - Elección presidencial 2000 (2v)
   - [archivo.csv]()
   - [ejemplo.csv]()

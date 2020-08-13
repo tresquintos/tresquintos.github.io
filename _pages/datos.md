@@ -100,13 +100,14 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [ejemplo.csv]()
   - [readme.txt]()
 - Elección senadores 1993
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/senadores_93.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_93.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_93.txt)
 - Elección senadores 1989
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/senadores_89.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_89.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_89.txt)
+
 
 ---
 

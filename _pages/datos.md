@@ -5,7 +5,7 @@ permalink: /datos/
 author_profile: true
 ---
 
-En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay dos categorías: **bases gratuitas** y **bases premium**. Hay siete series de datos: presidenciales, senadores, diputados, municipales, alcaldes, concejales y otros. Cada serie se divide en distintas bases de datos. A su vez, cada base de datos viene asociado a tres formatos: [1] un enlace a la descarga directa de los datos en formato Excel (**.xlsx**), [2] un enlace con el permalink para importar los datos desde GitHub (**.csv**), y [3] un enlace con un archivo que contiene toda la información relativa a los datos (i.e., detalles de matriz; descripción de variables; fuentes; referencia; contacto), además de los códigos exactos para su importación directa desde **Stata** o **R** (en formato **".txt"**).
+En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay dos categorías: **bases gratuitas** y **bases premium**, y cuatro series: presidenciales, parlamentarias (senadores y diputados), municipales (alcaldes y concejales), y otros. Cada serie se divide en distintas bases de datos. A su vez, cada base viene asociada a tres formatos: [1] un enlace a la descarga directa de los datos en formato Excel (**.xlsx**), [2] un enlace con el permalink para importar los datos desde GitHub (**.csv**), y [3] un enlace con un archivo que contiene toda la información relativa a los datos (i.e., detalles de matriz; descripción de variables; fuentes; referencia; contacto), además de los códigos exactos para su importación directa desde **Stata** o **R** (en formato **".txt"**).
 
 ---
 

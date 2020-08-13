@@ -45,13 +45,25 @@ sigla: sigla del partido político
 lista: lista candidato
 válidos: votos válidos
 
-
-
 ##########################
 
 FUENTES
 
 [1]  Servel.cl: https://servel.cl/resultados-en-excel/
+
+
+##########################
+
+PATHS
+
+
+### R
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_97.csv'                
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+
+### Stata 
+import delimited "https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_97.csv", encoding(utf8) clear
 
 ##########################
 

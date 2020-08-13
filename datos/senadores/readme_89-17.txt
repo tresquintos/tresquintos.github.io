@@ -19,60 +19,31 @@ filas: 36.931
 VARIABLES 
 
 id:
-tipo: tipo de elección
+tipo: tipo elección
 cargo: tipo de cargo
 fecha: fecha de la votación, dd/mm/aaaa
 año: [aaaa]
 periodo_inicio: [dd/mm/aaaa]
 periodo_fin: [dd/mm/aaaa]
 periodo: [dd/mm/aaaa] - [dd/mm/aaaa]
-vuelta: primera/segunda
 id_región:
 región: nombre región
-id_provincia:
-provincia: nombre provincia
+circunscripción_senatorial: número circunscripción
+distrito: número distrito
 comuna: nombre comuna
+id_circunscripción: 
 circunscripción: nombre circunscripción
 sexo_mesa: sexo de la mesa escrutadora
-candidato: nombre del candidato presidencial
+candidato: nombre candidato
 nombre: primer nombre
-apellido1: segundo apellido
+apellido1: primer apellido
 apellido2: segundo apellido
-sexo: sexo del candidato presidencial
-resultado: electo/no electo
-partido: partido del candidato presidencial
-sigla: sigla del partido
+sexo: sexo del candidato
+resultado: electo/ no electo
+partido: partido político del candidato 
+sigla: sigla del partido político
+lista: lista candidato
 válidos: votos válidos
-
-
-id
-tipo
-cargo
-fecha
-año
-periodo_inicio
-periodo_fin
-periodo
-id_región
-región
-circunscripción_senatorial
-distrito
-comuna
-id_circunscripción
-circunscripción
-sexo_mesa
-candidato
-nombre
-apellido1
-apellido2
-sexo
-resultado
-partido
-sigla
-lista
-válidos
-
-
 
 ##########################
 

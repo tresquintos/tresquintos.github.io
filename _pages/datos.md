@@ -112,37 +112,37 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ---
 
 - Elección diputados 2017
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_17.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_17.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_17.txt)
 - Elección diputados 2013
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_13.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_13.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_13.txt)
 - Elección diputados 2009
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_09.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_09.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_09.txt)
 - Elección diputados 2005
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_05.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_05.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_05.txt)
 - Elección diputados 2001
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_01.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_01.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_01.txt)
 - Elección diputados 1997
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_97.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_97.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_97.txt)
 - Elección diputados 1993
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_93.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_93.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_93.txt)
 - Elección diputados 1989
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_89.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_89.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_89.txt)
 
 ---
 

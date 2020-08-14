@@ -187,17 +187,17 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ---
 
 - Elecciones municipales 2000
-  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_04.xlsx?raw=true)
-  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_04.csv)
-  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_04.txt)
-- Elecciones municipales 1996
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_00.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_00.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_00.txt)
-- Elecciones municipales 1992
+- Elecciones municipales 1996
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_96.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_96.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_96.txt)
+- Elecciones municipales 1992
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_92.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_92.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_92.txt)
 
 ---
 

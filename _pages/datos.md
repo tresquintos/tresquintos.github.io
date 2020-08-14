@@ -168,36 +168,36 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ---
 
 - Elección concejales 2016
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_16.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_16.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_16.txt)
 - Elección concejales 2012
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_12.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_12.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_12.txt)
 - Elección concejales 2008
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_08.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_08.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_08.txt)
 - Elección concejales 2004
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_04.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_04.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_04.txt)
 
 ---
 
 - Elecciones municipales 2000
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_04.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_04.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_04.txt)
 - Elecciones municipales 1996
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_00.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_00.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_00.txt)
 - Elecciones municipales 1992
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/municipales/municipales_96.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/municipales_96.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/municipales/readme_96.txt)
 
 ---
 

@@ -149,21 +149,21 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
 - Elección alcaldes 2016
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_16.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_16.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_16.txt)
 - Elección alcaldes 2012
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_12.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_12.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_12.txt)
 - Elección alcaldes 2008
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_08.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_08.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_08.txt)
 - Elección alcaldes 2004
-  - [archivo.csv]()
-  - [ejemplo.csv]()
-  - [readme.txt]()
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_04.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_04.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_04.txt)
 
 ---
 

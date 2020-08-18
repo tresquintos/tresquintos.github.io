@@ -220,7 +220,7 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 - Plebiscito 1988
   - [archivo.csv](https://www.dropbox.com/s/6ahfevzuacgmr1a/plebiscito_88.xlsx?dl=0)
-  - [ejemplo.csv](https://www.dropbox.com/s/o54g9jlvo99oaj8/plebiscito_88.csv?dl=0)
+  - [ejemplo.csv](https://www.dropbox.com/s/o54g9jlvo99oaj8/plebiscito_88_corto.csv?dl=0)
   - [readme.txt](https://www.dropbox.com/s/1dxxdend6ij3vrn/readme_88.txt?dl=0)
 
 - Acusaciones Constitucionales, 1868-2020

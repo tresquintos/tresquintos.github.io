@@ -219,22 +219,22 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_89-17.txt)      
 
 - Plebiscito 1988
-  - [archivo.csv](https://www.dropbox.com/s/6ahfevzuacgmr1a/plebiscito_88.xlsx?dl=0)
+  - [archivo.xlsx](https://www.dropbox.com/s/6ahfevzuacgmr1a/plebiscito_88.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/o54g9jlvo99oaj8/plebiscito_88_corto.csv?dl=0)
   - [readme.txt](https://www.dropbox.com/s/1dxxdend6ij3vrn/readme_88.txt?dl=0)
 
 - Acusaciones Constitucionales, 1868-2020
-  - [archivo.csv](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
+  - [archivo.xlsx](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/9cagpk766nksg04/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/l0lkn736h2euxlf/readme.txt?dl=0)
 
 - Interpelaciones, 2006-2020
-  - [archivo.csv](https://www.dropbox.com/s/lqkvk5or5e0d9of/Interpelaciones%20en%20Chile%2C%202006-2020.xlsx?dl=0)
+  - [archivo.xlsx](https://www.dropbox.com/s/lqkvk5or5e0d9of/Interpelaciones%20en%20Chile%2C%202006-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/nlpp94gtm40xz6r/Interpelaciones%20en%20Chile%2C%202006-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/m3y5vyruolrxqu9/readme.txt?dl=0)
 
 - Cuentas Públicas, 1832-2020
-  - [archivo.csv](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20en%20Chile%2C%201832-2020.xlsx?dl=0)
+  - [archivo.xlsx](https://www.dropbox.com/s/nloratvc01no0un/Cuentas%20P%C3%BAblicas%20en%20Chile%2C%201832-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/zd1s6xz58x47oh3/Cuentas%20P%C3%BAblicas%20en%20Chile%2C%201832-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/ivneqsxb0ol4nlk/readme.txt?dl=0)
 

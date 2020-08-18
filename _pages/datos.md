@@ -219,9 +219,9 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_89-17.txt)      
 
 - Plebiscito 1988
-  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/plebiscitos/plebiscito_88.xlsx?raw=true)
-  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/plebiscitos/plebiscito_88.csv)
-  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/plebiscito/readme_88.txt)      
+  - [archivo.csv](https://www.dropbox.com/s/6ahfevzuacgmr1a/plebiscito_88.xlsx?dl=0)
+  - [ejemplo.csv](https://www.dropbox.com/s/o54g9jlvo99oaj8/plebiscito_88.csv?dl=0)
+  - [readme.txt](https://www.dropbox.com/s/1dxxdend6ij3vrn/readme_88.txt?dl=0)
 
 - Acusaciones Constitucionales, 1868-2020
   - [archivo.csv](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)

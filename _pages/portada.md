@@ -28,9 +28,9 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 </div>
 
 
-[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)
+[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)
 
-[![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
+[![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
@@ -40,9 +40,9 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 <img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-3_top2.png" >
 </div>
 
-[![Sí](/images/tsm/ts_2020-3_Sí.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-3_Sí.png) [![No](/images/tsm/ts_2020-3_No.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-3_No.png)
+[![Sí](/images/tsm/ts_2020-3_Sí.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-3_Sí.png) [![No](/images/tsm/ts_2020-3_No.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-3_No.png)
 
-[![Sí](/images/tsm/kd_2020-3_Sí.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![No](/images/tsm/kd_2020-3_No.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-3_No.png)
+[![Sí](/images/tsm/kd_2020-3_Sí.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![No](/images/tsm/kd_2020-3_No.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-3_No.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

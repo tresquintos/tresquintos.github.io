@@ -49,7 +49,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 ---
 ### Otros enlaces
 
-Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para otras elecciones para los cuales tenemos pronósticos, pincha [aquí](https://tresquintos.cl/elecciones). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
+Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para otras elecciones para los cuales tenemos pronósticos, pincha [aquí](https://tresquintos.cl/elecciones). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Para ir a nuestra portada cotidiana, pincha [aquí](https://tresquintos.cl/portada). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

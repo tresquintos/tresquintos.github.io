@@ -10,9 +10,9 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ![1](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}
 
-![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}
+![2](/images/tsm/comparison_2020-2_top2.png){:height="75%" width="75%"}
 
-![3](/images/tsm/comparison_2020-3_top2.png){:height="45%" width="45%"}
+![3](/images/tsm/comparison_2020-3_top2.png){:height="100%" width="100%"}
 
 
 ### Otros enlaces

@@ -1,17 +1,18 @@
 ---
-permalink:  /
 layout: single
-title: Tresquintos: ¡Tendencias para el plebiscito 2020!
-excerpt: "Análisis político y pronósticos electorales"
+title: "Tresquintos: ¡Tendencias para el plebiscito 2020!"
+permalink: /portada/
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso, [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de Tresquintos (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
+
+En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de Tresquintos (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
 
 ![1](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}![2](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}
 
-
 ![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}
+
+![3](/images/tsm/comparison_2020-3_top2.png){:height="45%" width="45%"}![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}
 
 
 ### Otros enlaces

@@ -15,7 +15,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 </div>
 
 <p align="center">
-  <img src="https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png">
+  <img width="400" height="300" src="https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png">
 </p>
 
 

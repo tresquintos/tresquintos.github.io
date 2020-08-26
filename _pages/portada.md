@@ -23,7 +23,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 </div>
 
 
-<div align="center" class="row">
+<div class="row">
   <div class="column">
     <img width="45%" src="https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png">
   </div>

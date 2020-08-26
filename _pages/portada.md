@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "Tresquintos: ¡Tendencias para el Plebiscito Nacional 2020!"
+title: "Tresquintos: ¡Tendencias para el Plebiscito Nacional de 2020!"
 permalink: /portada/
 author_profile: true
 ---
 
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de Tresquintos (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
-
+En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de **Tresquintos** (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
 
 ![1](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}
 
@@ -18,7 +17,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ### Otros enlaces
 
-Para ver el detalle del Plebiscito Nacional 2020, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
+Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

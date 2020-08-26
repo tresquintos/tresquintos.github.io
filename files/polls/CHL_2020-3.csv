@@ -1,31 +1,31 @@
-Fecha,Encuesta,N,Sí,No
-17/11/2019,Activa Research,2000,78,7
-26/11/2019,Activa Research,1159,81,9
-10/12/2019,Coes,1215,90,7
-26/12/2019,Activa Research,1030,80,7
-15/01/2020,Mori,1000,78,9
-16/01/2020,Activa Research,950,76,10
-21/01/2020,Data Influye,1033,83,3
-28/01/2020,Criteria Research,806,90,6
-30/01/2020,Activa Research,975,74,13
-12/02/2020,Activa Research,1135,71,15
-13/02/2020,Activa Research,1045,73,11
-18/02/2020,Data Influye,1445,83,4
-28/02/2020,Activa Research,1043,72,15
-12/03/2020,Activa Research,1135,71,15
-16/03/2020,Data Influye,1273,86,5
-27/03/2020,Activa Research,1230,76,12
-14/04/2020,Activa Research,1270,73,12
-28/04/2020,Activa Research,1227,77,12
-30/04/2020,Cadem,712,82,15
-12/05/2020,Activa Research,1209,76,11
-30/05/2020,Activa Research,1215,71,12
-13/06/2020,Activa Research,1730,74,14
-21/06/2020,Data Influye,1961,49,34
-28/06/2020,Activa Research,1260,67,14
-11/07/2020,Activa Research,1340,74,13
-26/07/2020,Data Influye,2034,64,25
-30/07/2020,Cadem,3527,80,16
-01/08/2020,Activa Research,1430,77,11
-15/08/2020,Activa Research,1434,71,15
-21/08/2020,Cadem,705,84,13
+Fecha,Encuesta,N,Prob,Sí,No
+17/11/2019,Activa Research,2000,0,78,7
+26/11/2019,Activa Research,1159,0,81,9
+10/12/2019,Coes,1215,0,90,7
+26/12/2019,Activa Research,1030,0,80,7
+15/01/2020,Mori,1000,0,78,9
+16/01/2020,Activa Research,950,0,76,10
+21/01/2020,Data Influye,1033,0,83,3
+28/01/2020,Criteria Research,806,0,90,6
+30/01/2020,Activa Research,975,0,74,13
+12/02/2020,Activa Research,1135,0,71,15
+13/02/2020,Activa Research,1045,0,73,11
+18/02/2020,Data Influye,1445,0,83,4
+28/02/2020,Activa Research,1043,0,72,15
+12/03/2020,Activa Research,1135,0,71,15
+16/03/2020,Data Influye,1273,0,86,5
+27/03/2020,Activa Research,1230,0,76,12
+14/04/2020,Activa Research,1270,0,73,12
+28/04/2020,Activa Research,1227,0,77,12
+30/04/2020,Cadem,712,0,82,15
+12/05/2020,Activa Research,1209,0,76,11
+30/05/2020,Activa Research,1215,0,71,12
+13/06/2020,Activa Research,1730,0,74,14
+21/06/2020,Data Influye,1961,0,49,34
+28/06/2020,Activa Research,1260,0,67,14
+11/07/2020,Activa Research,1340,0,74,13
+26/07/2020,Data Influye,2034,0,64,25
+30/07/2020,Cadem,3527,0,80,16
+01/08/2020,Activa Research,1430,0,77,11
+15/08/2020,Activa Research,1434,0,71,15
+21/08/2020,Cadem,705,0,84,13

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tresquintos: ¡Tendencias para el Plebiscito Nacional de 2020!"
+title: "Tresquintos: ¡Tendencias para el Plebiscito 2020!"
 permalink: /portada/
 author_profile: true
 ---

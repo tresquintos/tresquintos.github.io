@@ -9,7 +9,11 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de **Tresquintos** (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
 
 ---
-%### Primera Pregunta: ¿Quiere usted una nueva Constitución?
+
+<div align="center">
+<img src=https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png" >
+</div>
+
 
 ![1](/images/tsm/comparison_2020-1_top2.png){:height="75%" width="75%"}
 

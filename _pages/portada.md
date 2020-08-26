@@ -19,7 +19,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 [![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ---
 
@@ -32,7 +32,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 [![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ---
 
@@ -44,12 +44,12 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 [![Sí](/images/tsm/kd_2020-3_Sí.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![No](/images/tsm/kd_2020-3_No.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-3_No.png)
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ---
 ### Otros enlaces
 
-Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
+Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para otras elecciones para los cuales tenemos pronósticos, pincha [aquí](https://tresquintos.cl/elecciones). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

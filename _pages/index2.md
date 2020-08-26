@@ -6,7 +6,7 @@ excerpt: "Análisis político y pronósticos electorales"
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito de 2020**. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos. Están hechos en base a encuestas recopiladas durante el último año.
+En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso, [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de Tresquintos (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
 
 ![1](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}![2](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}
 
@@ -14,33 +14,9 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 ![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}![2](/images/tsm/comparison_2020-2_top2.png){:height="45%" width="45%"}
 
 
-
-### Mapa del sitio
-
-Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
-
-
-### La elección del momento: el plebiscito nacional de Chile 2020
-
-Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), que se llevará a cabo el 25 de octubre. El plebiscito buscará determinar dos cosas: (1) si se reemplaza la actual Constitución, y (2) el mecanismo para hacerlo. Los dos gráficos de abajo muestran la tendencia para la primera pregunta: ***¿Quiere usted una nueva Constitución?***
-
-[![Aprueba](./images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Rechaza](./images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
-
-Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.cl/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?***
-
-[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
-
-
-### Otros números: la elección de constituyentes de 2021
-
-Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
-
-[![Convención Constitucional](/images/constituyente2021/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![Convención Mixta](/images/constituyente2021/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
-
-
 ### Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
+Para ver el detalle de los pronósticos electorales del Plebiscito Nacional 2020, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

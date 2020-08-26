@@ -10,15 +10,15 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 
 ### Resumen plebiscito
 
-![1](/images/tsm/card_2020-1_Aprueba.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechaza.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2020-1_Apruebo.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="45%" width="45%"}
 ![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
 
 ### Primera Pregunta: ¿Quiere usted una nueva Constitución?
 
-[![Aprueba](/images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png) [![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png)
+[![Apruebo](/images/tsm/ts_2020-1_Apruebo.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Aprueba](/images/tsm/kd_2020-1_Apruebo.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Apruebo.png)
 
-[![Rechaza](/images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechaza.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
+[![Rechazo](/images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png) [![Rechaza](/images/tsm/kd_2020-1_Rechazo.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechazo.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

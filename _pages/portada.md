@@ -8,7 +8,7 @@ author_profile: true
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
-![1](/images/tsm/card_2020-1_Aprueba.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechaza.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2020-1_Apruebo.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="45%" width="45%"}
 ![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
 
@@ -22,7 +22,7 @@ Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [
 
 Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), que se llevará a cabo el 25 de octubre. El plebiscito buscará determinar dos cosas: (1) si se reemplaza la actual Constitución, y (2) el mecanismo para hacerlo. Los dos gráficos de abajo muestran la tendencia para la primera pregunta: ***¿Quiere usted una nueva Constitución?***
 
-[![Aprueba](./images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Rechaza](./images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
+[![Aprueba](./images/tsm/ts_2020-1_Apruebo.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Rechaza](./images/tsm/ts_2020-1_Rechazo.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
 
 Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.cl/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?***
 
@@ -38,7 +38,7 @@ Considerando la alta probabilidad de un triunfo de la opción "Aprueba", tambié
 
 ### Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

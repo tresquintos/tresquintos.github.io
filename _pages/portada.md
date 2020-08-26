@@ -8,11 +8,38 @@ author_profile: true
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/). La línea solida representa el pronóstico de **Tresquintos** (el método está explicado [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (la lista completa está [aquí](https://tresquintos.cl/encuestas/)).
 
-![1](/images/tsm/comparison_2020-1_top2.png){:height="45%" width="45%"}
+
+### Primera Pregunta: ¿Quiere usted una nueva Constitución?
+
+![1](/images/tsm/comparison_2020-1_top2.png){:height="75%" width="75%"}
+
+[![Aprueba](/images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png) [![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png)
+
+[![Rechaza](/images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechaza.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
 
 ![2](/images/tsm/comparison_2020-2_top2.png){:height="75%" width="75%"}
 
-![3](/images/tsm/comparison_2020-3_top2.png){:height="100%" width="100%"}
+[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png)
+
+[![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+### Participación Electoral: Piensa usted votar en el plebiscito 2020?
+
+![3](/images/tsm/comparison_2020-3_top2.png){:height="75%" width="75%"}
+
+[![Sí](/images/tsm/ts_2020-3_Sí.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-3_Sí.png) [![CC](/images/tsm/kd_2020-3_Sí.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png)
+
+[![No](/images/tsm/ts_2020-3_No.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-3_No.png) [![CM](/images/tsm/kd_2020-3_No.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-3_No.png)
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+
 
 
 ### Otros enlaces

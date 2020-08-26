@@ -1,44 +1,55 @@
 ---
-permalink:  /
 layout: single
-title: ¡Bienvenidos a Tresquintos!
-excerpt: "Análisis político y pronósticos electorales"
+title: "Tresquintos: ¡Tendencias para el Plebiscito 2020!"
+permalink: /
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
-![1](/images/tsm/card_2020-1_Aprueba.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechaza.png){:height="45%" width="45%"}
-![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
+En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/)). La línea sólida representa el pronóstico de **Tresquintos** (revisa el método [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (revisa la lista completa [aquí](https://tresquintos.cl/encuestas/)).
 
+---
 
-
-### Mapa del sitio
-
-Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png" >
+</div>
 
 
-### La elección del momento: el plebiscito nacional de Chile 2020
+[![Aprueba](/images/tsm/ts_2020-1_Aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png) [![Rechaza](/images/tsm/ts_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechaza.png)
 
-Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), que se llevará a cabo el 25 de octubre. El plebiscito buscará determinar dos cosas: (1) si se reemplaza la actual Constitución, y (2) el mecanismo para hacerlo. Los dos gráficos de abajo muestran la tendencia para la primera pregunta: ***¿Quiere usted una nueva Constitución?***
+[![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
 
-[![Aprueba](./images/tsm/ts_2020-1_Aprueba.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Rechaza](./images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
-Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.cl/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?***
+---
 
-[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
-
-
-### Otros números: la elección de constituyentes de 2021
-
-Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
-
-[![Convención Constitucional](/images/constituyente2021/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![Convención Mixta](/images/constituyente2021/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-2_top2.png" >
+</div>
 
 
+[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)
+
+[![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+---
+
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-3_top2.png" >
+</div>
+
+[![Sí](/images/tsm/ts_2020-3_Sí.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-3_Sí.png) [![No](/images/tsm/ts_2020-3_No.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-3_No.png)
+
+[![Sí](/images/tsm/kd_2020-3_Sí.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![No](/images/tsm/kd_2020-3_No.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-3_No.png)
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
+---
 ### Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar a Kenneth directamente por [Twitter](https://www.twitter.com/kennethbunker) o conectarte a [nuestro servidor general en Discord](https://discord.gg/qPDkg67).
+Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://tresquintos.cl/plebiscito2020). Para otras elecciones para los cuales tenemos pronósticos, pincha [aquí](https://tresquintos.cl/elecciones). Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar al equipo directamente por [Discord](https://discord.gg/qPDkg67).
 
 
 <!-- Mailchimp -->

@@ -19,6 +19,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
+
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
 
 ![2](/images/tsm/comparison_2020-2_top2.png){:height="75%" width="75%"}
@@ -29,7 +30,8 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
-### Participación Electoral: Piensa usted votar en el plebiscito 2020?
+
+### Participación Electoral: ¿Piensa usted votar en el plebiscito 2020?
 
 ![3](/images/tsm/comparison_2020-3_top2.png){:height="75%" width="75%"}
 

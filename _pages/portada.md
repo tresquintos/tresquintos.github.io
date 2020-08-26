@@ -17,7 +17,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 [![Aprueba](/images/tsm/ts_2020-1_Aprueba.png){:height="47%" width="47%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Aprueba.png) [![Rechaza](/images/tsm/ts_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechaza.png)
 
-[![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="48%" width="48%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
+[![Aprueba](/images/tsm/kd_2020-1_Aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Aprueba.png) [![Rechaza](/images/tsm/kd_2020-1_Rechaza.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechaza.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

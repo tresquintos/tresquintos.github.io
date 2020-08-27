@@ -11,6 +11,3 @@ En esta página puedes ver la lista de endosos electorales para el Plebiscito Na
 
 <iframe title="Endosos Electorales: Plebiscito Nacional 2020" aria-label="chart" id="datawrapper-chart-9SXep" src="https://datawrapper.dwcdn.net/9SXep/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3852"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-<iframe title="Endosos Electorales: Plebiscito Nacional 2020" aria-label="chart" id="datawrapper-chart-9SXep" src="https://datawrapper.dwcdn.net/9SXep/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4780"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>

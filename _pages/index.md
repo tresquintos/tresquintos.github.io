@@ -9,24 +9,28 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para el **Plebiscito Nacional de 2020**. Los gráficos de abajo buscan entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Se producen de forma automática cada vez que se actualizan las bases de datos (puedes obtener más información sobre eso [aquí](https://tresquintos.cl/faq/)). La línea sólida representa el pronóstico de **Tresquintos** (revisa el método [aquí](https://tresquintos.cl/tsm/)), y los símbolos representan los pronósticos de las encuestas (revisa la lista completa [aquí](https://tresquintos.cl/encuestas/)).
 
 ---
+### Primera Pregunta: ¿Quiere usted una nueva Constitución?
+
+![1](/images/tsm/card_2020-1_Apruebo.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="49%" width="49%"}
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png" >
 </div>
 
-
-[![Aprueba](/images/tsm/ts_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Rechaza](/images/tsm/ts_2020-1_Rechazo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png)
+[![Apruebo](/images/tsm/ts_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Rechazo](/images/tsm/ts_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png)
 
 [![Aprueba](/images/tsm/kd_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Apruebo.png) [![Rechaza](/images/tsm/kd_2020-1_Rechazo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechazo.png)
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ---
+### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
+
+![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-2_top2.png" >
 </div>
-
 
 [![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)
 

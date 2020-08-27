@@ -76,6 +76,21 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 [![Manuel José Ossandón](/images/tsm/ts_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Manuel%20José%20Ossandón.png) [![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Manuel%20José%20Ossandón.png)
 
 ---
+### Heraldo Muñoz
+
+![10](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![2](/images/tsm/comparison_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
+
+[![Izkia Siches](/images/tsm/ts_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Heraldo%20Muñoz.png) [![Izkia Siches](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Heraldo%20Muñoz.png)
+
+---
+### Francisco Vidal
+
+![10](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/images/tsm/comparison_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
+
+[![Izkia Siches](/images/tsm/ts_2021_Francisco%20Vidal.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Francisco%20Vidal.png) [![Izkia Siches](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Francisco%20Vidal.png)
+
+
+---
 ### Izkia Siches
 
 ![10](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/images/tsm/comparison_2021_Izkia%20Siches.png){:height="49%" width="49%"}

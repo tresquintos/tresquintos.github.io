@@ -13,9 +13,9 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 ### Joaquín Lavín
 
-![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![2](/images/tsm/comparison_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-[![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Joaquín%20Lavín.png)
+[![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Joaquín%20Lavín.png)
 
 
 

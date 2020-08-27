@@ -17,12 +17,10 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Joaquín%20Lavín.png)
 
-
-
 ---
 ### Daniel Jadue
 
-![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="45%" width="45%"}
+![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 [![Daniel Jadue](/images/tsm/ts_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Daniel%20Jadue.png) [![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Daniel%20Jadue.png)
 
@@ -30,21 +28,21 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 ---
 ### José Antonio Kast
 
-![4](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}
+![4](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 [![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_José%20Antonio%20Kast.png)
 
 ---
 ### Beatriz Sánchez
 
-![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}
+![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
 [![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Beatriz%20Sánchez.png) [![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Beatriz%20Sánchez.png)
 
 ---
 ### Franco Parisi
 
-![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="45%" width="45%"}
+![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 
 [![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco%20Parisi.png) [![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco%20Parisi.png)
@@ -52,35 +50,35 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 ---
 ### Michelle Bachelet
 
-![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}
+![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
 [![Michelle Bachelet](/images/tsm/ts_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Michelle%20Bachelet.png) [![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Michelle%20Bachelet.png)
 
 ---
 ### Leonardo Farkas
 
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="45%" width="45%"}
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 [![Leonardo Farkas](/images/tsm/ts_2021_Leonardo%20Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Leonardo%20Farkas.png) [![José Antonio Kast](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="45%" width="45%"}](https://tresquintos.cl/tsm/images/kd_2021_Leonardo%20Farkas.png)
 
 ---
 ### Felipe Kast
 
-![8](/images/tsm/card_2021_Felipe%20Kast.png){:height="45%" width="45%"}
+![8](/images/tsm/card_2021_Felipe%20Kast.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 [![Felipe Kast](/images/tsm/ts_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Felipe%20Kast.png) [![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Felipe%20Kast.png)
 
 ---
 ### Manuel José Ossandón
 
-![9](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}
+![9](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 [![Manuel José Ossandón](/images/tsm/ts_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Manuel%20José%20Ossandón.png) [![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Manuel%20José%20Ossandón.png)
 
 ---
 ### Izkia Siches
 
-![10](/images/tsm/card_2021_Izkia%20Siches.png){:height="45%" width="45%"}
+![10](/images/tsm/card_2021_Izkia%20Siches.png){:height="45%" width="45%"} ![2](/images/tsm/comparison_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
 [![Izkia Siches](/images/tsm/ts_2021_Izkia%20Siches.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/ts_2021_Izkia%20Siches.png) [![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="45%" width="45%"}](https://tresquintos.cl/images/tsm/kd_2021_Izkia%20Siches.png)
 

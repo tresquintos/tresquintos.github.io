@@ -89,6 +89,13 @@ La tendencia para cada candidato está dividido en una línea de tendencia y una
 
 [![Izkia Siches](/images/tsm/ts_2021_Pamela%20Jiles.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Pamela%20Jiles.png) [![Izkia Siches](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Pamela%20Jiles.png)
 
+---
+### Jorge Sharp
+
+![10](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/images/tsm/comparison_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
+
+[![Izkia Siches](/images/tsm/ts_2021_Jorge%20Sharp.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Jorge%20Sharp.png) [![Izkia Siches](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Jorge%20Sharp.png)
+
 
 ---
 

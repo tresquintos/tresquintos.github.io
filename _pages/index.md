@@ -14,7 +14,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 ![1](/images/tsm/card_2020-1_Apruebo.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="49%" width="49%"}
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-1_top2.png" >
+<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-1_top2.png" >
 </div>
 
 [![Apruebo](/images/tsm/ts_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Rechazo](/images/tsm/ts_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png)
@@ -29,7 +29,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 ![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/comparison_2020-2_top2.png" >
+<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-2_top2.png" >
 </div>
 
 [![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)

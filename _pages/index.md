@@ -17,7 +17,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-1_top2.png" >
 </div>
 
-[![Apruebo](/images/tsm/ts_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Rechazo](/images/tsm/ts_2020-1_Rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png)
+[![Apruebo](/images/tsm/ts_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Apruebo.png) [![Rechazo](/images/tsm/ts_2020-1_Rechazo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-1_Rechazo.png)
 
 [![Aprueba](/images/tsm/kd_2020-1_Apruebo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Apruebo.png) [![Rechaza](/images/tsm/kd_2020-1_Rechazo.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-1_Rechazo.png)
 

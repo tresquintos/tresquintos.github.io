@@ -13,7 +13,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/comp_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif)){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
 ### Daniel Jadue
@@ -41,43 +41,42 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
-
-![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
+![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 ---
 ### Michelle Bachelet
 
 ![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
-[![Michelle Bachelet](/images/tsm/ts_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Michelle%20Bachelet.png) [![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Michelle%20Bachelet.png)
+![Michelle Bachelet](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
 ---
 ### Leonardo Farkas
 
 ![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
-[![Leonardo Farkas](/images/tsm/ts_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Leonardo%20Farkas.png) [![José Antonio Kast](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}](https://tresquintos.cl/tsm/images/kd_2021_Leonardo%20Farkas.png)
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_6_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
 ### Felipe Kast
 
 ![8](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
-[![Felipe Kast](/images/tsm/ts_2021_Felipe%20Kast.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Felipe%20Kast.png) [![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Felipe%20Kast.png)
+![Felipe Kast](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Manuel José Ossandón
 
 ![9](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
-[![Manuel José Ossandón](/images/tsm/ts_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Manuel%20José%20Ossandón.png) [![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Manuel%20José%20Ossandón.png)
+![Manuel José Ossandón](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ---
 ### Heraldo Muñoz
 
 ![10](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Heraldo%20Muñoz.png) [![Izkia Siches](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Heraldo%20Muñoz.png)
+![Heraldo Muñoz](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ---
 
@@ -85,36 +84,35 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![10](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Pamela%20Jiles.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Pamela%20Jiles.png) [![Izkia Siches](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Pamela%20Jiles.png)
+![Pamela Jiles](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
 ---
 ### Evelyn Matthei
 
 ![10](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Evelyn%20Matthei.png) [![Izkia Siches](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Evelyn%20Matthei.png)
+![Evelyn Matthei](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 ---
 ### Francisco Vidal
 
 ![10](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Francisco%20Vidal.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Francisco%20Vidal.png) [![Izkia Siches](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Francisco%20Vidal.png)
+![Francisco Vidal](/gifs/tsm/2021_tsgif_12_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
 ---
 ### Izkia Siches
 
 ![10](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Izkia%20Siches.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Izkia%20Siches.png) [![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Izkia%20Siches.png)
+![Izkia Siches](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
 ---
 ### Jorge Sharp
 
 ![10](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
 
-[![Izkia Siches](/images/tsm/ts_2021_Jorge%20Sharp.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Jorge%20Sharp.png) [![Izkia Siches](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Jorge%20Sharp.png)
-
+![Jorge Sharp](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
 
 ---
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>

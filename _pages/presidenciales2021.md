@@ -13,14 +13,14 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-[![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Joaquín%20Lavín.png) [![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Joaquín%20Lavín.png)
+![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
 ### Daniel Jadue
 
 ![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
-[![Daniel Jadue](/images/tsm/ts_2021_Daniel%20Jadue.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Daniel%20Jadue.png) [![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Daniel%20Jadue.png)
+![Apruebo](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 
 ---
@@ -28,14 +28,14 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![4](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
-[![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_José%20Antonio%20Kast.png) [![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}](https://tresquintos.cl/tsm/images/kd_2021_José%20Antonio%20Kast.png)
+![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Beatriz Sánchez
 
 ![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
-[![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Beatriz%20Sánchez.png) [![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2021_Beatriz%20Sánchez.png)
+![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
 ---
 ### Franco Parisi

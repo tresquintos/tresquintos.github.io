@@ -13,28 +13,28 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/comp_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-![Joaquín Lavín](/images/tsm/ts_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif)){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
 ### Daniel Jadue
 
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/comp_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
-![Daniel Jadue](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
+![Daniel Jadue](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 ---
 ### José Antonio Kast
 
 ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
-![José Antonio Kast](/images/tsm/ts_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
+![José Antonio Kast](/gifs/tsm/2021_tsgif_3_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Beatriz Sánchez
 
 ![3](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
-![Beatriz Sánchez](/images/tsm/ts_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
+![Beatriz Sánchez](/gifs/tsm/2021_tsgif_4_clip.gif){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
 ---
 ### Franco Parisi
@@ -42,7 +42,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 
-[![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2021_Franco%20Parisi.png) [![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}](https://tresquintos.cl/tsm/images/kd_2021_Franco%20Parisi.png)
+![Franco Parisi](/images/tsm/ts_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 ---
 ### Michelle Bachelet

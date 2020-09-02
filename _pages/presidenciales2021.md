@@ -13,7 +13,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/comp_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-![Joaquín Lavín](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
 ### Daniel Jadue

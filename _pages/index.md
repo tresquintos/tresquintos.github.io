@@ -32,7 +32,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-2_top2.png" >
 </div>
 
-[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/ts_2020-2_Convención%20Mixta.png)
+![Apruebo](/gifs/tsm/2020-2_tsgif_1_clip.gif){:height="49%" width="49%"} ![Rechazo](/gifs/tsm/2020-2_tsgif_2_clip.gif){:height="49%" width="49%"}
 
 [![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Constituyente.png) [![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/tsm/kd_2020-2_Convención%20Mixta.png)
 

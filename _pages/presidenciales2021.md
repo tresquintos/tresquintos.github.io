@@ -109,9 +109,9 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ---
 ### Marco Enríquez-Ominami
 
-![15](/images/tsm/card_2021_Marco%20Enríquez-Ominami.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-Ominami.png){:height="49%" width="49%"}
+![15](/images/tsm/card_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"}
 
-![Marco Enríquez-Ominami](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-Ominami](/images/tsm/kd_2021_Marco%20Enríquez-Ominami.png){:height="49%" width="49%"}
+![Marco Enríquez-Ominami](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-Ominami](/images/tsm/kd_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"}
 
 ---
 ### Izkia Siches

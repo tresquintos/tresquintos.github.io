@@ -1,50 +1,82 @@
-Fecha,Encuesta,N,Prob,Lavín,Jadue,Kast,Sánchez
-25/09/2019,Activa Research,1061,0,12,5,7,14
-30/09/2019,Criteria Research,827,0,17,4,12,14
-11/10/2019,Cadem,706,0,11,3,5,6
-29/10/2019,Criteria Research,1005,0,14,5,9,10
-30/10/2019,Activa Research,1304,0,10,3,6,12
-30/10/2019,Cadem,708,0,6,3,2,5
-26/11/2019,Activa Research,1159,0,8,3,7,9
-26/11/2019,Criteria Research,1014,0,8,7,8,8
-29/11/2019,Cadem,708,0,6,2,2,4
-20/12/2019,Cadem,702,0,5,3,5,3
-26/12/2019,Activa Research,1030,0,12,6,7,5
-30/12/2019,Criteria Research,951,0,14,6,9,8
-16/01/2020,Activa Research,950,0,9,5,4,5
-17/01/2020,Cadem,709,0,4,3,3,3
-28/01/2020,Criteria Research,806,0,14,6,8,7
-30/01/2020,Activa Research,975,0,15,5,6,6
-13/02/2020,Activa Research,1045,0,16,2,5,5
-14/02/2020,Cadem,705,0,4,3,4,2
-18/02/2020,Data Influye,1445,0,15,14,3,6
-28/02/2020,Activa Research,1043,0,14,4,2,6
-29/02/2020,Criteria Research,796,0,15,6,10,6
-12/03/2020,Activa Research,1135,0,14,3,5,6
-13/03/2020,Cadem,702,0,7,4,3,2
-16/03/2020,Data Influye,1273,0,16,13,4,8
-27/03/2020,Activa Research,1230,0,12,5,6,4
-30/03/2020,Criteria Research,800,0,18,9,8,8
-09/04/2020,Cadem,709,0,10,3,3,2
-15/04/2020,Activa Research,1270,0,19,6,3,3
-28/04/2020,Activa Research,1227,0,20,6,2,4
-04/05/2020,Criteria Research,800,0,18,7,8,6
-12/05/2020,Activa Research,1209,0,16,5,5,4
-14/05/2020,Cadem,706,0,7,3,2,3
-30/05/2020,Activa Research,1215,0,17,3,3,4
-31/05/2020,Criteria Research,800,0,16,8,7,6
-12/06/2020,Cadem,705,0,6,3,2,2
-13/06/2020,Activa Research,1730,0,16,5,4,4
-21/06/2020,Data Influye,1961,0,12,9,4,3
-28/06/2020,Activa Research,1260,0,13,9,4,5
-30/06/2020,Criteria Research,800,0,12,12,8,7
-10/07/2020,Cadem,704,0,7,6,2,1
-11/07/2020,Activa Research,1340,0,13,7,3,3
-26/07/2020,Data Influye,2034,0,14,15,5,3
-31/07/2020,Criteria Research,800,0,13,12,6,6
-01/08/2020,Activa Research,1430,0,18,11,3,2
-13/08/2020,Cadem,703,0,8,7,3,2
-15/08/2020,Activa Research,1434,0,15,10,5,2
-24/08/2020,Data Influye,1940,0,13,16,5,3
-29/08/2020,Activa Research,1544,0,23,9,4,3
-31/08/2020,Criteria Research,986,0,15,16,7,5
+Fecha,Encuesta,N,prob,Lavín,Jadue,Kast,Sánchez
+5/23/2018,Criteria Research,1573,0,2,,14,16
+6/28/2018,Criteria Research,927,0,2,,10,16
+7/30/2018,Criteria Research,800,0,6,,7,20
+8/31/2018,Criteria Research,800,0,5,,7,14
+10/2/2018,Criteria Research,752,0,4,3,9,10
+11/3/2018,Criteria Research,800,0,3,2,8,11
+11/30/2018,Criteria Research,800,0,5,4,8,12
+12/28/2018,Criteria Research,800,0,6,4,12,10
+1/11/2019,Cadem,704,0,6,3,7,11
+1/31/2019,Activa Research,1001,0,8,1,6,12
+1/31/2019,Criteria Research,800,0,8,3,10,12
+2/28/2019,Criteria Research,801,0,9,3,11,12
+3/1/2019,Activa Research,1001,0,7,3,9,15
+3/31/2019,Activa Research,1015,0,8,2,6,13
+3/31/2019,Criteria Research,899,0,9,3,10,12
+4/28/2019,Criteria Research,830,0,10,5,10,12
+5/2/2019,Activa Research,1039,0,8,2,11,11
+5/31/2019,Activa Research,1039,0,11,3,8,11
+6/3/2019,Criteria Research,803,0,11,6,9,13
+6/24/2019,Criteria Research,804,0,17,6,11,10
+7/1/2019,Activa Research,1005,0,11,5,8,14
+7/12/2019,Cadem,710,0,9,3,5,8
+7/25/2019,Activa Research,1017,0,18,3,5,10
+7/29/2019,Criteria Research,795,0,16,6,10,11
+8/29/2019,Activa Research,1030,0,17,5,7,9
+8/30/2019,Criteria Research,907,0,16,5,12,8
+9/25/2019,Activa Research,1061,0,12,5,7,14
+9/30/2019,Criteria Research,827,0,17,4,12,14
+10/11/2019,Cadem,706,0,11,3,5,6
+10/29/2019,Criteria Research,1005,0,14,5,9,10
+10/30/2019,Activa Research,1304,0,10,3,6,12
+10/30/2019,Cadem,708,0,6,3,2,5
+11/26/2019,Activa Research,1159,0,8,3,7,9
+11/26/2019,Criteria Research,1014,0,8,7,8,8
+11/29/2019,Cadem,708,0,6,2,2,4
+12/20/2019,Cadem,702,0,5,3,5,3
+12/26/2019,Activa Research,1030,0,12,6,7,5
+12/30/2019,Criteria Research,951,0,14,6,9,8
+1/16/2020,Activa Research,950,0,9,5,4,5
+1/17/2020,Cadem,709,0,4,3,3,3
+1/28/2020,Criteria Research,806,0,14,6,8,7
+1/30/2020,Activa Research,975,0,15,5,6,6
+2/13/2020,Activa Research,1045,0,16,2,5,5
+2/14/2020,Cadem,705,0,4,3,4,2
+2/18/2020,Data Influye,1445,0,15,14,3,6
+2/28/2020,Activa Research,1043,0,14,4,2,6
+2/29/2020,Criteria Research,796,0,15,6,10,6
+3/12/2020,Activa Research,1135,0,14,3,5,6
+3/13/2020,Cadem,702,0,7,4,3,2
+3/16/2020,Data Influye,1273,0,16,13,4,8
+3/27/2020,Activa Research,1230,0,12,5,6,4
+3/30/2020,Criteria Research,800,0,18,9,8,8
+4/9/2020,Cadem,709,0,10,3,3,2
+4/15/2020,Activa Research,1270,0,19,6,3,3
+4/28/2020,Activa Research,1227,0,20,6,2,4
+5/4/2020,Criteria Research,800,0,18,7,8,6
+5/12/2020,Activa Research,1209,0,16,5,5,4
+5/14/2020,Cadem,706,0,7,3,2,3
+5/30/2020,Activa Research,1215,0,17,3,3,4
+5/31/2020,Criteria Research,800,0,16,8,7,6
+6/12/2020,Cadem,705,0,6,3,2,2
+6/13/2020,Activa Research,1730,0,16,5,4,4
+6/21/2020,Data Influye,1961,0,12,9,4,3
+6/28/2020,Activa Research,1260,0,13,9,4,5
+6/30/2020,Criteria Research,800,0,12,12,8,7
+7/10/2020,Cadem,704,0,7,6,2,1
+7/11/2020,Activa Research,1340,0,13,7,3,3
+7/26/2020,Data Influye,2034,0,14,15,5,3
+7/31/2020,Criteria Research,800,0,13,12,6,6
+8/1/2020,Activa Research,1430,0,18,11,3,2
+8/13/2020,Cadem,703,0,8,7,3,2
+8/15/2020,Activa Research,1434,0,15,10,5,2
+8/24/2020,Data Influye,1940,0,13,16,5,3
+8/29/2020,Activa Research,1544,0,23,9,4,3
+8/31/2020,Criteria Research,986,0,15,16,7,5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

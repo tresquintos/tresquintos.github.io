@@ -55,7 +55,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
-![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
 ### Heraldo Muñoz
@@ -111,7 +111,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![15](/images/tsm/card_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"}
 
-![Marco Enríquez-Ominami](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-Ominami](/images/tsm/kd_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"}
+![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O..png){:height="49%" width="49%"}
 
 ---
 ### Izkia Siches

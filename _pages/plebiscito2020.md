@@ -33,9 +33,9 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-2_top2.png" >
 </div>
 
-![Apruebo](/gifs/tsm/2020-2_experimental_1_forwards.gif){:height="49%" width="49%"} ![Rechazo](/gifs/tsm/2020-2_experimental_2_forwards.gif){:height="49%" width="49%"}
+![CC](/gifs/tsm/2020-2_experimental_1_forwards.gif){:height="49%" width="49%"} ![CM](/gifs/tsm/2020-2_experimental_2_forwards.gif){:height="49%" width="49%"}
 
-![Apruebo](/gifs/tsm/2020-2_tsgif_1_clip.gif){:height="49%" width="49%"} ![Rechazo](/gifs/tsm/2020-2_tsgif_2_clip.gif){:height="49%" width="49%"}
+![CC](/gifs/tsm/2020-2_tsgif_1_clip.gif){:height="49%" width="49%"} ![CM](/gifs/tsm/2020-2_tsgif_2_clip.gif){:height="49%" width="49%"}
 
 ![CC](/images/tsm/kd_2020-2_Convención%20Constituyente.png){:height="49%" width="49%"} ![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
 

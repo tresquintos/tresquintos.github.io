@@ -15,7 +15,7 @@ El plebiscito nacional de 2020, será realizado el 25 de octubre de 2020, con el
 
 ### 🇨🇱 Constituyentes 2021
 
-La elecció de constituyentes de 2021 podrían ser realizadas el 11 de abril de 2021, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/constituyentes2021/).
+La elección de constituyentes de 2021 será realizada el 11 de abril de 2021, para elegir a los integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo en el caso de que la opción «Apruebo» triunfe en el plebiscito nacional de 2020. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/constituyentes2021/).
 
 
 ### 🇨🇱 Presidenciales 2021

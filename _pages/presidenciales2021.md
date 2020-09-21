@@ -85,6 +85,12 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
+---
+### Rodolfo Carter
+
+![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/images/tsm/comp_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
+
+![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
 ### Alejandro Guillier
@@ -92,13 +98,6 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/images/tsm/comp_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
-
----
-### Rodolfo Carter
-
-![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/images/tsm/comp_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
-
-![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
 ### Pamela Jiles

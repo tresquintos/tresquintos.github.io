@@ -34,6 +34,17 @@ O, si prefieres, puedes donar vía **PayPal** o **Bitcoin**.
 <script src="/js/topsecret.js"></script>
 
 
+<!-- NES -->
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
+
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

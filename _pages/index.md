@@ -61,6 +61,7 @@ Para ver el detalle del **Plebiscito Nacional de 2020**, pincha [aquí](https://
 <p class="aligncenter">
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
+
 <script src="/js/topsecret.js"></script>
 
 <script src="/js/cyberdelia.js"></script>

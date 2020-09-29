@@ -10,5 +10,5 @@ En esta página puedes ver un gráfico que sigue todos los aportes hechos a las 
 
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/aportes2020.png" >
+<img width="600" src="https://tresquintos.cl/images/aportes2020.png" >
 </div>

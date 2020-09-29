@@ -13,6 +13,9 @@ main:
   - title: "📈Encuestas"
     url: /encuestas/
 
+  - title: "💰Financiamiento"
+    url: /financiamiento/
+
   - title: "🚦Endosos"
     url: /endosos/
 

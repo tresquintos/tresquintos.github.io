@@ -8,7 +8,6 @@ author_profile: true
 En esta página puedes ver la tendencia en la intención de voto para los principales candidatos de las presidenciales. Muestra la tendencia para los candidatos con más preferencias en las encuestas. La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 ---
-### Los dos primeros de la primera vuelta
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >
@@ -85,11 +84,32 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
+### Pamela Jiles
+
+![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/images/tsm/comp_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+
+![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+
+---
 ### Heraldo Muñoz
 
 ![8](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![8](/images/tsm/comp_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
+
+---
+### Marco Enríquez-Ominami
+
+![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
+
+![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
+
+---
+### Francisco Vidal
+
+![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
+
+![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
 ---
 ### Rodolfo Carter
@@ -106,32 +126,11 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
-### Pamela Jiles
-
-![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/images/tsm/comp_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
-
-![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
-
----
 ### Sebastián Sichel
 
 ![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
 
 ![Sebastián Sichel](/gifs/tsm/2021_tsgif_18_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
-
----
-### Francisco Vidal
-
-![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
-
-![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
-
----
-### Marco Enríquez-Ominami
-
-![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
-
-![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
 
 ---
 ### Izkia Siches

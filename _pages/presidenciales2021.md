@@ -71,18 +71,18 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
-### Felipe Kast
-
-![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/images/tsm/comp_2021_Felipe%20Kast.png){:height="49%" width="49%"}
-
-![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
-
----
 ### Manuel José Ossandón
 
 ![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/images/tsm/comp_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
+
+---
+### Felipe Kast
+
+![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/images/tsm/comp_2021_Felipe%20Kast.png){:height="49%" width="49%"}
+
+![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Heraldo Muñoz

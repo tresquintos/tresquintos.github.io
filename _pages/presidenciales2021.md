@@ -16,140 +16,140 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ---
 ### Joaquín Lavín
 
-![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![1](/images/tsm/comp_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"}
 
 ![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
 ### Daniel Jadue
 
-![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
+![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
 
 ![Daniel Jadue](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 ---
 ### José Antonio Kast
 
-![3](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![3](/images/tsm/comp_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
+![3](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![3](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"}
 
 ![José Antonio Kast](/gifs/tsm/2021_tsgif_3_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Beatriz Sánchez
 
-![4](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![4](/images/tsm/comp_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
+![4](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![4](/gifs/tsm/2021_experimental_4_forwards.gif){:height="49%" width="49%"}
 
 ![Beatriz Sánchez](/gifs/tsm/2021_tsgif_4_clip.gif){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
 
 ---
 ### Franco Parisi
 
-![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/images/tsm/comp_2021_Franco%20Parisi.png){:height="49%" width="49%"}
+![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/gifs/tsm/2021_experimental_5_forwards.gif){:height="49%" width="49%"}
 
 ![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 ---
 ### Evelyn Matthei
 
-![12](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![12](/images/tsm/comp_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
+![12](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![12](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"}
 
 ![Evelyn Matthei](/gifs/tsm/2021_tsgif_12_clip.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 ---
 ### Michelle Bachelet
 
-![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="49%" width="49%"} ![6](/images/tsm/comp_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
+![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="49%" width="49%"} ![6](/gifs/tsm/2021_experimental_6_forwards.gif){:height="49%" width="49%"}
 
 ![Michelle Bachelet](/gifs/tsm/2021_tsgif_6_clip.gif){:height="49%" width="49%"} ![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
 ---
 ### Leonardo Farkas
 
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/images/tsm/comp_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
 
 ![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
 ### Manuel José Ossandón
 
-![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/images/tsm/comp_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
+![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
 
 ![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ---
 ### Felipe Kast
 
-![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/images/tsm/comp_2021_Felipe%20Kast.png){:height="49%" width="49%"}
+![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
 
 ![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### Pamela Jiles
 
-![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/images/tsm/comp_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
 
 ![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
 ---
 ### Heraldo Muñoz
 
-![8](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![8](/images/tsm/comp_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
+![8](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![8](/gifs/tsm/2021_experimental_8_forwards.gif){:height="49%" width="49%"}
 
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ---
 ### Marco Enríquez-Ominami
 
-![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
+![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
 
 ![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
 
 ---
 ### Francisco Vidal
 
-![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
+![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_17_forwards.gif){:height="49%" width="49%"}
 
 ![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
 ---
 ### Rodolfo Carter
 
-![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/images/tsm/comp_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
+![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
 
 ![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
 ### Alejandro Guillier
 
-![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/images/tsm/comp_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
+![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/gifs/tsm/2021_experimental_10_forwards.gif){:height="49%" width="49%"}
 
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
 ### Sebastián Sichel
 
-![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
+![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_18_forwards.gif){:height="49%" width="49%"}
 
 ![Sebastián Sichel](/gifs/tsm/2021_tsgif_18_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
 
 ---
 ### Izkia Siches
 
-![16](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Izkia%20Siches.png){:height="49%" width="49%"}
+![16](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_16_forwards.gif){:height="49%" width="49%"}
 
 ![Izkia Siches](/gifs/tsm/2021_tsgif_16_clip.gif){:height="49%" width="49%"} ![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
 ---
 ### Jorge Sharp
 
-![19](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
+![19](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_19_forwards.gif){:height="49%" width="49%"}
 
 ![Jorge Sharp](/gifs/tsm/2021_tsgif_19_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
 
 ---
 ### Mario Desbordes
 
-![20](/images/tsm/card_2021_Mario%20Desbordes.png){:height="49%" width="49%"} ![2](/images/tsm/comp_2021_Mario%20Desbordes.png){:height="49%" width="49%"}
+![20](/images/tsm/card_2021_Mario%20Desbordes.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_20_forwards.gif){:height="49%" width="49%"}
 
 ![Mario Desbordes](/gifs/tsm/2021_tsgif_20_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Mario%20Desbordes.png){:height="49%" width="49%"}
 

@@ -36,6 +36,9 @@ main:
 
   - title: "🎱Fichajes"
     url: /fichajes/
+    
+    - title: "🔮Apuestas 2020"
+    url: /apuestas2020/
 
   - title: "💾Datos"
     url: /datos/

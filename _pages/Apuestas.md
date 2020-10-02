@@ -5,11 +5,12 @@ permalink: /apuestas/
 author_profile: true
 ---
 
+
 En esta página puedes ver un gráfico que registra las apuestas efectuadas en nuestras redes sociales para el Plebiscito Nacional 2020, para las opciones "Apruebo", "Rechazo", "Convención Constitucional" y "Convención Mixta". Si quieres emitir una apuesta, pincha aquí: [¡APUESTA!](https://twitter.com/tresquintos/status/1312055176509915138)
 
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/apuestas2020-1.png" >
+<img width="600" src="https://tresquintos.cl/images/concurso2020-1.png" >
 </div>
 
 

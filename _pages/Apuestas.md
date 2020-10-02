@@ -5,7 +5,7 @@ permalink: /apuestas/
 author_profile: true
 ---
 
-En esta página puedes ver un gráfico que registra las apuestas efectuadas en nuestras redes sociales para el Plebiscito Nacional 2020, para las opciones "Apruebo", "Rechazo", "Convención Constitucional" y "Convención Mixta". Si quieres emitir una apuesta, pincha aquí: ¡APUESTA!
+En esta página puedes ver un gráfico que registra las apuestas efectuadas en nuestras redes sociales para el Plebiscito Nacional 2020, para las opciones "Apruebo", "Rechazo", "Convención Constitucional" y "Convención Mixta". Si quieres emitir una apuesta, pincha aquí: [¡APUESTA!](https://twitter.com/tresquintos/status/1312055176509915138)
 
 
 <div align="center">

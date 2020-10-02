@@ -1,6 +1,6 @@
 layout: single
 title: "Apuestas 2020"
-permalink: /apuestas2020/
+permalink: /apuestas/
 author_profile: true
 ---
 

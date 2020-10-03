@@ -10,7 +10,8 @@ En esta página puedes ver un gráfico que registra las apuestas efectuadas en n
 
 
 <div align="center">
-<a href="https://twitter.com/tresquintos/status/1312055176509915138"><img width="600" src="https://tresquintos.cl/images/concurso2020-1.png" ></div>
+<href="https://twitter.com/tresquintos/status/1312055176509915138"><img width="600" src="https://tresquintos.cl/images/concurso2020-1.png" >
+</div>
 
 
 

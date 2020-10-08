@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de los nombres plausibles, transitorios, posibles convencionales constitucionales para las próximas elecciones de abril del 2021 relativa al resultado del Plebiscito Nacional de 2020. La tabla incluye el nombre de la región, distrito, nombre del constituyente, lista a la que pertenece y el partido político.     
+En esta página puedes ver la lista de los nombres plausibles, transitorios, posibles convencionales constitucionales para las próximas elecciones de abril de 2021 relativa al resultado del Plebiscito Nacional de 2020. La tabla incluye el nombre de la región, distrito, nombre del constituyente, lista a la que pertenece y el partido político.     
 Datos recolectados a través de redes sociales e información privada, los cuales aún no estan registrados oficialmente en el Servicio Electoral.
 
 

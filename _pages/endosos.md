@@ -7,6 +7,7 @@ author_profile: true
 
 
 En esta página puedes ver la lista de endosos electorales para el Plebiscito Nacional de 2020. La tabla incluyen un registro de información relativo a las principales autoridades del país. En total son 263 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (24); intendentes (16); alcaldes (21); senadores (43); diputados (155). 
+
 El conteo parcial contiene los detalles de los endosos de 208 personas (de 263 personas que estamos monitoreando).* Los endosos se distribuyen de la siguiente manera:  Apruebo=144 personas (69%); Rechazo=64 personas (31%). 
 
 

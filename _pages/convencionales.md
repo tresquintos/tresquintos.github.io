@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Convencionales 2021"
+title: "Lista de Convencionales 2021"
 permalink: /convencionales/
 author_profile: true
 ---

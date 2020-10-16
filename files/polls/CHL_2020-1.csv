@@ -1,77 +1,81 @@
-Fecha,Encuesta,N,Prob,p1,p2,lastdate
-16/11/2019,Cadem,704,0,82,16,09/10/2020
-17/11/2019,Activa Research,2000,0,81,8,09/10/2020
-22/11/2019,Cadem,706,0,85,12,09/10/2020
-26/11/2019,Activa Research,1159,0,79,7,09/10/2020
-26/11/2019,Criteria Research,1014,0,72,13,09/10/2020
-12/12/2019,Coes,1215,0,86,8,09/10/2020
-26/12/2019,Activa Research,1030,0,78,10,09/10/2020
-26/12/2019,Activa Research,562,1,94,5,09/10/2020
-03/01/2020,Cadem,709,0,72,20,09/10/2020
-06/01/2020,CEP,1496,0,67,13,09/10/2020
-10/01/2020,Cadem,707,0,74,19,09/10/2020
-15/01/2020,Mori,780,1,86,10,09/10/2020
-15/01/2020,Mori,1000,0,68,17,09/10/2020
-16/01/2020,Activa Research,950,0,78,9,09/10/2020
-16/01/2020,Activa Research,487,1,92,7,09/10/2020
-21/01/2020,Data Influye,1033,0,73,22,09/10/2020
-24/01/2020,Cadem,709,0,66,25,09/10/2020
-28/01/2020,Criteria Research,806,0,71,21,09/10/2020
-30/01/2020,Activa Research,975,0,69,15,09/10/2020
-30/01/2020,Activa Research,477,1,84,14,09/10/2020
-31/01/2020,Cadem,708,0,72,22,09/10/2020
-07/02/2020,Cadem,709,0,67,27,09/10/2020
-13/02/2020,Activa Research,1045,0,70,14,09/10/2020
-13/02/2020,Activa Research,525,1,80,18,09/10/2020
-14/02/2020,Cadem,705,0,67,26,09/10/2020
-18/02/2020,Data Influye,1445,0,75,15,09/10/2020
-21/02/2020,Cadem,705,0,67,25,09/10/2020
-28/02/2020,Activa Research,1043,0,70,13,09/10/2020
-28/02/2020,Activa Research,583,1,86,13,09/10/2020
-28/02/2020,Cadem,702,0,67,25,09/10/2020
-29/02/2020,Criteria Research,796,0,67,22,09/10/2020
-06/03/2020,Cadem,707,0,66,24,09/10/2020
-12/03/2020,Activa Research,1135,0,65,14,09/10/2020
-12/03/2020,Activa Research,690,1,83,15,09/10/2020
-13/03/2020,Cadem,702,0,68,21,09/10/2020
-16/03/2020,Data Influye,1273,0,74,18,09/10/2020
-20/03/2020,Cadem,702,0,62,25,09/10/2020
-27/03/2020,Activa Research,1230,0,69,17,09/10/2020
-27/03/2020,Activa Research,690,1,81,18,09/10/2020
-14/04/2020,Activa Research,1270,0,70,17,09/10/2020
-14/04/2020,Activa Research,725,1,85,13,09/10/2020
-28/04/2020,Activa Research,1227,0,74,11,09/10/2020
-28/04/2020,Activa Research,736,1,91,8,09/10/2020
-30/04/2020,Cadem,712,0,65,26,09/10/2020
-12/05/2020,Activa Research,1209,0,70,17,09/10/2020
-12/05/2020,Activa Research,724,1,85,14,09/10/2020
-30/05/2020,Activa Research,1215,0,70,13,09/10/2020
-30/05/2020,Activa Research,661,1,84,15,09/10/2020
-31/05/2020,Criteria Research,800,0,72,20,09/10/2020
-13/06/2020,Activa Research,1730,0,73,11,09/10/2020
-13/06/2020,Activa Research,960,1,91,9,09/10/2020
-28/06/2020,Activa Research,1260,0,68,13,09/10/2020
-28/06/2020,Activa Research,670,1,90,9,09/10/2020
-30/06/2020,Criteria Research,800,0,76,16,09/10/2020
-11/07/2020,Activa Research,1340,0,72,12,09/10/2020
-11/07/2020,Activa Research,747,1,88,11,09/10/2020
-31/07/2020,Criteria Research,800,0,75,17,09/10/2020
-01/08/2020,Activa Research,1430,0,77,10,09/10/2020
-01/08/2020,Activa Research,797,1,91,9,09/10/2020
-15/08/2020,Activa Research,1434,0,68,10,09/10/2020
-15/08/2020,Activa Research,857,1,89,10,09/10/2020
-24/08/2020,Data Influye,1940,0,73,13,09/10/2020
-29/08/2020,Activa Research,1544,0,71,12,09/10/2020
-29/08/2020,Activa Research,920,1,89,9,09/10/2020
-31/08/2020,Criteria Research,986,0,74,17,09/10/2020
-12/09/2020,Activa Research,1415,0,75,11,09/10/2020
-12/09/2020,Activa Research,805,1,89,11,09/10/2020
-17/09/2020,Mori,1000,0,66,15,09/10/2020
-17/09/2020,Mori,720,1,78,17,09/10/2020
-28/09/2020,Activa Research,1417,0,67,17,09/10/2020
-28/09/2020,Activa Research,816,1,83,13,09/10/2020
-30/09/2020,Criteria Research,1503,0,72,19,09/10/2020
-05/10/2020,Data Influye,2145,0,69,18,09/10/2020
-10/09/2020,CIIR,1522,0,75,12,09/10/2020
-09/10/2020,Activa Research,3309,0,65,14,09/10/2020
-09/10/2020,Activa Research,1919,1,84,15,09/10/2020
+﻿date,house,n,method,prob,p1,p2,ptotal,nsnr,total,pregunta
+16/11/2019,Cadem,704,phone,0,82.00,16.00,98.00,2.00,100.00,¿Está de acuerdo o en desacuerdo con que Chile necesita una Nueva Constitución?
+17/11/2019,Activa Research,2000,online,0,81.10,8.20,89.30,4.40,93.70,Pensando en que el plebiscito de Abril 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+22/11/2019,Cadem,706,phone,0,85.00,12.00,97.00,3.00,100.00,¿Está de acuerdo o en desacuerdo con que Chile necesita una Nueva Constitución?
+26/11/2019,Activa Research,1159,online,0,78.70,6.60,85.30,6.00,91.30,¿Quiere usted una nueva constitución?
+26/11/2019,Criteria Research,1014,online,0,72.00,13.00,85.00,10.00,95.00,¿Quiere usted una nueva constitución?
+12/12/2019,Coes,1215,face to face,0,85.50,8.10,93.60,6.40,100.00,¿Quiere usted una nueva Constitución? ¿qué votará?
+26/12/2019,Activa Research,1030,online,0,77.90,10.00,87.90,8.80,96.70,¿Quiere usted una nueva constitución?
+26/12/2019,Activa Research,562,online,1,93.70,5.10,98.80,0.00,98.80,Pensando en que el plebiscito de Abril 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+03/01/2020,Cadem,709,phone,0,72.00,20.00,92.00,6.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+06/01/2020,CEP,1496,face to face,0,67.00,13.00,80.00,20.00,100.00,¿Usted aprueba o rechaza una nueva Constitución?
+10/01/2020,Cadem,707,phone,0,74.00,19.00,93.00,5.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+15/01/2020,Mori,780,face to face,1,86.10,9.80,95.90,0.00,95.90,¿Quiere una nueva Constitución? (entre los que dicen que votaran)
+15/01/2020,Mori,1000,face to face,0,68.00,17.00,85.00,15.00,100.00,¿Quiere una nueva Constitución? (entre todos los votantes)
+16/01/2020,Activa Research,950,online,0,77.90,8.80,86.70,4.60,91.30,¿Quiere usted una nueva constitución?
+16/01/2020,Activa Research,487,online,1,92.10,6.60,98.70,0.40,99.10,Pensando en que el plebiscito de Abril 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+21/01/2020,Data Influye,1033,online,0,73.00,22.00,95.00,0.00,95.00,Si el Plebiscito fuera el próximo domingo donde las opciones son: Apruebo o Rechazo la redacción de una Nueva Constitución ¿Cómo votaría Ud.?
+24/01/2020,Cadem,709,phone,0,66.00,25.00,91.00,6.00,97.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+28/01/2020,Criteria Research,806,online,0,71.00,21.00,92.00,8.00,100.00,¿Quiere usted una nueva contitución?
+30/01/2020,Activa Research,975,online,0,69.10,14.50,83.60,8.60,92.20,Pensando en que el plebiscito de Abril 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+30/01/2020,Activa Research,477,online,1,83.60,13.60,97.20,0.00,97.20,Pensando en que el plebiscito de Abril 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+31/01/2020,Cadem,708,phone,0,72.00,22.00,94.00,4.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+07/02/2020,Cadem,709,phone,0,67.00,27.00,94.00,4.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+13/02/2020,Activa Research,1045,online,0,69.70,14.20,83.90,4.40,88.30,¿Quiere usted una nueva constitución?
+13/02/2020,Activa Research,525,online,1,79.50,17.60,97.10,0.90,98.00,¿Quiere usted una nueva constitución? (votante probable)
+14/02/2020,Cadem,705,phone,0,67.00,26.00,93.00,5.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+18/02/2020,Data Influye,1445,online,0,75.00,15.00,90.00,6.00,96.00,Si el Plebiscito fuera el próximo domingo donde las opciones son: “Apruebo” o “Rechazo” la redacción de una Nueva Constitución ¿Cómo votaría Ud.?
+21/02/2020,Cadem,705,phone,0,67.00,25.00,92.00,7.00,99.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+28/02/2020,Activa Research,1043,online,0,69.60,13.10,82.70,7.80,90.50,¿Quiere usted una nueva constitución?
+28/02/2020,Activa Research,583,online,1,85.50,12.80,98.30,0.00,98.30,¿Quiere usted una nueva constitución? (votante probable)
+28/02/2020,Cadem,702,phone,0,67.00,25.00,92.00,6.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+29/02/2020,Criteria Research,796,online,0,67.00,22.00,89.00,11.00,100.00,¿Quiere usted una nueva contitución?
+06/03/2020,Cadem,707,phone,0,66.00,24.00,90.00,8.00,98.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+12/03/2020,Activa Research,1135,online,0,65.30,14.40,79.70,11.50,91.20,¿Quiere usted una nueva constitución?
+12/03/2020,Activa Research,690,online,1,82.60,15.40,98.00,0.00,98.00,¿Quiere usted una nueva constitución? (votante probable)
+13/03/2020,Cadem,702,phone,0,68.00,21.00,89.00,8.00,97.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+15/03/2020,StatKnows,7054,online,0,55.49,34.72,90.21,7.39,97.60,"Si el plebiscito fuera hoy, qué responderías a la pregunta “¿Quiere usted una nueva Constitución?”"
+16/03/2020,Data Influye,1273,online,0,74.00,18.00,92.00,7.00,99.00,"Si el Plebiscito fuera el próximo domingo, donde las opciones son: “Apruebo” o “Rechazo” la redacción de una Nueva Constitución, ¿cómo votaría Ud.?"
+20/03/2020,Cadem,702,phone,0,62.00,25.00,87.00,10.00,97.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+27/03/2020,Activa Research,1230,online,0,68.70,17.10,85.80,6.30,92.10,¿Quiere usted una nueva constitución?
+27/03/2020,Activa Research,690,online,1,81.00,17.80,98.80,0.00,98.80,¿Quiere usted una nueva constitución? (votante probable)
+14/04/2020,Activa Research,1270,online,0,70.00,16.90,86.90,4.50,91.40,¿Quiere usted una nueva constitución?
+14/04/2020,Activa Research,725,online,1,84.50,13.10,97.60,0.10,97.70,¿Quiere usted una nueva constitución? (votante probable)
+28/04/2020,Activa Research,1227,online,0,74.20,10.80,85.00,5.60,90.60,¿Quiere usted una nueva constitución?
+28/04/2020,Activa Research,736,online,1,91.20,7.80,99.00,0.00,99.00,¿Quiere usted una nueva constitución? (votante probable)
+30/04/2020,Cadem,712,phone,0,65.00,26.00,91.00,5.00,96.00,"Si el plebiscito de abril para elegir si Chile aprueba o rechaza una Nueva Constitución fuera el próximo domingo, ¿Ud. votaría…?"
+12/05/2020,Activa Research,1209,online,0,69.90,16.60,86.50,7.20,93.70,¿Quiere usted una nueva constitución?
+12/05/2020,Activa Research,724,online,1,85.10,14.30,99.40,0.20,99.60,¿Quiere usted una nueva constitución? (votante probable)
+30/05/2020,Activa Research,1215,online,0,70.20,13.20,83.40,10.00,93.40,¿Quiere usted una nueva constitución?
+30/05/2020,Activa Research,661,online,1,84.10,15.20,99.30,0.00,99.30,¿Quiere usted una nueva constitución? (votante probable)
+31/05/2020,Criteria Research,800,online,0,72.00,20.00,92.00,8.00,100.00,¿Quiere usted una nueva contitución?
+13/06/2020,Activa Research,1730,online,0,73.00,10.90,83.90,10.80,94.70,¿Quiere usted una nueva constitución?
+13/06/2020,Activa Research,960,online,1,90.90,8.70,99.60,0.00,99.60,¿Quiere usted una nueva constitución? (votante probable)
+28/06/2020,Activa Research,1260,online,0,68.10,12.60,80.70,12.00,92.70,¿Quiere usted una nueva constitución?
+28/06/2020,Activa Research,670,online,1,90.10,9.40,99.50,0.00,99.50,¿Quiere usted una nueva constitución? (votante probable)
+30/06/2020,Criteria Research,800,online,0,76.00,16.00,92.00,8.00,100.00,¿Quiere usted una nueva contitución?
+11/07/2020,Activa Research,1340,online,0,71.90,11.90,83.80,9.00,92.80,¿Quiere usted una nueva constitución?
+11/07/2020,Activa Research,747,online,1,87.60,11.20,98.80,0.80,99.60,¿Quiere usted una nueva constitución? (votante probable)
+31/07/2020,Criteria Research,800,online,0,75.00,17.00,92.00,8.00,100.00,¿Quiere usted una nueva contitución?
+01/08/2020,Activa Research,1430,online,0,77.00,9.90,86.90,9.00,95.90,¿Quiere usted una nueva constitución?
+01/08/2020,Activa Research,797,online,1,91.10,8.60,99.70,0.00,99.70,¿Quiere usted una nueva constitución? (votante probable)
+15/08/2020,Activa Research,1434,online,0,68.00,10.30,78.30,8.70,87.00,¿Quiere usted una nueva constitución?
+15/08/2020,Activa Research,857,online,1,88.70,9.70,98.40,1.20,99.60,¿Quiere usted una nueva constitución? (votante probable)
+24/08/2020,Data Influye,1940,online,0,73.00,13.00,86.00,14.00,100.00,"Si el Plebiscito fuera el próximo domingo donde las opciones son: Apruebo o Rechazo la redacción de una Nueva Constitución, ¿cómo votaría Ud.?"
+24/08/2020,StatKnows,7721,online,0,55.40,43.09,98.49,1.34,99.83,¿Quiere usted una nueva Constitución?
+29/08/2020,Activa Research,1544,online,0,71.00,11.50,82.50,5.20,87.70,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución?
+29/08/2020,Activa Research,920,online,1,89.40,9.00,98.40,1.60,100.00,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+31/08/2020,Criteria Research,986,online,0,74.00,17.00,91.00,9.00,100.00,"Pensando en el Plebiscito de Octubre por un cambio constitucional, frente a la pregunta ¿quieres una nueva constitución? ¿qué votarías? (MAYO A AGOSTO)"
+10/09/2020,CIIR,1522,phone,0,75.00,12.00,87.00,13.00,100.00,"Y si el plebiscito de octubre para elegir si Chile aprueba o rechaza una nueva Constitución fuera el próximo domingo, ¿usted votaría?"
+12/09/2020,Activa Research,1415,online,0,75.1,11.2,86.30,5.40,91.70,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución?
+12/09/2020,Activa Research,805,online,1,88.70,10.60,99.30,0.50,99.80,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+17/09/2020,Mori,1000,online,0,66.00,15.00,81.00,19.00,100.00,¿Cómo votará En el plebiscito ante la pregunta ¿“quiere Ud una nueva constitución”? Votará apruebo o rechazo ?
+17/09/2020,Mori,720,online,1,78.00,17.00,95.00,5.00,100.00,P. Cómo votará En el plebiscito ante la pregunta ¿“quiere Ud una nueva constitución”? Votará apruebo o rechazo.
+18/09/2020,Numen,12445,online,0,41.90,34.30,76.20,15.20,91.40,Si el plebisicto fuera el domingo ¿Qué votaría?
+28/09/2020,Activa Research,1417,online,0,66.80,17.10,83.90,7.60,91.50,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución?
+28/09/2020,Activa Research,816,online,1,83.00,13.40,96.40,3.60,100.00,Pensando en que el plebiscito de Octubre 2020 para decidir una nueva constitución fuera este domingo ¿Quiere usted una nueva constitución? (votante probable)
+30/09/2020,Criteria Research,1503,online,0,72.00,19.00,91.00,9.00,100.00,"Pensando en el Plebiscito de Octubre por un cambio constitucional, frente a la pregunta ¿quieres una nueva constitución? ¿qué votarías?"
+05/10/2020,Data Influye,2145,online,0,69.00,18.00,87.00,10.00,97.00,"Si el Plebiscito fuera el próximo domingo, donde las opciones son: Apruebo o Rechazo la redacción de una Nueva Constitución, ¿cómo votaría Ud.?"
+07/10/2020,Numen,16785,online,0,38.50,33.90,72.40,17.40,89.80,Si el plebisicto fuera el domingo ¿Qué votaría?
+09/10/2020,Activa Research,3309,online,0,65.40,14.30,79.70,9.40,89.10,¿Quiere usted una nueva constitución?
+09/10/2020,Activa Research,1919,online,1,83.90,15.00,98.90,0.10,99.00,¿Quiere usted una nueva constitución? (votante probable)

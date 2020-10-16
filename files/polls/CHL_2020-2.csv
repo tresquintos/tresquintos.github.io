@@ -1,75 +1,78 @@
-Fecha,Encuesta,N,Prob,p1,p2,lastdate
-16/11/2019,Cadem,704,0,60,35,09/10/2020
-17/11/2019,Activa Research,2000,0,64,24,09/10/2020
-22/11/2019,Cadem,706,0,62,33,09/10/2020
-26/11/2019,Activa Research,1159,0,47,27,09/10/2020
-26/11/2019,Criteria Research,1014,0,51,32,09/10/2020
-26/11/2019,Activa Research,598,1,62,25,09/10/2020
-10/12/2019,Coes,1215,0,51,39,09/10/2020
-26/12/2019,Activa Research,1030,0,54,24,09/10/2020
-26/12/2019,Activa Research,500,1,63,24,09/10/2020
-03/01/2020,Cadem,709,0,51,43,09/10/2020
-06/01/2020,CEP,1496,0,44,37,09/10/2020
-10/01/2020,Cadem,707,0,52,43,09/10/2020
-15/01/2020,Mori,1000,0,42,32,09/10/2020
-15/01/2020,Mori,780,1,47,34,09/10/2020
-16/01/2020,Activa Research,950,0,57,24,09/10/2020
-16/01/2020,Activa Research,487,1,68,26,09/10/2020
-21/01/2020,Data Influye,1033,0,54,29,09/10/2020
-24/01/2020,Cadem,709,0,47,45,09/10/2020
-28/01/2020,Criteria Research,806,0,56,35,09/10/2020
-30/01/2020,Activa Research,975,0,50,24,09/10/2020
-30/01/2020,Activa Research,477,1,66,32,09/10/2020
-31/01/2020,Cadem,708,0,50,42,09/10/2020
-07/02/2020,Cadem,709,0,51,42,09/10/2020
-13/02/2020,Activa Research,1045,0,44,27,09/10/2020
-13/02/2020,Activa Research,525,1,58,26,09/10/2020
-14/02/2020,Cadem,705,0,50,41,09/10/2020
-18/02/2020,Data Influye,1445,0,58,27,09/10/2020
-21/02/2020,Cadem,705,0,50,42,09/10/2020
-28/02/2020,Activa Research,1043,0,51,24,09/10/2020
-28/02/2020,Activa Research,583,1,66,26,09/10/2020
-28/02/2020,Cadem,702,0,53,36,09/10/2020
-29/02/2020,Criteria Research,796,0,52,34,09/10/2020
-06/03/2020,Cadem,707,0,58,33,09/10/2020
-12/03/2020,Activa Research,1135,0,51,23,09/10/2020
-12/03/2020,Activa Research,690,1,68,27,09/10/2020
-13/03/2020,Cadem,702,0,52,38,09/10/2020
-16/03/2020,Data Influye,1273,0,65,24,09/10/2020
-20/03/2020,Cadem,702,0,51,39,09/10/2020
-27/03/2020,Activa Research,1230,0,55,27,09/10/2020
-27/03/2020,Activa Research,690,1,67,28,09/10/2020
-14/04/2020,Activa Research,1270,0,47,30,09/10/2020
-14/04/2020,Activa Research,725,1,62,32,09/10/2020
-28/04/2020,Activa Research,1227,0,53,24,09/10/2020
-28/04/2020,Activa Research,736,1,69,28,09/10/2020
-30/04/2020,Cadem,712,0,50,42,09/10/2020
-12/05/2020,Activa Research,1209,0,51,27,09/10/2020
-12/05/2020,Activa Research,724,1,67,30,09/10/2020
-30/05/2020,Activa Research,1215,0,45,31,09/10/2020
-30/05/2020,Activa Research,661,1,62,35,09/10/2020
-13/06/2020,Activa Research,1730,0,50,28,09/10/2020
-13/06/2020,Activa Research,960,1,63,35,09/10/2020
-28/06/2020,Activa Research,1260,0,47,27,09/10/2020
-28/06/2020,Activa Research,670,1,67,32,09/10/2020
-11/07/2020,Activa Research,1340,0,48,27,09/10/2020
-11/07/2020,Activa Research,747,1,66,29,09/10/2020
-01/08/2020,Activa Research,1430,0,49,32,09/10/2020
-01/08/2020,Activa Research,797,1,63,33,09/10/2020
-15/08/2020,Activa Research,1434,0,49,26,09/10/2020
-15/08/2020,Activa Research,857,1,65,32,09/10/2020
-24/08/2020,Data Influye,1940,0,55,26,09/10/2020
-29/08/2020,Activa Research,1544,0,47,28,09/10/2020
-29/08/2020,Activa Research,920,1,63,34,09/10/2020
-31/08/2020,Criteria Research,986,0,59,29,09/10/2020
-12/09/2020,Activa Research,1415,0,57,23,09/10/2020
-12/09/2020,Activa Research,805,1,74,23,09/10/2020
-17/09/2020,Mori,1000,0,51,27,09/10/2020
-17/09/2020,Mori,720,1,61,30,09/10/2020
-28/09/2020,Activa Research,1417,0,53,24,09/10/2020
-28/09/2020,Activa Research,816,1,67,28,09/10/2020
-30/09/2020,Criteria Research,1503,0,59,28,09/10/2020
-05/10/2020,Data Influye,2145,0,61,21,09/10/2020
-10/09/2020,CIIR,1522,0,65,29,09/10/2020
-09/10/2020,Activa Research,3309,0,56,20,09/10/2020
-09/10/2020,Activa Research,1919,1,75,22,09/10/2020
+﻿date,house,n,method,prob,p1,p2,ptotal,nsnr,total,pregunta
+16/11/2019,Cadem,704,phone,0,60.00,35.00,95.00,5.00,100.00,"Ahora, Ud. preferiría que la Constitución sea cambiada"
+17/11/2019,Activa Research,2000,online,0,63.50,24.40,87.90,5.90,93.80,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+22/11/2019,Cadem,706,phone,0,62.00,33.00,95.00,5.00,100.00,"Ahora, Ud. preferiría que la Constitución sea cambiada…"
+26/11/2019,Activa Research,1159,online,0,47.40,26.50,73.90,9.70,83.60,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+26/11/2019,Criteria Research,1014,online,0,51.00,32.00,83.00,10.00,93.00,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+26/11/2019,Activa Research,598,online,1,61.70,25.20,86.90,4.30,91.20,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+12/12/2019,Coes,1215,face to face,0,51.40,38.80,90.20,9.80,100.00,¿Qué tipo de órgano debería redactar la nueva Constitución? ¿Qué votará?
+26/12/2019,Activa Research,1030,online,0,53.70,23.70,77.40,9.60,87.00,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+26/12/2019,Activa Research,500,online,1,62.90,24.40,87.30,4.10,91.40,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+03/01/2020,Cadem,709,phone,0,51.00,43.00,94.00,6.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+06/01/2020,CEP,1496,face to face,0,44.00,37.00,81.00,19.00,100.00,¿usted preferiría que la hiciera solo un grupo de personas elegidas especialmente para esto o un grupo que combinara parlamentarios y personas elegidas especialmente para esto?
+10/01/2020,Cadem,707,phone,0,52.00,43.00,95.00,5.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+15/01/2020,Mori,1000,face to face,0,42.00,32.00,74.00,26.00,100.00,¿CONVENCIÓN MIXTA O CONVENCIÓN CONSTITUCIONAL? (todos los votantes)
+15/01/2020,Mori,780,face to face,1,47.00,34.00,81.00,19.00,100.00,¿CONVENCIÓN MIXTA O CONVENCIÓN CONSTITUCIONAL? (entre los que dicen que votaran)
+16/01/2020,Activa Research,950,online,0,57.20,24.40,81.60,8.60,90.20,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+16/01/2020,Activa Research,487,online,1,68.30,25.80,94.10,0.00,94.10,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+21/01/2020,Data Influye,1033,online,0,54.00,29.00,83.00,17.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+24/01/2020,Cadem,709,phone,0,47.00,45.00,92.00,8.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+28/01/2020,Criteria Research,806,online,0,56.00,35.00,91.00,9.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+30/01/2020,Activa Research,975,online,0,50.30,24.40,74.70,15.40,90.10,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+30/01/2020,Activa Research,477,online,1,65.80,31.90,97.70,0.00,97.70,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+31/01/2020,Cadem,708,phone,0,50.00,42.00,92.00,8.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+07/02/2020,Cadem,709,phone,0,51.00,42.00,93.00,7.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+13/02/2020,Activa Research,1045,online,0,44.10,27.20,71.30,14.20,85.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+13/02/2020,Activa Research,525,online,1,58.40,25.50,83.90,0.00,83.90,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+14/02/2020,Cadem,705,phone,0,50.00,41.00,91.00,9.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+18/02/2020,Data Influye,1445,online,0,58.00,27.00,85.00,15.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+21/02/2020,Cadem,705,phone,0,50.00,42.00,92.00,8.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+28/02/2020,Activa Research,1043,online,0,51.20,24.40,75.60,14.60,90.20,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+28/02/2020,Activa Research,583,online,1,66.30,26.30,92.60,0.00,92.60,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+28/02/2020,Cadem,702,phone,0,53.00,36.00,89.00,11.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+29/02/2020,Criteria Research,796,online,0,52.00,34.00,86.00,10.00,96.00,*VOTO POR ÓRGANO CONSTITUYENTE
+06/03/2020,Cadem,707,phone,0,58.00,33.00,91.00,9.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+12/03/2020,Activa Research,1135,online,0,50.80,22.80,73.60,15.60,89.20,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+12/03/2020,Activa Research,690,online,1,68.40,27.10,95.50,0.00,95.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+13/03/2020,Cadem,702,phone,0,52.00,38.00,90.00,10.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+15/03/2020,StatKnows,7054,online,0,53.70,28.80,82.50,8.60,91.10,"Si el plebiscito fuera hoy, qué responderías a la pregunta “¿Qué tipo de órgano debiera redactar la nueva Constitución?”"
+16/03/2020,Data Influye,1273,online,0,65.00,24.00,89.00,10.00,99.00,"Y en ese mismo Plebiscito, para Ud., ¿qué tipo de órgano debiera redactar la Nueva Constitución?"
+20/03/2020,Cadem,702,phone,0,51.00,39.00,90.00,10.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+27/03/2020,Activa Research,1230,online,0,54.60,26.50,81.10,9.00,90.10,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+27/03/2020,Activa Research,690,online,1,67.00,28.10,95.10,0.00,95.10,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+14/04/2020,Activa Research,1270,online,0,46.90,29.90,76.80,12.70,89.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+14/04/2020,Activa Research,725,online,1,61.70,31.50,93.20,0.00,93.20,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+28/04/2020,Activa Research,1227,online,0,53.10,23.50,76.60,12.40,89.00,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+28/04/2020,Activa Research,736,online,1,68.70,27.60,96.30,0.00,96.30,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+30/04/2020,Cadem,712,phone,0,50.00,42.00,92.00,8.00,100.00,¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+12/05/2020,Activa Research,1209,online,0,51.10,26.90,78.00,13.30,91.30,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+12/05/2020,Activa Research,724,online,1,67.10,30.00,97.10,0.30,97.40,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+30/05/2020,Activa Research,1215,online,0,45.20,31.00,76.20,12.60,88.80,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+30/05/2020,Activa Research,661,online,1,62.00,34.70,96.70,1.80,98.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+13/06/2020,Activa Research,1730,online,0,49.60,27.70,77.30,11.20,88.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+13/06/2020,Activa Research,960,online,1,63.00,34.60,97.60,1.90,99.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+28/06/2020,Activa Research,1260,online,0,46.50,26.90,73.40,11.60,85.00,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+28/06/2020,Activa Research,670,online,1,66.60,31.80,98.40,1.10,99.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+11/07/2020,Activa Research,1340,online,0,48.40,26.50,74.90,11.90,86.80,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+11/07/2020,Activa Research,747,online,1,66.20,29.20,95.40,3.10,98.50,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+01/08/2020,Activa Research,1430,online,0,48.70,31.60,80.30,9.30,89.60,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+01/08/2020,Activa Research,797,online,1,63.00,32.90,95.90,2.80,98.70,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+15/08/2020,Activa Research,1434,online,0,49.00,25.80,74.80,11.50,86.30,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+15/08/2020,Activa Research,857,online,1,65.00,31.70,96.70,3.20,99.90,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+24/08/2020,Data Influye,1940,online,0,55.00,26.00,81.00,19.00,100.00,"Y, en ese mismo plebiscito, para Ud., ¿qué tipo de órgano debiera redactar la Nueva Constitución?"
+24/08/2020,StatKnows,7721,online,0,54.00,33.00,87.00,,87.00,“¿Qué tipo de órgano debiera redactar la nueva Constitución?”
+29/08/2020,Activa Research,1544,online,0,46.50,28.00,74.50,13.20,87.70,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+29/08/2020,Activa Research,920,online,1,63.40,34.20,97.60,2.40,100.00,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+31/08/2020,Criteria Research,986,online,0,59.00,29.00,88.00,12.00,100.00,"Si el plebiscito por una nueva Constitución fuese el próximo domingo, ¿Por qué tipo de órgano votarías para redactar la nueva Constitución?"
+10/09/2020,CIIR,1522,phone,0,65.00,29.00,94.00,6.00,100.00,¿Cuál de los órganos propuestos debiera redactar la nueva Constitución?
+12/09/2020,Activa Research,1415,online,0,57.00,23.00,80.00,9.50,89.50,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+12/09/2020,Activa Research,805,online,1,74.10,22.60,96.70,2.20,98.90,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+17/09/2020,Mori,1000,online,0,51.00,27.00,78.00,22.00,100.00,¿VOTARÁ POR CONVENCIÓN MIXTA O CONVENCIÓN CONSTITUCIONAL? TODOS LOS ELECTORES
+17/09/2020,Mori,720,online,1,61.00,30.00,91.00,9.00,100.00,¿VOTARÁ POR CONVENCIÓN MIXTA O CONVENCIÓN CONSTITUCIONAL? ENTRE LOS QUE DICEN QUE VOTARÁN
+28/09/2020,Activa Research,1417,online,0,53.30,23.80,77.10,14.50,91.60,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+28/09/2020,Activa Research,816,online,1,66.80,28.10,94.90,4.80,99.70,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)
+30/09/2020,Criteria Research,1503,online,0,59.00,28.00,87.00,13.00,100.00,"Si el plebiscito por una nueva Constitución fuese el próximo domingo, ¿Por qué tipo de órgano votarías para redactar la nueva Constitución?"
+05/10/2020,Data Influye,2145,online,0,61.00,21.00,82.00,13.00,95.00,"Y, en ese mismo Plebiscito, para Ud., ¿qué tipo de órgano debiera redactar la Nueva Constitución?"
+07/10/2020,Numen,16785,online,0,38.50,35.00,73.50,13.30,86.80,"Si el plebiscito fuera este domingo, Votaría convención constitucional Mixta o una convención constitucional?"
+09/10/2020,Activa Research,3309,online,0,56.20,20.10,76.30,10.70,87.00,Y pensando en el órgano que debe redactar esta nueva Constitución ¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional?
+09/10/2020,Activa Research,1919,online,1,75.00,21.50,96.50,2.20,98.70,¿Usted votará una Convención Mixta Constitucional o una Convención Constitucional? (votante probable)

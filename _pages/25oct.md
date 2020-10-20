@@ -13,10 +13,22 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
-<div align="center"><a href="https://twitter.com/tresquintos/status/1312055176509915138"><img width="600" src="https://tresquintos.cl/images/primera_pregunta.png">
+---
 
-<div align="center"><img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png">
+La primera tabla muestra ...
 
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
+</div>
+
+
+La segunda tabla muestra ...
+
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
+</div>
+
+---
 
 ### Pronósticos Plebiscito 2020
 

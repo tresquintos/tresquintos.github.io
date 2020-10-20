@@ -26,8 +26,8 @@ La primera tabla muestra algunos pronósticos para la primera pregunta del Plebi
 <img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
 </div>
 
+La segunda tabla muestra algunos pronósticos para la segunda pregunta del Plebiscito Nacional de 2020. Sigue los mismos lineamientos que la tabla anterior.n general las encuestas sugieren que el resultado estará en torno al 70%. De 7 encuestas, 5 producen resultado de 66% (2/3) hacia arriba. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 66%.
 
-La segunda tabla muestra ...
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >

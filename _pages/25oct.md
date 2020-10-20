@@ -14,8 +14,6 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 La primera tabla muestra ...
 
-<iframe src="https://www.servelelecciones.cl/" style="width: 500px; height: 130px; border: 0px"></iframe>
-
 
 ---
 

@@ -2,7 +2,7 @@
 permalink: /25oct
 layout: single
 title: ¡Bienvenidos a Tresquintos!
-excerpt: "Análisis político y pronósticos electorales"
+excerpt: "Pronósticos y Resultados para el Plebiscito Nacional de 2020"
 author_profile: true
 ---
 

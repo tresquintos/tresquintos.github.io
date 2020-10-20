@@ -25,7 +25,7 @@ La primera tabla muestra ...
 La segunda tabla muestra ...
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
+<img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >
 </div>
 
 ---

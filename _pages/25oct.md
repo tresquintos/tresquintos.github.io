@@ -24,7 +24,7 @@ La siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional d
 
 ---
 
-En cuanto a la primera pregunta, en general, las encuestas sugieren que el resultado estará en torno al 80%. De 7 encuestas, 5 producen resultado de 79% hacia arriba. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%.
+En cuanto a la primera pregunta, las encuestas sugieren que el resultado a favor del **Apruebo** estará en torno al 80%. De 7 encuestas, 5 producen resultados de 79% hacia arriba. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%. El pronóstico más alto es el de CIIR, que sugiere que el resultado estaría en torno al 86%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 53%. Los cómputos de Tresquintos varían según el método usado, pero se mueven entre 69% y 85%. Si se consideran todas las encuestas, el resultado estimado varía entre 69.9% y 82.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 75.2% y 85.4%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 67.3%.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >

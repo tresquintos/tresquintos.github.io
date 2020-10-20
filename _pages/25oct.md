@@ -12,7 +12,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ### Resultados Plebiscito 2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.servelelecciones.cl/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 

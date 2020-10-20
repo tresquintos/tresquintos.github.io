@@ -14,16 +14,8 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 La primera tabla muestra ...
 
-<div align="center">
-<img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
-</div>
+<iframe src="https://www.servelelecciones.cl/" style="width: 500px; height: 130px; border: 0px"></iframe>
 
-
-La segunda tabla muestra ...
-
-<div align="center">
-<img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >
-</div>
 
 ---
 

@@ -20,7 +20,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ### Pronósticos Plebiscito 2020
 
-La primera tabla muestra ...
+La primera tabla muestra algunos pronósticos para la primera pregunta del Plebiscito Nacional de 2020. Primero, muestra la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la Tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min.) y suma (max.) de cada pronóstico para generar el intervalo de posibles resultados. En general las encuestas sugieren que el resultado estará en torno al 80%. De 7 encuestas, 5 producen resultado de 79% hacia arriba. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >

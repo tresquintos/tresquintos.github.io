@@ -1,7 +1,7 @@
 ---
-permalink: /25oct
+permalink: /25oct/
 layout: single
-title: Tresquintos: Pronósticos y Resultados
+title: "Tresquintos: Pronósticos y Resultados"
 excerpt: "Plebiscito Nacional de 2020"
 author_profile: true
 ---

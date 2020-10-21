@@ -44,7 +44,7 @@ En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de 
 
 ### Sigue los cómputos ¡EN VIVO! del Plebiscito Nacional de 2020 🇨🇱
 
-Abajo podrás encontrar un enlace directo al conteo en tiempo real de los votos. Puedes intercambiar entre la primera y la segunda pregunta para ver los resultados de cada elección.
+El 25 de octubre podrás encontrar abajo un enlace directo al conteo en tiempo real de los votos. Puedes intercambiar entre la primera y la segunda pregunta para ver los resultados de cada elección a medida que se vayan escrutando las mesas.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">

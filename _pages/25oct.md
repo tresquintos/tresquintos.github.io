@@ -6,7 +6,7 @@ excerpt: "Plebiscito Nacional de 2020"
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
+En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. Abajo puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
 
 ---
 
@@ -43,16 +43,6 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de 
 </div>
 
 ---
-
-
-<div>
-  <div style="position:relative;padding-top:70.25%;">
-    <iframe src="http://www.servelelecciones.cl/" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
-
-
 
 ### Otros enlaces
 

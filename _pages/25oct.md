@@ -30,6 +30,8 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del
 <img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
 </div>
 
+---
+
 ### Segunda pregunta: ¿Qué tipo de órgano debiera redactar la Nueva Constitución?
 
 En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitucional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje. El pronóstico más alto es el de Activa Research, que sugiere que el resultado estaría en torno al 78%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 52%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 57.6% y 70.5%. Si se consideran todas las encuestas, el resultado estimado varía entre 57.6% y 68.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 59.4% y 70.5%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 65.6%.

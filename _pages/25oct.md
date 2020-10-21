@@ -12,11 +12,11 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ### Pronósticos Plebiscito Nacional de 2020 🇨🇱
 
-La siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la Tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min.) y suma (max.) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
+La siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min.) y suma (max.) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
 
 ---
 
-En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del **Apruebo**. De 7 encuestas, 5 producen resultados iguales o mayores a 79%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%. El pronóstico más alto es el de CIIR, que sugiere que el resultado estaría en torno al 86%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 53%. Los cómputos de Tresquintos varían según el método usado, pero se mueven entre 69% y 85%. Si se consideran todas las encuestas, el resultado estimado varía entre 69.9% y 82.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 75.2% y 85.4%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 67.3%.
+En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del **Apruebo**. De 7 encuestas, 5 producen resultados iguales o mayores a 79%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%. El pronóstico más alto es el de CIIR, que sugiere que el resultado estaría en torno al 86%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 53%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 69% y 85%. Si se consideran todas las encuestas, el resultado estimado varía entre 69.9% y 82.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 75.2% y 85.4%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 67.3%.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
@@ -24,7 +24,7 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del
 
 ---
 
-En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitutcional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje.
+En cuanto a la segundar pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitutcional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje.
 
 
 <div align="center">
@@ -33,7 +33,7 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de 
 
 ---
 
-### Resultados Plebiscito Nacional de 2020 🇨🇱
+### Sigue los cómputos en vivo del Plebiscito Nacional de 2020 🇨🇱
 
 <div>
   <div style="position:relative;padding-top:56.25%;">

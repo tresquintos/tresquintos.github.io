@@ -6,8 +6,7 @@ excerpt: "Plebiscito Nacional de 2020"
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. Abajo puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
-
+En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. **Abajo** puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
 
 [![Convencionales](/images/lista_convencionales.png){:height="49%" width="49%"}](https://tresquintos.cl/convencionales/)
 
@@ -15,7 +14,7 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ---
 
-## Pronósticos: Plebiscito Nacional de 2020 🇨🇱
+### Pronósticos: Plebiscito Nacional de 2020 🇨🇱
 
 Las siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min) y suma (max) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
 

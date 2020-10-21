@@ -9,7 +9,6 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. Abajo puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
 
 ---
-
 ## Pronósticos Plebiscito Nacional de 2020 🇨🇱
 
 La siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min.) y suma (max.) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
@@ -24,10 +23,10 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del
 </div>
 
 ---
+
 ### ¿Qué tipo de órgano debiera redactar la Nueva Constitución?
 
 En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitucional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje. El pronóstico más alto es el de Activa Research, que sugiere que el resultado estaría en torno al 78%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 52%. Los cómputos de Tresquintos varían según el método usado, pero se mueven entre 57.6% y 70.5%. Si se consideran todas las encuestas, el resultado estimado varía entre 57.6% y 68.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 59.4% y 870.5%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 65.6%.
-
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >
@@ -35,7 +34,7 @@ En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de 
 
 ---
 
-### Sigue los cómputos en vivo del Plebiscito Nacional de 2020 🇨🇱
+### Sigue los cómputos ¡EN VIVO! del Plebiscito Nacional de 2020 🇨🇱
 
 Abajo podrás encontrar un enlace directo al conteo en tiempo real de los votos. Puedes intercambiar entre la primera y la segunda pregunta para ver los resultados de cada elección.
 

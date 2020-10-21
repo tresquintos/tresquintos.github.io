@@ -18,7 +18,7 @@ Las siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional 
 
 ---
 
-### ¿Quiere usted una Nueva Constitución?
+### Primera pregunta: ¿Quiere usted una Nueva Constitución?
 
 En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del **Apruebo**. De 7 encuestas, 5 producen resultados iguales o mayores a 79%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%. El pronóstico más alto es el de CIIR, que sugiere que el resultado estaría en torno al 86%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 53%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 69.0% y 85.4%. Si se consideran todas las encuestas, el resultado estimado varía entre 69.9% y 82.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 75.2% y 85.4%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 67.3%.
 
@@ -28,9 +28,9 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del
 
 ---
 
-### ¿Qué tipo de órgano debiera redactar la Nueva Constitución?
+### Segunda pregunta: ¿Qué tipo de órgano debiera redactar la Nueva Constitución?
 
-En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitucional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje. El pronóstico más alto es el de Activa Research, que sugiere que el resultado estaría en torno al 78%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 52%. Los cómputos de Tresquintos varían según el método usado, pero se mueven entre 57.6% y 70.5%. Si se consideran todas las encuestas, el resultado estimado varía entre 57.6% y 68.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 59.4% y 70.5%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 65.6%.
+En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitucional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje. El pronóstico más alto es el de Activa Research, que sugiere que el resultado estaría en torno al 78%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 52%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 57.6% y 70.5%. Si se consideran todas las encuestas, el resultado estimado varía entre 57.6% y 68.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 59.4% y 70.5%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 65.6%.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >

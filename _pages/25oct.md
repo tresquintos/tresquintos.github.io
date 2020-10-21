@@ -42,9 +42,6 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de 
   </div>
 </div>
 
-
-<iframe width="560" height="315" src="http://www.servelelecciones.cl/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ---
 
 ### Otros enlaces

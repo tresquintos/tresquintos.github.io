@@ -44,6 +44,16 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de 
 
 ---
 
+
+<div>
+  <div style="position:relative;padding-top:70.25%;">
+    <iframe src="http://www.servelelecciones.cl/" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
+
+
 ### Otros enlaces
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar directamente por [Discord](https://discord.gg/qPDkg67).

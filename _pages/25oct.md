@@ -10,6 +10,11 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 <div align="center"><a href="https://tresquintos.cl/convencionales/"><img width="100" height="100" src="https://tresquintos.cl/images/lista_convencionales.png"><div align="center"><a href="https://tresquintos.cl/encuestas/"><img width="100" height="100" src="https://tresquintos.cl/images/lista_encuestas.png">
 
+[![Apruebo](/images/lista_convencionales.png){:height="49%" width="49%"}](https://tresquintos.cl/convencionales/)
+
+![Rechazo](/gifs/tsm/2020-1_experimental_2_forwards.gif){:height="49%" width="49%"}
+
+
 ---
 
 ### Pronósticos Plebiscito Nacional de 2020 🇨🇱

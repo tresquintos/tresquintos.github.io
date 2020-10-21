@@ -10,22 +10,6 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ---
 
-### Resultados Plebiscito 2020
-
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="http://www.servelelecciones.cl/" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
-
-
-<iframe width="560" height="315" src="http://www.servelelecciones.cl/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
----
-
 ### Pronósticos Plebiscito 2020
 
 La siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la Tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min.) y suma (max.) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
@@ -46,6 +30,20 @@ En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor de 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >
 </div>
+
+---
+
+### Resultados Plebiscito 2020
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="http://www.servelelecciones.cl/" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
+
+<iframe width="560" height="315" src="http://www.servelelecciones.cl/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 

@@ -8,7 +8,7 @@ author_profile: true
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. Abajo puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
 
-<div align="center"><a href="https://tresquintos.cl/convencionales/"><img width="50" src="https://tresquintos.cl/images/lista_convencionales.png"><div align="center"><a href="https://tresquintos.cl/encuestas/"><img width="50" src="https://tresquintos.cl/images/lista_encuestas.png">
+<div align="center"><a href="https://tresquintos.cl/convencionales/"><img width="100" src="https://tresquintos.cl/images/lista_convencionales.png"><div align="center"><a href="https://tresquintos.cl/encuestas/"><img width="100" src="https://tresquintos.cl/images/lista_encuestas.png">
 
 ---
 ## Pronósticos Plebiscito Nacional de 2020 🇨🇱

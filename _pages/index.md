@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tresquintos: Pronósticos y Resultados"
+title: "Tresquintos: Pronósticos y Resultados para el Plebiscito Nacional 2020"
 permalink: /
 author_profile: true
 ---

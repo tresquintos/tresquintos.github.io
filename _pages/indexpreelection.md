@@ -1,7 +1,7 @@
 ---
 permalink: /indexpreelection/
 layout: single
-title: "Tresquintos: Pronósticos y Resultados Plebiscito Nacional 2020"
+title: "Tresquintos: Pronósticos y Resultados"
 excerpt: "Plebiscito Nacional de 2020"
 author_profile: true
 ---

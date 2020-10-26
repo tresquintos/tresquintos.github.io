@@ -1,45 +1,47 @@
 ---
 layout: single
-title: "Tresquintos: Pronósticos y Resultados Plebiscito 2020"
+title: "¡Bienvenidos a Tresquintos!"
 permalink: /
 author_profile: true
 ---
 
-En esta página puedes ver la tendencia en la intención de voto para las dos preguntas del plebiscito. Muestra la tendencia para cada una de las cuatro opciones (Apruebo/Rechazo; Convención Constitucional/Convención Mixta). La tendencia para cada alternativa está dividida en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada alternativa a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
+En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones con una simulación o un pronóstico [aquí](https://tresquintos.cl/elecciones/).
 
----
-### Primera Pregunta: ¿Quiere usted una nueva Constitución?
+![1](/images/tsm/card_2020-1_Apruebo.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="45%" width="45%"}
+![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
-![1](/images/tsm/card_2020-1_Apruebo.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="49%" width="49%"}
 
-<div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-1_top2.png" >
-</div>
 
-![Apruebo](/gifs/tsm/2020-1_experimental_1_forwards.gif){:height="49%" width="49%"} ![Rechazo](/gifs/tsm/2020-1_experimental_2_forwards.gif){:height="49%" width="49%"}
+### Mapa del sitio
 
-![Aprueba](/images/tsm/kd_2020-1_Apruebo.png){:height="49%" width="49%"} ![Rechaza](/images/tsm/kd_2020-1_Rechazo.png){:height="49%" width="49%"}
+Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
----
+### La elección del momento: el plebiscito nacional de Chile 2020
 
-[![Convencionales](/images/lista_convencionales.png){:height="49%" width="49%"}](https://tresquintos.cl/convencionales/) [![Encuestas](/images/lista_encuestas.png){:height="49%" width="49%"}](https://tresquintos.cl/encuestas/)
+Por ahora, estamos 100% enfocados en el [plebiscito nacional de Chile de 2020](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020), que se llevará a cabo el 25 de octubre. El plebiscito buscará determinar dos cosas: (1) si se reemplaza la actual Constitución, y (2) el mecanismo para hacerlo. Los dos gráficos de abajo muestran la tendencia para la primera pregunta: ***¿Quiere usted una nueva Constitución?***
 
----
-### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
+[![Aprueba](./images/tsm/ts_2020-1_Apruebo.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![Rechaza](./images/tsm/ts_2020-1_Rechazo.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
 
-![1](/images/tsm/card_2020-2_Convención%20Constitucional.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
+Para ver más gráficos y análisis sobre el plebiscito, pincha [aquí](http://tresquintos.cl/plebiscito2020). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/tsm/). Los dos gráficos que siguen muestran la tendencia para la segunda de las dos preguntas: ***¿Qué tipo de órgano debiera redactar la nueva Constitución?***
 
-<div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-2_top2.png" >
-</div>
+[![CC](/images/tsm/ts_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/) [![CM](/images/tsm/ts_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}](https://tresquintos.cl/plebiscito2020/)
 
-![CC](/gifs/tsm/2020-2_experimental_1_forwards.gif){:height="49%" width="49%"} ![CM](/gifs/tsm/2020-2_experimental_2_forwards.gif){:height="49%" width="49%"}
 
-![CC](/images/tsm/kd_2020-2_Convención%20Constitucional.png){:height="49%" width="49%"} ![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
+### Otros números: la elección de constituyentes de 2021
 
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+Considerando la alta probabilidad de un triunfo de la opción "Aprueba", también tenemos algunos números simulando la potencial composición de los orgános constituyentes. El gráfico de abajo muestra una potencial distribución de escaños en base a tendencias electorales de 1989-2017, la elección de diputados de 2017, y la fragmentación del sistema de partidos post 18 de octubre. Para ver más gráficos y análisis sobre la elección de constituyentes, pincha [aquí](http://tresquintos.cl/constituyentes2021). Para conocer la metodología tras los gráficos, pincha [aquí](https://tresquintos.cl/sx/).
+
+[![Convención Constitucional](/images/constituyente2021/cc.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/) [![Convención Mixta](/images/constituyente2021/cm.png){:height="45%" width="45%"}](https://tresquintos.cl/constituyentes2021/)
+
+
+### Otros enlaces
+
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar directamente por [Discord](https://discord.gg/qPDkg67).
+
+
+<!-- Mailchimp -->
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>
 
 
 <!-- NES -->
@@ -53,6 +55,13 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 </p>
 <script src="/js/topsecret.js"></script>
 
+<script src="/js/cyberdelia.js"></script>
+
+<script type="text/javascript"> var msTag = {"site":"tnw","page":"home","cyberdelia_page_type":"home","data":{"sponsorName":false,"isSponsoredCategory":false}}</script>
+
+<script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
+
+
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -62,3 +71,20 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
+
+
+<!-- Finisce sempre così, con la morte.
+Prima però c’è stata la vita,
+nascosta sotto i bla, bla, bla, bla, bla.
+È tutto sedimentato sotto il chiacchiericcio e il rumore:
+il silenzio e il sentimento,
+l’emozione e la paura,
+gli sparuti incostanti sprazzi di bellezza
+e poi lo squallore disgraziato e l’uomo miserabile.
+Tutto sepolto nella coperta
+dell’imbarazzo dello stare al mondo:
+bla, bla, bla, bla.
+Altrove c’è l’Altrove,
+io non mi occupo dell’Altrove.
+Dunque che questo romanzo abbia inizio.
+In fondo è solo un trucco, si è solo un trucco. kb. -->

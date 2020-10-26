@@ -10,8 +10,6 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 ![1](/images/tsm/card_2020-1_Apruebo.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="45%" width="45%"}
 ![1](/images/tsm/card_2020-2_Convención%20Constituyente.png){:height="45%" width="45%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="45%" width="45%"}
 
-
-
 ### Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver tendencias para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la probable elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/), y si estás buscando información sobre la elección legislativa de Chile de 2021, puedes pinchar [aquí](https://tresquintos.cl/legislativa2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).

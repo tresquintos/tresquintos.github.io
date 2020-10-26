@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Tresquintos: Pronósticos y Resultados Plebiscito 2020"
-permalink: /
+title: "Tendencias: Presidenciales 2021"
+permalink: /what/
 author_profile: true
 ---
 

@@ -23,6 +23,10 @@ En esta página puedes ver la tendencia en la intención de voto para las dos pr
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 ---
+
+[![Convencionales](/images/lista_convencionales.png){:height="49%" width="49%"}](https://tresquintos.cl/convencionales/) [![Encuestas](/images/lista_encuestas.png){:height="49%" width="49%"}](https://tresquintos.cl/encuestas/)
+
+---
 ### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
 
 ![1](/images/tsm/card_2020-2_Convención%20Constitucional.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}

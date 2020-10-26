@@ -5,58 +5,37 @@ permalink: /
 author_profile: true
 ---
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, sabes que estamos siguiendo el Plebiscito Nacional de 2020. **Abajo** puedes consultar los pronósticos para la elección y podrás conocer los resultados en tiempo real una vez que comiencen a escrutarse los votos.
-
-[![Convencionales](/images/lista_convencionales.png){:height="49%" width="49%"}](https://tresquintos.cl/convencionales/) [![Encuestas](/images/lista_encuestas.png){:height="49%" width="49%"}](https://tresquintos.cl/encuestas/)
+En esta página puedes ver la tendencia en la intención de voto para las dos preguntas del plebiscito. Muestra la tendencia para cada una de las cuatro opciones (Apruebo/Rechazo; Convención Constitucional/Convención Mixta). La tendencia para cada alternativa está dividida en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada alternativa a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 ---
+### Primera Pregunta: ¿Quiere usted una nueva Constitución?
 
-### Pronósticos: Plebiscito Nacional de 2020 🇨🇱
-
-Las siguientes tablas muestran algunos pronósticos para el Plebiscito Nacional de 2020. Primero, muestran la última encuesta de cada encuestadora que realizó su trabajo de campo dentro del periodo de campaña (60 días antes de la elección) y publicó sus resultados en medios de comunicación (15 días antes de la elección). Los números reflejan sus pronósticos sobre preferencias válidas. En el caso de haber preguntado por votante probable, la tabla muestra ese resultado. Si las encuestas declararon un margen de error, ese margen se resta (min) y suma (max) de cada pronóstico para generar el intervalo de posibles resultados. Aquí esta la [lista completa de encuestas](https://tresquintos.cl/tsm/). Luego, muestran algunos cómputos que se pueden producir usando esas encuestas. Primero, muestran una regresión local, o [Lowess](https://www.stata.com/manuals13/rlowess.pdf) y después una regresión polinomial, o [Lpoly](https://www.stata.com/manuals/rlpoly.pdf), con su desviación estándar como margen de error. Luego muestra el [TSM Full](https://tresquintos.cl/tsm/) Full (que incluye todas las encuestas que se hicieron en los 365 días que precedieron la elección) y el [TSM 2.0](https://tresquintos.cl/tsm/) que elimina de los cómputos las encuestas que se desviaron significativamente de las demás.
-
----
-
-### Primera pregunta: ¿Quiere usted una Nueva Constitución?
-
-En cuanto a la primera pregunta, las encuestas sugieren un resultado a favor del **Apruebo**. De 7 encuestas, 5 producen resultados iguales o mayores a 79%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo 60%. El pronóstico más alto es el de CIIR, que sugiere que el resultado estaría en torno al 86%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 53%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 69.0% y 85.4%. Si se consideran todas las encuestas, el resultado estimado varía entre 69.9% y 82.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 75.2% y 85.4%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 67.3%.
+![1](/images/tsm/card_2020-1_Apruebo.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-1_Rechazo.png){:height="49%" width="49%"}
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/primera_pregunta.png" >
+<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-1_top2.png" >
 </div>
 
+![Apruebo](/gifs/tsm/2020-1_experimental_1_forwards.gif){:height="49%" width="49%"} ![Rechazo](/gifs/tsm/2020-1_experimental_2_forwards.gif){:height="49%" width="49%"}
+
+![Aprueba](/images/tsm/kd_2020-1_Apruebo.png){:height="49%" width="49%"} ![Rechaza](/images/tsm/kd_2020-1_Rechazo.png){:height="49%" width="49%"}
+
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+
 ---
+### Segunda Pregunta: ¿Qué tipo de órgano debiera redactar la nueva Constitución?
 
-### Segunda pregunta: ¿Qué tipo de órgano debiera redactar la Nueva Constitución?
-
-En cuanto a la segunda pregunta, las encuestas sugieren un resultado a favor de la **Convención Constitucional**. De 7 encuestas, 5 producen resultados iguales o mayores a 66%. Solo 2 encuestas (Numen y StatKnows) producen resultados bajo ese porcentaje. El pronóstico más alto es el de Activa Research, que sugiere que el resultado estaría en torno al 78%, mientras que el pronóstico más bajo es el de Numen, que sugiere que el resultado estaría en torno al 52%. Los **cómputos de Tresquintos** varían según el método usado, pero se mueven entre 57.6% y 70.5%. Si se consideran todas las encuestas, el resultado estimado varía entre 57.6% y 68.9%, y si se eliminan encuestas *outliers*, el resultado varía entre 59.4% y 70.5%. Las apuestas de [redes sociales](https://www.twitter.com/tresquintos) promedian 65.6%.
+![1](/images/tsm/card_2020-2_Convención%20Constitucional.png){:height="49%" width="49%"}![2](/images/tsm/card_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/segunda_pregunta.png" >
+<img width="600" src="https://tresquintos.cl/images/tsm/comp_2020-2_top2.png" >
 </div>
 
----
+![CC](/gifs/tsm/2020-2_experimental_1_forwards.gif){:height="49%" width="49%"} ![CM](/gifs/tsm/2020-2_experimental_2_forwards.gif){:height="49%" width="49%"}
 
-### Resultados: ¡EN VIVO! del Plebiscito Nacional de 2020 🇨🇱
+![CC](/images/tsm/kd_2020-2_Convención%20Constitucional.png){:height="49%" width="49%"} ![CM](/images/tsm/kd_2020-2_Convención%20Mixta.png){:height="49%" width="49%"}
 
-El 25 de octubre podrás encontrar **aquí abajo** un enlace directo al conteo en tiempo real de los votos. Puedes intercambiar entre la primera y la segunda pregunta para ver los resultados de cada elección a medida que se vayan escrutando las mesas.
-
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="http://www.servelelecciones.cl/" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
-
----
-
-### Otros enlaces
-
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, puedes contactar directamente por [Discord](https://discord.gg/qPDkg67).
-
-
-<!-- Mailchimp -->
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 
 <!-- NES -->
@@ -70,13 +49,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 </p>
 <script src="/js/topsecret.js"></script>
 
-<script src="/js/cyberdelia.js"></script>
-
-<script type="text/javascript"> var msTag = {"site":"tnw","page":"home","cyberdelia_page_type":"home","data":{"sponsorName":false,"isSponsoredCategory":false}}</script>
-
-<script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
-
-
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -86,20 +58,3 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
-
-
-<!-- Finisce sempre così, con la morte.
-Prima però c’è stata la vita,
-nascosta sotto i bla, bla, bla, bla, bla.
-È tutto sedimentato sotto il chiacchiericcio e il rumore:
-il silenzio e il sentimento,
-l’emozione e la paura,
-gli sparuti incostanti sprazzi di bellezza
-e poi lo squallore disgraziato e l’uomo miserabile.
-Tutto sepolto nella coperta
-dell’imbarazzo dello stare al mondo:
-bla, bla, bla, bla.
-Altrove c’è l’Altrove,
-io non mi occupo dell’Altrove.
-Dunque che questo romanzo abbia inizio.
-In fondo è solo un trucco, si è solo un trucco. kb. -->

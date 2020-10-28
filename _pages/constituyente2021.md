@@ -18,7 +18,7 @@ El primer paso es suponer que ciertos partidos o movimientos van a formar cierta
 
 ### Convención Constituyente
 
-El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Constituyente. En este caso, se elige la totalidad de los representantes en una elección. Considerando que el quórum importante para alcanzar acuerdos es 2/3, el número de constituyentes necesarios para pasar una inciativa es **103** (+1). A su vez, el quórum para bloquear una iniciativa es el inverso, es decir 1/3, o bien **52** (+1) constituyentes.
+El gráfico de abajo muestra la distribución de escaños en el caso de una Convención Constituyente. En este caso, se elige la totalidad de los representantes en una elección. Considerando que el quórum importante para alcanzar acuerdos es 2/3, el número de constituyentes necesarios para pasar una iniciativa es **104** (+1). A su vez, el quórum para bloquear una iniciativa es el inverso, es decir 1/3, o bien **52** (+1) constituyentes.
 
 ![cc](/images/constituyente2021/cc.png){:height="90%" width="90%"}
 

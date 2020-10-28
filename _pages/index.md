@@ -19,7 +19,7 @@ También tenemos **listas de candidatos**. Los nombres los actualizamos constant
 ---
 ### Snapshot: Presidenciales 2021
 
-Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública, desde marzo de 2018 a la fecha. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). Para otras dudas, revisa [esto](https://tresquintos.cl/faq/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
+Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >

@@ -10,9 +10,6 @@ main:
   - title: "🇨🇱Constituyentes 2021"
     url: /constituyentes2021/
 
-  - title: "Candidatos 2021"
-    url: /convencionales/
-
   - title: "📈Encuestas"
     url: /encuestas/
 
@@ -22,8 +19,14 @@ main:
   - title: "👾Sx"
     url: /sx/
 
-  - title: "🚦Endosos"
-    url: /endosos/
+  - title: "🗳️Prez 2021"
+    url: /pres2021/
+
+  - title: "🗳️Gores 2021"
+    url: /gores2021/
+
+  - title: "🗳️Convencionales 2021"
+    url: /convencionales2021/
 
   - title: "🗺️Mapas"
     url: /mapa/

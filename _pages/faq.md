@@ -67,10 +67,10 @@ Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes 
 
 [![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://tresquintos.cl/donaciones)
 
+
 ### ¿Cómo me puedo suscribir?
 
 Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualize la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).
-
 
 [![MailChimp](/images/mailchimp.png){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
 
@@ -83,7 +83,22 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 
 <!-- NES -->
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+<p class="aligncenter">
+    <img src="/images/nes.png" width="30" height="30" alt="konami" />
+</p>
 <script src="/js/topsecret.js"></script>
+
+<script src="/js/cyberdelia.js"></script>
+
+<script type="text/javascript"> var msTag = {"site":"tnw","page":"home","cyberdelia_page_type":"home","data":{"sponsorName":false,"isSponsoredCategory":false}}</script>
+
+<script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
+
 
 
 <!-- Favicon -->
@@ -94,3 +109,20 @@ Es un misterio solo resuelto por las mentes más curiosas.
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
+
+
+<!-- Finisce sempre così, con la morte.
+Prima però c’è stata la vita,
+nascosta sotto i bla, bla, bla, bla, bla.
+È tutto sedimentato sotto il chiacchiericcio e il rumore:
+il silenzio e il sentimento,
+l’emozione e la paura,
+gli sparuti incostanti sprazzi di bellezza
+e poi lo squallore disgraziato e l’uomo miserabile.
+Tutto sepolto nella coperta
+dell’imbarazzo dello stare al mondo:
+bla, bla, bla, bla.
+Altrove c’è l’Altrove,
+io non mi occupo dell’Altrove.
+Dunque che questo romanzo abbia inizio.
+In fondo è solo un trucco, si è solo un trucco. kb. -->

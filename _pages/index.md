@@ -14,10 +14,10 @@ Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [
 
 Si estás buscando información sobre la elección de gobernadores regionales de 2021, la puedes encontrar [aquí](https://tresquintos.cl/gobernadores2021/), y si estás buscando datos sobre la elección presidencial de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
-También tenemos listas de candidatos. Si quieres ver la lista completa de potenciales candidatos presidenciales, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista completa de potenciales candidatos a gobernador regional, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
+También tenemos listas de candidatos. Los nombres los actualizamos constantemente. Se recopilan principalmente en base a extensivas revisiones de prensa y comunicación con partes interesadas. Si quieres ver la lista completa de potenciales candidatos presidenciales, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista completa de potenciales candidatos a gobernador regional, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista completa de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
 
 ---
-### Otros números: Presidenciales 2021
+### Snapshot: Presidenciales 2021
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública, desde marzo de 2018 a la fecha. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 

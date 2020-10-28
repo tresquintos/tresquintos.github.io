@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Lista de Convencionales 2021"
-permalink: /econvencionales2021/
+permalink: /convencionales2021/
 author_profile: true
 ---
 

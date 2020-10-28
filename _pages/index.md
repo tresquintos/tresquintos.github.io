@@ -14,6 +14,8 @@ Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [
 
 Si estás buscando información sobre la elección de gobernadores regionales de 2021, la puedes encontrar [aquí](https://tresquintos.cl/gobernadores2021/), y si estás buscando datos sobre la elección presidencial de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
+También tenemos listas de candidatos. Si quieres ver la lista completa de potenciales candidatos presidenciales, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista completa de potenciales candidatos a gobernador regional, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
+
 ---
 ### Otros números: Presidenciales 2021
 

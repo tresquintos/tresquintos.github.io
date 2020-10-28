@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lista de Convencionales 2021"
+title: "Lista de Candidatos: Gobernador Regional 2021"
 permalink: /gores2021/
 author_profile: true
 ---

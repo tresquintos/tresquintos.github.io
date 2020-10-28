@@ -4,20 +4,17 @@ main:
   - title: "🗳️Elecciones"
     url: /elecciones/
 
-  - title: "🇨🇱Plebiscito 2020"
-    url: /plebiscito2020/
-
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
 
+  - title: "🇨🇱Constituyentes 2021"
+    url: /constituyentes2021/
+
+  - title: "Candidatos 2021"
+    url: /convencionales/
+
   - title: "📈Encuestas"
     url: /encuestas/
-
-  - title: "💰Financiamiento"
-    url: /financiamiento/
-
-  - title: "🚦Endosos"
-    url: /endosos/
 
   - title: "🤖TSM"
     url: /tsm/
@@ -25,8 +22,8 @@ main:
   - title: "👾Sx"
     url: /sx/
 
-  - title: "🇨🇱Constituyentes 2021"
-    url: /constituyentes2021/
+  - title: "🚦Endosos"
+    url: /endosos/
 
   - title: "🗺️Mapas"
     url: /mapa/
@@ -36,9 +33,6 @@ main:
 
   - title: "🎱Fichajes"
     url: /fichajes/
-    
-  - title: "🔮Apuestas 2020"
-    url: /apuestas/
 
   - title: "💾Datos"
     url: /datos/

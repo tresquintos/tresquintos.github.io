@@ -14,13 +14,15 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si estás buscando algo específico, puedes ver nuestros pronósticos para el plebiscito nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), y una simulación para la elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/). Si estás buscando la elección presidencial de gobernadores de 2021, la puedes encontrar [aquí](https://tresquintos.cl/gobernadores2021/), y si estás buscando la elección presidencial de Chile de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/). Para revisar el blog, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la documentación que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la documentación que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
 
-### Otros números: la elección de constituyentes de 2021
+### Otros números: presidenciales 2021
 
 Abajo puedes ver nuestro un ***snapshot*** de nuestro monitoreo a la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública, desde marzo de 2018 a la fecha. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >
 </div>
+
+![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
 
 
 ### Otros enlaces

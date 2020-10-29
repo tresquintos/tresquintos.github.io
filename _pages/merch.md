@@ -11,7 +11,7 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
-Pack de 10 stickers: **$5.000**
+Pack de 10 stickers (5 logo + 5 pc): **$5.000**
 
 ![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker5.jpg){:height="49%" width="49%"}
 
@@ -19,7 +19,7 @@ Pack de 10 stickers: **$5.000**
 ---
 ### Poleras
 
-Cada Polera: **$20.000**
+Cada Polera (mix and match): **$20.000**
 
 ![1](/images/brand/merch/merch_polera1.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera3.png){:height="49%" width="49%"}
 

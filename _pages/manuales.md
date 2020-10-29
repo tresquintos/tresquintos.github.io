@@ -17,11 +17,7 @@ En esta página puedes descargar los manuales que usamos para analizar eleccione
 ---
 ### 2020
 
-![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
-
-![Daniel Jadue](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
-
-
+![1](/images/manual_2020_1.png){:height="32%" width="32%"} ![1](/images/manual_2020_2.png){:height="32%" width="32%"} ![1](/images/manual_2020_3.png){:height="32%" width="32%"}
 
 
 <!-- NES -->

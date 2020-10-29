@@ -11,15 +11,15 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
-![1](/images/brand/merch/merch_pc1.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc2.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc3.png){:height="32%" width="32%"}
+![1](/images/brand/merch/merch_pc1.jpeg){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc2.jpeg){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc3.jpeg){:height="32%" width="32%"}
 
 
 ---
 ### Poleras
 
-![1](/images/brand/merch/merch_sticker1.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker2.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker3.png){:height="32%" width="32%"}
+![1](/images/brand/merch/merch_sticker1.jpg){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker2.jpg){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker3.jpg){:height="32%" width="32%"}
 
-![1](/images/brand/merch/merch_sticker4.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker5.png){:height="32%" width="32%"}
+![1](/images/brand/merch/merch_sticker4.jpg){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker5.jpg){:height="32%" width="32%"}
 
 ---
 

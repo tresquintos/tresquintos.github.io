@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Manuales"
+title: "Manuales Tresquintos"
 permalink: /manuales/
 author_profile: true
 ---

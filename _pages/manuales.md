@@ -17,7 +17,7 @@ En esta página puedes descargar los manuales que usamos para analizar eleccione
 ---
 ### 2020
 
-![1](/images/manual_2020_1.png){:height="32%" width="32%"} ![1](/images/manual_2020_2.png){:height="32%" width="32%"} ![1](/images/manual_2020_3.png){:height="32%" width="32%"}
+[![1](/images/manual_2020_1.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0) [![1](/images/manual_2020_2.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0) [![1](/images/manual_2020_3.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0)
 
 
 <!-- NES -->

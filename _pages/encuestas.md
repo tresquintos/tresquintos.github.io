@@ -14,6 +14,9 @@ En esta página puedes ver la lista de todas las encuestas que estamos usando pa
 <iframe title="Encuestas: Elección Presidencial 2021" aria-label="chart" id="datawrapper-chart-C2yZk" src="https://datawrapper.dwcdn.net/C2yZk/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1819"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+
+---
+
 <!-- NES -->
 <script src="/js/topsecret.js"></script>
 

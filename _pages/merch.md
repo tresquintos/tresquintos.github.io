@@ -21,9 +21,9 @@ Pack de 10 stickers: **$5.000**
 
 Cada Polera: **$20.000**
 
-![1](/images/brand/merch/merch_polera1.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.png){:height="49%" width="49%"}
+![1](/images/brand/merch/merch_polera1.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera3.png){:height="49%" width="49%"}
 
-
+![1](/images/brand/merch/merch_polera4.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera5.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera6.png){:height="49%" width="49%"}
 ---
 
 <!-- NES -->

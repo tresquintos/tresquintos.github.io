@@ -11,6 +11,10 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
+Pack de 10 stickers
+
+           Modo PC                                    Modo Tradicional
+
 ![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker5.jpg){:height="49%" width="49%"}
 
 

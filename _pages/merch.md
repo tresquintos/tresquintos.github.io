@@ -11,15 +11,14 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
-**Stickers (5 pc + 5 logo)**
+Calcomanías (5 pc + 5 logo)
 
 ![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker6.png){:height="49%" width="49%"}
 
 
 ---
 ### T-Shirts
-
-**Poleras (mix and match)**
+Cada polera (mix and match)
 
 ![1](/images/brand/merch/merch_polera1.png){:height="32%" width="32%"} ![2](/images/brand/merch/merch_polera2.png){:height="32%" width="32%"} ![3](/images/brand/merch/merch_polera3.png){:height="32%" width="32%"}
 

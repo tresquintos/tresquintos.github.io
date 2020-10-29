@@ -17,7 +17,7 @@ Pack de 10 stickers (5 pc + 5 logo): **$5.000**
 
 
 ---
-### Poleras
+### T-Shirts
 
 Cada Polera (mix and match): **$20.000**
 

@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Merch Tresquintos"
+title: "Merchandise"
 permalink: /merch/
 author_profile: true
 ---
 
-En esta página puedes seleccionar algunos productos para comprar.
+En esta página puedes seleccionar algunos productos para comprar. Si tienes preguntas o ya sabes lo que quieres, mándanos un mensaje directo pinchando [aquí](https://twitter.com/tresquintos).
 
 
 ---

@@ -17,6 +17,7 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Poleras
 
+![1](/images/brand/merch/merch_polera1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.jpg){:height="49%" width="49%"}
 
 
 ---

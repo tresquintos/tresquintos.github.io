@@ -21,7 +21,7 @@ Pack de 10 stickers
 ---
 ### Poleras
 
-![1](/images/brand/merch/merch_polera1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.jpg){:height="49%" width="49%"}
+![1](/images/brand/merch/merch_polera1.png){:height="49%" width="49%"} ![1](/images/brand/merch/merch_polera2.png){:height="49%" width="49%"}
 
 
 ---

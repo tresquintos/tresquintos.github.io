@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Manuales Tresquintos"
+title: "Merch Tresquintos"
 permalink: /merch/
 author_profile: true
 ---
@@ -9,16 +9,19 @@ En esta página puedes seleccionar algunos productos para comprar.
 
 
 ---
-### 2017
+### Stickers
 
-![1](/images/brand/merch/merch_pc1.png){:height="32%" width="32%"}] ![1](/images/brand/merch/merch_pc2.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc3.png){:height="32%" width="32%"}
+![1](/images/brand/merch/merch_pc1.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc2.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_pc3.png){:height="32%" width="32%"}
 
 
 ---
-### 2020
+### Poleras
 
-[![1](/images/manual_2020_1.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0) [![1](/images/manual_2020_2.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0) [![1](/images/manual_2020_3.png){:height="32%" width="32%"}](https://www.dropbox.com/s/l3ghs8rlu1pmjsz/v.%202020.pdf?dl=0)
+![1](/images/brand/merch/merch_sticker1.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker2.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker3.png){:height="32%" width="32%"}
 
+![1](/images/brand/merch/merch_sticker4.png){:height="32%" width="32%"} ![1](/images/brand/merch/merch_sticker5.png){:height="32%" width="32%"}
+
+---
 
 <!-- NES -->
 <style>

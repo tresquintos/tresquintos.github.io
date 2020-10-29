@@ -8,17 +8,16 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones [aquí](https://tresquintos.cl/elecciones/).
 
 ---
-### ![ep](/images/pc.png){:height="2%" width="2%"} Mapa del sitio
+### ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales. Si quieres ver lo que viene, puedes ver una simulación para la elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/).
 
 Si estás buscando información sobre la elección de gobernadores regionales de 2021, la puedes encontrar [aquí](https://tresquintos.cl/gobernadores2021/), y si estás buscando datos sobre la elección presidencial de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/). Para revisar el **blog**, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la **documentación** que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la **documentación** que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
 
-
 También tenemos **listas de candidatos**. Los nombres los actualizamos constantemente. Se recopilan principalmente en base a extensivas revisiones de prensa y comunicación con partes interesadas. Si quieres ver la lista completa de potenciales **candidatos presidenciales**, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista de potenciales **candidatos a gobernador regional**, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/convencionales2021/).
 
 ---
-### ![ep](/images/pc.png){:height="2%" width="2%"} Snapshot: Presidenciales 2021
+### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
@@ -29,7 +28,7 @@ Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En tota
 ![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="2%" width="2%"} Otros enlaces
+### ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67).
 

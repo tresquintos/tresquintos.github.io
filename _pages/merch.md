@@ -11,7 +11,7 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
-![1](/images/brand/merch/merch_pc1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker5.jpg){:height="49%" width="49%"}
+![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker5.jpg){:height="49%" width="49%"}
 
 
 ---

@@ -11,7 +11,7 @@ En esta página puedes seleccionar algunos productos para comprar.
 ---
 ### Stickers
 
-Pack de 10 stickers (5 logo + 5 pc): **$5.000**
+Pack de 10 stickers (5 pc + 5 logo): **$5.000**
 
 ![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker6.png){:height="49%" width="49%"}
 

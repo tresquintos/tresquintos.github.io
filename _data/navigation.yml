@@ -46,6 +46,9 @@ main:
   - title: "🔖Blog"
     url: /year-archive/
 
+  - title: "⛳Merch"
+    url: /merch/
+
   - title: "💎Donaciones"
     url: /donaciones/
 

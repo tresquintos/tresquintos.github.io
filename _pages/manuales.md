@@ -11,7 +11,7 @@ En esta página puedes descargar los manuales que usamos para analizar eleccione
 ---
 ### 2017
 
-[![1](/images/manual_2017_1.png){:height="32%" width="32%"}](https://www.dropbox.com/s/tyq65zvoy0zyv9d/v.%202017.pdf?dl=0) ![1](/images/manual_2017_2.png){:height="32%" width="32%"} ![1](/images/manual_2017_3.png){:height="32%" width="32%"}
+[![1](/images/manual_2017_1.png){:height="32%" width="32%"}](https://www.dropbox.com/s/tyq65zvoy0zyv9d/v.%202017.pdf?dl=0) [![1](/images/manual_2017_2.png){:height="32%" width="32%"}](https://www.dropbox.com/s/tyq65zvoy0zyv9d/v.%202017.pdf?dl=0) [![1](/images/manual_2017_3.png){:height="32%" width="32%"}](https://www.dropbox.com/s/tyq65zvoy0zyv9d/v.%202017.pdf?dl=0)
 
 
 ---

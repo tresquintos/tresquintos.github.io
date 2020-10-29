@@ -11,7 +11,7 @@ En esta página puedes descargar los manuales que usamos para analizar eleccione
 ---
 ### 2017
 
-![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"}
+![1](/images/manual_2017_1.png){:height="32%" width="32%"} ![1](/images/manual_2017_2.png){:height="32%" width="432%"} ![1](/images/manual_2017_3.png){:height="32%" width="32%"}
 
 
 ---

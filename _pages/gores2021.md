@@ -8,10 +8,12 @@ author_profile: true
 
 En esta página puedes ver una lista de potenciales candidatos a Gobernador Regional. La elección se llevará a cabo el próximo 11 de abril de 2021. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. Ninguno de los candidatos está oficialmente registrado en el Servicio Electoral, por lo cual la lista no es oficial y, por ahora, es solo especulativa. La tabla incluye la región, el nombre del candidato, la lista que lo endosaría y el partido político que lo inscribiría.
 
+---
 
-<iframe title="Constituyentes 2021" aria-label="chart" id="datawrapper-chart-xa6DP" src="https://datawrapper.dwcdn.net/1TAIJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1374"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Lista de Candidatos: Gobernadores Regionales 2021" aria-label="chart" id="datawrapper-chart-1TAIJ" src="https://datawrapper.dwcdn.net/1TAIJ/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3627"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+---
 
 <!-- NES -->
 <style>
@@ -22,7 +24,6 @@ En esta página puedes ver una lista de potenciales candidatos a Gobernador Regi
 <p class="aligncenter">
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
-
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

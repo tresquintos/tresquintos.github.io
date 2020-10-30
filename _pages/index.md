@@ -32,11 +32,8 @@ Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En tota
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
 
-
-<!-- Mailchimp -->
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>
-
 ---
+
 <!-- NES -->
 <style>
 .aligncenter {
@@ -55,6 +52,8 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
 
 
+<!-- Mailchimp -->
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"3a6f5773bbbc78ea5a0003f67","lid":"8c164eff0f","uniqueMethods":true}) })</script>
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

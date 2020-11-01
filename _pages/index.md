@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "¡Bienvenidos a Tresquintos!"
 permalink: /
 author_profile: true

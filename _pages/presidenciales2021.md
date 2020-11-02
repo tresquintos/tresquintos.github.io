@@ -2,7 +2,7 @@
 layout: single
 title: "Tendencias: Presidenciales 2021"
 permalink: /presidenciales2021/
-author_profile: true 
+author_profile: true
 ---
 
 En esta página puedes ver la tendencia en la intención de voto para los principales candidatos de las presidenciales. Muestra la tendencia para los candidatos con más preferencias en las encuestas. La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/). La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
@@ -14,81 +14,81 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 </div>
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Joaquín Lavín
+### ![1](/images/pc.png){:height="3%" width="3%"} Joaquín Lavín
 
 ![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"} ![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"}
 
 ![Joaquín Lavín](/gifs/tsm/2021_tsgif_1_clip.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Daniel Jadue
+### ![2](/images/pc.png){:height="3%" width="3%"} Daniel Jadue
 
 ![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
 
 ![Daniel Jadue](/gifs/tsm/2021_tsgif_2_clip.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} José Antonio Kast
+### ![3](/images/pc.png){:height="3%" width="3%"} José Antonio Kast
 
 ![3](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"} ![3](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"}
 
 ![José Antonio Kast](/gifs/tsm/2021_tsgif_3_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Beatriz Sánchez
-
-![4](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![4](/gifs/tsm/2021_experimental_4_forwards.gif){:height="49%" width="49%"}
-
-![Beatriz Sánchez](/gifs/tsm/2021_tsgif_4_clip.gif){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Franco Parisi
+### ![4](/images/pc.png){:height="3%" width="3%"} Franco Parisi
 
 ![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/gifs/tsm/2021_experimental_5_forwards.gif){:height="49%" width="49%"}
 
 ![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
+### ![5](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
 
 ![12](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![12](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"}
 
 ![Evelyn Matthei](/gifs/tsm/2021_tsgif_12_clip.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Michelle Bachelet
+### ![6](/images/pc.png){:height="3%" width="3%"} Beatriz Sánchez
+
+![4](/images/tsm/card_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"} ![4](/gifs/tsm/2021_experimental_4_forwards.gif){:height="49%" width="49%"}
+
+![Beatriz Sánchez](/gifs/tsm/2021_tsgif_4_clip.gif){:height="49%" width="49%"} ![Beatriz Sánchez](/images/tsm/kd_2021_Beatriz%20Sánchez.png){:height="49%" width="49%"}
+
+---
+### ![7](/images/pc.png){:height="3%" width="3%"} Michelle Bachelet
 
 ![6](/images/tsm/card_2021_Michelle%20Bachelet.png){:height="49%" width="49%"} ![6](/gifs/tsm/2021_experimental_6_forwards.gif){:height="49%" width="49%"}
 
 ![Michelle Bachelet](/gifs/tsm/2021_tsgif_6_clip.gif){:height="49%" width="49%"} ![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
-
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
-
-![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
-
-![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
-
-![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Felipe Kast
+### ![8](/images/pc.png){:height="3%" width="3%"} Felipe Kast
 
 ![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
 
 ![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
+### ![9](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
 
 ![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
 
 ![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+
+---
+### ![10](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
+
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
+
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+
+---
+### ![10](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
+
+![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
+
+![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Heraldo Muñoz
@@ -156,6 +156,7 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ---
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
+---
 <!-- NES -->
 <style>
 .aligncenter {

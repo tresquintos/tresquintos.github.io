@@ -63,13 +63,6 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Michelle Bachelet](/gifs/tsm/2021_tsgif_6_clip.gif){:height="49%" width="49%"} ![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
 ---
-### ![8](/images/pc.png){:height="3%" width="3%"} Felipe Kast
-
-![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
-
-![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
-
----
 ### ![9](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
 
 ![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
@@ -84,11 +77,11 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ---
-### ![11](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
+### ![8](/images/pc.png){:height="3%" width="3%"} Felipe Kast
 
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
+![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
 
-![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### ![12](/images/pc.png){:height="3%" width="3%"} Francisco Vidal
@@ -96,6 +89,13 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_17_forwards.gif){:height="49%" width="49%"}
 
 ![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
+
+---
+### ![11](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
+
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
+
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
 ### ![13](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón

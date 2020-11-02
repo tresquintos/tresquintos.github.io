@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "¡Bienvenidos a Tresquintos!"
-permalink: /
+permalink: /landing
 author_profile: true
 feature_row:
   - image_path: /images/tsm/comp_2021_top2.png
@@ -28,6 +28,8 @@ En este sitio podrás encontrar análisis político y pronósticos electorales p
 
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
+
+{% include feature_row %}
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales. Si quieres ver lo que viene, puedes ver una simulación para la elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/).
 

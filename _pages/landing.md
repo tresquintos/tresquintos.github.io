@@ -4,26 +4,26 @@ title: "¡Bienvenidos a Tresquintos!"
 permalink: /landing/
 author_profile: true
 feature_row:
-  - image_path: /images/tsm/comp_2021_top2.png
+  - image_path: /assets/splash/feat1-1.jpg
     title: "Listas de candidatos"
     excerpt: "Convencionales"
     url: "https://tresquintos.cl/convencionales2021/"
     btn_label: "Vamos"
     btn_class: "btn--primary"
-  - image_path: /images/tsm/comp_2021_top2.png
+  - image_path: /assets/splash/feat1-2.jpg
     title: "Listas de candidatos"
     excerpt: "Presidenciales"
     url: "https://tresquintos.cl/pres2021/"
     btn_label: "Andiamo"
     btn_class: "btn--secondar"
-  - image_path: /images/tsm/comp_2021_top2.png
+  - image_path: /assets/splash/feat1-3.jpg
     title: "Listas de candidatos"
     excerpt: "Gobernadores"
     url: "https://tresquintos.cl/gores2021/"
     btn_label: "Click"
     btn_class: "btn--primary"
 feature_row_right:
-  - image_path: /images/tsm/comp_2021_top2.png
+  - image_path: /assets/splash/feat1-1.jpg
     title: "Placeholder 1"
     excerpt: "Right-aligned image with ``"
     url: "#test-link"

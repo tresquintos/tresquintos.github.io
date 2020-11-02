@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "¡Bienvenidos a Tresquintos!"
-permalink: /landing
+permalink: /landing/
 author_profile: true
 feature_row:
   - image_path: /images/tsm/comp_2021_top2.png

@@ -77,28 +77,28 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
 ---
-### ![10](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
-
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
-
-![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
-
----
-### ![10](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
-
-![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
-
-![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Heraldo Muñoz
+### ![10](/images/pc.png){:height="3%" width="3%"} Heraldo Muñoz
 
 ![8](/images/tsm/card_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"} ![8](/gifs/tsm/2021_experimental_8_forwards.gif){:height="49%" width="49%"}
 
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Marco Enríquez-Ominami
+### ![11](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
+
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
+
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+
+---
+### ![12](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
+
+![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
+
+![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
+
+---
+### ![13](/images/pc.png){:height="3%" width="3%"} Marco Enríquez-Ominami
 
 ![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
 

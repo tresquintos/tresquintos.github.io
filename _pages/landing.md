@@ -22,6 +22,13 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_right:
+  - image_path: /images/tsm/comp_2021_top2.png
+    title: "Placeholder 1"
+    excerpt: "Right-aligned image with ``"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones [aquí](https://tresquintos.cl/elecciones/).
@@ -41,6 +48,8 @@ También tenemos **listas de candidatos**. Los nombres los actualizamos constant
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
+
+{% include feature_row id="feature_row_right" type="right" %}
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >

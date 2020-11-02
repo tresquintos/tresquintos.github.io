@@ -5,22 +5,22 @@ permalink: /landing/
 author_profile: true
 feature_row:
   - image_path: /images/tsm/comp_2021_top2.png
-    title: "Placeholder 1"
-    excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Listas de candidatos"
+    excerpt: "Convencionales"
+    url: "https://tresquintos.cl/convencionales2021/"
+    btn_label: "Vamos"
     btn_class: "btn--primary"
   - image_path: /images/tsm/comp_2021_top2.png
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Listas de candidatos"
+    excerpt: "Presidenciales"
+    url: "https://tresquintos.cl/pres2021/"
+    btn_label: "Andiamo"
     btn_class: "btn--secondar"
   - image_path: /images/tsm/comp_2021_top2.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Listas de candidatos"
+    excerpt: "Gobernadores"
+    url: "https://tresquintos.cl/gores2021/"
+    btn_label: "Click"
     btn_class: "btn--primary"
 feature_row_right:
   - image_path: /images/tsm/comp_2021_top2.png

@@ -34,20 +34,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 ---
 
-<aside class="sidebar__right">
-	<nav class="toc">
-		<header>
-			<h4 class="nav__title">Featured Posts</h4>
-		</header>
-		<ul class="toc__menu">
-			<li><a href="/2017/01/foo/">Featured Post 1</a></li>
-			<li><a href="/2016/02/bar/">Featured Post 2</a></li>
-			<!-- ... -->
-		</ul>
-	</nav>
-</aside>
-
-
 <!-- NES -->
 <style>
 .aligncenter {

@@ -91,63 +91,63 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
-### ![12](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
-
-![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
-
-![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
-
----
-### ![13](/images/pc.png){:height="3%" width="3%"} Marco Enríquez-Ominami
-
-![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
-
-![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Francisco Vidal
+### ![12](/images/pc.png){:height="3%" width="3%"} Francisco Vidal
 
 ![17](/images/tsm/card_2021_Francisco%20Vidal.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_17_forwards.gif){:height="49%" width="49%"}
 
 ![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
+### ![13](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
+
+![11](/images/tsm/card_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"} ![11](/gifs/tsm/2021_experimental_11_forwards.gif){:height="49%" width="49%"}
+
+![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
+
+---
+### ![14](/images/pc.png){:height="3%" width="3%"} Marco Enríquez-Ominami
+
+![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
+
+![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
+
+---
+### ![15](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
 
 ![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
 
 ![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Alejandro Guillier
+### ![16](/images/pc.png){:height="3%" width="3%"} Alejandro Guillier
 
 ![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/gifs/tsm/2021_experimental_10_forwards.gif){:height="49%" width="49%"}
 
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Sebastián Sichel
+### ![17](/images/pc.png){:height="3%" width="3%"} Sebastián Sichel
 
 ![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_18_forwards.gif){:height="49%" width="49%"}
 
 ![Sebastián Sichel](/gifs/tsm/2021_tsgif_18_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Izkia Siches
+### ![18](/images/pc.png){:height="3%" width="3%"} Izkia Siches
 
 ![16](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_16_forwards.gif){:height="49%" width="49%"}
 
 ![Izkia Siches](/gifs/tsm/2021_tsgif_16_clip.gif){:height="49%" width="49%"} ![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Jorge Sharp
+### ![19](/images/pc.png){:height="3%" width="3%"} Jorge Sharp
 
 ![19](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_19_forwards.gif){:height="49%" width="49%"}
 
 ![Jorge Sharp](/gifs/tsm/2021_tsgif_19_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
 
 ---
-### ![ep](/images/pc.png){:height="3%" width="3%"} Mario Desbordes
+### ![20](/images/pc.png){:height="3%" width="3%"} Mario Desbordes
 
 ![20](/images/tsm/card_2021_Mario%20Desbordes.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_20_forwards.gif){:height="49%" width="49%"}
 

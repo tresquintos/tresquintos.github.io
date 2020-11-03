@@ -21,7 +21,7 @@ Pack de 10 stickers (5 pc + 5 logo)
 
 Tazones (versión con pc o logo)
 
-![1](/images/brand/merch/merch_mug1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_mug2.png){:height="49%" width="49%"}
+![1](/images/brand/merch/merch_mug1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_mug2.jpeg){:height="49%" width="49%"}
 
 
 ---

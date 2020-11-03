@@ -1,4 +1,4 @@
-﻿id,partido,partido_full,sigla,estado,constituido,tramite,formacion,economico,social,fecha_constitucion,lider,notas,lista,militates
+﻿id,partido,partido_full,sigla,estado,constituido,tramite,formacion,economico,social,fecha_constitucion,lider,notas,lista,militantes
 1,Partido Republicano,Partido Republicano,REP,Constituido,1,0,0,9,9.5,23-01-2020,Kast,,,15654
 2,Federación Regionalista Verde Social,Federación Regionalista Verde Social,FRVS,Constituido,1,0,0,4,4,25-04-2017,Sepúlveda,,Chile Digno,10173
 3,Evolución Política,Evolución Política,EVO,Constituido,1,0,0,7,5.5,13-04-2016,Larraín,,Chile Vamos,22203
@@ -21,11 +21,11 @@
 20,Izquierda Anticapitalista,Izquierda Anticapitalista de los Trabajadores,IAT,Constituido,1,0,0,2,8,13-04-2018,Brito,,,3111
 21,Partido Convergencia Social,Partido Convergencia Social,CS,Constituido,1,0,0,2.4,5.2,09-03-2020,Yeomans,,Frente Amplio,4002
 22,Partido Comunes,Partido Comunes,Comunes,Constituido,1,0,0,,,08-05-2018,Ramírez,,Frente Amplio,15141
+25,Partido Nueva Clase Media,Partido Nueva Clase Media,NCM,Constituido,1,0,0,3,4.5,16-04-2020,Salas,,,1736
+26,Partido Unión Patriótica,Partido Unión Patriótica,UP,Constituido,1,0,0,1,9.8,05-02-2020,Artés,,,8988
+27,Partido Nacional Ciudadano,Partido Nacional Ciudadano,PNC,Constituido,1,0,0,4,7,13-04-2020,Rubeska,,,2463
 23,Convergencia Nacional de Chile,Convergencia Nacional de Chile,CN,En Formación,0,0,1,5.5,9,,Tafireño,,,
 24,Partido Conservador Cristiano,Partido Conservador Cristiano,PCC,En Formación,0,0,1,7,10,,.,,,
-25,Partido Nueva Clase Media,Partido Nueva Clase Media,NCM,En Formación,1,0,1,3,4.5,16-04-2020,Salas,,,1736
-26,Partido Unión Patriótica,Partido Unión Patriótica,UP,En Formación,1,0,1,1,9.8,05-02-2020,Artés,,,8988
-27,Partido Nacional Ciudadano,Partido Nacional Ciudadano,PNC,En Formación,1,0,1,4,7,13-04-2020,Rubeska,,,2463
 28,Partido Alternativa Feminista,Partido Alternativa Feminista,PAF,En Formación,0,0,1,3.4,3.7,,Moreno,,,
 29,Mov. Independientes del Norte,Partido Movimiento Independientes del Norte,MIN,En Formación,0,0,1,,,,Carrasco,,,
 30,Partido Con Todos,Partido Con Todos,Todxs,En Formación,0,0,1,,,,Hamilton,,,

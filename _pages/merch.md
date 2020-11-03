@@ -11,15 +11,23 @@ En esta página puedes seleccionar algunos productos para comprar. Si tienes pre
 ---
 ### Stickers
 
-Pack de 10 stickers (5 pc + 5 logo): **$**
+Pack de 10 stickers (5 pc + 5 logo)
 
 ![1](/images/brand/merch/merch_pc3.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_sticker6.png){:height="49%" width="49%"}
 
 
 ---
+### Mugs
+
+Tazones (versión con pc o logo)
+
+![1](/images/brand/merch/merch_mug1.jpeg){:height="49%" width="49%"} ![1](/images/brand/merch/merch_mug2.png){:height="49%" width="49%"}
+
+
+---
 ### T-Shirts
 
-Cada polera (mix and match): **$**
+Cada polera (mix and match)
 
 ![1](/images/brand/merch/merch_polera1.png){:height="32%" width="32%"} ![2](/images/brand/merch/merch_polera2.png){:height="32%" width="32%"} ![3](/images/brand/merch/merch_polera3.png){:height="32%" width="32%"}
 

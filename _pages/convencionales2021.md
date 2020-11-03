@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver una lista de potenciales candidatos a la Convención Constituyente. La elección se llevará a cabo el próximo 11 de abril de 2021. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. Ninguno de los candidatos está oficialmente registrado en el Servicio Electoral, por lo cual la lista no es oficial y, por ahora, es solo especulativa. La tabla incluye el distrito, el nombre del candidato, la lista que lo endosaría y el partido político que lo inscribiría.
+En esta página puedes ver una lista de potenciales candidatos a la Convención Constituyente. La [elección](https://tresquintos.cl/elecciones/) se llevará a cabo el próximo 11 de abril de 2021. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. Ninguno de los candidatos está oficialmente registrado en el Servicio Electoral, por lo cual la lista no es oficial y, por ahora, es solo especulativa. La tabla incluye el distrito, el nombre del candidato, la lista que lo endosaría y el partido político que lo inscribiría. Si quieres ver una [simulación](https://tresquintos.cl/sx/) para la elección, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
 
 ---
 

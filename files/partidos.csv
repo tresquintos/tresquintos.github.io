@@ -12,7 +12,7 @@
 11,Ciudadanos,Ciudadanos,CIU,Constituido,1,0,0,5.3,4,09-07-2018,Gómez,,Unidad Constituyente,19470
 12,Partido Radical,Partido Radical,PR,Constituido,1,0,0,3.5,5.2,18-08-1994,Maldonado,,Unidad Constituyente,30432
 13,Partido Por la Democracia,Partido Por la Democracia,PPD,Constituido,1,0,0,4,4.6,09-05-1988,Quintana,,Unidad Constituyente,111566
-14,Partido Igualdad,Partido Igualdad,PI,Constituido,1,0,0,3,8,09-07-2018,González,,,18905
+14,Partido Igualdad,Partido Igualdad,PI,Constituido,1,0,0,3,8,09-07-2018,González,,Chile Digno,18905
 15,Partido Comunista,Partido Comunista,PC,Constituido,1,0,0,1,9.1,28-05-2010,Teillier,,Chile Digno,84453
 16,Unión Demócrata Independiente,Unión Demócrata Independiente,UDI,Constituido,1,0,0,8.3,8.6,03-05-1989,Van-Rysselberghe,,Chile Vamos,100548
 17,Partido Humanista,Partido Humanista,PH,Constituido,1,0,0,2,7,05-06-2014,Hirsch,,Chile Digno,19720
@@ -22,7 +22,7 @@
 21,Partido Convergencia Social,Partido Convergencia Social,CS,Constituido,1,0,0,2.4,5.2,09-03-2020,Yeomans,,Frente Amplio,4002
 22,Partido Comunes,Partido Comunes,Comunes,Constituido,1,0,0,,,08-05-2018,Ramírez,,Frente Amplio,15141
 25,Partido Nueva Clase Media,Partido Nueva Clase Media,NCM,Constituido,1,0,0,3,4.5,16-04-2020,Salas,,,1736
-26,Partido Unión Patriótica,Partido Unión Patriótica,UP,Constituido,1,0,0,1,9.8,05-02-2020,Artés,,,8988
+26,Partido Unión Patriótica,Partido Unión Patriótica,UPA,Constituido,1,0,0,1,9.8,05-02-2020,Artés,,,8988
 27,Partido Nacional Ciudadano,Partido Nacional Ciudadano,PNC,Constituido,1,0,0,4,7,13-04-2020,Rubeska,,,2463
 23,Convergencia Nacional de Chile,Convergencia Nacional de Chile,CN,En Formación,0,0,1,5.5,9,,Tafireño,,,
 24,Partido Conservador Cristiano,Partido Conservador Cristiano,PCC,En Formación,0,0,1,7,10,,.,,,

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "![ep](/images/pc.png){:height="3%" width="3%"} ¡Bienvenidos a Tresquintos!"
+title: "¡Bienvenidos a Tresquintos!"
 permalink: /
 author_profile: true
 ---

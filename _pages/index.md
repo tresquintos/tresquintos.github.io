@@ -22,6 +22,11 @@ Si estás buscando información sobre la elección de gobernadores regionales de
 
 También tenemos **listas de candidatos**. Los nombres los actualizamos constantemente. Se recopilan principalmente en base a extensivas revisiones de prensa y comunicación con partes interesadas. Si quieres ver la lista completa de potenciales **candidatos presidenciales**, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista de potenciales **candidatos a gobernador regional**, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/convencionales2021/).
 
+<div align="center">
+<img width="40" src="https://tresquintos.cl/gifs/flecha.gif.png" >
+</div>
+
+
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 

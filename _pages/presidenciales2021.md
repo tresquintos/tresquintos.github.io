@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 title: "Tendencias: Presidenciales 2021"
 permalink: /presidenciales2021/
 author_profile: true

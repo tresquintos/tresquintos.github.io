@@ -81,6 +81,7 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 [![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Iliad#Menis)
 
+---
 
 <!-- NES -->
 <style>

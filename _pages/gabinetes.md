@@ -75,7 +75,7 @@ El siguiente gráfico muestra la evolución en la edad promedio de los ministros
 
 ![cc](/images/gabinete/chile_gabinete_promedio_edad.png){:height="100%" width="100%"}
 
-
+---
 
 <!-- NES -->
 <style>

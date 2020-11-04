@@ -45,6 +45,8 @@ Los siguientes gráficos muestran el posicionamiento de candidatos presidenciale
 
 Los nombres de los candidatos y sus coordenadas [*x*,*y*] están en los archivos adjuntos. Si quieres replicar los gráficos, descarga los datos en formato CSV [aquí](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/mapa_posicionamiento_espacial.xls?raw=true).
 
+---
+
 <style>
 .aligncenter {
     text-align: center;

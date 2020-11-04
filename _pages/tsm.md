@@ -45,6 +45,7 @@ Para construir la serie de tiempo, supongamos ahora que tenemos diez encuestas. 
 
 Como nota final, el TSM es experimental. Es solo una aproximación "informada", y por ende inevitablemente conlleva error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.cl/posts/2020/03/caveat/). Para ver los detalles técnicos del **TSM**, pincha [aquí](https://www.researchgate.net/publication/339442677_A_two-stage_model_to_forecast_elections_in_new_democracies). Para ver un ejemplo de la aplicación para el caso chileno en 2013, pincha [aquí](https://www.researchgate.net/publication/339677130_Electoral_forecasting_and_public_opinion_tracking_in_Latin_America_An_application_to_Chile). Para ver un ejemplo de su aplicación para el caso italiano en tres elecciones (2008, 2013 y 2017), pincha [aquí](https://www.researchgate.net/publication/336312679_Forecasting_elections_in_Italy).
 
+---
 
 <!-- NES -->
 <style>

@@ -22,6 +22,7 @@ La elección de gobernadores de 2021 será realizada el 11 de abril de 2021, par
 
 La elección presidencial de 2021 Chile será realizada el 21 de noviembre de 2021, para elegir al presidente que estará en el poder para el período 2022-2026.  En el caso de que ninguno de los candidatos obtenga el 50% de los votos válidamente emitidos, En caso de ocurrir una segunda vuelta electoral, se procederá a una segunda vuelta entre las dos primeras mayorías el cuarto domingo siguiente al de la primera vuelta; en este caso, el 19 de diciembre de 2021. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021), puedes ver nuestra lista de candidatos [aquí](https://tresquintos.cl/pres2021/), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/presidenciales2021/).
 
+---
 
 <!-- NES -->
 <style>

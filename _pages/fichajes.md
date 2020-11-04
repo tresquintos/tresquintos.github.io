@@ -15,6 +15,7 @@ Los siguientes gráficos muestran la evolución de renuncias de senadores y dipu
 
 [![cc](/images/fichajes/chile_party_switchers.png){:height="46%" width="46%"}](https://tresquintos.cl/images/fichajes/chile_party_switchers.png) [![cc](/images/fichajes/chile_party_switchers2.png){:height="46%" width="46%"}](https://tresquintos.cl/images/fichajes/chile_party_switchers2.png)
 
+---
 
 <!-- NES -->
 <style>

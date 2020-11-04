@@ -5,7 +5,7 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración, pero también datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración y el porcentaje del total de días posible que estuvieron en su cargo. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
 
 ### Evolución en el número total de ministros, por gobierno

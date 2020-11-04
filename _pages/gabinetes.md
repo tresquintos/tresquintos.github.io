@@ -8,7 +8,7 @@ author_profile: true
 En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración, pero también datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
 
-### Evolución en el número total de ministros
+### Evolución en el número total de ministros, por gobierno
 
 El siguiente gráfico muestra la evolución en el número de ministros a través del tiempo. Las líneas son acumulativas. Es decir, comienzan con el número de ministros que son nombrados en el primer día de cada gobierno (11 de marzo), y van aumentado a medida que van saliendo viejos ministros y entrando nuevos ministros.
 
@@ -16,7 +16,7 @@ El siguiente gráfico muestra la evolución en el número de ministros a través
 ![cc](/images/gabinete/chile_gabinete_numero_total.png){:height="100%" width="100%"}
 
 
-### Porcentaje del gobierno en el poder
+### Porcentaje del gobierno en el poder, por cartera
 
 Los siguientes gráficos muestran el porcentaje del gobierno que estuvo (o ha estado hasta ahora) cada ministro en el poder.
 

@@ -20,23 +20,15 @@ El siguiente gráfico muestra la evolución en el número de ministros a través
 
 Los siguientes gráficos muestran el porcentaje del gobierno que estuvo (o ha estado hasta ahora) cada ministro en el poder.
 
-![cc](/images/gabinete/nombre/chile_nombre_Interior.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Interior.png){:height="49%" width="49%"} ![cc](/images/gabinete/nombre/chile_nombre_Hacienda.png){:height="49" width="49%"}
 
-![cc](/images/gabinete/nombre/chile_nombre_Hacienda.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Segpres.png){:height="49%" width="49%"} ![cc](/images/gabinete/nombre/chile_nombre_Segegob.png){:height="49%" width="49%"}
 
-![cc](/images/gabinete/nombre/chile_nombre_Segpres.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Defensa.png){:height="49%" width="49%"} ![cc](/images/gabinete/nombre/chile_nombre_Salud.png){:height="49%" width="49%"}
 
-![cc](/images/gabinete/nombre/chile_nombre_Segegob.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Educación.png){:height="49%" width="49%"} ![cc](/images/gabinete/nombre/chile_nombre_Trabajo.png){:height="49%" width="49%"}
 
-![cc](/images/gabinete/nombre/chile_nombre_Defensa.png){:height="31%" width="31%"}
-
-![cc](/images/gabinete/nombre/chile_nombre_Salud.png){:height="31%" width="31%"}
-
-![cc](/images/gabinete/nombre/chile_nombre_Educación.png){:height="31%" width="31%"}
-
-![cc](/images/gabinete/nombre/chile_nombre_Trabajo.png){:height="31%" width="31%"}
-
-![cc](/images/gabinete/nombre/chile_nombre_chile_nombre%20Relaciones Exteriores.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_chile_nombre_Relaciones%20Exteriores.png){:height="31%" width="31%"} ![cc](/images/gabinete/nombre/chile_nombre_chile_nombre_Agricultura.png){:height="31%" width="31%"}
 
 ### Evolución de mujeres en el gabinete
 

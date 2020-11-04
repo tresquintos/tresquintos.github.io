@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Merchandise"
+title: "Tienda"
 permalink: /merch/
 author_profile: true
 ---

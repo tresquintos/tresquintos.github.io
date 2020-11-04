@@ -16,6 +16,25 @@ El siguiente gráfico muestra la evolución en el número de ministros a través
 ![cc](/images/gabinete/chile_gabinete_numero_total.png){:height="100%" width="100%"}
 
 
+### Porcentaje del gobierno en el poder
+
+Los siguientes gráficos muestran el porcentaje del gobierno que estuvo (o ha estado hasta ahora) cada ministro en el poder.
+
+![cc](/images/gabinete/nombre/chile_nombre_Interior.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Hacienda.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Segpres.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Segegob.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Defensa.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Salud.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Educación.png){:height="31%" width="31%"}
+
+![cc](/images/gabinete/nombre/chile_nombre_Trabajo.png){:height="31%" width="31%"}
+
 ### Evolución de mujeres en el gabinete
 
 Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.

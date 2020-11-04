@@ -28,7 +28,7 @@ Los siguientes gráficos muestran el porcentaje del gobierno que estuvo (o ha es
 
 ![cc](/images/gabinete/nombre/chile_nombre_Educación.png){:height="49%" width="49%"} ![cc](/images/gabinete/nombre/chile_nombre_Trabajo.png){:height="49%" width="49%"}
 
-![cc](/images/gabinete/nombre/chile_nombre_chile_nombre_Relaciones%20Exteriores.png){:height="31%" width="31%"} ![cc](/images/gabinete/nombre/chile_nombre_chile_nombre_Agricultura.png){:height="31%" width="31%"}
+![cc](/images/gabinete/nombre/chile_nombre_Relaciones%20Exteriores.png){:height="31%" width="31%"} ![cc](/images/gabinete/nombre/chile_nombre_Agricultura.png){:height="31%" width="31%"}
 
 ### Evolución de mujeres en el gabinete
 

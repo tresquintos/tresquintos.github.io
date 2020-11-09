@@ -106,6 +106,13 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ---
+### ![16](/images/pc.png){:height="3%" width="3%"} Alejandro Guillier
+
+![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/gifs/tsm/2021_experimental_10_forwards.gif){:height="49%" width="49%"}
+
+![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
+
+---
 ### ![17](/images/pc.png){:height="3%" width="3%"} Sebastián Sichel
 
 ![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_18_forwards.gif){:height="49%" width="49%"}
@@ -118,13 +125,6 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
 
 ![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
-
----
-### ![16](/images/pc.png){:height="3%" width="3%"} Alejandro Guillier
-
-![10](/images/tsm/card_2021_Alejandro%20Guillier.png){:height="49%" width="49%"} ![10](/gifs/tsm/2021_experimental_10_forwards.gif){:height="49%" width="49%"}
-
-![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
 ### ![18](/images/pc.png){:height="3%" width="3%"} Izkia Siches

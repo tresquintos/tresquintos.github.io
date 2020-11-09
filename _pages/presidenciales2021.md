@@ -78,11 +78,11 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Heraldo Muñoz](/gifs/tsm/2021_tsgif_8_clip.gif){:height="49%" width="49%"} ![Heraldo Muñoz](/images/tsm/kd_2021_Heraldo%20Muñoz.png){:height="49%" width="49%"}
 
 ---
-### ![8](/images/pc.png){:height="3%" width="3%"} Felipe Kast
+### ![11](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
 
-![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
+![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
 
-![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
+![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
 
 ---
 ### ![12](/images/pc.png){:height="3%" width="3%"} Francisco Vidal
@@ -92,11 +92,11 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Francisco Vidal](/gifs/tsm/2021_tsgif_17_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Francisco%20Vidal.png){:height="49%" width="49%"}
 
 ---
-### ![11](/images/pc.png){:height="3%" width="3%"} Leonardo Farkas
+### ![8](/images/pc.png){:height="3%" width="3%"} Felipe Kast
 
-![7](/images/tsm/card_2021_Leonardo%20Farkas.png){:height="49%" width="49%"} ![7](/gifs/tsm/2021_experimental_7_forwards.gif){:height="49%" width="49%"}
+![9](/images/tsm/card_2021_Felipe%20Kast.png){:height="49%" width="49%"} ![9](/gifs/tsm/2021_experimental_9_forwards.gif){:height="49%" width="49%"}
 
-![Leonardo Farkas](/gifs/tsm/2021_tsgif_7_clip.gif){:height="49%" width="49%"} ![Leonardo Farkas](/images/tsm/kd_2021_Leonardo%20Farkas.png){:height="49%" width="49%"}
+![Felipe Kast](/gifs/tsm/2021_tsgif_9_clip.gif){:height="49%" width="49%"} ![Felipe Kast](/images/tsm/kd_2021_Felipe%20Kast.png){:height="49%" width="49%"}
 
 ---
 ### ![13](/images/pc.png){:height="3%" width="3%"} Manuel José Ossandón
@@ -106,18 +106,18 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Manuel José Ossandón](/gifs/tsm/2021_tsgif_11_clip.gif){:height="49%" width="49%"} ![Manuel José Ossandón](/images/tsm/kd_2021_Manuel%20José%20Ossandón.png){:height="49%" width="49%"}
 
 ---
+### ![17](/images/pc.png){:height="3%" width="3%"} Sebastián Sichel
+
+![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_18_forwards.gif){:height="49%" width="49%"}
+
+![Sebastián Sichel](/gifs/tsm/2021_tsgif_18_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
+
+---
 ### ![14](/images/pc.png){:height="3%" width="3%"} Marco Enríquez-Ominami
 
 ![15](/images/tsm/card_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_15_forwards.gif){:height="49%" width="49%"}
 
 ![Marco Enríquez-O](/gifs/tsm/2021_tsgif_15_clip.gif){:height="49%" width="49%"} ![Marco Enríquez-O](/images/tsm/kd_2021_Marco%20Enríquez-O.png){:height="49%" width="49%"}
-
----
-### ![15](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
-
-![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
-
-![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
 ### ![16](/images/pc.png){:height="3%" width="3%"} Alejandro Guillier
@@ -127,11 +127,11 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
-### ![17](/images/pc.png){:height="3%" width="3%"} Sebastián Sichel
+### ![15](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
 
-![18](/images/tsm/card_2021_Sebastián%20Sichel.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_18_forwards.gif){:height="49%" width="49%"}
+![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
 
-![Sebastián Sichel](/gifs/tsm/2021_tsgif_18_clip.gif){:height="49%" width="49%"} ![Francisco Vidal](/images/tsm/kd_2021_Sebastián%20Sichel.png){:height="49%" width="49%"}
+![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
 
 ---
 ### ![18](/images/pc.png){:height="3%" width="3%"} Izkia Siches

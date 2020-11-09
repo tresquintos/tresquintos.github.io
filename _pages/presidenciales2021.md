@@ -127,13 +127,6 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Alejandro Guillier](/gifs/tsm/2021_tsgif_10_clip.gif){:height="49%" width="49%"} ![Alejandro Guillier](/images/tsm/kd_2021_Alejandro%20Guillier.png){:height="49%" width="49%"}
 
 ---
-### ![15](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
-
-![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
-
-![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
-
----
 ### ![18](/images/pc.png){:height="3%" width="3%"} Izkia Siches
 
 ![16](/images/tsm/card_2021_Izkia%20Siches.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_16_forwards.gif){:height="49%" width="49%"}
@@ -141,18 +134,25 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![Izkia Siches](/gifs/tsm/2021_tsgif_16_clip.gif){:height="49%" width="49%"} ![Izkia Siches](/images/tsm/kd_2021_Izkia%20Siches.png){:height="49%" width="49%"}
 
 ---
-### ![19](/images/pc.png){:height="3%" width="3%"} Jorge Sharp
-
-![19](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_19_forwards.gif){:height="49%" width="49%"}
-
-![Jorge Sharp](/gifs/tsm/2021_tsgif_19_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
-
----
 ### ![20](/images/pc.png){:height="3%" width="3%"} Mario Desbordes
 
 ![20](/images/tsm/card_2021_Mario%20Desbordes.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_20_forwards.gif){:height="49%" width="49%"}
 
 ![Mario Desbordes](/gifs/tsm/2021_tsgif_20_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Mario%20Desbordes.png){:height="49%" width="49%"}
+
+---
+### ![15](/images/pc.png){:height="3%" width="3%"} Rodolfo Carter
+
+![14](/images/tsm/card_2021_Rodolfo%20Carter.png){:height="49%" width="49%"} ![14](/gifs/tsm/2021_experimental_14_forwards.gif){:height="49%" width="49%"}
+
+![Rodolfo Carter](/gifs/tsm/2021_tsgif_14_clip.gif){:height="49%" width="49%"} ![Rodolfo Carter](/images/tsm/kd_2021_Rodolfo%20Carter.png){:height="49%" width="49%"}
+
+---
+### ![19](/images/pc.png){:height="3%" width="3%"} Jorge Sharp
+
+![19](/images/tsm/card_2021_Jorge%20Sharp.png){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_19_forwards.gif){:height="49%" width="49%"}
+
+![Jorge Sharp](/gifs/tsm/2021_tsgif_19_clip.gif){:height="49%" width="49%"} ![Jorge Sharp](/images/tsm/kd_2021_Jorge%20Sharp.png){:height="49%" width="49%"}
 
 ---
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar estos gráficos, revisa los detalles del método [aquí](https://tresquintos.cl/tsm/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>

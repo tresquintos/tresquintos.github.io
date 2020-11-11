@@ -10,7 +10,7 @@ En esta página podrás...
 ### Probando
 
 
-![ep](/images/mapa/distritos.png){:height="60%" width="60%"}
+![ep](/images/mapa/distritos.png){:height="100%" width="100%"}
 
 ---
 

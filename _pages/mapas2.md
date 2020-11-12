@@ -9,17 +9,17 @@ En esta página podrás...
 
 ### Un mapa
 
-![ep](/images/mapa/comunas_regiones.png){:height="100%" width="100%"}
+![ep](/images/mapa/regiones_comunas.png){:height="100%" width="100%"}
 
 
 ### Dos mapas
 
-![ep](/images/mapa/distritos.png){:height="49%" width="49%"} ![ep](/images/mapa/comunas_regiones.png){:height="49%" width="49%"}
+![ep](/images/mapa/distritos.png){:height="49%" width="49%"} ![ep](/images/mapa/regiones_comunas.png){:height="49%" width="49%"}
 
 
 ### Tres mapas
 
-![ep](/images/mapa/distritos.png){:height="33%" width="33%"} ![ep](/images/mapa/comunas_regiones.png){:height="33%" width="33%"} ![ep](/images/mapa/comunas_regiones.png){:height="33%" width="33%"}
+![ep](/images/mapa/distritos.png){:height="33%" width="33%"} ![ep](/images/mapa/regiones_comunas.png){:height="33%" width="33%"} ![ep](/images/mapa/regiones_comunas.png){:height="33%" width="33%"}
 
 ---
 

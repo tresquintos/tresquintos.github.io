@@ -9,17 +9,17 @@ En esta página podrás...
 
 ### Un mapa
 
-![ep](/images/mapa/mapa_chile.png){:height="100%" width="100%"}
+![ep](/images/mapa/mapa_chile.png){:height="98%" width="98%"}
 
 
 ### Unidades electorales
 
-![ep](/images/mapa/regiones.png){:height="50%" width="50%"} ![ep](/images/mapa/distritos.png){:height="50%" width="50%"}
+![ep](/images/mapa/regiones.png){:height="49%" width="49%"} ![ep](/images/mapa/distritos.png){:height="49%" width="49%"}
 
 
 ### Senadores y diputados
 
-![ep](/images/mapa/senadores.png){:height="50%" width="50%"} ![ep](/images/mapa/diputados.png){:height="50%" width="50%"}
+![ep](/images/mapa/senadores.png){:height="49%" width="49%"} ![ep](/images/mapa/diputados.png){:height="49%" width="49%"}
 
 ---
 

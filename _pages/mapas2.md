@@ -14,7 +14,7 @@ En esta página podrás...
 
 ### Unidades electorales
 
-![ep](/images/mapa/regiones.png){:height="49%" width="49%"} ![ep](/images/mapa/distritos.png){:height="49%" width="49%"}
+![ep](/images/mapa/regiones.png){:height="49%" width="49%"} ![ep](/images/mapa/diputados.png){:height="49%" width="49%"}
 
 
 ### Senadores y diputados

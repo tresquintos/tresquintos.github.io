@@ -14,12 +14,12 @@ En esta página podrás...
 
 ### Unidades electorales
 
-![ep](/images/mapa/regiones.png){:height="49%" width="49%"} ![ep](/images/mapa/distritos.png){:height="49%" width="49%"}
+![ep](/images/mapa/regiones.png){:height="50%" width="50%"} ![ep](/images/mapa/distritos.png){:height="50%" width="50%"}
 
 
 ### Senadores y diputados
 
-![ep](/images/mapa/senadores.png){:height="49%" width="49%"} ![ep](/images/mapa/diputados.png){:height="49%" width="49%"}
+![ep](/images/mapa/senadores.png){:height="50%" width="50%"} ![ep](/images/mapa/diputados.png){:height="50%" width="50%"}
 
 ---
 

@@ -28,16 +28,35 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} La simulación de **Tresquintos** para Convencionales 2021
 
-Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. La siguiente fórmula representa la simulación de escaños ($theta) para un determinado partido (k) en un determinado distrito (i).
+Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. La siguiente fórmula representa la simulación de escaños (&gamma;) para un determinado partido (k) en un determinado distrito (i).
 
-escaños = h<sub>&theta;</sub>(ki) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+escaños = &gamma;<sub>ki</sub> = &alpha; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
 
-1. Notar inscripción de partidos (a nivel de distrito);
-2. Suponer que ciertos partidos van a formar ciertas listas (a nivel de distrito);
-3. Sumar total de votos por cada lista, reasignando votos a listas (a nivel de distrito);
-4. Simular la elección con nuevo total de votos usando criterios específicos de sistema electoral (a nivel de distrito);
-5. Corregir considerando fenómenos locales, como independientes o listas locales (a nivel de distrito);
-6. Sumar total de escaños por distrito por lista (a nivel nacional).
+1.	Construir listas nuevas
+2.	Distribuir numero de votos 2017
+3.	Distribuir porcentaje de votos 2017
+4.	Determinar traspaso de votos entre partidos que salen/entran/permanecen
+5.	Redistribuir número de votos por partido considerando (4)
+6.	Redistribuir porcentaje de votos por partido considerando (4)
+7.	Determinar traspaso de votos entre partidos por titulares que se cambian
+8.	Redistribuir número de votos por partido considerando (7)
+9.	Redistribuir porcentaje de votos por partido considerando (7)
+10.	Determinar traspaso de votos entre listas por presencia de independientes
+11.	Redistribuir número de votos por lista considerando (10)
+12.	Redistribuir porcentaje de votos por partido considerando (10)
+13.	Determinar impacto de crisis social/plebiscito por lista
+14.	Redistribuir número de votos por lista considerando (13)
+15.	Redistribuir porcentaje de votos por partido considerando (13)
+16.	Determinar efecto específico del distrito por lista
+17.	Redistribuir número de votos por lista considerando (16)
+18.	Redistribuir porcentaje de votos por partido considerando (16)
+19.	Sumar total correcciones
+20.	Estimar número de votos por lista
+21.	Estimar porcentaje de votos por lista
+22.	Exportar números a "nacional"
+23.	Importar números a Stata
+24.	Simular elección
+25. Asignar margen de error (&alpha;)
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Sx2 (macro simulaciones)

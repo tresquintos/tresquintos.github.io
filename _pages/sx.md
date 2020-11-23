@@ -28,7 +28,7 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} La simulación de **Tresquintos** para Convencionales 2021
 
-Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. Esta es la lista de pasos intermedios, y que sugerimos seguir:
+Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. Esta es la lista de pasos intermedios, que seguimos, y recomendamos seguir:
 
     1.	Considerar partidos (&kappa;) existentes de 2017 y nuevos de 2021;
     2.  Construir listas (&lambda;) nuevas considerando información nueva;
@@ -45,7 +45,7 @@ Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente
 La siguiente fórmula representa la simulación de escaños para un determinado partido (k) en un determinado distrito (i).
 
 
-            2021 &gamma;<sub>ki</sub> = &alpha;<sub>ki</sub>; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
+            2021 &gamma;<sub>ki</sub> = &beta;<sub>&kappa;&iota;</sub>; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
 
 
 

@@ -34,6 +34,9 @@ main:
   - title: "📇Manuales"
     url: /manuales/
 
+  - title: "🗺️Guía"
+    url: /guia/
+
   - title: "🗺️Mapas"
     url: /mapa/
 

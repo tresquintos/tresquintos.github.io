@@ -1,18 +1,18 @@
 ---
 layout: single
-title: "El mapa de distritos"
-permalink: /mapas2/
+title: "Guía de Mapas Electorales"
+permalink: /guia/
 author_profile: true
 ---
 
-En esta página podrás...
+En esta página podrás ver nuestra guías de mapas electorales.
 
-### Un mapa
+### Mapa Nacional con Regiones y Comunas
 
-![ep](/images/mapa/mapa_chile.png){:height="98%" width="98%"}
+![ep](/images/mapa/mapa_chile.png){:height="100%" width="100%"}
 
 
-### Unidades electorales
+### Mapa Nacional con Unidades Electorales
 
 ![ep](/images/mapa/regiones.png){:height="49%" width="49%"} ![ep](/images/mapa/distritos.png){:height="49%" width="49%"}
 

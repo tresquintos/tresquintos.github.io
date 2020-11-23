@@ -34,28 +34,26 @@ escaños = &gamma;<sub>ki</sub> = &alpha; + &beta;<sub>ki</sub> + &delta;<sub>ki
 
 1.	Construir listas nuevas
 2.	Distribuir numero de votos 2017
-3.	Distribuir porcentaje de votos 2017
-4.	Determinar traspaso de votos entre partidos que salen/entran/permanecen
+3.	Distribuir porcentaje de votos 2017 (&beta;)
+4.	Determinar traspaso de votos entre partidos que salen/entran/permanecen (&gamma;)
 5.	Redistribuir número de votos por partido considerando (4)
-6.	Redistribuir porcentaje de votos por partido considerando (4)
+6.	Redistribuir porcentaje de votos por partido considerando (4) (&gamma;)
 7.	Determinar traspaso de votos entre partidos por titulares que se cambian
 8.	Redistribuir número de votos por partido considerando (7)
-9.	Redistribuir porcentaje de votos por partido considerando (7)
+9.	Redistribuir porcentaje de votos por partido considerando (7) (&gamma;)
 10.	Determinar traspaso de votos entre listas por presencia de independientes
 11.	Redistribuir número de votos por lista considerando (10)
-12.	Redistribuir porcentaje de votos por partido considerando (10)
+12.	Redistribuir porcentaje de votos por partido considerando (10) (&gamma;)
 13.	Determinar impacto de crisis social/plebiscito por lista
-14.	Redistribuir número de votos por lista considerando (13)
+14.	Redistribuir número de votos por lista considerando (13) (&gamma;)
 15.	Redistribuir porcentaje de votos por partido considerando (13)
 16.	Determinar efecto específico del distrito por lista
 17.	Redistribuir número de votos por lista considerando (16)
-18.	Redistribuir porcentaje de votos por partido considerando (16)
+18.	Redistribuir porcentaje de votos por partido considerando (16) (&gamma;)
 19.	Sumar total correcciones
 20.	Estimar número de votos por lista
-21.	Estimar porcentaje de votos por lista
-22.	Exportar números a "nacional"
-23.	Importar números a Stata
-24.	Simular elección
+21.	Estimar porcentaje de votos por lista (&gamma;)
+24.	Simular elección (&gamma;)
 25. Asignar margen de error (&alpha;)
 
 

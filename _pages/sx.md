@@ -32,8 +32,8 @@ Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente
 
     1.	Considerar partidos (&kappa;) existentes de 2017 y nuevos de 2021;
     2.  Construir listas (&lambda;) nuevas considerando información nueva;
-    2.	Distribuir porcentaje de votos de 2017 (&beta;)
-    3.	Determinar traspaso de votos entre partidos que salen/entran/permanecen y redistribuir porcentaje de votos por partido (&gamma;)
+    2.	Distribuir porcentaje de votos de 2017 (&alpha;)
+    3.	Determinar traspaso de votos entre partidos que salen/entran/permanecen y redistribuir porcentaje de votos por partido (&beta;)
     4.	Determinar traspaso de votos entre partidos por titulares que se cambian y redistribuir porcentaje de votos por partido (&delta;)
     5.	Determinar traspaso de votos entre listas por presencia de independientes y redistribuir porcentaje de votos por lista (&epsilon;)
     6.	Determinar impacto de crisis social/plebiscito y redistribuir porcentaje de votos por lista (&sigma;)
@@ -42,10 +42,10 @@ Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente
     9.	Simular elección (&gamma;)
     10. Asignar margen de error (&zeta;).
 
-La siguiente fórmula representa la simulación de escaños para un determinado partido (k) en un determinado distrito (i).
+La siguiente fórmula representa la simulación de escaños:
 
 
-            2021 &gamma;<sub>ki</sub> = &beta;<sub>&kappa;&iota;</sub>; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
+            2021 &gamma;<sub>&kappa;&iota;</sub> = &alpha;<sub>&kappa;&iota;</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub>
 
 
 

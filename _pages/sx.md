@@ -28,10 +28,10 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} La simulación de **Tresquintos** para Convencionales 2021
 
-Como se explicó más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque han pasado una serie de eventos entre ambas elecciones que simplemente rendirían el ejercicio fútil. Por aquello, agregamos una serie de factores intermedios para complejizar la simulación y hacerla metodológicamente más consistente con el nuevo contexto. Esta es la lista de pasos que seguimos:
+Como se explicó más arriba, sencillamente traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque han pasado una serie de eventos entre ambas elecciones que simplemente rendirían el ejercicio fútil. Por aquello, agregamos una serie de factores intermedios para complejizar la simulación y hacerla metodológicamente más consistente con el nuevo contexto. Esta es la lista de pasos que seguimos:
 
 1.	Consideramos partidos (&kappa;) existentes de 2017 y nuevos de 2021;
-2.  Construimos listas (&lambda;) nuevas considerando información nueva;
+2.  Construimos listas (&lambda;) nuevas considerando información actualizada;
 3.	Distribuimos porcentaje de votos de 2017 (&alpha;);
 4.	Determinamos traspaso de votos entre partidos que salen/entran/permanecen y redistribuimos porcentaje de votos por partido (&beta;);
 5.	Determinamos traspaso de votos entre partidos por titulares que se cambian y redistribuimos porcentaje de votos por partido (&delta;);
@@ -48,7 +48,7 @@ La siguiente fórmula representa la simulación de escaños:
 
 donde &kappa;i está dado por:
 
-**2021**&kappa;<sub>&kappa;&iota;</sub> = &alpha;<sub>&kappa;&iota;</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub>
+**2021**&kappa;<sub>&kappa;i</sub> = &beta;<sub>&kappa;i</sub> + &delta;<sub>&kappa;i</sub>
 
 
 

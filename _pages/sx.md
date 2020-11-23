@@ -10,17 +10,13 @@ En esta página podrás conocer los métodos que se utilizan para realizar simul
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} ¿Qué son las Sx?
 
-Las simulaciones (**Sx**) son métodos para realizar proyecciones electorales en elecciones para las cuales se distribuye más de un escaño por distrito (e.g., concejales, diputados o senadores). La selección del método depende, escencialmente, del contexto de la elección. Considerando que los escenarios políticos pueden varían significativamente de una elección a otra, hay dos alternativas:
+Las simulaciones (**Sx**) son métodos para realizar proyecciones electorales en elecciones para las cuales se distribuye más de un escaño por distrito (e.g., concejales, diputados o senadores). Normalmente, estas simulaciones usan información de elecciones anteriores, a nivel de comuna/distrito/circunscripción, para proyectar resultados considerando cambios en las listas electorales.
 
-1. Micro simulaciones (**Sx1**): Estas simulaciones usan información de elecciones anteriores, a nivel de comuna/distrito/circunscripción, para proyectar resultados considerando la nueva conformación de listas. Este tipo de simulación normalmente se escoge cuando hay continuidad en el sistema de partidos.
+A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyectar la elección de diputados de 1997, sería relativamente sencillo usar los datos de 1993 para hacerlo (con alta exactitud), pues entre ambas elecciones no hubo grandes cambios a nivel de listas electorales. Considerando que en 1997 tampoco habría elecciones presidenciales concurrentes, se podrían usar los resultados de 1996 redistribuidos considerando las listas electorales de 1997.
 
-2. Macro simulaciones (**Sx2**): Estas simulaciones usan información de elecciones anteriores, a nivel de sistema, para proyectar resultados considerando la nueva conformación de listas. Este tipo de simulación normalmente se utiliza cuando hay disrrupciones en el sistema de partidos.
+Ahora, supongamos que nos pidieran proyectar la elección de constituyentes de 2021. Aquí, el escenario es diferente. No solo porque el sistema electoral es distinto al de 1997, sino también porque las listas electorales han mutado significativamente. Dado que difícilmente se podría proyectar escaños para partidos que no existían en la elección anterior, hay que extender el número de supuestos para representar el nuevo contexto de mejor manera.
 
-A modo de ejemplo, si estuvieramos en 1996 y nos pidieran proyectar la elección de diputados de 1997, sería relativamente sencillo usar los datos de 1993 para hacerlo (con alta exactitud), pues entre ambas elecciones no hubo grandes cambios a nivel de listas electorales. Considerando que en 1997 tampoco habría elecciones presidenciales concurrentes, sería recomendable usar **Sx1**.
-
-Ahora supongamos que nos pidieran proyectar la elección de constituyentes de 2020. Aquí, el escenario es diferente. No solo porque el sistema electoral es distinto al de 1997, sino también porque las coaliciones han mutado significativamente. Dado que difícilmente se podría proyectar escaños para partidos que no existían en la elección anterior, sería recomendable usar **Sx2**.
-
-Lo anterior ilustra que no basta la riqueza de información. Por supuesto que se puede usar **Sx1** para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? No creo. Por eso, a veces es mejor tomar una aproximación general con mayor margen de error que minimiza la cantidad de supuestos que sostienen los argumentos que una aproximación meticulosa que miniza el margen de error pero aumenta la cantidad de supuestos que sostienen los argumentos.
+Lo anterior ilustra que no basta una aproximación parsimoniosa. Por supuesto que se puede usar los datos de 2017 para proyectar la elección de 2020, pero ¿sería metodológicamente correcto? Probablemente no. Por eso, habría que sacrificar la aproximación general con mayor margen de error que minimiza la cantidad de supuestos que sostienen los argumentos que una aproximación meticulosa que minimiza el margen de error pero aumenta la cantidad de supuestos que sostienen los argumentos.
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Sx1 (micro simulaciones)

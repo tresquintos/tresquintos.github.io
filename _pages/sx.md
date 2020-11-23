@@ -5,7 +5,7 @@ permalink: /sx/
 author_profile: true
 ---
 
-En esta página podrás conocer los métodos que se utilizan para realizar simulaciones electorales. Primero, presenta una descripción general. Luego, describe los dos métodos más utilizados. Finalmente, usa la elección de constituyentes de 2020 para dar un ejemplo del uso del segundo de los dos métodos.
+En esta página podrás conocer los métodos que se utilizan para realizar simulaciones electorales. Primero, presenta una descripción general. Luego, describe los dos métodos más utilizados. Finalmente, usa la elección de constituyentes de 2021 para dar un ejemplo del uso del segundo de los dos métodos.
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} ¿Qué son las Sx?

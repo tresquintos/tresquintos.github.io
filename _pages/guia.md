@@ -5,7 +5,7 @@ permalink: /guia/
 author_profile: true
 ---
 
-En esta página podrás ver nuestra guías de mapas electorales.
+En esta página podrás ver nuestra guía de mapas electorales.
 
 ### Mapa Nacional con Regiones y Comunas
 

@@ -7,15 +7,23 @@ author_profile: true
 
 En esta página puedes ver una estimación de la distribución de escaños de los constituyentes. Los gráficos de abajo muestran una proyección basada en datos electorales de Chile en 1989-2017, los resultados de la elección de diputados de 2017, la fragmentación del sistema del partidos a partir del 18 de octubre, y los particulares efectos del sistema electoral. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
 
-### Distribución de escaños, a nivel nacional
+
+### Distribución de escaños
+
+![cc](/images/constituyente2021/resultados.png){:height="90%" width="90%"}
 
 
-![cc](/images/constituyente2021/coaliciones.png){:height="90%" width="90%"}
+
+### Distribución de escaños, nacional
+
+![cc](/images/constituyente2021/mapa_congreso.png){:height="90%" width="90%"}
+
+
 
 ### Distribución de escaños, por distrito
 
+![cc](/images/constituyente2021/mapa_chile.png){:height="90%" width="90%"}
 
-![cc](/images/constituyente2021/cc.png){:height="90%" width="90%"}
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

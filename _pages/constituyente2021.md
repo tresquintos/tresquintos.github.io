@@ -10,13 +10,13 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 ### Distribución de escaños
 
-![cc](/images/constituyente2021/resultados.png){:height="90%" width="90%"}
+![cc](/images/constituyente2021/resultados.png){:height="50%" width="50%"}
 
 
 
 ### Distribución de escaños, nacional
 
-![cc](/images/constituyente2021/mapa_congreso.png){:height="90%" width="90%"}
+![cc](/images/constituyente2021/mapa_congreso.png){:height="50%" width="50%"}
 
 
 

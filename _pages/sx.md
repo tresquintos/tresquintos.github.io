@@ -28,19 +28,19 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} La simulación de **Tresquintos** para Convencionales 2021
 
-Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. Esta es la lista de pasos intermedios, que seguimos, y recomendamos seguir:
+Como se explicó más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque han pasado una serie de eventos entre ambas elecciones que simplemente rendirían el ejercicio fútil. Por aquello, agregamos una serie de factores intermedios para complejizar la simulación y hacerla metodológicamente más consistente con el nuevo contexto. Esta es la lista de pasos que seguimos:
 
-1.	Considerar partidos (&kappa;) existentes de 2017 y nuevos de 2021;
-2.  Construir listas (&lambda;) nuevas considerando información nueva;
-3.	Distribuir porcentaje de votos de 2017 (&alpha;)
-4.	Determinar traspaso de votos entre partidos que salen/entran/permanecen y redistribuir porcentaje de votos por partido (&beta;)
-5.	Determinar traspaso de votos entre partidos por titulares que se cambian y redistribuir porcentaje de votos por partido (&delta;)
-6.	Determinar traspaso de votos entre listas por presencia de independientes y redistribuir porcentaje de votos por lista (&epsilon;)
-7.	Determinar impacto de crisis social/plebiscito y redistribuir porcentaje de votos por lista (&sigma;)
-8.	Determinar efecto específico del distrito por lista y redistribuir porcentaje de votos por lista (&eta;)
-9.	Estimar porcentaje de votos por lista (&xi;)
-10.	Simular elección (&gamma;)
-11. Asignar margen de error (&zeta;).
+1.	Consideramos partidos (&kappa;) existentes de 2017 y nuevos de 2021;
+2.  Construimos listas (&lambda;) nuevas considerando información nueva;
+3.	Distribuimos porcentaje de votos de 2017 (&alpha;);
+4.	Determinamos traspaso de votos entre partidos que salen/entran/permanecen y redistribuimos porcentaje de votos por partido (&beta;);
+5.	Determinamos traspaso de votos entre partidos por titulares que se cambian y redistribuimos porcentaje de votos por partido (&delta;);
+6.	Determinamos traspaso de votos entre listas por presencia de independientes y redistribuimos porcentaje de votos por lista (&epsilon;);
+7.	Determinamos impacto de crisis social/plebiscito y redistribuimos porcentaje de votos por lista (&sigma;);
+8.	Determinamos efecto específico del distrito por lista y redistribuimos porcentaje de votos por lista (&eta;);
+9.	Estimamos porcentaje de votos por lista a nivel nacional (&gamma;);
+11. Asignamos un margen de error por lista a nivel nacional (&zeta;).
+
 
 La siguiente fórmula representa la simulación de escaños:
 

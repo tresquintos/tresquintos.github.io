@@ -33,23 +33,19 @@ Como se explicó más arriba, sencillamente traspasar los votos de 2017 a 2021 n
 
 1. Consideramos partidos (&kappa;) existentes de 2017 y nuevos de 2021;
 2. Construimos listas (&lambda;) nuevas considerando información actualizada;
-3. Distribuimos porcentaje de votos de 2017 (&alpha;);
+3. Distribuimos porcentaje de votos de 2017 por lista (&alpha;);
 4. Determinamos traspaso de votos entre partidos que salen/entran/permanecen y redistribuimos porcentaje de votos por partido (&beta;);
 5. Determinamos traspaso de votos entre partidos por titulares que se cambian y redistribuimos porcentaje de votos por partido (&delta;);
 6. Determinamos traspaso de votos entre listas por presencia de independientes y redistribuimos porcentaje de votos por lista (&epsilon;);
 7. Determinamos impacto de crisis social/plebiscito y redistribuimos porcentaje de votos por lista (&sigma;);
 8. Determinamos efecto específico del distrito por lista y redistribuimos porcentaje de votos por lista (&eta;);
 9. Estimamos porcentaje de votos por lista (&gamma;);
-11. Asignamos un margen de error por lista (&zeta;).
+10. Asignamos un margen de error por lista (&zeta;).
 
 
 La siguiente fórmula representa la simulación de escaños:
 
-**2021**&gamma;<sub>&lambda;i</sub> = &alpha;<sub>&lambda;i</sub> + &beta;<sub>&lambda;&iota;</sub> + &delta;<sub>&lambda;&iota;</sub> + &zeta;
-
-donde &lambda;i está compuesto por:
-
-&Sigma; &beta;<sub>&kappa;i</sub> + &delta;<sub>&kappa;i</sub>
+**&gamma;**<sub>&lambda;i</sub> = &alpha;<sub>&lambda;i</sub> + &beta;<sub>&lambda;&iota;</sub> + &delta;<sub>&lambda;&iota;</sub> + &zeta;, donde &lambda; está compuesto por &Sigma; &alpha;<sub>&kappa;i</sub> + &beta;<sub>&kappa;i</sub> + &delta;<sub>&kappa;i</sub>
 
 
 

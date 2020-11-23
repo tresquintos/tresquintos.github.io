@@ -44,8 +44,11 @@ Como se explicó más arriba, traspasar los votos de 2017 a 2021 no es suficient
 
 La siguiente fórmula representa la simulación de escaños:
 
+**2021**&gamma;<sub>&kappa;i</sub> = &alpha;<sub>&kappa;i</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub> + &zeta;
 
-**2021**&gamma;<sub>&kappa;&iota;</sub> = &alpha;<sub>&kappa;&iota;</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub>
+donde &kappa;i está dado por:
+
+**2021**&kappa;<sub>&kappa;&iota;</sub> = &alpha;<sub>&kappa;&iota;</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub>
 
 
 

@@ -47,9 +47,9 @@ La siguiente fórmula representa la simulación de escaños:
 
 **2021**&gamma;<sub>&lambda;i</sub> = &alpha;<sub>&lambda;i</sub> + &beta;<sub>&lambda;&iota;</sub> + &delta;<sub>&lambda;&iota;</sub> + &zeta;
 
-donde &kappa;i está dado por:
+donde &lambda;i está compuesto por:
 
-**2021**&kappa;<sub>&kappa;i</sub> = &beta;<sub>&kappa;i</sub> + &delta;<sub>&kappa;i</sub>
+&Sigma; &beta;<sub>&kappa;i</sub> + &delta;<sub>&kappa;i</sub>
 
 
 

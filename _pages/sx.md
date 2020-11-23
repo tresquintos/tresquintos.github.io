@@ -30,52 +30,27 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. La siguiente fórmula representa la simulación de escaños (&gamma;) para un determinado partido (k) en un determinado distrito (i).
 
-escaños = &gamma;<sub>ki</sub> = &alpha; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
+
+
+            &gamma;<sub>ki</sub> = &alpha; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
+
+
 
 1.	Construir listas nuevas
-2.	Distribuir numero de votos 2017
-3.	Distribuir porcentaje de votos 2017 (&beta;)
-4.	Determinar traspaso de votos entre partidos que salen/entran/permanecen (&gamma;)
-5.	Redistribuir número de votos por partido considerando (4)
-6.	Redistribuir porcentaje de votos por partido considerando (4) (&gamma;)
-7.	Determinar traspaso de votos entre partidos por titulares que se cambian
-8.	Redistribuir número de votos por partido considerando (7)
-9.	Redistribuir porcentaje de votos por partido considerando (7) (&gamma;)
-10.	Determinar traspaso de votos entre listas por presencia de independientes
-11.	Redistribuir número de votos por lista considerando (10)
-12.	Redistribuir porcentaje de votos por partido considerando (10) (&gamma;)
-13.	Determinar impacto de crisis social/plebiscito por lista
-14.	Redistribuir número de votos por lista considerando (13) (&gamma;)
-15.	Redistribuir porcentaje de votos por partido considerando (13)
-16.	Determinar efecto específico del distrito por lista
-17.	Redistribuir número de votos por lista considerando (16)
-18.	Redistribuir porcentaje de votos por partido considerando (16) (&gamma;)
-19.	Sumar total correcciones
-20.	Estimar número de votos por lista
-21.	Estimar porcentaje de votos por lista (&gamma;)
-24.	Simular elección (&gamma;)
-25. Asignar margen de error (&alpha;)
-
-
-### ![ep](/images/pc.png){:height="4%" width="4%"} Sx2 (macro simulaciones)
-
-En el caso de una macro simulación, con un sistema de partidos fluctuante, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) a nivel nacional usando datos de elecciones anteriores y calibrando por la entrada de nuevas fuerzas. En esencia, se comienza del total nacional más probable y se corrigen las cifras de acuerdo a distribuciones probables. Estos son los pasos:
-
-1. Notar inscripción de partidos (a nivel nacional);
-2. Suponer que ciertos partidos van a formar ciertas coaliciones (a nivel nacional);
-3. Sumar total de votos por cada lista (a nivel nacional);
-4. Redistribuir votos condierando entrada de nuevos partidos (a nivel nacional);
-5. Observar resultados de elecciones anteriores para generar rango de votación para listas existentes y estimar rango de votación para listas nuevas (a nivel nacional);
-6. Simular la elección suponiendo que hay estricta proporcionalidad: % de votos = % de escaños (a nivel nacional);
-7. Determinar una cifra correctora en base a tamaño de lista (rango de votación);
-8. Recalcular porcentaje de votos por lista considerando la cifra correctora (a nivel nacional);
-9. Recalcular número de escaños suponiendo que hay estricta proporcionalidad (a nivel nacional).
-
+2.	Distribuir porcentaje de votos de 2017 (&beta;)
+3.	Determinar traspaso de votos entre partidos que salen/entran/permanecen y redistribuir porcentaje de votos por partido (&gamma;)
+4.	Determinar traspaso de votos entre partidos por titulares que se cambian y redistribuir porcentaje de votos por partido (&delta;)
+5.	Determinar traspaso de votos entre listas por presencia de independientes y redistribuir porcentaje de votos por lista (&epsilon;)
+6.	Determinar impacto de crisis social/plebiscito y redistribuir porcentaje de votos por lista (&zeta;)
+7.	Determinar efecto específico del distrito por lista y redistribuir porcentaje de votos por lista (&eta;)
+8.	Estimar porcentaje de votos por lista (&xi;)
+9.	Simular elección (&gamma;)
+10. Asignar margen de error (&alpha;).
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Detalles técnicos
 
-Como nota final, ambos métodos (**Sx1** y **Sx2**) son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.cl/posts/2020/03/caveat/).
+Como nota final, las simulaciones son experimentales. Son solo una aproximación "informada", y por ende inevitablemente conllevan error. Para ver un *sketch* conceptual, pincha [aquí](https://tresquintos.cl/posts/2020/03/caveat/).
 
 ---
 

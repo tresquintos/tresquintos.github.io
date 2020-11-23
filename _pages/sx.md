@@ -5,7 +5,7 @@ permalink: /sx/
 author_profile: true
 ---
 
-En esta página podrás conocer los métodos que se utilizan para realizar simulaciones electorales. Primero, presenta una descripción general. Luego, describe los dos métodos más utilizados. Finalmente, usa la elección de constituyentes de 2021 para dar un ejemplo del uso del segundo de los dos métodos.
+En esta página podrás conocer los métodos que se utilizan para realizar simulaciones electorales. Primero, presenta una descripción general. Luego, describe la base de una simulación. Finalmente, usa la elección de constituyentes de 2021 para dar un ejemplo de una simulación compleja.
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} ¿Qué son las Sx?
@@ -23,14 +23,14 @@ Lo anterior ilustra que no basta una aproximación parsimoniosa. Por supuesto qu
 
 Para explicar cómo funciona una simulación, usemos la elección de diputados de 2017 como base para simular la elección de constituyentes de 2021. En este caso, la idea es primero suponer que ciertos partidos que compitieron en 2017 van a formar ciertas listas en 2021. Este supuestos se puede hacer simplemente considerando el comportamiento anterior de los partidos y su aproximación ideológica. Por ejemplo, no sería sorpresa que la DC conforme una lista en conjunto con el PS.
 
-Con los partidos redistribuidos en listas nuevas, se suman el total de votos de cada una de ellas. Con aquello, ya tenemos el listado de listas electorales, cada una con un porcentaje de votos. Con aquello, se simula la elección computacionalmente, usando los votos a favor de cada lista en conjunto con las reglas electorales que correspondan (en este caso el sistema dHondt en conjunto con el número de escaños a distribuir por cada distrito).
-
-Con los totales de votos por cada lista, simplemente se reparten los escaños de forma proporcional. Pero como sabemos que todos los sistemas electorales distorsionan la traducción de votos a escaños, hay que determinar una cifra correctora. Para esto simplemente se observa el patrón histórico. En el caso chileno (y en otras democtacias que utilizan sistemas electorales similares), hay una tendencia a favorecer a las dos primeras listas, y castigar a la tercera. A su vez, este orden parece estar mediado por el porcentaje de votos de cada lista. En esa línea, se determina ciertos rangos de votación para generar "bonos" y "castigos". Por ejemplo, listas que obtienen el primer lugar con más de 40% de la votación son premiados con 6% más de escaños de lo que le correspondería estrictamente. Aquí están los parámetros:
+Con los partidos redistribuidos en listas nuevas, se suman el total de votos de cada una de ellas. Con aquello, ya tenemos el listado de listas electorales, cada una con un porcentaje de votos. Con aquello, se simula la elección computacionalmente, usando los votos a favor de cada lista en conjunto con las reglas electorales que correspondan (en este caso el sistema D'Hondt en conjunto con el número de escaños a distribuir por cada distrito).
 
 
-### ![ep](/images/pc.png){:height="4%" width="4%"} Los pasos
+### ![ep](/images/pc.png){:height="4%" width="4%"} La simulación de **Tresquintos** para Convencionales 2021
 
-En el caso de una micro simulación, con un sistema de partidos relativamente estable, el objetivo es proyectar el número de escaños para cada lista (coalición o partido) en cada distrito usando datos de elecciones anteriores. En esencia, se parte de la unidad electoral más pequeña y se trabaja hacia el total nacional. Estos son los pasos:
+Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. La siguiente fórmula representa la simulación de escaños ($theta) para un determinado partido (k) en un determinado distrito (i).
+
+escaños = h<sub>&theta;</sub>(ki) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 1. Notar inscripción de partidos (a nivel de distrito);
 2. Suponer que ciertos partidos van a formar ciertas listas (a nivel de distrito);

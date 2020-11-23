@@ -31,12 +31,11 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 Como se explico más arriba, traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque ha pasado una serie de eventos entre ambas elecciones que rinde el ejercicio inútil. Por aquello, agregamos una serie de factores entremedio para complejizar la simulación y hacerla metodológicamente más consistente. La siguiente fórmula representa la simulación de escaños (&gamma;) para un determinado partido (k) en un determinado distrito (i).
 
 
-
-            &gamma;<sub>ki</sub> = &alpha; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
-
+            &gamma;<sub>ki</sub> = &alpha;<sub>ki</sub>; + &beta;<sub>ki</sub> + &delta;<sub>ki</sub>x
 
 
-1.	Construir listas nuevas
+1.	Considerar partidos de 2017 y nuevos de 2021
+2.  Construir listas nuevas
 2.	Distribuir porcentaje de votos de 2017 (&beta;)
 3.	Determinar traspaso de votos entre partidos que salen/entran/permanecen y redistribuir porcentaje de votos por partido (&gamma;)
 4.	Determinar traspaso de votos entre partidos por titulares que se cambian y redistribuir porcentaje de votos por partido (&delta;)

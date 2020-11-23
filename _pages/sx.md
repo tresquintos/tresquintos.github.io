@@ -30,21 +30,22 @@ Con los partidos redistribuidos en listas nuevas, se suman el total de votos de 
 
 Como se explicó más arriba, sencillamente traspasar los votos de 2017 a 2021 no es suficiente. En este caso en particular porque han pasado una serie de eventos entre ambas elecciones que simplemente rendirían el ejercicio fútil. Por aquello, agregamos una serie de factores intermedios para complejizar la simulación y hacerla metodológicamente más consistente con el nuevo contexto. Esta es la lista de pasos que seguimos:
 
-1.	Consideramos partidos (&kappa;) existentes de 2017 y nuevos de 2021;
-2.  Construimos listas (&lambda;) nuevas considerando información actualizada;
-3.	Distribuimos porcentaje de votos de 2017 (&alpha;);
-4.	Determinamos traspaso de votos entre partidos que salen/entran/permanecen y redistribuimos porcentaje de votos por partido (&beta;);
-5.	Determinamos traspaso de votos entre partidos por titulares que se cambian y redistribuimos porcentaje de votos por partido (&delta;);
-6.	Determinamos traspaso de votos entre listas por presencia de independientes y redistribuimos porcentaje de votos por lista (&epsilon;);
-7.	Determinamos impacto de crisis social/plebiscito y redistribuimos porcentaje de votos por lista (&sigma;);
-8.	Determinamos efecto específico del distrito por lista y redistribuimos porcentaje de votos por lista (&eta;);
-9.	Estimamos porcentaje de votos por lista a nivel nacional (&gamma;);
+
+1. Consideramos partidos (&kappa;) existentes de 2017 y nuevos de 2021;
+2. Construimos listas (&lambda;) nuevas considerando información actualizada;
+3. Distribuimos porcentaje de votos de 2017 (&alpha;);
+4. Determinamos traspaso de votos entre partidos que salen/entran/permanecen y redistribuimos porcentaje de votos por partido (&beta;);
+5. Determinamos traspaso de votos entre partidos por titulares que se cambian y redistribuimos porcentaje de votos por partido (&delta;);
+6. Determinamos traspaso de votos entre listas por presencia de independientes y redistribuimos porcentaje de votos por lista (&epsilon;);
+7. Determinamos impacto de crisis social/plebiscito y redistribuimos porcentaje de votos por lista (&sigma;);
+8. Determinamos efecto específico del distrito por lista y redistribuimos porcentaje de votos por lista (&eta;);
+9. Estimamos porcentaje de votos por lista a nivel nacional (&gamma;);
 11. Asignamos un margen de error por lista a nivel nacional (&zeta;).
 
 
 La siguiente fórmula representa la simulación de escaños:
 
-**2021**&gamma;<sub>&kappa;i</sub> = &alpha;<sub>&kappa;i</sub> + &beta;<sub>&kappa;&iota;</sub> + &delta;<sub>&kappa;&iota;</sub> + &zeta;
+**2021**&gamma;<sub>&lambda;i</sub> = &alpha;<sub>&lambda;i</sub> + &beta;<sub>&lambda;&iota;</sub> + &delta;<sub>&lambda;&iota;</sub> + &zeta;
 
 donde &kappa;i está dado por:
 

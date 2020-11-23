@@ -39,8 +39,8 @@ Como se explicó más arriba, sencillamente traspasar los votos de 2017 a 2021 n
 6. Determinamos traspaso de votos entre listas por presencia de independientes y redistribuimos porcentaje de votos por lista (&epsilon;);
 7. Determinamos impacto de crisis social/plebiscito y redistribuimos porcentaje de votos por lista (&sigma;);
 8. Determinamos efecto específico del distrito por lista y redistribuimos porcentaje de votos por lista (&eta;);
-9. Estimamos porcentaje de votos por lista a nivel nacional (&gamma;);
-11. Asignamos un margen de error por lista a nivel nacional (&zeta;).
+9. Estimamos porcentaje de votos por lista (&gamma;);
+11. Asignamos un margen de error por lista (&zeta;).
 
 
 La siguiente fórmula representa la simulación de escaños:

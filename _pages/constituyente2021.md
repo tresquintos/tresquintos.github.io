@@ -17,7 +17,7 @@ La Tabla de abajo muestra la potencial distribución de partidos en listas para 
 
 &nbsp;  
 
-El gráfico de abajo muestra la distribución de escaños a nivel de la asamblea. Muestra los marcadores de dos tercios (2/3) y 50%+1. Muestra que Chile Vamos claramente pasaría el tercio de los escaños. Por su parte a la oposición (todas las listas que obtienen escaños salvo Chile Vamos), le faltarían alrededor de 14 escaños para obtener 2/3 de los votos. Es decir, obtener un diputado más en la mitad de los distritos del país.
+El gráfico de abajo muestra la distribución de escaños a nivel de la Convención. Muestra los marcadores de dos tercios (2/3) y mayoría absoluta (50%+1). Muestra que Chile Vamos claramente obtendría más de un tercio de los escaños. Por su parte, a la oposición (todas las listas que obtienen escaños salvo Chile Vamos), le faltarían alrededor de 14 escaños para llegar a los dos tercios. Un aumenta de esa magnitud sería equivalente a obtener un escaños adicional en la mitad de los distritos del país.
 
 &nbsp;  
 
@@ -27,7 +27,7 @@ El gráfico de abajo muestra la distribución de escaños a nivel de la asamblea
 
 &nbsp;  
 
-Finalmente, el mapa de abajo muestra la distribución de escaños por distrito. Para una guía del mapa, pincha [aquí](https://tresquintos.cl/guia/). En resumen, el mapa está dividido en distritos y cada distrito está divido en el número de escaños que reparte (un cubo). A su vez, cada escaño está pintado del color de la lista que proyectamos ganaría. Los lugares son solo referenciales, y no necesariamente implican causalidad geográfica.
+Finalmente, el mapa de abajo muestra la distribución de escaños por distrito. Para una guía del mapa, pincha [aquí](https://tresquintos.cl/guia/). En resumen, el mapa está dividido en distritos y cada distrito está divido en el número de escaños que reparte (cada escaño es representado por un cubo). A su vez, cada escaño está pintado del color de la lista que proyectamos ganaría. Los lugares son solo referenciales, y no necesariamente implican causalidad geográfica.
 
 &nbsp;  
 

@@ -10,14 +10,16 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 ### Distribución de escaños
 
-![cc](/images/constituyente2021/resultados.png){:height="50%" width="50%"}
-
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/resultados.png" >
+</div>
 
 
 ### Distribución de escaños, nacional
 
-![cc](/images/constituyente2021/mapa_congreso.png){:height="50%" width="50%"}
-
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_congreso.png" >
+</div>
 
 
 ### Distribución de escaños, por distrito

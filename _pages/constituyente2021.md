@@ -22,10 +22,11 @@ El gráfico de abajo muestra la distribución de escaños a nivel de la asamblea
 </div>
 
 
-Finalmente, el mapa de abajo muestra la distribución de escaños por distrito. Para una guía del mapap, pincha [aquí](https://tresquintos.cl/guia/)
+Finalmente, el mapa de abajo muestra la distribución de escaños por distrito. Para una guía del mapa, pincha [aquí](https://tresquintos.cl/guia/). En resumen, el mapa está dividido en distritos y cada distrito está divido en el número de escaños que reparte (un cubo). A su vez, cada escaño está pintado del color de la lista que proyectamos ganaría. Los lugares son solo referenciales, y no necesariamente implican causalidad geográfica.
 
-![cc](/images/constituyente2021/mapa_chile.png){:height="98%" width="98%"}
-
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_chile.png" >
+</div>
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

@@ -14,7 +14,7 @@ La Tabla de abajo muestra la potencial distribución de partidos en listas para 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/resultados.png" >
 </div>
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 &nbsp;  
 
@@ -25,7 +25,7 @@ El gráfico de abajo muestra la distribución de escaños a nivel de la Convenci
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_congreso.png" >
 </div>
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 &nbsp;  
 
@@ -36,7 +36,7 @@ Finalmente, el mapa de abajo muestra la distribución de escaños por distrito. 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_chile.png" >
 </div>
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este mapa, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
 
 &nbsp;  

@@ -24,7 +24,7 @@ En esta página puedes ver una estimación de la distribución de escaños de lo
 
 ### Distribución de escaños, por distrito
 
-![cc](/images/constituyente2021/mapa_chile.png){:height="90%" width="90%"}
+![cc](/images/constituyente2021/mapa_chile.png){:height="98%" width="98%"}
 
 
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>

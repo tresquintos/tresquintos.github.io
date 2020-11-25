@@ -23,6 +23,16 @@ Si estás buscando información sobre la elección de gobernadores regionales de
 También tenemos **listas de candidatos**. Los nombres los actualizamos constantemente. Se recopilan principalmente en base a extensivas revisiones de prensa y comunicación con partes interesadas. Si quieres ver la lista completa de potenciales **candidatos presidenciales**, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista de potenciales **candidatos a gobernador regional**, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/convencionales2021/).
 
 ---
+### ![ep](/images/pc.png){:height="3%" width="3%"} Simulación: Presidenciales 2021
+
+Abajo puedes ver una simulación de la elección de convencionales constituyentes de 2021. Esta basada en datos electorales de Chile en 1989-2017, la fragmentación del sistema del partidos a partir del estallido social de 2019, los cambios y las continuidades de los partidos y sus representantes titulares, la entrada de independientes (y listas de independientes), y los efectos particulares del sistema electoral. Para conocer los detalles, pincha [aquí](https://tresquintos.cl/constituyente2021/).
+
+<div align="center">
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/resultados.png" >
+</div>
+
+
+---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.

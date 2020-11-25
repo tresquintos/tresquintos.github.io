@@ -28,7 +28,7 @@ También tenemos **listas de candidatos**. Los nombres los actualizamos constant
 Abajo puedes ver una simulación de la elección de convencionales constituyentes de 2021. Esta basada en datos electorales de Chile en 1989-2017, la fragmentación del sistema del partidos a partir del estallido social de 2019, los cambios y las continuidades de los partidos y sus representantes titulares, la entrada de independientes (y listas de independientes), y los efectos particulares del sistema electoral. Para conocer los detalles, pincha [aquí](https://tresquintos.cl/constituyente2021/).
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/constituyente2021/resultados.png" >
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_congreso.png" >
 </div>
 
 

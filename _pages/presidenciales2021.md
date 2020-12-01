@@ -36,18 +36,27 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![José Antonio Kast](/gifs/tsm/2021_tsgif_3_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
+### ![5](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
+
+![12](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![12](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"}
+
+![Evelyn Matthei](/gifs/tsm/2021_tsgif_12_clip.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
+
+---
+### ![9](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
+
+![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
+
+![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+
+
+---
 ### ![4](/images/pc.png){:height="3%" width="3%"} Franco Parisi
 
 ![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/gifs/tsm/2021_experimental_5_forwards.gif){:height="49%" width="49%"}
 
 ![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
----
-### ![5](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
-
-![12](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"} ![12](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"}
-
-![Evelyn Matthei](/gifs/tsm/2021_tsgif_12_clip.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 ---
 ### ![6](/images/pc.png){:height="3%" width="3%"} Beatriz Sánchez
@@ -63,12 +72,6 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 ![Michelle Bachelet](/gifs/tsm/2021_tsgif_6_clip.gif){:height="49%" width="49%"} ![Michelle Bachelet](/images/tsm/kd_2021_Michelle%20Bachelet.png){:height="49%" width="49%"}
 
----
-### ![9](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
-
-![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
-
-![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
 ---
 ### ![10](/images/pc.png){:height="3%" width="3%"} Heraldo Muñoz

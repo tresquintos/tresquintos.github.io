@@ -91,7 +91,7 @@ El gráfico de abajo muestra la distribución de escaños a nivel nacional. Demu
 
 ----
 
-![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **24 de Noviembre de 2020**, y se seguirá actualizando hasta la inscripción definitiva de listas. Una vez que estén las listas definitivas inscritas con sus respectivos candidatos, se realizará la simulación final.
+![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **3 de Diciembre de 2020**, y se seguirá actualizando hasta la inscripción definitiva de listas. Una vez que estén las listas definitivas inscritas con sus respectivos candidatos, se realizará la simulación final. Los cuatro escenarios fueron publicados por primera vez en [**The Clinic**](https://www.theclinic.cl/2020/12/03/140-dias-cuatro-escenarios-y-una-sola-convencion-asi-se-vislumbra-la-constituyente-de-abril/). 
 
 ---
 

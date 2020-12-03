@@ -35,21 +35,15 @@ El gráfico muestra la distribución de escaños a nivel nacional. Muestra que U
 
 En este segundo escenario se consideran dos oposiciones; una moderada y una extrema. Los autocomplacientes contra los autoflagelantes. Los que piden acuerdos vs. los que piden cambios. En una esquina, Unidad Constituyente, y en la otra, el pacto entre el PC y el FA. Lo que se mantendría igual, sin embargo, sería que otros partidos más pequeños, movidos por sus liderazgos individuales se mantendrían al margen de las negociaciones (como el PH bajo el mando de Pamela Jiles, y el PEV bajo el liderazgo de su único diputado, Félix González de Concepción. La Tabla de abajo muestra los potenciales resultados.
 
-&nbsp;  
-
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%202a.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
-&nbsp;  
-
 En este segundo escenario se consideran dos oposiciones; una moderada y una extrema. Los autocomplacientes contra los autoflagelantes. Los que piden acuerdos vs. los que piden cambios. En una esquina, Unidad Constituyente, y en la otra, el pacto entre el PC y el FA. Lo que se mantendría igual, sin embargo, sería que otros partidos más pequeños, movidos por sus liderazgos individuales se mantendrían al margen de las negociaciones (como el PH bajo el mando de Pamela Jiles, y el PEV bajo el liderazgo de su único diputado, Félix González de Concepción. La Tabla de abajo muestra los potenciales resultados.
 
-&nbsp;  
-
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/constituyente2021escenario%202b.png" >
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%202b.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
@@ -61,21 +55,15 @@ En este segundo escenario se consideran dos oposiciones; una moderada y una extr
 
 En este tercer escenario todos los partidos desde el centro a la izquierda se unen con un objetivo común: derrotar a la derecha. De forma milagrosa, los lideres políticos de todos los partidos que hoy se consideran oposición al gobierno acordarían deponer sus diferencias para tratar de unir fuerzas y acercarse lo más posible al marcador de los 2/3, lo que le permitiría empujar cambios constitucionales unilateralmente. Partidos y listas más pequeñas mantendrían su opción propia. En particular las listas independientes y las que actualmente son antisistema o no tienen representación. La Tabla de abajo muestra los potenciales resultados.
 
-&nbsp;  
-
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%203a.png" >
 </div>
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
-
-&nbsp;  
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>  
 
 El gráfico muestra la distribución de escaños a nivel nacional. Si todos los partidos del Unidad Constituyente, Chile Digno y el Frente Amplio conformaran una lista única podrían llegar a 98 escaños, 7 más de lo que obtendrían si van en listas separadas (escenario 2), y apenas 4 menos que el marcador de dos tercios. En este caso, Chile Vamos perdería cerca de 10 escaños, en comparación con el primer escenario. Suponiendo que la lista de la oposición llevaría a candidatos fuertes en todos los distritos del país, se anularían aun más las posibilidades de los independientes y partidos antisistema de llegar a la convención constituyente.
 
-&nbsp;  
-
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/constituyente2021escenario%203b.png" >
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%203b.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
@@ -87,21 +75,15 @@ El gráfico muestra la distribución de escaños a nivel nacional. Si todos los 
 
 En este cuarto escenario toma importancia la naturaleza anti-política de lo que acontece en la actualidad. Sigue el lineamiento del segundo escenario (el cual es el más probable), pero pone un bono sobre todas las listas independientes o que actualmente son vistos como antisistema. Para esto, se utilizan los mismos supuestos que en los otros escenarios, pero se les resta un porcentaje a las listas tradicionales (quienes actualmente tienen representación) y se les reasigna a los “terceros”. Chile Vamos sería la lista más perjudicada. La Tabla de abajo muestra los potenciales resultados.
 
-&nbsp;  
-
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%204a.png" >
 </div>
-<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
+<sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>  
 
-&nbsp;  
-
-  El gráfico de abajo muestra la distribución de escaños a nivel nacional. Demuestra que aun restándole una tajada a las grandes listas (Chile Vamos, Unidad Constituyente, PC+FA) y redistribuyéndolo, las listas pequeñas obtendrían escaso éxito. En un escenario optimista, los independientes obtendrían 6 escaños de los 155 en disputa, y todos en los distritos que reparten al menos 7 cupos. Si efectivamente hay una demanda por nuevas opciones, el principal beneficiado sería el Partido Republicano (suponiendo que lleva candidatos fuertes en todo el país).
-
-&nbsp;  
+El gráfico de abajo muestra la distribución de escaños a nivel nacional. Demuestra que aun restándole una tajada a las grandes listas (Chile Vamos, Unidad Constituyente, PC+FA) y redistribuyéndolo, las listas pequeñas obtendrían escaso éxito. En un escenario optimista, los independientes obtendrían 6 escaños de los 155 en disputa, y todos en los distritos que reparten al menos 7 cupos. Si efectivamente hay una demanda por nuevas opciones, el principal beneficiado sería el Partido Republicano (suponiendo que lleva candidatos fuertes en todo el país).
 
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/constituyente2021escenario%204b.png" >
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%204b.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

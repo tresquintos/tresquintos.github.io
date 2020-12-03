@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver nuestras simulaciones para la elección de convencionales constituyentes de 2021. Las tablas y los gráficos de abajo muestran una proyección basada en datos electorales de Chile en 1989-2017, los resultados de la elección de diputados de 2017, la fragmentación del sistema del partidos a partir del estallido social de 2019, los cambios y las continuidades de los partidos y sus representantes titulares, la entrada de independientes (y listas de independientes), y los efectos particulares del sistema electoral. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
 
-En lo que sigue, presentamos **cuatro escenarios** políticos diferentes, en que solo cambia la conformación de las listas electorales. En cada escenario presentamos un breve comentario sobre el análisis de resultados (y una tabla que los muestra), y su implicancia legislativa (y una figura que la ilustra). Como hemos explicado en el pasado, estas simulaciones se irán actualizando hasta el día de la elección. La simulación más importante se llevará a cabo después del 11 de enero de 2021, día en que el Servel exige la inscripción de listas electorales. Por ahora, ofrecemos nuestro tradicional Caveat Emptor, en que reconocemos las limitaciones de nuestra tarea.
+En lo que sigue, presentamos **cuatro escenarios** políticos diferentes, en que solo cambia la conformación de las listas electorales. En cada escenario presentamos un breve comentario sobre el análisis de resultados (y una tabla), y su implicancia legislativa (y una figura). Como hemos explicado en el pasado, estas simulaciones se irán actualizando hasta el día de la elección. La simulación más importante se llevará a cabo después del 11 de enero de 2021, día en que el Servel exige la inscripción de listas electorales. Por ahora, ofrecemos nuestro tradicional Caveat Emptor, en que reconocemos las limitaciones de nuestra tarea.
 
 ---
 
@@ -15,21 +15,15 @@ En lo que sigue, presentamos **cuatro escenarios** políticos diferentes, en que
 
 En este primer escenario destaca específicamente la unidad de los partidos de la ex Concertación, y en general la división de la oposición. Mientras que los primeros se agruparían en una gran coalición llamada Unidad Constituyente (compuesta por: la DC, PPD, PS, PR, Ciudadanos y el PRO), el PC seguiría la vía propia en conjunto con el FRVS en Chile Digno, y el Frente Amplio mantendría su independencia. Otros partidos competirían solos (entre los más importantes, con presencia nacional, el PH y el PEV). Este es el escenario en que nos encontramos hoy (26/11/2020). La Tabla de abajo muestra los potenciales resultados.
 
-&nbsp;  
-
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%201a.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
-&nbsp;  
-
 El gráfico muestra la distribución de escaños a nivel nacional. Muestra que Unidad Constituyente lideraría, con cerca de 68 escaños (44% de los 155). La Tabla también muestra a Chile Vamos estaría 14 escaños por sobre el tercio, sumando 64 curules, y con posibilidades de llegar a los 70. Chile Digno y el Frente Amplio estarían en torno a 10 escaños cada uno. Lo último se debe al costo de ir por fuera de una lista grande en el caso del primero, y a la falta de lideres personalistas que puedan arrastrar compañeros de lista en el caso del segundo. Los independientes sumarían solo 1 escaño, con un tope de 3.
 
-&nbsp;  
-
 <div align="center">
-<img width="600" src="https://tresquintos.cl/images/constituyente2021escenario%201b.png" >
+<img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario%201b.png" >
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar este gráfico, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 

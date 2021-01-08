@@ -35,7 +35,7 @@ Para efectos de este sitio, un pronóstico es una proyección para una elección
 
 ### ¿Con qué frecuencia se actualiza el sitio?
 
-El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para 2020 y 2021, la frecuencia será relativamente alta.
+El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para los próximos años, la frecuencia será relativamente alta.
 
 [![plebiscito2020](/images/election1.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020) [![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://www.servel.cl/primarias-2020/) [![concejales2020](/images/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![alcaldes2020](/images/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![constituyentes2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020) [![gobernadores202](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2020) [![primarias2021](/images/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![consejeros2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_consejeros_regionales_de_Chile_de_2021) [![diputados2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![senadores2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![presidente2021](/images/election11.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021)
 
@@ -52,6 +52,13 @@ Estamos en todas las redes sociales.
 Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile). Mantiene las siguientes páginas.
 
 [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker)
+
+
+### ¿Quién está en el equipo de Tresquintos?
+
+Sofía Contreras Ubal es la encargada del equipo de investigación, y Francisca Urquiza Borquez está a cargo de las ilustraciones.
+
+[![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/franurquiza.png){:height=5%" width="5%"}](https://twitter.com/fran_urquiza)
 
 
 ### ¿Qué programas se usan para generar y distribuir contenido?

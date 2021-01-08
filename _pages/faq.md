@@ -56,7 +56,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 ### ¿Quién está en el equipo de Tresquintos?
 
-Sofía Contreras Ubal es la encargada del equipo de investigación, y Francisca Urquiza Borquez está a cargo de las ilustraciones.
+Sofía Contreras Ubal es la encargada del equipo de investigación, y Francisca Urquiza Borquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
 [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/franurquiza.png){:height=5%" width="5%"}](https://twitter.com/fran_urquiza)
 

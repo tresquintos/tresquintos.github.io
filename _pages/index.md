@@ -37,6 +37,9 @@ Abajo puedes ver una simulación de la elección de convencionales constituyente
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="10%" width="10%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="10%" width="10%"}
+
+
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >
 </div>

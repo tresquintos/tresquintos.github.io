@@ -37,7 +37,7 @@ Abajo puedes ver una simulación de la elección de convencionales constituyente
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="15%" width="15%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"} ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"} ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"}
 
 
 <div align="center">

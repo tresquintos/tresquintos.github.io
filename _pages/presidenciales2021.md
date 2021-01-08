@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la tendencia en la intención de voto para los principales candidatos presidenciales. Muestra la tendencia para los candidatos con más preferencias en las encuestas (la lista completa de candidatos está [aquí](https://tresquintos.cl/pres2021/)). La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/) usando todas las [encuestas](https://tresquintos.cl/encuestas/) disponibles. La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
+En esta página puedes ver la tendencia en la intención de voto para los principales candidatos presidenciales. Muestra la tendencia para los candidatos con más preferencias en las encuestas (la lista completa de candidatos está [aquí](https://tresquintos.cl/pres2021/)). La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/) usando todas las [encuestas](https://tresquintos.cl/encuestas/) disponibles. La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer como el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 ---
 
@@ -17,43 +17,42 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ---
 ### ![1](/images/pc.png){:height="3%" width="3%"} Joaquín Lavín
 
-![1](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"} ![1](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
-![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
+![Joaquín Lavín](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"} ![Joaquín Lavín](/images/tsm/kd_2021_Joaquín%20Lavín.png){:height="49%" width="49%"}
 
 
 ---
 ### ![2](/images/pc.png){:height="3%" width="3%"} Daniel Jadue
 
-![2](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"} ![2](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
+![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
-![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
+![Daniel Jadue](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"} ![Daniel Jadue](/images/tsm/kd_2021_Daniel%20Jadue.png){:height="49%" width="49%"}
 
 
 ---
 ### ![3](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
 
-![3](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"} ![3](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
+![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
-![12](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
+![Evelyn Matthei](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 
 ---
 ### ![4](/images/pc.png){:height="3%" width="3%"} José Antonio Kast
 
-![3](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"} ![3](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 
-![3](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
+![José Antonio Kast](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 
 ---
 ### ![5](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
 
-![13](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="49%" width="49%"} ![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
-
-![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
+![Pamela Jiles](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
 
 ---

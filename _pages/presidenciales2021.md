@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la tendencia en la intención de voto para los principales candidatos de las presidenciales. Muestra la tendencia para los candidatos con más preferencias en las encuestas. La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/) usando todas las [encuestas](https://tresquintos.cl/encuestas/) disponibles. La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
+En esta página puedes ver la tendencia en la intención de voto para los principales candidatos de las presidenciales (la lista completa está [aquí](https://tresquintos.cl/pres2021/)). Muestra la tendencia para los candidatos con más preferencias en las encuestas. La tendencia para cada candidato está dividido en una línea de tendencia y una distribución de probabilidades. Ambos son computados automáticamente por el [TSM](https://tresquintos.cl/tsm/) usando todas las [encuestas](https://tresquintos.cl/encuestas/) disponibles. La línea de tendencia es la evolución de apoyo para cada candidato a través del tiempo, y se puede leer cómo el resultado de la elección "si fuera hoy". La distribución de probabilidades es la dispersión de posibles resultados, y se puede interpretar como el margen de error.
 
 ---
 

@@ -44,20 +44,19 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 ![José Antonio Kast](/gifs/tsm/2021_tsgif_3_clip.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 ---
-### ![4](/images/pc.png){:height="3%" width="3%"} Franco Parisi
-
-![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/gifs/tsm/2021_experimental_5_forwards.gif){:height="49%" width="49%"}
-
-![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
-
-
----
 ### ![9](/images/pc.png){:height="3%" width="3%"} Pamela Jiles
 
 ![13](/images/tsm/card_2021_Pamela%20Jiles.png){:height="49%" width="49%"} ![13](/gifs/tsm/2021_experimental_13_forwards.gif){:height="49%" width="49%"}
 
 ![Pamela Jiles](/gifs/tsm/2021_tsgif_13_clip.gif){:height="49%" width="49%"} ![Pamela Jiles](/images/tsm/kd_2021_Pamela%20Jiles.png){:height="49%" width="49%"}
 
+
+---
+### ![4](/images/pc.png){:height="3%" width="3%"} Franco Parisi
+
+![5](/images/tsm/card_2021_Franco%20Parisi.png){:height="49%" width="49%"} ![5](/gifs/tsm/2021_experimental_5_forwards.gif){:height="49%" width="49%"}
+
+![Franco Parisi](/gifs/tsm/2021_tsgif_5_clip.gif){:height="49%" width="49%"} ![Franco Parisi](/images/tsm/kd_2021_Franco%20Parisi.png){:height="49%" width="49%"}
 
 
 ---

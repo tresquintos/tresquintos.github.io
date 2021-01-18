@@ -18,11 +18,12 @@ Pincha en una de las siguientes seis opciones si quieres hacer una **donación �
 [![Reveniu](/images/cienmil_una.png){:height="20%" width="20%"}](https://app.reveniu.com/wp/checkout/uOMuPVaBAajcc88clP7bK5D7yCtyDSbl/tresquintos)
 [![Reveniu](/images/otro_una.png){:height="20%" width="20%"}](https://app.reveniu.com/wp/checkout/rQlHnoDyO72NnFTsfts3xVJH5p4qbmF6/tresquintos)
 
-Pincha en una de las siguientes tres opciones si quieres hacer una **donación mensual**:
+Pincha en una de las siguientes cuatro opciones si quieres hacer una **donación mensual**:
 
 [![Reveniu](/images/mil_mensual.png){:height="20%" width="20%"}](https://app.reveniu.com/checkout/xjXeI5gCK9dHERJYFrnVPp1qjYJpJLZU/tresquintos)
 [![Reveniu](/images/dosmil_mensual.png){:height="20%" width="20%"}](https://app.reveniu.com/checkout/x4uYMXcTeLolNIuKSVqxLjHKkGfNj3ug/tresquintos)
 [![Reveniu](/images/cincomil_mensual.png){:height="20%" width="20%"}](https://app.reveniu.com/checkout/7zKtTSeNIGTecH8eJPIThnIaLHFaDlvi/tresquintos)
+[![Reveniu](/images/diezmil_mensual.png){:height="20%" width="20%"}](https://app.reveniu.com/checkout/hGI2eI0Irw6Yq1h6SUamrHqc176FW6Ve/tresquintos)
 
 O, si prefieres, puedes donar vía **PayPal** o **Bitcoin**.
 

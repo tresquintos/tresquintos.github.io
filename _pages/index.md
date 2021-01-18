@@ -52,7 +52,7 @@ Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En tota
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
 
 
-<iframe src="https://discord.com/widget?id=695279028055048243&theme=dark" width="350" height="200" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="https://discord.com/widget?id=695279028055048243&theme=dark" width="350" height="200" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><a class="twitter-timeline" href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw">Tweets by tresquintos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

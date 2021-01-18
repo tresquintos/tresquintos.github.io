@@ -10,7 +10,7 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones [aquí](https://tresquintos.cl/elecciones/).
 
 
-<iframe src="https://discord.com/widget?id=695279028055048243&theme=dark" width="150" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"> </iframe> [![lista convencionales](/images/lista_de_constituyentes.gif){:height="49" width="49%"}](https://tresquintos.cl/convencionales2021/)
+[![lista pres](/images/lista_de_presidenciales.gif){:height="49%" width="49%"}](https://tresquintos.cl/pres2021/) [![lista convencionales](/images/lista_de_constituyentes.gif){:height="49" width="49%"}](https://tresquintos.cl/convencionales2021/)
 
 
 ---

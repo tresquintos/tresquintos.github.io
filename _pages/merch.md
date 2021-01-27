@@ -31,7 +31,9 @@ Cada polera (mix and match)
 
 ![1](/images/brand/merch/merch_polera1.png){:height="32%" width="32%"} ![2](/images/brand/merch/merch_polera2.png){:height="32%" width="32%"} ![3](/images/brand/merch/merch_polera3.png){:height="32%" width="32%"}
 
-![4](/images/brand/merch/merch_polera4.png){:height="32%" width="32%"} ![5](/images/brand/merch/merch_polera5.png){:height="32%" width="32%"} ![6](/images/brand/merch/merch_polera7.png){:height="32%" width="32%"}
+![4](/images/brand/merch/merch_polera4.png){:height="32%" width="32%"} ![5](/images/brand/merch/merch_polera5.png){:height="32%" width="32%"} ![6](/images/brand/merch/merch_polera6.png){:height="32%" width="32%"}
+
+![7](/images/brand/merch/merch_polera7.png){:height="32%" width="32%"} ![8](/images/brand/merch/merch_polera8.png){:height="32%" width="32%"} ![9](/images/brand/merch/merch_polera9.png){:height="32%" width="32%"}
 
 ---
 

@@ -27,7 +27,7 @@ Tazones (versión con pc o logo)
 ---
 ### T-Shirts
 
-Poleras
+Poleras dHondt
 
 ![1](/images/brand/merch/merch_polera2.jpeg){:height="49%" width="49%"} ![2](/images/brand/merch/merch_polera1.jpeg){:height="45%" width="45%"}
 

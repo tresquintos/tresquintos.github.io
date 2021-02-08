@@ -31,20 +31,19 @@ En esta página puedes ver la tendencia en la intención de voto para los princi
 
 
 ---
-### ![3](/images/pc.png){:height="3%" width="3%"} José Antonio Kast
-
-![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
-
-
-![José Antonio Kast](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
-
-
----
-### ![4](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
+### ![3](/images/pc.png){:height="3%" width="3%"} Evelyn Matthei
 
 ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
 
 ![Evelyn Matthei](/gifs/tsm/2021_experimental_12_forwards.gif){:height="49%" width="49%"} ![Evelyn Matthei](/images/tsm/kd_2021_Evelyn%20Matthei.png){:height="49%" width="49%"}
+
+
+---
+### ![4](/images/pc.png){:height="3%" width="3%"} José Antonio Kast
+
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
+
+![José Antonio Kast](/gifs/tsm/2021_experimental_3_forwards.gif){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/kd_2021_José%20Antonio%20Kast.png){:height="49%" width="49%"}
 
 
 ---

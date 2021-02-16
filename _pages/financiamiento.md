@@ -20,61 +20,61 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional po
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 
-![cc](/images/financimiento/cc_aportes_1.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_1.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_1.png){:height="49" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_2.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_2.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_2.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_2.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_3.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_3.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_3.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_3.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_4.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_4.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_4.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_4.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_5.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_5.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_5.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_5.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_6.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_6.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_6.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_6.png){:height="49" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_7.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_7.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_7.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_7.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_8.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_8.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_8.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_8.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_9.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_9.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_9.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_9.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_10.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_10.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_10.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_10.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_11.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_11.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_11.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_11.png){:height="49" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_12.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_12.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_12.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_12.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_13.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_13.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_13.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_13.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_14.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_14.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_14.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_14.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_15.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_15.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_15.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_15.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_16.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_16.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_16.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_16.png){:height="49" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_17.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_17.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_17.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_17.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_18.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_18.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_18.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_18.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_19.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_19.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_19.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_19.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_20.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_20.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_20.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_20.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_21.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_21.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_21.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_21.png){:height="49" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_22.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_22.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_22.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_22.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_23.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_23.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_23.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_23.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_24.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_24.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_24.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_24.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_25.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_25.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_25.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_25.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_26.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_26.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_26.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_26.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_27.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_27.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/cc_aportes_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_27.png){:height="49%" width="49%"}
 
-![cc](/images/financimiento/cc_aportes_28.png){:height="49%" width="49%"} ![cc](/images/financimiento/cc_aportes_28.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_28.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_28.png){:height="49" width="49%"}
 
 ---
 

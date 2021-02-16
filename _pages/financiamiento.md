@@ -5,7 +5,7 @@ permalink: /financiamiento/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes por pactos realizados para la Elección de Convencionales Constituyentes a realizarse el 11 de abril. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza cada vez que el SERVEL sube nuevas actualizaciones.
+En esta página puedes ver el total de aportes por pactos realizados para la Elección de Convencionales Constituyentes a realizarse el 11 de abril. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza cada vez que el Servicio Electoral de Chile (Servel) sube nuevas actualizaciones.
 
 
 ### Total de aportes a nivel nacional por pactos

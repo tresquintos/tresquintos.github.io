@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Financiamiento Convención Constitucional 2021"
+title: "Financiamiento Electoral 2021"
 permalink: /financiamiento/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes por pactos realizados para la Elección de Convencionales Constituyentes a realizarse el 11 de abril. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza cada vez que el Servicio Electoral de Chile (Servel) sube nuevas actualizaciones.
+En esta página puedes ver el total de aportes para la elección del 11 de abril de 2021 para Convencionales, Gobernadores Regionales, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza diariamente cada vez que el Servicio Electoral de Chile (Servel) sube nuevas actualizaciones.
 
 
-### Total de aportes a nivel nacional por pactos
+### Total de aportes a nivel nacional
 
 El siguiente gráfico muestra el total de aportes realizados a nivel nacional por pactos.
 

@@ -20,7 +20,7 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional po
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 
-![cc](/images/financiamiento/cc_aportes_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_2.png){:height="49" width="49%"}
+[cc](/images/financiamiento/cc_aportes_1.png){:height="49%" width="49%"} [cc](/images/financiamiento/cc_aportes_2.png){:height="49" width="49%"}
 
 ![cc](/images/financiamiento/cc_aportes_3.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_4.png){:height="49%" width="49%"}
 

@@ -16,7 +16,7 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional pa
 ![cc](/images/aportes2021_todos.png){:height="100%" width="100%"}
 
 
-### Total de aportes por pactos de los 28 distritos nacionales
+### Total de aportes por pactos Elección Convencionales Constituyentes a nivel nacional
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 

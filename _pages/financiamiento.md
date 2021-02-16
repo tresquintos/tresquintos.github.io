@@ -5,18 +5,18 @@ permalink: /financiamiento/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para la elección del 11 de abril de 2021 para Convencionales, Gobernadores Regionales, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza diariamente cada vez que el Servicio Electoral de Chile (Servel) sube nuevas actualizaciones.
+En esta página puedes ver el total de aportes para la Elección del 11 de abril de 2021 para Convencionales, Gobernadores Regionales, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito. La información se actualiza diariamente cada vez que el Servicio Electoral de Chile (Servel) sube nuevas actualizaciones.
 
 
-### Total de aportes a nivel nacional
+### Total de aportes por Elección
 
-El siguiente gráfico muestra el total de aportes realizados a nivel nacional por pactos.
+El siguiente gráfico muestra el total de aportes realizados a nivel nacional para cada una de las Elecciones
 
 
 ![cc](/images/aportes2021_todos.png){:height="100%" width="100%"}
 
 
-### Total de aportes por pactos de los 28 distritos nacionales
+### Total de aportes por pactos Elección Convencionales Constituyentes a nivel nacional
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 

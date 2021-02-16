@@ -30,7 +30,7 @@ Los siguientes gráficos muestran el total de aportes realizados por pactos de c
 
 ![cc](/images/financiamiento/cc_aportes_9.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_10.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/cc_aportes_11png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_12.png){:height="49" width="49%"}
+![cc](/images/financiamiento/cc_aportes_11.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_12.png){:height="49" width="49%"}
 
 ![cc](/images/financiamiento/cc_aportes_13.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_14.png){:height="49%" width="49%"}
 

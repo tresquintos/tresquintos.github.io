@@ -27,6 +27,9 @@ main:
 
   - title: "🗳️Convencionales 2021"
     url: /convencionales2021/
+    
+  - title: "💰Aportes 2021"
+    url: /aportes/
 
   - title: "🗳️Partidos"
     url: /partidos/

@@ -27,39 +27,12 @@ main:
 
   - title: "🗳️Convencionales 2021"
     url: /convencionales2021/
-    
+
   - title: "💰Aportes 2021"
     url: /aportes/
 
-  - title: "🗳️Partidos"
-    url: /partidos/
-
-  - title: "📇Manuales"
-    url: /manuales/
-
-  - title: "🗺️Guía"
-    url: /guia/
-
-  - title: "🗺️Mapas"
-    url: /mapa/
-
-  - title: "💼Gabinetes"
-    url: /gabinetes/
-
-  - title: "🎱Fichajes"
-    url: /fichajes/
-
   - title: "🎈Endosos"
     url: /endosos/
-
-  - title: "💾Datos"
-    url: /datos/
-
-  - title: "🔖Blog"
-    url: /year-archive/
-
-  - title: "⛳Merch"
-    url: /merch/
 
   - title: "💎Donaciones"
     url: /donaciones/

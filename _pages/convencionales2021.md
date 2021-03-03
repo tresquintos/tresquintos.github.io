@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de candidatos a la Convención Constituyente y la lista de candidatos a los Escaños Reservados. La [elección](https://tresquintos.cl/elecciones/) se llevará a cabo el próximo 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (06 de febrero de 2021). Las tablas incluyen el distrito, el nombre del candidato, la lista por la cual van a competir y su partido político o el Pueblo Originario al que representa. Si quieres ver una [simulación](https://tresquintos.cl/sx/) para la elección, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
+En esta página puedes ver la lista de candidatos a la Convención Constituyente y la lista de candidatos a los Escaños Reservados. La [elección](https://tresquintos.cl/elecciones/) se llevará a cabo el próximo 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (02 de marzo de 2021). Las tablas incluyen el distrito, el nombre del candidato, la lista por la cual van a competir y su partido político o el Pueblo Originario al que representa. Si quieres ver una [simulación](https://tresquintos.cl/sx/) para la elección, pincha [aquí](https://tresquintos.cl/constituyentes2021/).
 
 ---
 

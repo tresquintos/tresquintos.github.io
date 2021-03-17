@@ -14,7 +14,7 @@ En lo que sigue, presentamos **tres escenarios** políticos, en que solo cambia 
 
 # ![1](/images/pc.png){:height="3%" width="3%"} Escenario 1: Statu Quo
 
-Este escenario presenta la simulación donde todo se **mantiene igual**, aplicando los pasos correspondientes en los métodos de la simulación (https://tresquintos.cl/sx/), sin considerar el descuento para Vamos por Chile por los efectos del *Estallido Social*. El cuadro de abajo muestra la posible distribución de los 138 escaños que se elegirán en la Convención Constitucional.
+Este escenario presenta la simulación donde todo se **mantiene igual**, aplicando los pasos correspondientes en los métodos de la simulación, sin considerar el descuento para Vamos por Chile por los efectos del *Estallido Social*. El cuadro de abajo muestra la posible distribución de los 138 escaños que se elegirán en la Convención Constitucional.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario1statusquo.png" >

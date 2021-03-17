@@ -12,13 +12,19 @@ En lo que sigue, presentamos **tres escenarios** políticos diferentes, en que s
 Pero antes, te presentamos el método para esta simulación, donde se aplica una serie de correcciones secuenciales:
 
 
-**1.	Registro de datos** Se usa elección más reciente como proxy (2017)
+**1.	Registro de datos** 
+- Se usa elección más reciente como proxy (2017)
 
 
-**2.	Ajuste inter-eleccionario** Se reajustan partidos (partidos que murieron; partidos que nacieron) y se reajustan titulares (diputados que se cambiaron)
+**2.	Ajuste inter-eleccionario** 
+- Se reajustan partidos (partidos que murieron; partidos que nacieron)
+- Se reajustan titulares (diputados que se cambiaron)
 
 
-**3.	Ajuste de nuevos jugadores** Listas de independientes (firmas para inscribirse), Independientes fuera de pacto (firmas para inscribirse) y Bonos y castigos (encuestas; info partidos; servidor Discord de Tresquintos)
+**3.	Ajuste de nuevos jugadores** 
+- Listas de independientes (firmas para inscribirse)
+- Independientes fuera de pacto (firmas para inscribirse)
+- Bonos y castigos (encuestas; info partidos; servidor Discord de Tresquintos)
 
 
 **4.	Tarifa plana**

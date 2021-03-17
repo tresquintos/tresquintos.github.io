@@ -12,22 +12,22 @@ En lo que sigue, presentamos **tres escenarios** políticos diferentes, en que s
 Pero antes, te presentamos el método para esta simulación, donde se aplica una serie de correcciones secuenciales:
 
 
-1.	Registro de datos
+**1.	Registro de datos**
 a.	Se usa elección más reciente como proxy (2017)
 
 
-2.	Ajuste inter-eleccionario
+**2.	Ajuste inter-eleccionario**
 a.	Se reajustan partidos (partidos que murieron; partidos que nacieron)
 b.	Se reajustan titulares (diputados que se cambiaron)
 
 
-3.	Ajuste de nuevos jugadores
+**3.	Ajuste de nuevos jugadores**
 a.	Listas de independientes (firmas para inscribirse)
 b.	Independientes fuera de pacto (firmas para inscribirse)
 c.	Bonos y castigos (encuestas; info partidos; servidor Discord de Tresquintos)
 
 
-4.	Tarifa plana
+**4.	Tarifa plana**
 a.	Escenario 1: Todo queda igual (=)
 b.	Escenario 2: Castigo a Vamos por Chile (-3%)
 c.	Escenario 3: Bono a Vamos por Chile (+3%)

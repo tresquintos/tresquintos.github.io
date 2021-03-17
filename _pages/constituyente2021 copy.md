@@ -71,7 +71,7 @@ La Figura de abajo muestra la posible distribución de los 138 escaños que se e
 
 ----
 
-![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **17 de enero de 2021**, y se seguirá actualizando hasta días antes de la elección Los tres escenarios fueron publicados por primera vez en [**El Mercurio**](https://digital.elmercurio.com/mobile#2021/03/07/R/JK3U6ICF). 
+![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **17 de enero de 2021**, y se seguirá actualizando hasta días antes de la elección Los tres escenarios fueron publicados por primera vez en [**El Mercurio**](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width). 
 
 ---
 

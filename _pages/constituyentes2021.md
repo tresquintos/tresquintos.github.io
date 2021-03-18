@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver nuestras simulaciones para la elección de Convencionales Constituyentes de 2021. Las tablas y los gráficos de abajo muestran una proyección basada en datos electorales de Chile en 1989-2017, los resultados de la elección de diputados de 2017, la fragmentación del sistema del partidos a partir del estallido social de 2019, los cambios y las continuidades de los partidos y sus representantes titulares, la entrada de independientes (y listas de independientes), y los efectos particulares del sistema electoral. Para conocer el detalle del método tras las simulaciones, pincha [aquí](https://tresquintos.cl/sx/).
 
-En lo que sigue, presentamos **tres escenarios** políticos, en que solo cambia la conformación de las listas electorales. En cada escenario presentamos un breve comentario sobre el análisis de resultados (y una tabla), y su implicancia legislativa (y una figura). Como hemos explicado en el pasado, estas simulaciones se irán actualizando hasta el día de la elección. Donde, en los tres escenarios la lista de Vamos por Chile alcanza al menos el 2/3 de los escaños, por otra parte, las listas de independientes en los tres escenarios que se presentan a continuación, le restan escaños a la Lista del Apruebo y en mayor proporción le podrían restar a la lista de Apruebo Dignidad. 
+En lo que sigue, se presentan **tres escenarios** políticos, en que solo cambia la conformación de las listas electorales. En cada escenario se presenta un breve comentario sobre el análisis de resultados (y una tabla), y su implicancia legislativa (y una figura). En los tres escenarios la lista de Vamos por Chile alcanza al menos el 1/3 de los escaños, por otra parte, las listas de independientes en los tres escenarios que se presentan a continuación le restan escaños a la Lista del Apruebo y en mayor proporción le podrían restar a la lista de Apruebo Dignidad. Como hemos explicado en el pasado, estas simulaciones se irán actualizando hasta el día de la elección.
 
 
 ---
@@ -41,7 +41,7 @@ En este escenario se aplica un descuento a **Chile Vamos de 3% nacional**. Por o
 </div>
 <sub>![.](/images/danger.png){:height="1.8%" width="1.8%"} Para interpretar esta tabla, revisa los detalles del método [aquí](https://tresquintos.cl/sx/) y los comentarios asociados [aquí](https://tresquintos.cl/posts/2020/03/caveat/). ![.](/images/danger.png){:height="1.8%" width="1.8%"} </sub>
 
-La Figura de abajo muestra la posible distribución de los 138 escaños que se elegirán en la Convención Constitucional, según las simulaciones correspondientes al escenario 2, donde la Lista del Apruebo concentra la mayor cantidad de escaños, viéndose perjudicados en este escenario por los castigados aplicados la lista de Vamos por Chile, aún así alcanzan justo los 2/3 de los escaños.
+La Figura de abajo muestra la posible distribución de los 138 escaños que se elegirán en la Convención Constitucional, según las simulaciones correspondientes al escenario 2, donde la Lista del Apruebo concentra la mayor cantidad de escaños, viéndose perjudicados en este escenario por los castigados aplicados a la lista de Vamos por Chile, aún así alcanzan justo los 2/3 de los escaños.
 
 <div align="center">
 <img width="600" src="https://tresquintos.cl/images/constituyente2021/escenario2castigochilevamos2.png" >
@@ -72,7 +72,7 @@ La Figura de abajo muestra la posible distribución de los 138 escaños que se e
 
 ----
 
-![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **17 de enero de 2021**, y se seguirá actualizando hasta días antes de la elección Los tres escenarios fueron publicados por primera vez en [**El Mercurio**](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width). 
+![1](/images/pc.png){:height="3%" width="3%"} Estas simulaciones son solo referenciales y no necesariamente representativas del resultado de la elección. Está página fue actualizada el **17 de marzo de 2021**, y se seguirá actualizando hasta días antes de la elección. Los tres escenarios fueron publicados por primera vez en [**El Mercurio**](https://digital.elmercurio.com/2021/03/07/R/JK3U6ICF#zoom=page-width). 
 
 ---
 

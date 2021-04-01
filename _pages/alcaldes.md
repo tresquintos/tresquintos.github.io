@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de candidatos a alcaldes de todo Chile. La elección se llevarán a cabo los días 10 y 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (31 de marzo de 2021) La tabla incluye la comuna, el nombre del candidato, la lista/pacto al que partenece y el partido político por el que va a la elección.
+En esta página puedes ver la lista completa de candidatos a alcaldes. La elección se llevará a cabo los días 10 y 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (31 de marzo de 2021). La tabla incluye la comuna, el nombre del candidato, la el pacto al que partenece y el partido político por el que va a la elección.
 
 ---
 
-<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-a86uA" src="https://datawrapper.dwcdn.net/a86uA/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="4043"></iframe>
+<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-H4EZE" src="https://datawrapper.dwcdn.net/H4EZE/2/" scrolling="no" frameborder="0" style="border: none;" width="766" height="4043"></iframe>
 
 ---
 

@@ -10,7 +10,7 @@ En esta página puedes ver la lista completa de candidatos a alcaldes. La elecci
 
 ---
 
-<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-H4EZE" src="https://datawrapper.dwcdn.net/H4EZE/2/" scrolling="no" frameborder="0" style="border: none;" width="766" height="4043"></iframe>
+<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-H4EZE" src="https://datawrapper.dwcdn.net/H4EZE/7/" scrolling="no" frameborder="0" style="border: none;" width="766" height="4043"></iframe>
 
 ---
 

@@ -1,44 +1,44 @@
 # main links links
 main:
 
-  - title: "🗳️Elecciones"
+  - title: "🗳️ Elecciones"
     url: /elecciones/
 
-  - title: "🇨🇱Presidenciales 2021"
+  - title: "🇨🇱 Presidenciales 2021"
     url: /presidenciales2021/
 
-  - title: "🇨🇱Constituyentes 2021"
+  - title: "🇨🇱 Constituyentes 2021"
     url: /constituyentes2021/
 
-  - title: "📈Encuestas"
+  - title: "📈 Encuestas"
     url: /encuestas/
 
-  - title: "🤖TSM"
+  - title: "🤖 TSM"
     url: /tsm/
 
-  - title: "👾Sx"
+  - title: "👾 Sx"
     url: /sx/
 
-  - title: "🗳️Pres 2021"
+  - title: "🗳️ Pres 2021"
     url: /pres2021/
 
-  - title: "🗳️Gores 2021"
+  - title: "🗳️ Gores 2021"
     url: /gores2021/
 
-  - title: "🗳️Convencionales 2021"
+  - title: "🗳️ Convencionales 2021"
     url: /convencionales2021/
     
-   - title: "🗳️Alcaldes 2021"
+   - title: "🗳️ Alcaldes 2021"
     url: /alcaldes2021/
    
-  - title: "💰Aportes 2021"
+  - title: "💰 Aportes 2021"
     url: /aportes/
 
-  - title: "🎈Endosos"
+  - title: "🎈 Endosos"
     url: /endosos/
 
-  - title: "💎Donaciones"
+  - title: "💎 Donaciones"
     url: /donaciones/
 
-  - title: "📌FAQ"
+  - title: "📌 FAQ"
     url: /faq/

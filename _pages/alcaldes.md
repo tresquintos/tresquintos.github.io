@@ -10,8 +10,7 @@ En esta página puedes ver la lista de candidatos a alcaldes de todo Chile. La e
 
 ---
 
-<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-a86uA" src="https://datawrapper.dwcdn.net/a86uA/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4043"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+<iframe title="Lista de candidatos: Alcaldes 2021" aria-label="chart" id="datawrapper-chart-a86uA" src="https://datawrapper.dwcdn.net/a86uA/6/" scrolling="no" frameborder="0" style="border: none;" width="600" height="4043"></iframe>
 
 ---
 

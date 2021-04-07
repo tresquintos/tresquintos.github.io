@@ -5,7 +5,7 @@ permalink: /aportes/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para las cuatro elecciones del 11 de abril de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente. La información se actualiza diariamente.
+En esta página puedes ver el total de aportes para las cuatro elecciones del 11 de abril de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente. La información se actualiza semanalmente.
 
 
 ### Total de aportes a nivel nacional
@@ -48,6 +48,24 @@ Los siguientes gráficos muestran el total de aportes realizados por pactos de c
 
 ![cc](/images/financiamiento/cc_aportes_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_28.png){:height="49%" width="49%"}
 
+
+### Total aportes elección Gobernadores Regionales, por región y nombre de candaditos
+
+Los siguientes gráficos muestran el total de aportes realizados a candidatos, por región.
+
+![cc](/images/financiamiento/gores_aportes_nombre_Arica.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Tarapacá.png){:height="49" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Atacama.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Coquimbo.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Valparaíso.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_O'Higgins.png){:height="49" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Maule.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_pacto_Araucanía.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Los Ríos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Los Lagos.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/gores_aportes_nombre_Aysén.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Magallanes.png){:height="49" width="49%"}
 
 ---
 

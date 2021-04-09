@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación. Los datos fueron recolectados del Servel. Además, la tabla muestra la lista a la cual pertenecerían los partidos en la próxima elección.
+En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación. Los datos fueron recolectados del Servicio Electoral. Además, la tabla muestra la lista a la cual pertenecen para las próximas elecciones de Convencionales Constituyentes.
 
 ---
 

@@ -10,12 +10,12 @@ En esta página puedes ver la lista de elecciones que estamos monitoreando, junt
 
 ### 🇨🇱 Constituyentes 2021
 
-La elección de constituyentes de 2021 será realizada el 10 y 11 de abril de 2021, para elegir a los 155 integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo usando las mismas reglas electorales que se usan para elegir a los diputados. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2021), puedes ver nuestra lista de candidatos [aquí](https://tresquintos.cl/convencionales2021/), y una proyección de los resultados [aquí](https://tresquintos.cl/constituyente2021/).
+La elección de constituyentes de 2021 será realizada el 15 y 16 de mayo de 2021, para elegir a los 155 integrantes de la Convención encargada de redactar una nueva Constitución Política de la República. Estos comicios se llevarán a cabo usando las mismas reglas electorales que se usan para elegir a los diputados. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2021), puedes ver nuestra lista de candidatos [aquí](https://tresquintos.cl/convencionales2021/), y una proyección de los resultados [aquí](https://tresquintos.cl/constituyente2021/).
 
 
 ### 🇨🇱 Gobernadores 2021
 
-La elección de gobernadores de 2021 será realizada el 10 y 11 de abril de 2021, para elegir a los 16 jefes regionales que durarán cuatro años en el poder. En el caso de que en una región ninguno de los candidatos obtenga el 40% de los votos válidamente emitidos, se procederá a una segunda vuelta entre las dos primeras mayorías el cuarto domingo siguiente al de la primera vuelta; en este caso, el 9 de mayo de 2021. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2021), puedes ver nuestra lista de candidatos [aquí](https://tresquintos.cl/gore2021/), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/gobernadores2021/).
+La elección de gobernadores de 2021 será realizada el 15 y 16 de mayo de 2021, para elegir a los 16 jefes regionales que durarán cuatro años en el poder. En el caso de que en una región ninguno de los candidatos obtenga el 40% de los votos válidamente emitidos, se procederá a una segunda vuelta entre las dos primeras mayorías el cuarto domingo siguiente al de la primera vuelta; en este caso, el 13 de junio de 2021. Puedes leer más sobre la elección [aquí](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2021), puedes ver nuestra lista de candidatos [aquí](https://tresquintos.cl/gore2021/), y puedes ver una proyección de los resultados [aquí](https://tresquintos.cl/gobernadores2021/).
 
 
 ### 🇨🇱 Presidenciales 2021

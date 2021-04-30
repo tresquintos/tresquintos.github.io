@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de candidatos a Gobernador Regional. La elección se llevarán a cabo los días 10 y 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (11 de marzo de 2021) La tabla incluye la región, el nombre del candidato, la lista a la que partenece y el partido político por el que va a la elección.
+En esta página puedes ver la lista de candidatos a Gobernador Regional. La elección se llevarán a cabo los días 15 y 16 de mayo de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (11 de marzo de 2021) La tabla incluye la región, el nombre del candidato, la lista a la que partenece y el partido político por el que va a la elección.
 
 ---
 

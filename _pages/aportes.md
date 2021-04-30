@@ -5,7 +5,7 @@ permalink: /aportes/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para las cuatro elecciones del 11 de abril de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente. La información se actualiza semanalmente.
+En esta página puedes ver el total de aportes para las cuatro elecciones del 15 y 16 de mayo de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente. La información se actualiza semanalmente.
 
 
 ### Total de aportes a nivel nacional

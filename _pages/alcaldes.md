@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista completa de candidatos a alcaldes. La elección se llevará a cabo los días 10 y 11 de abril de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (31 de marzo de 2021). La tabla incluye la comuna, el nombre del candidato, la el pacto al que partenece y el partido político por el que va a la elección.
+En esta página puedes ver la lista completa de candidatos a alcaldes. La elección se llevará a cabo los días 15 y 16 de mayo de 2021. Los candidatos en esta lista ya se encuentran aprobados por el Servicio Electoral (31 de marzo de 2021). La tabla incluye la comuna, el nombre del candidato, la el pacto al que partenece y el partido político por el que va a la elección.
 
 ---
 

@@ -5,7 +5,7 @@ permalink: /aportes/
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para las cuatro elecciones del 15 y 16 de mayo de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente. La información se actualiza semanalmente.
+En esta página puedes ver el total de aportes para las cuatro elecciones del 15 y 16 de mayo de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente y el desglose por región para la elección de Gobernadores Regionales. La información se actualiza semanalmente.
 
 
 ### Total de aportes a nivel nacional
@@ -51,7 +51,7 @@ Los siguientes gráficos muestran el total de aportes realizados por pactos de c
 
 ### Total aportes elección Gobernadores Regionales, por región y nombre de candaditos
 
-Los siguientes gráficos muestran el total de aportes realizados a candidatos, por región.
+Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
 
 ![cc](/images/financiamiento/gores_aportes_nombre_Arica.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Tarapacá.png){:height="49" width="49%"}
 

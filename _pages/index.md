@@ -10,17 +10,10 @@ author_profile: true
 En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones [aquí](https://tresquintos.cl/elecciones/).
 
 
-[![lista pres](/images/lista_de_gobernadores.gif){:height="49%" width="49%"}](https://tresquintos.cl/gores2021/) [![lista convencionales](/images/lista_de_constituyentes.gif){:height="49" width="49%"}](https://tresquintos.cl/convencionales2021/)
-
-
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales. Si quieres ver lo que viene, puedes ver una simulación para la elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/).
-
-Si estás buscando información sobre la elección de gobernadores regionales de 2021, la puedes encontrar [aquí](https://tresquintos.cl/gobernadores2021/), y si estás buscando datos sobre la elección presidencial de 2021, la puedes encontrar [aquí](https://tresquintos.cl/presidenciales2021/). Para revisar el **blog**, pincha [aquí](https://tresquintos.cl/year-archive/). Para leer la **documentación** que sostiene las simulaciones, pincha [aquí](https://tresquintos.cl/sx/), y para leer la **documentación** que sostiene los pronósticos, pincha [aquí](https://tresquintos.cl/tsm/).
-
-También tenemos **listas de candidatos**. Los nombres los actualizamos constantemente. Se recopilan principalmente en base a extensivas revisiones de prensa y comunicación con partes interesadas. Si quieres ver la lista completa de potenciales **candidatos presidenciales**, pincha [aquí](https://tresquintos.cl/pres2021/), si quieres ver la lista de potenciales **candidatos a gobernador regional**, pincha [aquí](https://tresquintos.cl/gores2021/), y si quieres ver la lista de potenciales candidatos a convencional constituyente, pincha [aquí](https://tresquintos.cl/convencionales2021/).
 
 <!---
 

@@ -7,9 +7,6 @@ main:
   - title: "🇨🇱Presidenciales 2021"
     url: /presidenciales2021/
 
-  - title: "🇨🇱Constituyentes 2021"
-    url: /constituyentes2021/
-
   - title: "📈Encuestas"
     url: /encuestas/
 
@@ -24,15 +21,6 @@ main:
 
   - title: "🗳️Gores 2021"
     url: /gores2021/
-
-  - title: "🗳️Convencionales 2021"
-    url: /convencionales2021/
-    
-  - title: "🗳️Alcaldes 2021"
-    url: /alcaldes2021/
-   
-  - title: "💰Aportes 2021"
-    url: /aportes/
 
   - title: "🎈Endosos"
     url: /endosos/

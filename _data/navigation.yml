@@ -5,7 +5,7 @@ main:
     url: /elecciones/
 
   - title: "🇨🇱Presidenciales 2021"
-    url: /presidenciales2021/
+    url: /pres2021/
 
   - title: "📈Encuestas"
     url: /encuestas/

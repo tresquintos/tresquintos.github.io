@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Presidenciales 2021"
-permalink: /pres2021/
+permalink: /presidencial2021/
 author_profile: true
 ---
 

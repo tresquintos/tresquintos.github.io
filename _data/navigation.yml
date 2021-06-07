@@ -6,15 +6,21 @@ main:
 
   - title: "🇨🇱Presidenciales 2021"
     url: /pres2021/
-
+    
+  - title: "📖Constituyentes"
+    url: /convencionales/
+    
   - title: "📈Encuestas"
     url: /encuestas/
-
-  - title: "🤖TSM"
-    url: /tsm/
-
-  - title: "👾Sx"
-    url: /sx/
+    
+  - title: 🏛️Legislativo"
+    url: /legislativo/
+  
+  - title: 📊Gabinetes"
+    url: /gabinetes/
+    
+  - title: "📉Partidos Políticos"
+    url: /partidos/
 
   - title: "💎Donaciones"
     url: /donaciones/

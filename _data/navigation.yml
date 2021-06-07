@@ -35,10 +35,10 @@ main:
     url: /partidos/
     
    - title: "📈Intención de Voto"
-    url: /intencion_de_voto/
+    url: /intencion/
     
    - title: "📈Aprobación Presidencial"
-    url: /aprobacion_presidencial/
+    url: /aprobacion/
  
   - title: "💎Donaciones"
     url: /donaciones/

@@ -1,41 +1,41 @@
-﻿id,partido,partido_full,sigla,estado,constituido,tramite,formacion,economico,social,fecha_constitucion,lider,notas,lista,militantes
-15,Partido Comunista,Partido Comunista,PC,Constituido,1,0,0,1,9.1,28-05-2010,Teillier,,Apruebo Dignidad,47299
-9,Partido Socialista,Partido Socialista,PS,Constituido,1,0,0,3,5.5,19-12-1990,Elizalde,,Lista del Apruebo,43895
-18,Renovación Nacional,Renovación Nacional,RN,Constituido,1,0,0,7.2,7.5,08-02-1988,Desbordes,,Vamos por Chile,42135
-16,Unión Demócrata Independiente,Unión Demócrata Independiente,UDI,Constituido,1,0,0,8.3,8.6,03-05-1989,Van-Rysselberghe,,Vamos por Chile,41301
-7,Partido Demócrata Cristiano,Partido Demócrata Cristiano,PDC,Constituido,1,0,0,4.8,6,02-05-1988,Chahín,,Lista del Apruebo,34237
-13,Partido Por la Democracia,Partido Por la Democracia,PPD,Constituido,1,0,0,4,4.6,09-05-1988,Quintana,,Lista del Apruebo,32898
-6,Revolución Democrática,Revolución Democrática,RD,Constituido,1,0,0,2.6,3.8,22-06-2016,Jackson,,Apruebo Dignidad,31284
-12,Partido Radical,Partido Radical,PR,Constituido,1,0,0,3.5,5.2,18-08-1994,Maldonado,,Lista del Apruebo,29293
-4,Partido Progresista,Partido Progresista,PRO,Constituido,1,0,0,2.7,7.2,08-05-2018,MEO,,Lista del Apruebo,28597
-19,Partido Regionalista Independiente,Partido Regionalista Independiente Demócrata,PRI,Constituido,1,0,0,6,6,06-06-2018,Ortíz,,Vamos por Chile,22375
-3,Evolución Política,Evolución Política,EVO,Constituido,1,0,0,7,5.5,13-04-2016,Larraín,,Vamos por Chile,20595
-17,Partido Humanista,Partido Humanista,PH,Constituido,1,0,0,2,7,05-06-2014,Hirsch,,Humanistas,18050
-11,Ciudadanos,Ciudadanos,CIU,Constituido,1,0,0,5.3,4,09-07-2018,Gómez,,Lista del Apruebo,17805
-14,Partido Igualdad,Partido Igualdad,PI,Constituido,1,0,0,3,8,09-07-2018,González,,Apruebo Dignidad,17494
-1,Partido Republicano,Partido Republicano,REP,Constituido,1,0,0,9,9.5,23-01-2020,Kast,,Vamos por Chile,16157
-8,Partido Ecologista Verde,Partido Ecologista Verde,PEV,Constituido,1,0,0,1.6,3,09-07-2019,González,,Ecologista Verde,15667
-2,Federación Regionalista Verde Social,Federación Regionalista Verde Social,FRVS,Constituido,1,0,0,4,4,25-04-2017,Sepúlveda,,Apruebo Dignidad,15583
-26,Partido Unión Patriótica,Partido Unión Patriótica,UPA,Constituido,1,0,0,1,9.8,05-02-2020,Artés,,Unión Patriótica,14114
-22,Partido Comunes,Partido Comunes,Comunes,Constituido,1,0,0,,,08-05-2018,Ramírez,,Apruebo Dignidad,13640
-10,Partido Liberal de Chile,Partido Liberal de Chile,PL,Constituido,1,0,0,3.6,2.8,13-11-2018,Mirosevic,,Lista del Apruebo,10912
-20,Izquierda Anticapitalista,Izquierda Anticapitalista de los Trabajadores,IAT,Constituido,1,0,0,2,8,13-04-2018,Brito,,Trabajadores Revolucionarios,10852
-21,Partido Convergencia Social,Partido Convergencia Social,CS,Constituido,1,0,0,2.4,5.2,09-03-2020,Yeomans,,Apruebo Dignidad,9167
-24,Partido Conservador Cristiano,Partido Conservador Cristiano,PCC,Constituido,1,0,0,7,10,,.,,Ciudadanos Cristianos,3301
-27,Partido Nacional Ciudadano,Partido Nacional Ciudadano,PNC,Constituido,1,0,0,4,7,13-04-2020,Rubeska,,Partido Nacional Ciudadano,2521
-5,Nuevo Tiempo,Nuevo Tiempo,NT,Constituido,1,0,0,5.6,8.2,10-07-2019,Cortés,Evangelico,.,1604
-25,Partido Nueva Clase Media,Partido Nueva Clase Media,NCM,Constituido,1,0,0,3,4.5,16-04-2020,Salas,,.,1604
-23,Convergencia Nacional de Chile,Convergencia Nacional de Chile,CN,En Formación,0,0,0,5.5,9,,Tafireño,,,
-28,Partido Alternativa Feminista,Partido Alternativa Feminista,PAF,En Formación,0,0,1,3.4,3.7,,Moreno,,,
-29,Mov. Independientes del Norte,Partido Movimiento Independientes del Norte,MIN,En Formación,0,0,1,,,,Carrasco,,,
-30,Partido Con Todos,Partido Con Todos,Todxs,En Formación,0,0,1,,,,Hamilton,,,
-31,Partido Fuerza Común,Partido Fuerza Común,FC,En Formación,0,0,1,,,,Atria,,,
-32,Partido Demócrata,Partido Demócrata,PD,En Formación,0,0,1,,,,Flores,,,
-33,Partido Libertario de Chile,Partido Libertario de Chile,PLIB,En Formación,0,0,1,,,,Maureira,,,
-34,Partido Por el Buen Vivir de Chile,Partido Por el Buen Vivir de Chile,PBVCh,En Formación,0,0,1,,,,Ancalao,,,
-35,Partido Fuerza Cultural,Partido Fuerza Cultural,PFC,En Formación,0,0,1,,,,Milos,,,
-36,"Mov. Tierra, el Trabajo y la Libertad","Movimiento por la Tierra, el Trabajo y la Libertad",MTT,En Trámite,0,1,0,1,7.3,,Gutiérrez,,,
-37,Partido de la Gente,Partido de la Gente,PG,En Trámite,0,1,0,4,5,,.,,,
-38,Chile Más Justo,Chile Más Justo,CMJ,En Trámite,0,1,0,2,4.3,,.,,,
-39,Representación Ciudadana,Partido por la Representación Ciudadana,PRC,En Trámite,0,1,0,4,6,,.,,,
-40,Partido Unidos en la Fe,Partido Unidos en la Fe,UF,En Trámite,0,1,0,,,,Molina,Evangelico,,
+﻿id,partido,partido_full,sigla,estado,constituido,tramite,formacion,fecha_constitucion,lider,notas,militantes
+1,Partido Republicano,Partido Republicano,REP,Constituido,1,0,0,23-01-2020,Kast,,16157
+2,Federación Regionalista Verde Social,Federación Regionalista Verde Social,FRVS,Constituido,1,0,0,25-04-2017,Mulet,,15583
+3,Evolución Política,Evolución Política,EVO,Constituido,1,0,0,13-04-2016,Molina,,20595
+4,Partido Progresista,Partido Progresista,PRO,Constituido,1,0,0,08-05-2018,MEO,,28597
+5,Nuevo Tiempo,Nuevo Tiempo,NT,Constituido,1,0,0,10-07-2019,Cortés,Evangelico,1604
+6,Revolución Democrática,Revolución Democrática,RD,Constituido,1,0,0,22-06-2016,Pérez,,31284
+7,Partido Demócrata Cristiano,Partido Demócrata Cristiano,PDC,Constituido,1,0,0,02-05-1988,Frei,,34237
+8,Partido Ecologista Verde,Partido Ecologista Verde,PEV,Constituido,1,0,0,09-07-2019,González,,15667
+9,Partido Socialista,Partido Socialista,PS,Constituido,1,0,0,19-12-1990,Elizalde,,43895
+10,Partido Liberal de Chile,Partido Liberal de Chile,PL,Constituido,1,0,0,13-11-2018,Ramos,,10912
+11,Ciudadanos,Ciudadanos,CIU,Constituido,1,0,0,09-07-2018,Gómez,,17805
+12,Partido Radical,Partido Radical,PR,Constituido,1,0,0,18-08-1994,Maldonado,,29293
+13,Partido Por la Democracia,Partido Por la Democracia,PPD,Constituido,1,0,0,09-05-1988,Quintana,,32898
+14,Partido Igualdad,Partido Igualdad,PI,Constituido,1,0,0,09-07-2018,González,,17494
+15,Partido Comunista,Partido Comunista,PC,Constituido,1,0,0,28-05-2010,Teillier,,47299
+16,Unión Demócrata Independiente,Unión Demócrata Independiente,UDI,Constituido,1,0,0,03-05-1989,Macaya,,41301
+17,Partido Humanista,Partido Humanista,PH,Constituido,1,0,0,05-06-2014,Valenzuela,,18050
+18,Renovación Nacional,Renovación Nacional,RN,Constituido,1,0,0,08-02-1988,Prohens,,42135
+19,Partido Regionalista Independiente,Partido Regionalista Independiente Demócrata,PRI,Constituido,1,0,0,06-06-2018,Ortíz,,22375
+20,Izquierda Anticapitalista,Izquierda Anticapitalista de los Trabajadores,IAT,Constituido,1,0,0,13-04-2018,Brito,,10852
+21,Partido Convergencia Social,Partido Convergencia Social,CS,Constituido,1,0,0,09-03-2020,Yeomans,,9167
+22,Partido Comunes,Partido Comunes,COM,Constituido,1,0,0,08-05-2018,Ramírez,,13640
+23,Convergencia Nacional de Chile,Convergencia Nacional de Chile,CN,En Formación,0,0,0,,Tafireño,,
+24,Partido Conservador Cristiano,Partido Conservador Cristiano,PCC,Constituido,1,0,0,,.,,3301
+25,Partido Nueva Clase Media,Partido Nueva Clase Media,NCM,Constituido,1,0,0,16-04-2020,Salas,,1604
+26,Partido Unión Patriótica,Partido Unión Patriótica,UPA,Constituido,1,0,0,05-02-2020,Artés,,14114
+27,Partido Nacional Ciudadano,Partido Nacional Ciudadano,PNC,Constituido,1,0,0,13-04-2020,Rubeska,,2521
+28,Partido Alternativa Feminista,Partido Alternativa Feminista,PAF,En Formación,0,0,1,,Moreno,,
+29,Mov. Independientes del Norte,Partido Movimiento Independientes del Norte,MIN,En Formación,0,0,1,,Carrasco,,
+30,Partido Con Todos,Partido Con Todos,Todxs,En Formación,0,0,1,,Hamilton,,
+31,Partido Fuerza Común,Partido Fuerza Común,FC,En Formación,0,0,1,,Atria,,
+32,Partido Demócrata,Partido Demócrata,PD,En Formación,0,0,1,,Flores,,
+33,Partido Libertario de Chile,Partido Libertario de Chile,PLIB,En Formación,0,0,1,,Maureira,,
+34,Partido Por el Buen Vivir de Chile,Partido Por el Buen Vivir de Chile,PBVCh,En Formación,0,0,1,,Ancalao,,
+35,Partido Fuerza Cultural,Partido Fuerza Cultural,PFC,En Formación,0,0,1,,Milos,,
+36,"Mov. Tierra, el Trabajo y la Libertad","Movimiento por la Tierra, el Trabajo y la Libertad",MTT,En Trámite,0,1,0,,Gutiérrez,,
+37,Partido de la Gente,Partido de la Gente,PG,En Trámite,0,1,0,,.,,
+38,Chile Más Justo,Chile Más Justo,CMJ,En Trámite,0,1,0,,.,,
+39,Representación Ciudadana,Partido por la Representación Ciudadana,PRC,En Trámite,0,1,0,,.,,
+40,Partido Unidos en la Fe,Partido Unidos en la Fe,UF,En Trámite,0,1,0,,Molina,Evangelico,

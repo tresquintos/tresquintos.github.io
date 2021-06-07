@@ -3,7 +3,6 @@ layout: single
 title: "Contrapesos"
 permalink: /contrapesos/
 author_profile: true
-
 ---
 
 En esta página puedes ver las herramientas utilizadas en el Congreso Nacional para fiscalizar a poder Ejecutivo y Judicial. Primero parte con las Acusaciones Constitucionales acontecidas desde 1990 a la fecha y finaliza con las Interpelaciones desde 2006 a la fecha. La página fue actualizada por última vez el 06 de junio de 2021.

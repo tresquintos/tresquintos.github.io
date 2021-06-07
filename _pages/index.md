@@ -7,13 +7,13 @@ author_profile: true
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
 
-En este sitio podrás encontrar análisis político y pronósticos electorales para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/). Si ya sabes cómo funciona, puedes consultar las elecciones [aquí](https://tresquintos.cl/elecciones/).
+En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
 
-Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales. Si quieres ver lo que viene, puedes ver una simulación para la elección de constituyentes de 2021 [aquí](https://tresquintos.cl/constituyentes2021/).
+Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales.
 
 <!---
 
@@ -31,7 +31,7 @@ Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
-Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Todos los detalles de cómo se construyen los pronósticos los puedes ver [aquí](https://tresquintos.cl/tsm/), y los gráficos correspondientes a los principales candidatos los puedes ver [aquí](https://tresquintos.cl/presidenciales2021/). El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
+Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
 
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"} ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"}
 

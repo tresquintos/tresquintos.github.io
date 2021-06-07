@@ -1,47 +1,47 @@
 # main links links
 main:
 
-  - title: "🇨🇱Presidenciales 2021"
-    url: /presidencial2021/
+  title: "🇨🇱Presidenciales 2021"
+  url: /presidencial2021/
     
-  - title: "🇨🇱Legislativa 2021"
-    url: /legislativa2021/
+  title: "🇨🇱Legislativa 2021"
+  url: /legislativa2021/
     
-  - title: "💰Financiamiento"
-    url: /financiamientoidle/
+  title: "💰Financiamiento"
+  url: /financiamientoidle/
     
-  - title: "📊Gabinetes"
-    url: /gabinetes/
+  title: "📊Gabinetes"
+  url: /gabinetes/
     
-  - title: "⚖️Contrapesos"
-    url: /contrapesos/
+  title: "⚖️Contrapesos"
+  url: /contrapesos/
     
-  - title: "🏛️Senadores"
-    url: /senadores/
+  title: "🏛️Senadores"
+  url: /senadores/
   
-  - title: "🏛️Diputados"
-    url: /diputados/
+  title: "🏛️Diputados"
+  url: /diputados/
     
-  - title: "🔄Cambios"
-    url: /cambios/
+  title: "🔄Cambios"
+  url: /cambios/
     
-  - title: "📖Constituyentes"
-    url: /constituyentes/
+  title: "📖Constituyentes"
+  url: /constituyentes/
     
-  - title: "🗣️Convención"
-    url: /constituyentes/
+  title: "🗣️Convención"
+  url: /constituyentes/
     
-  - title: "📉Partidos Políticos"
-    url: /partidos/
+  title: "📉Partidos Políticos"
+  url: /partidos/
     
-   - title: "📈Intención de Voto"
-    url: /intencion/
+  title: "📈Intención de Voto"
+  url: /intencion/
     
-   - title: "📈Aprobación Presidencial"
-    url: /aprobacion/
+  title: "📈Aprobación Presidencial"
+  url: /aprobacion/
  
-  - title: "💎Donaciones"
-    url: /donaciones/
+  title: "💎Donaciones"
+  url: /donaciones/
 
-  - title: "📌FAQ"
-    url: /faq/
+  title: "📌FAQ"
+  url: /faq/

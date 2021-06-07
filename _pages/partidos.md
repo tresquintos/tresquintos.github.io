@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación más el número total de militantes. Los datos fueron recolectados del Servicio Electoral (actualizado el 09 de Abril de 2021). Además, la tabla muestra la lista a la cual pertenecen para las próximas elecciones de Convencionales Constituyentes.
+En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación más el número total de militantes. Los datos fueron recolectados del Servicio Electoral (Servel). La página fue actualizada por última vez el 04 de junio de 2021.
 
 ---
 

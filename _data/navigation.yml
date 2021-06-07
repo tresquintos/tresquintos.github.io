@@ -1,6 +1,5 @@
 # main links links
 main:
-
   - title: "🇨🇱Presidenciales 2021"
     url: /presidencial2021/
     
@@ -8,7 +7,7 @@ main:
     url: /legislativa2021/
     
   - title: "💰Financiamiento"
-    url: /financimientoidle/
+    url: /financiamientoidle/
     
   - title: "📊Gabinetes"
     url: /gabinetes/

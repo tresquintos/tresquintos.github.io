@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Financiamiento Electoral 2021"
-permalink: /financiamiento/
+permalink: /financiamientoidle/
 author_profile: true
 ---
 

@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 En esta página puedes ver una serie de potenciales nombres referentes candidatos a ocupar uno de los 198 escaños disponibles en el Congreso Nacional, 155 para la Cámara de Diputadas y Diputados y 43 para el Senado, la elección Parlamentaria se llevará a cabo el 21 de noviembre de 2021. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. La página fue actualizada por última vez el 06 de junio de 2021.
+
 ### Candidatos Congreso Nacional 2021
 
 En esta sección puedes ver la lista de potenciales candidatos a ocupar un escaño en el Congreso. La tabla incluye el cargo al que postularía, el distrito o ciscunscripción al que representaría, su nombre y el partido político que lo inscribiría.

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Legislativa 2021"
-permalink: /legislativa2021/
+title: "Legislativo"
+permalink: /legislativo/
 author_profile: true
 ---
 

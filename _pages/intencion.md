@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Intención de Voto"
-permalink: /intención/
+permalink: /intencion/
 author_profile: true
 ---
 

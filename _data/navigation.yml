@@ -1,27 +1,45 @@
 # main links links
 main:
 
-  - title: "🗳️Elecciones"
-    url: /elecciones/
-
   - title: "🇨🇱Presidenciales 2021"
-    url: /pres2021/
+    url: /presidencial2021/
     
-  - title: "📖Constituyentes"
-    url: /convencionales/
+  - title: "🇨🇱Legislativa 2021"
+    url: /legislativa2021/
     
-  - title: "📈Encuestas"
-    url: /encuestas/
+  - title: "💰Financiamiento"
+    url: /financimiento_idle/
     
-  - title: "🏛️Legislativo"
-    url: /legislativo/
-  
   - title: "📊Gabinetes"
     url: /gabinetes/
     
+  - title: "⚖️Contrapesos"
+    url: /contrapesos/
+    
+  - title: "🏛️Senadores"
+    url: /senadores/
+  
+  - title: "🏛️Diputados"
+    url: /diputados/
+    
+  - title: "🔄Cambios"
+    url: /cambios/
+    
+  - title: "📖Constituyentes"
+    url: /constituyentes/
+    
+  - title: "🗣️Convención"
+    url: /constituyentes/
+    
   - title: "📉Partidos Políticos"
     url: /partidos/
-
+    
+   - title: "📈Intención de Voto"
+    url: /intencion_de_voto/
+    
+   - title: "📈Aprobación Presidencial"
+    url: /aprobacion_presidencial/
+ 
   - title: "💎Donaciones"
     url: /donaciones/
 

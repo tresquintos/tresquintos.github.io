@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver una sección referente a los Diputados y Diputadas que integran el Congreso Nacional. Los nombres que llevan un asteristico, son quienes fueron reemplazados respecto a los parlamentarios electos, los partidos de cada parlamentario pertenecen al que fueron electo (algunos cambiaron o renunciaron a su partido). La página fue actualizada por última vez el 06 de junio de 2021.
 
-### Diputados
+---
 
 En esta sección puedes ver la lista de los 155 Diputados. La tabla incluye la región por la que resultó electo, el distrito que representa, el nombre de cada uno y el partido por el que fue electo.
 

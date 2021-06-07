@@ -1,16 +1,14 @@
 ---
 layout: single
-title: "Lista de Partidos: constituidos, en trámite y en formación"
+title: "Lista de Partidos Políticos"
 permalink: /partidos/
 author_profile: true
 ---
 
+En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación, su sigla, el apellido de quienes lideran cada partido y el número total de militantes. Los datos fueron recolectados a través del Servicio Electoral (Servel). La página fue actualizada por última vez el 04 de junio de 2021.
 
-En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación más el número total de militantes. Los datos fueron recolectados del Servicio Electoral (Servel). La página fue actualizada por última vez el 04 de junio de 2021.
 
----
-
-<iframe title="Lista de Partidos Políticos " aria-label="chart" id="datawrapper-chart-9GnW2" src="https://datawrapper.dwcdn.net/9GnW2/18/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1343"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-9GnW2" src="https://datawrapper.dwcdn.net/9GnW2/27/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1281"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

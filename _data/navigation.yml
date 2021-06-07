@@ -13,10 +13,10 @@ main:
   - title: "📈Encuestas"
     url: /encuestas/
     
-  - title: 🏛️Legislativo"
+  - title: "🏛️Legislativo"
     url: /legislativo/
   
-  - title: 📊Gabinetes"
+  - title: "📊Gabinetes"
     url: /gabinetes/
     
   - title: "📉Partidos Políticos"

@@ -5,7 +5,9 @@ permalink: /convencion/
 author_profile: true
 ---
 
-En esta sección puedes ver el funcionamiento de la Convención y los 155 Constituyentes electos. Parte con una explicación de los **Métodos** para construir las Imagenes que se muestran, luego continúa con un **Mapa Ideólogico** de los 155 Convenciónes electos construido por **Tresquintos** y finaliza con una gráfico que muestra la **Disciplina** de cada Convención en el ejercicio de su trabajo en la redacción de la Nueva Constitución. La página fue actualizada por última vez el 06 de junio de 2021.
+En esta sección puedes ver el funcionamiento de la Convención y los 155 Constituyentes electos. Parte con una explicación de los **Métodos** para construir las Imagenes que se muestran, luego continúa con un **Mapa Ideólogico** de los 155 Convenciónes electos construido por **Tresquintos** y finaliza con una gráfico que muestra la **Disciplina** de cada Convención en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
+
+Página actualizada: **08 de junio de 2021**.
 
 ---
 
@@ -17,7 +19,7 @@ Para construir el mapa ideológico, evaluamos las posiciones de cada uno de los 
 
 ### Mapa ideológico
 
-En esta sección puedes ver un mapa ideológico de los 155 Convencionales electos. Construido siguiendo los métodos explicados en el punto anterior.
+Abajo puedes ver un mapa ideológico de los 155 Convencionales electos. Construido siguiendo los métodos explicados en el punto anterior.
 
 ![cc](/images/155.png){:height="100%" width="100%"}
 
@@ -25,7 +27,7 @@ En esta sección puedes ver un mapa ideológico de los 155 Convencionales electo
 
 ### Disciplina
 
-En esta sección puedes ver la disciplina por pacto de cada Convencional, la cual se irá actualizando a medida que estén disponible las sesiones de cada tema a tratar en la Convención Constitucional.
+Abajo puedes ver la disciplina por pacto de cada Convencional, la cual se irá actualizando a medida que estén disponible las sesiones de cada tema a tratar en la Convención Constitucional.
 
 ![cc](/images/155.png){:height="100%" width="100%"}
 

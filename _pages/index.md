@@ -13,7 +13,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
-Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Puedes ver la lista de todos los candidatos aquí(https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora aquí(https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña aquí(https://tresquintos.cl/presidencial2021/#Equipos%20de%20campa%C3%B1a).
+Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Puedes ver la lista de todos los candidatos aquí(https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora aquí(https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña aquí(https://tresquintos.cl/presidencial2021/#equipos).
 
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"}
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"}

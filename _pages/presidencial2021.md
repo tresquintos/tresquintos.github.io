@@ -8,8 +8,8 @@ author_profile: true
 En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección lista los endosos que han recibido cada uno de los principales candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. La página fue actualizada por última vez el **08 de junio de 2021**.
 
 
----
-# Candidatos
+
+## Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La tabla incluye el nombre del candidato, la lista a la que pertenece y el partido político que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.
 
@@ -17,8 +17,7 @@ Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. 
 </script>
 
 
----
-## Endososs
+## Endosos
 
 Abajo puedes ver la lista de endosos presidenciales. La tabla incluye un registro de información relativo a las principales autoridades del país. En total son 278 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); intendentes (16); los alcaldes de las comunas con más electores (40); senadores (42); diputados (153).
 
@@ -26,7 +25,6 @@ Abajo puedes ver la lista de endosos presidenciales. La tabla incluye un registr
 </script>
 
 
----
 ## Equipos
 
 En esta sección puedes ver la lista de los equipos de campaña para cada candidato presidencial. La tabla incluye el nombre del candidato, la lista a la que pertenece, el partido político que los inscribe, el nombre codificado de cada área de trabajo y el nombre de la persona encargada de esa área.

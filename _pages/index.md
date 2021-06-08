@@ -7,11 +7,11 @@ author_profile: true
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
 
-En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Los gráficos se producen de forma automática cada vez que se actualizan las bases de datos. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
+En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
----
-# ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
+
+## ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
 
 Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
 
@@ -19,14 +19,13 @@ Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En tota
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"}
 ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"}
 
----
-# ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
+
+## ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales.
 
 
----
-# ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
+## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
 

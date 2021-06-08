@@ -11,36 +11,19 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 
 ---
+### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
+
+Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Puedes ver la lista de todos los candidatos aquí(https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora aquí(https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña aquí(https://tresquintos.cl/presidencial2021/#Equipos%20de%20campa%C3%B1a).
+
+![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"}
+
+---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Mapa del sitio
 
 Si quieres leer la bienvenida formal al nuevo sitio de **Tresquintos**, pincha [aquí](https://tresquintos.cl/posts/2020/03/bienvenidos/). Si quieres ver un ejemplo de nuestro trabajo anterior, puedes ver nuestro pronóstico para el Plebiscito Nacional de 2020 [aquí](https://tresquintos.cl/plebiscito2020/), que incidentalmente fue el [más preciso](https://twitter.com/kennethbunker/status/1321152650470133763) de Chile para el "Apruebo/Rechazo", en comparación a las encuestas tradicionales.
 
-<!---
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Simulación: Convención Constituyente 2021
-
-%Abajo puedes ver una simulación de la elección de convencionales constituyentes de 2021. Esta basada en datos electorales de Chile en 1989-2017, la fragmentación del sistema del partidos a partir %del estallido social de 2019, los cambios y las continuidades de los partidos y sus representantes titulares, la entrada de independientes (y listas de independientes), y los efectos particulares %del sistema electoral. Para conocer los detalles, pincha [aquí](https://tresquintos.cl/constituyente2021/).
-
-%<div align="center">
-%<img width="600" src="https://tresquintos.cl/images/constituyente2021/mapa_congreso.png" >
-%/div>
-
---->
-
----
-### ![ep](/images/pc.png){:height="3%" width="3%"} Snapshot: Presidenciales 2021
-
-Abajo puedes ver un ***snapshot*** de la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. El gráfico de abajo muestra la trayectoria de los primeros dos candidatos en la carrera.
-
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"} ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"} ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"}
-
-
-<div align="center">
-<img width="600" src="https://tresquintos.cl/images/tsm/comp_2021_top2.png" >
-</div>
-
-![1](/gifs/tsm/2021_experimental_1_forwards.gif){:height="49%" width="49%"} ![2](/gifs/tsm/2021_experimental_2_forwards.gif){:height="49%" width="49%"}
 
 ---
 ### ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

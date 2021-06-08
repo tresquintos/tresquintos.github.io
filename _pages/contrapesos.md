@@ -7,14 +7,14 @@ author_profile: true
 
 En esta página puedes ver estadísticas relativas a las herramientas utilizadas por el Congreso Nacional para fiscalizar al poder ejecutivo y judicial. La primera sección resume las acusaciones constitucionales interpuestas desde 1990 a la fecha y la segunda sección resume las interpelaciones realizadas desde 2006 a la fecha. Los datos fueron recolectados de la página oficial del poder legislativo.
 
-Página actualizada: **06 de junio de 2021**.
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Acusaciones Constitucionales
 
 Abajo puedes ver la lista de acusaciones constitucionales interpuestas desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo que ocupaba el acusado, el nombre del acusado, su partido político (en caso de tener) y el estado final de la acusación constitucional.
 
-<iframe id="datawrapper-chart-Jk3Ng" src="https://datawrapper.dwcdn.net/Jk3Ng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1529"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-Jk3Ng" src="https://datawrapper.dwcdn.net/Jk3Ng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1529"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 
@@ -22,7 +22,7 @@ Abajo puedes ver la lista de acusaciones constitucionales interpuestas desde 199
 
 Abajo puedes ver la lista de interpelaciones interpuestas desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo que ocupaba el interpelado, el nombre del interpelado, su partido político (en caso de tener) y el estado final de la interpelación.
 
-<iframe id="datawrapper-chart-k6Dst" src="https://datawrapper.dwcdn.net/k6Dst/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="879"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-k6Dst" src="https://datawrapper.dwcdn.net/k6Dst/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="879"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

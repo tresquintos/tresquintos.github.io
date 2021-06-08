@@ -8,30 +8,15 @@ author_profile: true
 
 ### ¿Qué significa Tresquintos?
 
-Tres quintos (3/5) es uno de los umbrales de cambio y continuidad en el sistema político chileno. Por ejemplo, es el quórum que se necesita para hacer una reforma al sistema electoral. El logo anterior de **Tresquintos** reflejaba el efecto dicotómico de la ley.
-
-[![logoviejo](/images/logo_viejo.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_viejo.png)
-
-### ¿Qué representa el logo nuevo de Tresquintos?
-
-El logo de **Tresquintos** refleja la naturaleza computacional de la misión. Dado que estamos enfocados en métodos y lógica, y muchos de los gráficos se hacen en paquetes estadísticos, decidimos reflejarlo en nuestra carta de presentación. Además del logo oficial, tenemos dos logos alternativos. Descarga el logo oficial [aquí](https://tresquintos.cl/images/logo_code_deciframe.png).
+Tres quintos (3/5) es uno de los umbrales de cambio y continuidad del sistema político chileno. Es, por ejemplo, el quorum requerido para hacer una reforma al sistema electoral, y para aprobar normas legales que interpreten preceptos constitucionales. En la Cámara de Diputados los 3/5 se consiguen con 93 escaños y en el Senado con 33 escaños. 
 
 [![logo2](/images/logo_short.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short.png) [![logo](/images/logo.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo.png) [![logo3](/images/logo_short2.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short2.png)
 
-
 ### ¿Qué hace Tresquintos?
 
-**Tresquintos** es un sitio de análisis político y pronósticos electorales. Está enfocado en la recopilación y el procesamiento de datos. Pone los métodos y la lógica en el centro del debate. Podrás encontrar artículos que cubren todo lo que va de [mesas electorales](https://twitter.com/kennethbunker/status/1233376890850861063) a [aprendizaje automático](https://en.wikipedia.org/wiki/Machine_learning), y de [teoremas bayesianos](https://en.wikipedia.org/wiki/Bayes%27_theorem) a [cadenas de Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo).
+**Tresquintos** es un sitio de análisis político e información electoral. Estamos enfocados en la recopilación y procesamiento de datos, poniendo los métodos y la lógica al centro del debate. Por ello, estamos constantemente trabajando con paquetes estadísticos, tal como indica nuestro logo institucional. Velamos por la transparencia en la realización de nuestros análisis y en la replicabilidad de los resultados. Por este motivo, siempre compartimos las metodologías que nos permiten llegar a ciertas conclusiones. 
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
-
-
-### ¿Cuál es la diferencia entre un pronóstico y una simulación?
-
-Para efectos de este sitio, un pronóstico es una proyección para una elección en que hay un solo ganador (como una elección presidencial) y una simulación es una proyección para una elección en que hay múltiples ganadores (como una elección legislativa). Por lo mismo, los métodos para hacer simulaciones difieren de los métodos para hacer pronósticos. Para simulaciones se usa el [Sx](https://tresquintos.cl/sx/) y para los pronósticos se usa el [TSM](https://tresquintos.cl/tsm/).
-
-[![bayes](/images/dice.png){:height="6%" width="6%"}](https://tresquintos.cl/sx/) [![mcmc](/images/dice2.png){:height="5%" width="5%"}](https://tresquintos.cl/tsm/)
-
 
 ### ¿Con qué frecuencia se actualiza el sitio?
 

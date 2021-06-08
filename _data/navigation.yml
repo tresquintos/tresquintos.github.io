@@ -7,6 +7,12 @@ main:
  - title: "🇨🇱Legislativa 2021"
    url: /legislativa2021/
 
+ - title: "📈Intención de Voto"
+   url: /intencion/
+
+ - title: "✅Aprobación Presidencial"
+   url: /aprobacion/   
+
  - title: "📊Gabinetes"
    url: /gabinetes/
 
@@ -30,12 +36,6 @@ main:
 
  - title: "📉Partidos Políticos"
    url: /partidos/
-
- - title: "📈Intención de Voto"
-   url: /intencion/
-
- - title: "✅Aprobación Presidencial"
-   url: /aprobacion/
 
  - title: "💎Donaciones"
    url: /donaciones/

@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-En esta página puedes ver una serie de potenciales nombres referentes candidatos a ocupar uno de los 198 escaños disponibles en el Congreso Nacional, 43 en el Senado y 155 en la Cámara de Diputadas y Diputados. La elección se llevará a cabo el 21 de noviembre de 2021. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+
+En esta página puedes ver dos secciones referentes a la elección legislativa que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra una lista de potenciales candidatos a la elección de senadores, y la segunda sección muestra una lista de candidatos a la elección de diputados. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 Página actualizada: **06 de junio de 2021**.
 

@@ -9,7 +9,7 @@ En esta página puedes ver tres secciones referentes a la elección presidencial
 
 
 ---
-## Candidatos
+# Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La tabla incluye el nombre del candidato, la lista a la que pertenece y el partido político que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.
 

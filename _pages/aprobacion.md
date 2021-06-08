@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la aprobación presidencial (o popularidad presidencial) para presidentes de Chile, desde 1990 a la fecha. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **06 de junio de 2021**.
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Popularidad

@@ -12,9 +12,17 @@ En esta página puedes ver dos secciones referentes a la elección legislativa q
 Página actualizada: **06 de junio de 2021**.
 
 
-## Candidatos
+## Candidatos al Senado
 
-Abajo puedes ver la lista de candidatos para la elección legislativa de 2021. La tabla incluye la circunscripción o distrito al que buscaría representar, el cargo al que postularía, el nombre del candidato, y el partido político que lo inscribiría.
+Abajo puedes ver la lista de potenciales candidatos a senador para la elección legislativa de 2021. La tabla incluye la región a la que buscaría representar, el cargo al que buscaría postularía, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
+
+<iframe id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+
+## Candidatos a la Cámara de Diputados
+
+Abajo puedes ver la lista de potenciales candidatos a diputado para la elección legislativa de 2021. La tabla incluye el distrito al que buscaría representar, el cargo al que buscaría postularía, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
 
 <iframe id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

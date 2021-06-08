@@ -1,16 +1,21 @@
 ---
 layout: single
-title: "Gabinetes Ministeriales"
+title: "Gabinetes"
 permalink: /gabinetes/
 author_profile: true
 ---
 
 En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración y el porcentaje del total de días posible que estuvieron en su cargo. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
+Página actualizada: **06 de junio de 2021**.
+
 
 ## Ministros de Estado
 
 Abajo puedes ver la lista de actuales ministros de Estado.
+
+<iframe id="datawrapper-chart-Jk3Ng" src="https://datawrapper.dwcdn.net/Jk3Ng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1529"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 
 ## Evolución en el número total de ministros, por gobierno desde 1990

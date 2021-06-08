@@ -14,7 +14,7 @@ Página actualizada: **08 de junio de 2021**.
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La tabla incluye el nombre del candidato, la lista a la que pertenece y el partido político que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.
 
-<iframe title="Lista de Candidatos: Presidenciales 2021" aria-label="chart" id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1036"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1036"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
@@ -22,7 +22,7 @@ Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. 
 
 Abajo puedes ver la lista de endosos presidenciales. La tabla incluye un registro de información relativo a las principales autoridades del país. En total son 278 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); intendentes (16); los alcaldes de las comunas con más electores (40); senadores (42); diputados (153).
 
-<iframe title="Endosos Presidenciales 2021" aria-label="chart" id="https://datawrapper.dwcdn.net/Ruxeg/1/" src="https://datawrapper.dwcdn.net/Ruxeg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3997"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe id="https://datawrapper.dwcdn.net/Ruxeg/1/" src="https://datawrapper.dwcdn.net/Ruxeg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3997"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
@@ -30,7 +30,7 @@ Abajo puedes ver la lista de endosos presidenciales. La tabla incluye un registr
 
 En esta sección puedes ver la lista de los equipos de campaña para cada candidato presidencial. La tabla incluye el nombre del candidato, la lista a la que pertenece, el partido político que los inscribe, el nombre codificado de cada área de trabajo y el nombre de la persona encargada de esa área.
 
-<iframe title="Lista de Equipos de Campaña: Presidenciales 2021 " aria-label="table" id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3043"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3043"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

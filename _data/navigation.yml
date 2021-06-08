@@ -19,11 +19,8 @@ main:
  - title: "⚖️Contrapesos"
    url: /contrapesos/
 
- - title: "🏛️Senadores"
-   url: /senadores/
-
- - title: "🏛️Diputados"
-   url: /diputados/
+ - title: "🏛️Congreso: Actual"
+   url: /congreso/
 
  - title: "🔄Cambios"
    url: /cambios/

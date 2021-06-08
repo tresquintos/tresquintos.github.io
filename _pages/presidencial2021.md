@@ -5,9 +5,10 @@ permalink: /presidencial2021/
 author_profile: true
 ---
 
-En esta página puedes ver tres secciones referentes a la elección Presidencial de 2021, que se llevará a cabo el 21 de noviembre de 2021. Primero parte con una sección que muestra a los candidatos en competencia, en segundo lugar se presentan los endosos de las principales autoridades del para los candidatos presidenciales y para finalizar se presentan los equipos de campaña de cada candidato. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. La página fue actualizada por última vez el 04 de junio de 2021.
+En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección lista los endosos que han recibido cada uno de los principales candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. La página fue actualizada por última vez el **08 de junio de 2021**.
 
-### Candidatos
+---
+## Candidatos
 
 En esta sección puedes ver la lista de candidatos para las presidenciales 2021. La tabla incluye el nombre del candidato, la lista a la que pertenece y el partido político que lo inscribe. Los candidatos de la lista de Chile Vamos y Apruebo Dignidad medirán sus fuerzas en la primaria presidencial a realizarse el 18 de julio de 2021.
 
@@ -16,22 +17,22 @@ En esta sección puedes ver la lista de candidatos para las presidenciales 2021.
 
 ---
 
-### Endosos
+## Endosos
 
 En esta sección puedes ver la lista de endosos presidenciales. La tabla incluye un registro de información relativo a las principales autoridades del país. En total son 278 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); intendentes (16); los alcaldes de las comunas con más electores (40); senadores (42); diputados (153).
 
 <iframe title="Endosos Presidenciales 2021" aria-label="chart" id="https://datawrapper.dwcdn.net/Ruxeg/1/" src="https://datawrapper.dwcdn.net/Ruxeg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3997"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
----
 
-### Equipos de campaña
+---
+## Equipos de campaña
 
 En esta sección puedes ver la lista de los equipos de campaña para cada candidato presidencial. La tabla incluye el nombre del candidato, la lista, el partido, el nombre codificado de cada área de trabajo y el nombre de quienes están dentro del respectivo equipo.
 
 <iframe title="Lista de Equipos de Campaña: Presidenciales 2021 " aria-label="table" id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3043"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-    
+
 ---
 
 <!-- NES -->

@@ -5,11 +5,14 @@ permalink: /aprobacion/
 author_profile: true
 ---
 
-En esta página puedes ver la Aprobación Presidencial desde 1990 a la fecha, obtenidas a través de Executive Approval Project. La tabla incluye el año medido, el presidente/a de Chile en el año medido, el partido político de este y la aprobación de su gobierno en el respectivo año.
+En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la aprobación presidencial (o popularidad presidencial) para presidentes de Chile, desde 1990 a la fecha. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+
+Página actualizada: **06 de junio de 2021**.
+
 
 ---
 
-<iframe title="" aria-label="table" id="datawrapper-chart-HuPsp" src="https://datawrapper.dwcdn.net/HuPsp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1004"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe id="datawrapper-chart-HuPsp" src="https://datawrapper.dwcdn.net/HuPsp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1004"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

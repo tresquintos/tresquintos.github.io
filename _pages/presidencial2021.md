@@ -5,8 +5,9 @@ permalink: /presidencial2021/
 author_profile: true
 ---
 
-En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección lista los endosos que han recibido cada uno de los principales candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada. La página fue actualizada por última vez el **08 de junio de 2021**.
+En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección lista los endosos que han recibido cada uno de los principales candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Candidatos

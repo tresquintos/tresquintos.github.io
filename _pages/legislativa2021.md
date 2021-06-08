@@ -9,14 +9,14 @@ author_profile: true
 
 En esta página puedes ver dos secciones referentes a la elección legislativa que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra una lista de potenciales candidatos a la elección de senadores, y la segunda sección muestra una lista de candidatos a la elección de diputados. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **06 de junio de 2021**.
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Candidatos al Senado
 
-Abajo puedes ver la lista de potenciales candidatos a senador para la elección legislativa de 2021. La tabla incluye la región a la que buscaría representar, el cargo al que buscaría postularía, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
+Abajo puedes ver la lista de potenciales candidatos a senador para la elección legislativa de 2021. La tabla incluye la circunscripción a la que buscaría representar, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
 
-<iframe id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-wvqX0" src="https://datawrapper.dwcdn.net/wvqX0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="116"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 
@@ -24,7 +24,7 @@ Abajo puedes ver la lista de potenciales candidatos a senador para la elección 
 
 Abajo puedes ver la lista de potenciales candidatos a diputado para la elección legislativa de 2021. La tabla incluye el distrito al que buscaría representar, el cargo al que buscaría postularía, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
 
-<iframe id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

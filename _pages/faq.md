@@ -43,7 +43,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 Sofía Contreras Ubal es la encargada del equipo de investigación, Pablo Toro Monroy como analista de datos y Francisca Urquiza Bórquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
-[![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.png){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
+[![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU)  [![twitter](/images/pablotoro.png){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
 
 
 ### ¿Qué programas se usan para generar y distribuir contenido?

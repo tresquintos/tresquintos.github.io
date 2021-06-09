@@ -1,7 +1,7 @@
 # main links links
 main:
 
- - title: "🇨🇱Presidenciales 2021"
+ - title: "🇨🇱Presidencial 2021"
    url: /presidencial2021/
 
  - title: "🇨🇱Legislativa 2021"
@@ -11,7 +11,7 @@ main:
    url: /intencion/
 
  - title: "✅Aprobación Presidencial"
-   url: /aprobacion/   
+   url: /aprobacion/
 
  - title: "📊Gabinetes"
    url: /gabinetes/

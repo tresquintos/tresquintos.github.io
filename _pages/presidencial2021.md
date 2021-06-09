@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Presidenciales 2021"
+title: "Presidencial 2021"
 permalink: /presidencial2021/
 author_profile: true
 ---

@@ -5,7 +5,7 @@ permalink: /convencion/
 author_profile: true
 ---
 
-En esta sección puedes ver el funcionamiento de la Convención y los 155 Constituyentes electos. Parte con una explicación de los **Métodos** para construir las Imagenes que se muestran, luego continúa con un **Mapa Ideólogico** de los 155 Convenciónes electos construido por **Tresquintos** y finaliza con una gráfico que muestra la **Disciplina** de cada Convención en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
+En esta sección puedes ver el funcionamiento de la Convención y sus 155 Constituyentes electos. Parte con una explicación de los **Métodos** para construir las figuras que se muestran, luego continúa con un **Mapa Ideólogico** de posicionamiento espacial de los 155 Convencionales construido por **Tresquintos** y finaliza con una figura que muestra la **Disciplina** de cada Convencional en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
 
 Página actualizada: **08 de junio de 2021**.
 

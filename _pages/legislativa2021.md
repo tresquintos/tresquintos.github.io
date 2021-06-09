@@ -9,12 +9,12 @@ author_profile: true
 
 En esta página puedes ver dos secciones referentes a la elección legislativa que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra una lista de potenciales candidatos a la elección de senadores, y la segunda sección muestra una lista de candidatos a la elección de diputados. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **08 de junio de 2021**.
+Página actualizada: **09 de junio de 2021**.
 
 
 ## Candidatos al Senado
 
-Abajo puedes ver la lista de potenciales candidatos a senador para la elección legislativa de 2021. La tabla incluye la región, la circunscripción a la que buscaría representar, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
+Abajo puedes ver la lista de potenciales candidatos a senador para la elección legislativa de 2021. La tabla incluye la región, la circunscripción a la que buscaría representar, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribiría.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-wvqX0" src="https://datawrapper.dwcdn.net/wvqX0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="116"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
@@ -22,7 +22,7 @@ Abajo puedes ver la lista de potenciales candidatos a senador para la elección 
 
 ## Candidatos a la Cámara de Diputados
 
-Abajo puedes ver la lista de potenciales candidatos a diputado para la elección legislativa de 2021. La tabla incluye la región, el distrito al que buscaría representar, el nombre del candidato, y el partido político (en caso de tener) que lo inscribiría.
+Abajo puedes ver la lista de potenciales candidatos a diputados para la elección legislativa de 2021. La tabla incluye la región, el distrito al que buscaría representar, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribiría.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="745"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

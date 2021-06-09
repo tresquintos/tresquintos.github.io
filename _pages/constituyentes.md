@@ -5,7 +5,7 @@ permalink: /constituyentes/
 author_profile: true
 ---
 
-En esta página puedes ver la lista completa de los 155 Constituyentes electos, quienes comenzarán a trabajar en la redacción de la Nueva Constitución entre junio y julio de 2021. La Tabla incluye, el distrito o Pueblo Originario al que representan, el nombre de cada uno, el partido político que representa, la lista a la cual pertenece, el total de votos obtenidos y el porcentaje de votos.
+En esta página puedes ver la lista completa de los 155 Constituyentes electos, quienes comenzarán a trabajar en la redacción de la Nueva Constitución entre junio y julio de 2021. Abajo puedes ver la lista de los 155 Convencionales que incluye, el distrito o Pueblo Originario al que representan, su nombre, el partido político que representa, la lista a la cual pertenece y el total de votos y porcentaje obtenidos.
 
 Página actualizada: **08 de junio de 2021**.
 

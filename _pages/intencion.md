@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la intención de voto (o popularidad presidencial) para candidatos en competencia para elecciones en Chile. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **06 de junio de 2021**.
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Presidencial 2021

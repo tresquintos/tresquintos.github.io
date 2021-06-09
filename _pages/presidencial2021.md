@@ -5,7 +5,7 @@ permalink: /presidencial2021/
 author_profile: true
 ---
 
-En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección lista los endosos que han recibido cada uno de los principales candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección muestra la lista de endosos de cada uno de los candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 Página actualizada: **08 de junio de 2021**.
 
@@ -28,7 +28,7 @@ Abajo puedes ver la lista de endosos presidenciales. La tabla incluye un registr
 
 ## Equipos
 
-En esta sección puedes ver la lista de los equipos de campaña para cada candidato presidencial. La tabla incluye el nombre del candidato, la lista a la que pertenece, el partido político que los inscribe, el nombre codificado de cada área de trabajo y el nombre de la persona encargada de esa área.
+Abajo puedes ver la lista de los equipos de campaña para cada candidato presidencial. La tabla incluye el nombre del candidato, la lista a la que pertenece, el partido político que los inscribe, el nombre codificado de cada área de trabajo y el nombre de la persona encargada de esa área.
 
 <iframe id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3043"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

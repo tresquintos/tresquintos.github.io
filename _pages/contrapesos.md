@@ -12,7 +12,7 @@ Página actualizada: **08 de junio de 2021**.
 
 ## Acusaciones Constitucionales
 
-Abajo puedes ver la lista de acusaciones constitucionales interpuestas desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo que ocupaba el acusado, el nombre del acusado, su partido político (en caso de tener) y el estado final de la acusación constitucional.
+Abajo puedes ver la lista de acusaciones constitucionales interpuestas desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo del acusado, el nombre del acusado, su partido político (en caso de tener) y el estado final de la acusación constitucional.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-Jk3Ng" src="https://datawrapper.dwcdn.net/Jk3Ng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1529"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
@@ -20,7 +20,7 @@ Abajo puedes ver la lista de acusaciones constitucionales interpuestas desde 199
 
 ## Interpelaciones
 
-Abajo puedes ver la lista de interpelaciones interpuestas desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo que ocupaba el interpelado, el nombre del interpelado, su partido político (en caso de tener) y el estado final de la interpelación.
+Abajo puedes ver la lista de interpelaciones desde 1990 a la fecha. La tabla incluye el año de la moción, el cargo del interpelado, el nombre del interpelado, su partido político (en caso de tener) y el estado final de la interpelación.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-k6Dst" src="https://datawrapper.dwcdn.net/k6Dst/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="879"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

@@ -7,14 +7,14 @@ author_profile: true
 
 En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración y el porcentaje del total de días posible que estuvieron en su cargo. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
-Página actualizada: **06 de junio de 2021**.
+Página actualizada: **08 de junio de 2021**.
 
 
 ## Ministros de Estado
 
-Abajo puedes ver la lista de actuales ministros de Estado.
+Abajo puedes ver la lista de actuales ministros de Estado y la fecha en que asumió.
 
-<iframe id="datawrapper-chart-Jk3Ng" src="https://datawrapper.dwcdn.net/Jk3Ng/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1529"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-fG2aj" src="https://datawrapper.dwcdn.net/fG2aj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="803"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 
@@ -79,13 +79,6 @@ Los siguientes gráficos muestran la evolución en la edad de los ministros que 
 ![cc](/images/gabinete/edad/chile_edad_Transporte.png){:height="31%" width="31%"}
 ![cc](/images/gabinete/edad/chile_edad_Vivienda.png){:height="31%" width="31%"}
 
-
-
-### La edad de los ministros cuando debutan, por gobierno desde 1990
-
-El siguiente gráfico muestra la evolución en la edad promedio de los ministros que entran a un gabinete a través del tiempo. Específicamente, muestra el promedio (móvil) de edad de todo los ministros que entran a un gobierno en el día que entran. Un número más bajo significa que entra un grupo de ministros más jovenes. La metodología conlleva dos cosas importantes de explicar. Primero, que los gobiernos que están en ejercicio (como el de Piñera, 2018-2022) tienen mayor variación que los gobiernos terminados, y segundo, que los gobiernos que tienen pocos cambios de gabinete (como el de Aylwin, 1990-1994) tienen menos variación intermedia que los gobiernos con muchos cambios de gabinete (como el de Bachelet, 2014-2018).
-
-![cc](/images/gabinete/chile_gabinete_promedio_edad.png){:height="100%" width="100%"}
 
 ---
 

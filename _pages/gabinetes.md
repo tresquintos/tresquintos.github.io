@@ -5,21 +5,27 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como el número de ministros de cada administración y el porcentaje del total de días posible que estuvieron en su cargo. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras, y el promedio de edad de ministros que debutan. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado, y el número de ministros de cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
 Página actualizada: **10 de junio de 2021**.
 
 
 ## Ministros de Estado
 
-Abajo puedes ver la lista de actuales ministros de Estado, el ministerio que lideran, su normbre, partido político y la fecha en que asumieron.
+Abajo puedes ver la lista de actuales ministros de Estado, el ministerio que lideran, su nombre, partido político y la fecha en que asumieron.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-fG2aj" src="https://datawrapper.dwcdn.net/fG2aj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="803"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+## Evolución del total de ministros, desde 1990
+
+Abajo puedes ver un gráfico que muestra el número total de ministros de cada gobierno, desde 1990 a la fecha.
+    
+[![cc](/images/gabinete/chile_gabinete_numero_total.png){:height="100%" width="100%"}](https://tresquintos.cl/images/gabinete/chile_gabinete_numero_total.png)
+    
 ## Evolución de mujeres en el gabinete, desde 1990
 
-Los siguientes gráficos muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.
+Abajo puedes ver dos gráficos que muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.
 
 [![cc](/images/gabinete/chile_gabinete_numero_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/images/gabinete/chile_gabinete_numero_mujeres.png)
 [![cc](/images/gabinete/chile_gabinete_porcentaje_mujeres.png){:height="46%" width="46%"}](https://tresquintos.cl/gabinete/images/chile_gabinete_porcentaje_mujeres.png)

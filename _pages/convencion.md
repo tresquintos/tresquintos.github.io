@@ -5,15 +5,9 @@ permalink: /convencion/
 author_profile: true
 ---
 
-En esta sección puedes ver el funcionamiento de la Convención y sus 155 Constituyentes electos. Parte con una explicación de los **Métodos** para construir las figuras que se muestran, luego continúa con un **Mapa Ideólogico** de posicionamiento espacial de los 155 Convencionales construido por **Tresquintos** y finaliza con una figura que muestra la **Disciplina** de cada Convencional en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
+En esta sección puedes ver el funcionamiento de la Convención y sus 155 Constituyentes electos. Parte con un **Mapa Ideólogico** de posicionamiento espacial de los 155 Convencionales construido por **Tresquintos** y finaliza con una figura que muestra la **Disciplina** de cada Convencional en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
 
-Página actualizada: **08 de junio de 2021**.
-
----
-
-### Métodos
-
-Para construir el mapa ideológico, evaluamos las posiciones de cada uno de los partidos y de los constituyentes con representación en base a dos criterios (ejes): económico y cultural. El eje económico varía de cero (más intervención del Estado) a diez (menos intervención del Estado). El eje cultural varía de cero (más liberal o progresista) a diez (más conservador o autoritario). La fuente para codificar partidos y constituyentes proviene de un estudio de **Tresquintos** y de una encuesta de **Televisión Nacional de Chile**. Los valores, entonces, dependen de si los constituyentes están asociados a partidos o no. Para constituyentes de partidos, hay 4 valores (partidos; individuales). Para constituyentes independientes, hay solo 2 valores (individuales). En el caso del primer tipo de constituyente, se promedian los valores de cada eje (en lo económico y social por separado), y en el caso del segundo tipo de constituyente, se usan solo los valores individuales. Por lo anterior, hay más confianza en el posicionamiento de los constituyentes que están asociados a partidos. Lo anterior, permite ubicar a los partidos y a los constituyentes en los mapas espaciales bidimensional. Para el mapa unidimensional del posicionamiento de los constituyentes, se multiplican los valores definitivos, en lo económico y en lo cultural. Los números más altos representan a constituyentes más de derecha autoritaria/conservadora. Los números más bajos representan a constituyentes más de izquierda liberal/progresista. El mapa muestra el ordenamiento resultante de esta computación. 
+Página actualizada: **10 de junio de 2021**.
 
 ---
 

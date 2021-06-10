@@ -19,7 +19,7 @@ Abajo puedes ver las encuestas más recientes que han medido intención de voto 
     
 ## Gobernadores 2021
     
-Abajo puedes ver las encuestas más recientes que han medido intención de voto para candidatos a la elección de Gobernadores Regionales de 2021. La tabla incluye la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, la región acerca de la que se preguntó, y el porcentaje de participación.
+Abajo puedes ver las encuestas más recientes que han medido intención de voto para candidatos a la elección de segunda vuelta para Gobernadores Regionales de 2021. La tabla incluye la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, la región acerca de la que se preguntó, y el porcentaje de apoyo (intención de voto/popularidad).
     
 <iframe title="" aria-label="table" id="datawrapper-chart-hzdXm" src="https://datawrapper.dwcdn.net/hzdXm/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="155"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

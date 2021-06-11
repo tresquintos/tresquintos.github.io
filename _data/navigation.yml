@@ -11,7 +11,7 @@ main:
    url: /intenciondevoto/
 
  - title: "✅Aprobación Presidencial"
-   url: /aprobacion/
+   url: /aprobacionpresidencial/
 
  - title: "📊Gabinetes"
    url: /gabinetes/

@@ -7,12 +7,12 @@ author_profile: true
 
 En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la aprobación presidencial (o popularidad presidencial) para el actual gobierno de Sebastian Piñera 2018-2022.
 
-Página actualizada: **10 de junio de 2021**.
+Página actualizada: **11 de junio de 2021**.
 
 
 ## Popularidad
 
-Abajo puedes ver las encuestas más recientes que han medido aprobación presidencial (o popularidad presidencial) para el gobierno de Sebastián Piñera 2018-2022. La tabla incluye la fecha de la encuesta, el nombre de la encuestadora, y el porcentaje de aprobación y rechazo presidencial.
+Abajo puedes ver las encuestas más recientes que han medido aprobación presidencial (o popularidad presidencial). La Tabla incluye la fecha de la encuesta, el nombre de la encuestadora, y el porcentaje de aprobación y rechazo presidencial.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-HuPsp" src="https://datawrapper.dwcdn.net/HuPsp/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2988"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

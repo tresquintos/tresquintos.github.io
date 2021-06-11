@@ -5,7 +5,7 @@ permalink: /partidos/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación, ordenados por el mayor número de militantes. La lista se actualiza cada vez que el Servel sube datos referentes a nuevas entradas y salidas de militantes. La tabla incluye el nombre del partido político, su sigla, el estado de este, la incial del nombre y apellido de los presidentes de cada partido político, y el número total de militantes. Los datos fueron recolectados a través del Servicio Electoral (Servel).
+En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación, ordenados de forma descendente respecto al número de militantes. La lista se actualiza cada vez que el Servel sube datos referentes a nuevas entradas y salidas de militantes. Abajo puesde una Tabla que incluye el nombre del partido político, su sigla, el estado de este, la incial del nombre y apellido de los presidentes de cada partido político, y el número total de militantes. Los datos fueron recolectados a través del Servicio Electoral (Servel).
 
 Página actualizada: **11 de junio de 2021**.
 

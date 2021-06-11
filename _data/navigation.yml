@@ -8,7 +8,7 @@ main:
    url: /legislativa2021/
 
  - title: "📈Intención de Voto"
-   url: /intencion/
+   url: /intenciondevoto/
 
  - title: "✅Aprobación Presidencial"
    url: /aprobacion/
@@ -27,9 +27,6 @@ main:
 
  - title: "📖Constituyentes"
    url: /constituyentes/
-
- - title: "🗣️Convención"
-   url: /convencion/
 
  - title: "📉Partidos Políticos"
    url: /partidos/

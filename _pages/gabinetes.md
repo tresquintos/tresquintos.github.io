@@ -5,9 +5,9 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado, y el número de ministros de cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado, y el número de ministros por cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
-Página actualizada: **10 de junio de 2021**.
+Página actualizada: **11 de junio de 2021**.
 
 
 ## Ministros de Estado

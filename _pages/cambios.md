@@ -5,23 +5,23 @@ permalink: /cambios/
 author_profile: true
 ---
 
-En esta página puedes ver dos secciones referentes a cambios ministeriales y parlamentarios desde 2018 a la fecha, como también los cambios de partidos políticos de parlamentarios desde 1990 a la fecha. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "Switchers" o parlamentarios que cambian su partido político.
+En esta página puedes ver dos secciones referentes a cambios ministeriales y parlamentarios, como también los cambios de partidos políticos de parlamentarios, ambas secciones desde 2018 a la fecha, referentes al periodo del gobierno de Sebastián Piñera. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "switchers" o parlamentarios que cambian su partido político en el ejercio de su cargo.
 
 Página actualizada: **10 de junio de 2021**.
 
-### Entradas y Salidas
+## Entradas y Salidas
 
-Abajo puedes ver la lista de los cambios ministeriales y parlamentarios desde 2018 a la fecha. La tabla incluye, la fecha de entrada de cada uno, el cargo de entrada, su nombre, su partido político, la fecha de salida, y el nombre de su reemplazo.
+Abajo puedes ver la lista de los cambios ministeriales y parlamentarios desde 2018 a la fecha. La tabla incluye, la fecha en la que asumió, el cargo por el que asumió como entrada, su nombre, su partido político, y la fecha de salida del cargo de entrada.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-sH8m3" src="https://datawrapper.dwcdn.net/sH8m3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1558"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-sH8m3" src="https://datawrapper.dwcdn.net/sH8m3/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1493"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 ---
 
 ## Switchers
 
-Abajo puedes ver la lista de cambios de partidos políticos desde 1989 a la fecha. La tabla incluye el año del cambio de partido, el cargo parlamentario de cada uno, su nombre, y su partido político (en el respectivo año).
+Abajo puedes ver la lista de cambios de partidos políticos desde 2018 a la fecha. La tabla incluye el año del cambio de partido político, el cargo parlamentario de cada uno, su nombre, la sigla del partido político antiguo (con el que asumieron su cargo), la sigla del partido político al cual se cambiaron durante el ejercio de su cargo, y la fecha en la que se llevó a cabo el cambio de partido político.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-ehCbi" src="https://datawrapper.dwcdn.net/ehCbi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2374"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-ehCbi" src="https://datawrapper.dwcdn.net/ehCbi/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2441"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
     
 ---

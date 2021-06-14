@@ -8,13 +8,13 @@ author_profile: true
 
 ### ¿Qué significa Tresquintos?
 
-Tres quintos (3/5) es uno de los umbrales de cambio y continuidad del sistema político chileno. Es, por ejemplo, el quórum requerido para hacer una reforma al sistema electoral, y para aprobar normas legales que interpreten preceptos constitucionales. En la Cámara de Diputados los 3/5 se consiguen con 93 escaños y en el Senado con 33 escaños. 
+Tres quintos (3/5) es uno de los umbrales de cambio y continuidad del sistema político chileno. Es, por ejemplo, el quórum requerido para hacer una reforma al sistema electoral, y para aprobar normas legales que interpreten preceptos constitucionales. En la Cámara de Diputados los 3/5 se consiguen con 93 escaños y en el Senado con 33 escaños.
 
 [![logo2](/images/logo_short.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short.png) [![logo](/images/logo.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo.png) [![logo3](/images/logo_short2.png){:height="5%" width="5%"}](https://tresquintos.cl/images/logo_short2.png)
 
 ### ¿Qué hace Tresquintos?
 
-**Tresquintos** es un sitio de análisis político e información electoral. Estamos enfocados en la recopilación y procesamiento de datos, poniendo los métodos y la lógica al centro del debate. Por ello, estamos constantemente trabajando con paquetes estadísticos, tal como indica nuestro logo institucional. Velamos por la transparencia en la realización de nuestros análisis y en la replicabilidad de los resultados. Por este motivo, siempre compartimos las metodologías que nos permiten llegar a ciertas conclusiones. 
+**Tresquintos** es un sitio de análisis político e información electoral. Estamos enfocados en la recopilación y procesamiento de datos, poniendo los métodos y la lógica al centro del debate. Por ello, estamos constantemente trabajando con paquetes estadísticos, tal como indica nuestro logo institucional. Velamos por la transparencia en la realización de nuestros análisis y en la replicabilidad de los resultados. Por este motivo, siempre compartimos las metodologías que nos permiten llegar a ciertas conclusiones.
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
@@ -41,7 +41,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 ### ¿Quién está en el equipo de Tresquintos?
 
-Sofía Contreras Ubal es la encargada del equipo de investigación, Pablo Toro Monroy es analista de datos e investigador asociado, Mauricio Rojas Casimiro es investigador asociado, y Francisca Urquiza Bórquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
+Sofía Contreras Ubal es la encargada de investigación, Pablo Toro Monroy es analista de datos e investigador asistente, Mauricio Rojas Casimiro es investigador asociado, y Francisca Urquiza Bórquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
 [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_)[![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro)[![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
 

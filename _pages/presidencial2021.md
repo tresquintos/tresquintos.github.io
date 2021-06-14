@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección muestra la lista de endosos de cada uno de los candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **11 de junio de 2021**.
+Página actualizada: **14 de junio de 2021**.
 
 
 ## Candidatos
@@ -20,7 +20,7 @@ Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. 
 
 ## Endosos
 
-Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registro de información relativo a las principales autoridades del país. En total son 278 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); intendentes (16); los alcaldes de las comunas con más electores (40); senadores (42); diputados (153).
+Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registro de información relativo a las principales autoridades del país. En total son 277 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); intendentes (16); los alcaldes de las comunas con más electores (40); senadores (42); diputados (153).
 
 <iframe id="https://datawrapper.dwcdn.net/Ruxeg/1/" src="https://datawrapper.dwcdn.net/Ruxeg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3997"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>

@@ -5,14 +5,14 @@ permalink: /gabinetes/
 author_profile: true
 ---
 
-En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado, y el número de ministros por cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de mujeres ministras. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
+En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado para el periodo 2018-2022, y el número total de ministros por cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de ministras en cada gobierno. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
 Página actualizada: **14 de junio de 2021**.
 
 
 ## Ministros de Estado
 
-Abajo puedes ver la lista de actuales ministros de Estado, el ministerio que lideran, su nombre, partido político y la fecha en que asumieron.
+Abajo puedes ver la lista de actuales ministros de Estado, el ministerio que lideran, su nombre, partido político y la fecha en que asumieron, donde solo 2 carteras no han sido modificadas desde el comienzo del periodo el 11 de marzo de 2018, las que corresponden a los ministerios de Justicia y Transporte.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-fG2aj" src="https://datawrapper.dwcdn.net/fG2aj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="803"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

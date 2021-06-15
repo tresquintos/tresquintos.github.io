@@ -5,11 +5,11 @@ permalink: /cambios/
 author_profile: true
 ---
 
-En esta página puedes ver dos secciones referentes a cambios parlamentarios, como también cambios respecto a los partidos políticos de parlamentarios en ejercicio, ambas secciones desde 2018 a la fecha, referentes al actual periodo de gobierno de Sebastián Piñera 2018-2022. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "switchers" o parlamentarios que cambian su partido político en el ejercio de su cargo. Cada vez que ocurra un cambio de gabinete o de partido político, todas las tablas se actualizarán instantáneamente.
+En esta página puedes ver dos secciones referentes a cambios parlamentarios, como también cambios respecto a los partidos políticos de parlamentarios en ejercicio, ambas secciones desde 2018 a la fecha, referentes al actual periodo de gobierno de Sebastián Piñera 2018-2022. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "switchers" o parlamentarios que cambian su partido político en el ejercio de su cargo. Cada vez que ocurra un cambio parlamentario o de partido político, todas las tablas se actualizarán instantáneamente.
 
-Página actualizada: **14 de junio de 2021**.
+Página actualizada: **15 de junio de 2021**.
 
-## Entradas y Salidas
+## Salidas
 
 Abajo puedes ver la lista de los cambios parlamentarios desde 2018 a la fecha. La Tabla incluye, el año en que asumió, el cargo por el que asumió, su nombre, su partido político, y la fecha de salida del cargo de entrada, puedes ver sus reemplazos [aquí](https://tresquintos.cl/congreso/).
 

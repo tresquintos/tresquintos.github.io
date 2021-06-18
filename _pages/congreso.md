@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver dos secciones referentes a los actuales parlamentarios del Congreso Nacional. Parte con los 43 senadores, donde algunos concluyen sus periodos el 2022 (electos en 2014), y otros lo hacen en el 2026 (electos en 2018), esto debido al cambio de sistema electoral de uno binominal a uno proporcional en el año 2017, y continúa los 155 diputados en ejercicio.
 
-Página actualizada: **17 de junio de 2021**.
+Página actualizada: **18 de junio de 2021**.
 
 ## Senadores
 

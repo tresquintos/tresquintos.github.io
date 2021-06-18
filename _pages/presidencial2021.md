@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección muestra la lista de endosos de cada uno de los candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **17 de junio de 2021**.
+Página actualizada: **18 de junio de 2021**.
 
 
 ## Candidatos

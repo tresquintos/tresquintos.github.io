@@ -9,14 +9,15 @@ tags:
   - Sesgo Socioeconómico
 ---
 
+*Por: [Kenneth Bunker](https://twitter.com/kennethbunker) y [Pablo Toro](https://twitter.com/pablotoro_)*
 
-Se habla frecuentemente de que en Chile existe un sesgo socioeconómico en las elecciones. La hipótesis es que la participación electoral depende de la clase socioeconómica del votante. Es decir, que quienes pertenecen a clases socioeconómicas más privilegiadas votarían más que quienes pertenecen a clases socioeconómicas más vulnerables. 
+Se habla frecuentemente de que en Chile existe un sesgo socioeconómico en las elecciones. La hipótesis es que la participación electoral depende de la clase socioeconómica del votante. Es decir, que quienes pertenecen a clases socioeconómicas más privilegiadas votarían más que quienes pertenecen a clases socioeconómicas más vulnerables.
 
-¿Existe sesgo socioeconómico en la participación electoral? 
+**¿Existe sesgo socioeconómico en la participación electoral?**
 
-Esa pregunta es importante por dos motivos. Primero, naturalmente por el efecto democrático que tendría  el sesgo socioeconómico de ser cierto. Si las clases socioeconómicamente privilegiadas participan más, su nivel de representación sería relativamente mayor. Esto es un problema porque viola el principio democrático de una persona un voto. 
+Esa pregunta es importante por dos motivos. Primero, naturalmente por el efecto democrático que tendría  el sesgo socioeconómico de ser cierto. Si las clases socioeconómicamente privilegiadas participan más, su nivel de representación sería relativamente mayor. Esto es un problema porque viola el principio democrático de una persona un voto.
 
-Pero también es importante a la luz de los recientes hechos. En la segunda vuelta de la elección de gobernadores, votó solo un 19.6% del padrón electoral. A partir de aquello, se abrió un debate sobre la reposición del voto obligatorio. Entender la magnitud del voto socioeconómico, si existe, sirve para entender la urgencia de tal proyecto. 
+Pero también es importante a la luz de los recientes hechos. En la segunda vuelta de la elección de gobernadores, votó solo un 19.6% del padrón electoral. A partir de aquello, se abrió un debate sobre la reposición del voto obligatorio. Entender la magnitud del voto socioeconómico, si existe, sirve para entender la urgencia de tal proyecto.
 
 Evidencia circunstancial sugiere que sí existe un voto socioeconómico. Por ejemplo, para la segunda vuelta de la elección de gobernadores, en la comuna más vulnerable de la Región Metropolitana (La Pintana), votó solo un 16.1%. En contraste, en la comuna menos vulnerable de la Región Metropolitana (Lo Barnechea), votó un 47.1%. Es decir, una diferencia de 31%.
 
@@ -34,6 +35,7 @@ Ahora bien, dado que hay una serie de comunas que son [outliers](https://es.wiki
 
 Quizás más interesante aún es que si se resta la región Metropolitana completa de la muestra, es decir solo se observa la interacción entre ambas variables en las 235 comunas que participaron de la elección, pero que no son de la Región Metropolitana, el efecto desaparece. De hecho, la relación no es siquiera significativa.
 
+
 ![socioeconomico](https://user-images.githubusercontent.com/85262128/122687752-061a4400-d1e6-11eb-87a2-46c5f9ede8ce.jpg)
 
 
@@ -45,9 +47,10 @@ Lo anterior no significa que no exista sesgo socioeconómico en regiones fuera d
 
 Que el sesgo exista principalmente en la Región Metropolitana (zona urbana, altamente poblada y densa), y no en el resto del país no es un factor de alivio. Esto porque en la Región Metropolitana viven aproximadamente 7 millones de personas (37% del país), todas ellas potencialmente afectadas por los efectos negativos del voto socioeconómico.
 
+
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
-Si quieres replicar estos gráficos, descarga las bases en formato CSV [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DZWXOG). Si usas **R** o **Stata** puedes abrir el archivo directo con la dirección del enlace).
+Si quieres replicar estos gráficos, descarga las bases en formato CSV [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DZWXOG). Si usas **R** o **Stata** puedes importar el archivo directo con la dirección del enlace).
 
 
 <style>

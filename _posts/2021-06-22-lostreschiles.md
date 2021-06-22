@@ -1,6 +1,6 @@
 ---
 title: "Los tres Chiles"
-date: 2021-06-23
+date: 2021-06-22
 permalink: /posts/2021/06/lostreschiles/
 comments: true
 tags:

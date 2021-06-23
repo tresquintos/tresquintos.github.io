@@ -24,12 +24,12 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 [![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 [![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
-[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
-[![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
-[![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
-[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
-[![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407503168724869121)
+[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407143257289760770)
+[![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1387115480486400002)
+[![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1394788831723933701)
+[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1406994977922691074)
+[![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1343728950892228609)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021

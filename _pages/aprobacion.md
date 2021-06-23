@@ -1,13 +1,18 @@
 ---
 layout: single
-title: "Aprobación Presidencial"
-permalink: /aprobacionpresidencial/
+title: "Popularidad Presidencial"
+permalink: /popularidad/
 author_profile: true
 ---
 
-En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la aprobación presidencial (o popularidad presidencial) para el actual gobierno de Sebastian Piñera 2018-2022.
+En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la popularidad presidencial (o aprobación y desaprobación del trabajo presidencial) para el actual gobierno de Sebastian Piñera 2018-2022.
 
 Página actualizada: **22 de junio de 2021**.
+
+
+## Tendencia
+
+![Top-3](/images/aprobación_presidencial.png){:height="100%" width="100%"}
 
 
 ## Popularidad

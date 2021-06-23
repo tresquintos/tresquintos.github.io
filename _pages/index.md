@@ -25,9 +25,9 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}
 
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Aprobación Presidencial
+## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial
 
-![Aprobación Presidencial](/images/aprobación_presidencial.png){:height="49%" width="49%"}
+![Aprobación Presidencial](/images/aprobación_presidencial.png){:height="100%" width="100%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

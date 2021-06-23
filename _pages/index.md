@@ -20,7 +20,7 @@ Abajo puedes ver algunos de los candidatos presidenciales que están compitiendo
 ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
 ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}
 ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}
-![Paula Narváez](/images/tsm/card_2021_Paula%20Narvaez_c.png){:height="15%" width="15%"}
+![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

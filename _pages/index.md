@@ -27,7 +27,7 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Aprobación Presidencial
 
-![Aprobación Presidencial](/images/aprobación_presidencial.png){:height="49%" width="49%"}
+![Aprobación Presidencial](/images/aprobación_presidencial.png){:height="49%" width="49%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

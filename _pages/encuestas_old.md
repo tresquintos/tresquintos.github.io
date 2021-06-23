@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Encuestas"
-permalink: /encuestas/
+permalink: /encuestas_old/
 author_profile: true
 ---
 

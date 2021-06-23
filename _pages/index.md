@@ -10,6 +10,7 @@ redirect_from:
   - /alcaldes/
   - /gores/
   - /gores2021/
+  - /convencionales2021/
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!

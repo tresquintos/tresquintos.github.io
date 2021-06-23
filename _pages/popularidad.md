@@ -12,7 +12,7 @@ Página actualizada: **22 de junio de 2021**.
 
 ## Tendencia
 
-![Top-3](/images/aprobación_presidencial.png){:height="100%" width="100%"}
+![Top-3](/images/popularidad_presidencial.png){:height="100%" width="100%"}
 
 
 ## Popularidad

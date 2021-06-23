@@ -7,6 +7,8 @@ redirect_from:
   - /tsm/
   - /sx/
   - /gores/
+  - /alcaldes/
+  - /gores/
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
@@ -27,6 +29,14 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="16%" width="16%"}
 ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="16%" width="16%"}
 ![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="16%" width="16%"}
+
+
+## Tendencia
+
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
+
+[![Top-3](/images/popularidad_presidencial.png){:height="100%" width="100%"}](https://tresquintos.cl/popularidad/)
+
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

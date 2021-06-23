@@ -17,8 +17,6 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![Chile Vamos](/images/intención_de_voto_chilevamos.png){:height="49%" width="49%"}
 ![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad.png){:height="49%" width="49%"}
 
-![Chile Vamos](/images/primarias.gif){:height="100%" width="100%"}
-
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="16%" width="16%"}
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="16%" width="16%"}
 ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="16%" width="16%"}

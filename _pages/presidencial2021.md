@@ -11,16 +11,16 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 Página actualizada: **23 de junio de 2021**.
 
-![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="16%" width="16%"}
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="16%" width="16%"}
-![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="16%" width="16%"}
-![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="16%" width="16%"}
-![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="16%" width="16%"}
-![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="16%" width="16%"}
+![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
+![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}
+![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}
 
 ## Tendencia
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los principales candidatos. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los principales candidatos. La línea de tendencia es un promedio móvil de 16 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
 
 ![Top-10](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
 

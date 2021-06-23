@@ -23,7 +23,7 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 [![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 [![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}(https://twitter.com/tresquintos/status/1405888765491658760)]
+[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1405888765491658760)
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}
 ![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
 ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}

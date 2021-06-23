@@ -31,7 +31,7 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="16%" width="16%"}
 
 
-## Tendencia
+## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
 

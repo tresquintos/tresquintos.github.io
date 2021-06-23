@@ -17,12 +17,12 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![Chile Vamos](/images/intención_de_voto_chilevamos.png){:height="49%" width="49%"}
 ![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad.png){:height="49%" width="49%"}
 
-![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}
-![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
-![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}
-![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}
-![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}
+![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="17%" width="17%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="17%" width="17%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="17%" width="17%"}
+![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="17%" width="17%"}
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="17%" width="17%"}
+![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="17%" width="17%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial

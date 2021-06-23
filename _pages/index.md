@@ -24,6 +24,8 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="16%" width="16%"}
 ![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="16%" width="16%"}
 
+![Chile Vamos](/images/primarias.gif){:height="100%" width="100%"}
+
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 

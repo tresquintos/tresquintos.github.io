@@ -23,12 +23,12 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 [![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 [![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1405888765491658760)
-![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}
-![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}
-![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}
-![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}
-![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}
+[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
+[![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021
@@ -36,7 +36,6 @@ Abajo puedes ver la tendencia en las encuestas de los candidatos que están comp
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
 
 [![Top-3](/images/popularidad_presidencial.png){:height="100%" width="100%"}](https://tresquintos.cl/popularidad/)
-
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

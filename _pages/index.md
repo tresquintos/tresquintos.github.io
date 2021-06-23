@@ -3,6 +3,10 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
+redirect_from:
+  - /tsm/
+  - /sx/
+  - /gores/
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!

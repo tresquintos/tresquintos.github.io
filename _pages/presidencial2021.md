@@ -15,9 +15,9 @@ Página actualizada: **22 de junio de 2021**.
 
 ## Tendencia
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los tres principales candidatos. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los principales candidatos. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
 
-![Top-3](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
+![Top-3](/images/experimental.png){:height="100%" width="100%"}
 
 
 ## Candidatos

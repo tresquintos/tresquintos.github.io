@@ -5,7 +5,9 @@ permalink: /presidencial2021/
 author_profile: true
 ---
 
-En esta página puedes ver tres secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra a los candidatos en competencia, la segunda sección muestra la lista de endosos de cada uno de los candidatos, y la tercera sección muestra sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia, la segunda, los candidatos en competencia, la tercera, la lista de endosos de cada uno de los candidatos, y la cuarta, sus equipos de campaña. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+
+
 
 Página actualizada: **22 de junio de 2021**.
 
@@ -13,10 +15,9 @@ Página actualizada: **22 de junio de 2021**.
 
 ## Tendencia
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra los tres principales candidatos. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los tres principales candidatos. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
 
 ![Top-3](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
-
 
 
 ## Candidatos

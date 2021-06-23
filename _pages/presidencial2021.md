@@ -10,6 +10,13 @@ En esta página puedes ver tres secciones referentes a la elección presidencial
 Página actualizada: **22 de junio de 2021**.
 
 
+
+## Tendencia
+
+![Top-3](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
+
+
+
 ## Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.

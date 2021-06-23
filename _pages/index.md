@@ -19,7 +19,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 Abajo puedes ver ala tendencias de candidatos presidenciales que están compitiendo en la elección primaria para la elección presidencial de 2021. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Revisa su tendencia en las encuestas [aquí](https://tresquintos.cl/intencion/).
 
-![Chile Vamos](/images/intención%20de%20voto%20chilevamos.png){:height="49%" width="49%"}
+![Chile Vamos](/images/intención%20de%20voto%20chilevamos.png){:height="49%" width="49%"}
 ![Apruebo Dignidad](/images/intención%20de%20voto%20apruebodignidad.png){:height="49%" width="49%"}
 
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}

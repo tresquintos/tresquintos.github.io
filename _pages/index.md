@@ -18,7 +18,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
-Abajo puedes ver la tendencia en las encuestas de los candidatos que están compitiendo en las primarias para la elección presidencial de 2021. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Revisa el detalle [aquí](https://tresquintos.cl/presidencial2021/).
+Abajo puedes ver la tendencia en las encuestas de los candidatos que están compitiendo en las primarias para la elección presidencial de 2021. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Para ver los detalles, pincha [aquí](https://tresquintos.cl/presidencial2021/).
 
 [![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
 [![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)

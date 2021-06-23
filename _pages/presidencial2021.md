@@ -11,7 +11,12 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 Página actualizada: **23 de junio de 2021**.
 
-
+![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="16%" width="16%"}
+![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="16%" width="16%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="16%" width="16%"}
+![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="16%" width="16%"}
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="16%" width="16%"}
+![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="16%" width="16%"}
 
 ## Tendencia
 

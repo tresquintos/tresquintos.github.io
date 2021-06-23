@@ -32,7 +32,7 @@ main:
    url: /partidos/
 
  - title: "📝Blog"
-   url: /year-archive/
+   url: /blog/
 
  - title: "💎Donaciones"
    url: /donaciones/

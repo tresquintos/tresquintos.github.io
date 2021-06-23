@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver la tendencia de popularidad presidencial, además de la lista completa de encuestas que se han publicado con datos referentes a la popularidad presidencial (o aprobación y desaprobación del trabajo presidencial) para el actual presidente, Sebastian Piñera (2018-2022).
 
-Página actualizada: **22 de junio de 2021**.
+Página actualizada: **23 de junio de 2021**.
 
 
 ## Tendencia

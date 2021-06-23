@@ -9,7 +9,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 
 
-Página actualizada: **22 de junio de 2021**.
+Página actualizada: **23 de junio de 2021**.
 
 
 

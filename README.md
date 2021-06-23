@@ -1,5 +1,5 @@
 # tresquintos.cl
-Análisis político e información electoral
+Información electoral y análisis político
 
 
 ## Detalles

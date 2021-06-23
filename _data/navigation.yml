@@ -31,6 +31,9 @@ main:
  - title: "📉Partidos Políticos"
    url: /partidos/
 
+- title: "📝Blog"
+  url: /year-archive/
+
  - title: "💎Donaciones"
    url: /donaciones/
 

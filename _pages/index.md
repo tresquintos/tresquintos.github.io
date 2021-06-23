@@ -10,18 +10,17 @@ author_profile: true
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Tendencias
-
-![Chile Vamos](/images/intención%20de%20voto%20chilevamos.png){:height="49%" width="49%"}
-![Apruebo Dignidad](/images/intención%20de%20voto%20apruebodignidad.png){:height="49%" width="49%"}
-
+## ![ep](/images/pc.png){:height="3%" width="3%"} Aprobación Presidencial
 
 ![Aprobación Presidencial](/images/aprobación%20presidencial.png){:height="49%" width="49%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
-Abajo puedes ver algunos de los candidatos presidenciales que están compitiendo en la elección presidencial de 2021. En total, estamos siguiendo a más de 30 candidatos que han marcado en las encuestas de opinión pública desde marzo de 2018. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Revisa su tendencia en las encuestas [aquí](https://tresquintos.cl/intencion/).
+Abajo puedes ver ala tendencias de candidatos presidenciales que están compitiendo en la elección primaria para la elección presidencial de 2021. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Revisa su tendencia en las encuestas [aquí](https://tresquintos.cl/intencion/).
+
+![Chile Vamos](/images/intención%20de%20voto%20chilevamos.png){:height="49%" width="49%"}
+![Apruebo Dignidad](/images/intención%20de%20voto%20apruebodignidad.png){:height="49%" width="49%"}
 
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}

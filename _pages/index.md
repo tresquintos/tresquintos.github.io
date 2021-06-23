@@ -17,7 +17,10 @@ Abajo puedes ver algunos de los candidatos presidenciales que están compitiendo
 
 ![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="19%" width="19%"}
 ![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="19%" width="19%"}
-![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"} ![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="19%" width="19%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"}
+![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="19%" width="19%"}
+![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="19%" width="19%"}
+![Paula Narváez](/images/tsm/card_2021_Paula%20Narvaez_c.png){:height="19%" width="19%"} 
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="19%" width="19%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

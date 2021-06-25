@@ -34,7 +34,10 @@ Abajo puedes ver los mismos datos de las [encuestas](https://tresquintos.cl/encu
 [Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="33%" width="33%"}
 [Unidad Constituyente](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}
 
-[ ![](/images/intención_de_voto_unidadconstituyente_primarias.png)](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}
+![](/images/intención_de_voto_unidadconstituyente_primarias.png)](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}
+
+
+![](/images/intención_de_voto_unidadconstituyente_primarias.png)](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}
 
 
 ## Candidatos

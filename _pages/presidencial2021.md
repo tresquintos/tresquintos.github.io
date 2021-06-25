@@ -26,6 +26,11 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 ![Top-10](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
 
 
+[![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
+[![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
+[![Unidad Constituyente](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
+
+
 ## Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.

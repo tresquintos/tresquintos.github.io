@@ -26,9 +26,13 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 ![Top-10](/images/intención_de_voto_escenario1.png){:height="100%" width="100%"}
 
 
+## Coaliciones
+
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018 para los principales candidatos, desagregando por coalición. Las encuestas son sobre la elección de noviembre. La línea de tendencia es un promedio móvil de 16 días. Al igual que arriba, el gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
+
 [![Chile Vamos](/images/intención_de_voto_chilevamos_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
-[![Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
-[![Unidad Constituyente](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
+[[Apruebo Dignidad](/images/intención_de_voto_apruebodignidad_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
+[[Unidad Constituyente](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}](https://tresquintos.cl/presidencial2021/)
 
 
 ## Candidatos

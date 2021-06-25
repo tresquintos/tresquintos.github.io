@@ -37,7 +37,7 @@ Abajo puedes ver los mismos datos de las [encuestas](https://tresquintos.cl/encu
 ![](/images/intención_de_voto_unidadconstituyente_primarias.png)](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}
 
 
-[![image-text](/images/intención_de_voto_unidadconstituyente_primarias.png))](/images/intención_de_voto_unidadconstituyente_primarias.png)){:height="33%" width="33%"}
+[![image-text](/images/intención_de_voto_unidadconstituyente_primarias.png))](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"})
 
 ## Candidatos
 

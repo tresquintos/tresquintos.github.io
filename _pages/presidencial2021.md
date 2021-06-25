@@ -30,9 +30,9 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 
 Abajo puedes ver los mismos datos de las [encuestas](https://tresquintos.cl/encuestas/), desagregando por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 15 encuestas.
 
-[![image-text](/images/intención_de_voto_chilevamos_primarias.png){:height="33%" width="33%"}](/images/intención_de_voto_chilevamos_primarias.png)
-[![image-text](/images/intención_de_voto_apruebodignidad_primarias.png){:height="33%" width="33%"}](/images/intención_de_voto_apruebodignidad_primarias.png)
-[![image-text](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="33%" width="33%"}](/images/intención_de_voto_unidadconstituyente_primarias.png)
+[![image-text](/images/intención_de_voto_chilevamos_primarias.png){:height="32%" width="32%"}](/images/intención_de_voto_chilevamos_primarias.png)
+[![image-text](/images/intención_de_voto_apruebodignidad_primarias.png){:height="32%" width="32%"}](/images/intención_de_voto_apruebodignidad_primarias.png)
+[![image-text](/images/intención_de_voto_unidadconstituyente_primarias.png){:height="32%" width="32%"}](/images/intención_de_voto_unidadconstituyente_primarias.png)
 
 
 ## Candidatos

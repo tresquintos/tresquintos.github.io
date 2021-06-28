@@ -1,7 +1,7 @@
 ---
 title: "Titulo"
 date: 2021-06-29
-permalink: 
+permalink: /posts/2021/06/distintosescenariosCC/
 comments: true
 tags:
   - Métodos

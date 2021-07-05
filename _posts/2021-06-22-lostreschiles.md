@@ -10,11 +10,11 @@ tags:
 ---
 
 
-*Por: [Kenneth Bunker](https://twitter.com/kennethbunker) y [Pablo Toro](https://twitter.com/pablotoro_)*
-
 Se habla frecuentemente de que en Chile existe un sesgo socioeconómico en las elecciones. La hipótesis es que la participación electoral depende de la clase socioeconómica del votante. Es decir, que quienes pertenecen a clases socioeconómicas más privilegiadas votarían más que quienes pertenecen a clases socioeconómicas más vulnerables.
 
 **¿Existe sesgo socioeconómico en la participación electoral?**
+
+*Por: [Kenneth Bunker](https://twitter.com/kennethbunker) y [Pablo Toro](https://twitter.com/pablotoro_)*
 
 Esa pregunta es importante por dos motivos. Primero, naturalmente por el efecto democrático que tendría  el sesgo socioeconómico de ser cierto. Si las clases socioeconómicamente privilegiadas participan más, su nivel de representación sería relativamente mayor. Esto es un problema porque viola el principio democrático de una persona un voto.
 

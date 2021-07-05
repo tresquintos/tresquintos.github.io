@@ -7,7 +7,7 @@ author_profile: true
 
 En esta página puedes ver estadísticas relativas a las herramientas utilizadas por el Congreso Nacional para fiscalizar al poder ejecutivo y judicial. La primera sección resume las acusaciones constitucionales interpuestas desde 1990 a la fecha, y la segunda sección resume las interpelaciones realizadas desde 2006 a la fecha. Los datos fueron recolectados de la página oficial del poder legislativo.
 
-Página actualizada: **01 de julio de 2021**.
+Página actualizada: **05 de julio de 2021**.
 
 
 ## Acusaciones Constitucionales

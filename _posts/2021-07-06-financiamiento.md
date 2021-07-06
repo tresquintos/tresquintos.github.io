@@ -16,6 +16,8 @@ La reciente elección de constituyentes es una oportunidad perfecta para testear
 
 **Entonces, ¿es verdad que mayor financiamiento electoral conlleva a una mejor votación?**
 
+*Por: [Sofía Contreras](https://twitter.com/SofiaContrerasU) , [Pablo Toro](https://twitter.com/pablotoro_) y [Kenneth Bunker](https://twitter.com/kennethbunker)*
+
 Si bien hay evidencia de que lo anterior es verdad (ver [aquí](https://www.servel.cl/ingresos-y-gastos-de-candidatos/)), el cambio en la forma de realizar aportes electorales, así como las características particulares de la elección de constituyentes (pandemia, escaños reservados, paridad, listas de independientes) pueden haber tenido un efecto en la importancia del financiamiento en la obtención de votos y la probabilidad de ser elegido. 
 
 Por ejemplo, como muestra la siguiente Tabla, René Cortázar (Lista del Apruebo) fue el candidato con mayor financiamiento de la elección (con $184.782.467), pero no resultó elegido. En la vereda contraria, tres candidatos no obtuvieron ningún solo peso financiamiento electoral, sin embargo resultaron elegidos.

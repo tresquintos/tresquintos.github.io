@@ -1,5 +1,5 @@
 ---
-title: "La plata no asegura una victoria pero te ayuda bastante"
+title: "La plata no asegura una victoria pero ayuda bastante"
 date: 2021-07-05
 permalink: /posts/2021/07/financiamiento/
 comments: true
@@ -12,13 +12,13 @@ tags:
 
 Largamente se ha debatido la real incidencia que tiene la plata en la política. Para la mayoría es intuitivo pensar que quienes tienen más recursos tienen más oportunidades de incidir en el proceso político. En particular, quienes tienen más recursos para hacer campañas tienen más posibilidades de ser elegidos.
 
-La reciente elección de constituyentes es una oportunidad perfecta para testear esta hipótesis.  Dado que el sistema de aportes y financiamiento electoral se utilizó de forma online por primera vez, se emparejó la cancha para que todos los candidatos tuvieran la misma oportunidad de recibir financiamiento. 
+La reciente elección de constituyentes es una oportunidad perfecta para testear esta hipótesis.  Dado que el sistema de aportes y financiamiento electoral se utilizó de forma online por primera vez, se emparejó la cancha para que todos los candidatos tuvieran la misma oportunidad de recibir financiamiento.
 
 **Entonces, ¿es verdad que mayor financiamiento electoral conlleva a una mejor votación?**
 
 *Por: [Sofía Contreras](https://twitter.com/SofiaContrerasU) , [Pablo Toro](https://twitter.com/pablotoro_) y [Kenneth Bunker](https://twitter.com/kennethbunker)*
 
-Si bien hay evidencia de que lo anterior es verdad (ver [aquí](https://www.servel.cl/ingresos-y-gastos-de-candidatos/)), el cambio en la forma de realizar aportes electorales, así como las características particulares de la elección de constituyentes (pandemia, escaños reservados, paridad, listas de independientes) pueden haber tenido un efecto en la importancia del financiamiento en la obtención de votos y la probabilidad de ser elegido. 
+Si bien hay evidencia de que lo anterior es verdad (ver [aquí](https://www.servel.cl/ingresos-y-gastos-de-candidatos/)), el cambio en la forma de realizar aportes electorales, así como las características particulares de la elección de constituyentes (pandemia, escaños reservados, paridad, listas de independientes) pueden haber tenido un efecto en la importancia del financiamiento en la obtención de votos y la probabilidad de ser elegido.
 
 Por ejemplo, como muestra la siguiente Tabla, René Cortázar (Lista del Apruebo) fue el candidato con mayor financiamiento de la elección (con $184.782.467), pero no resultó elegido. En la vereda contraria, tres candidatos no obtuvieron ningún solo peso financiamiento electoral, sin embargo resultaron elegidos.
 
@@ -28,7 +28,7 @@ Por ejemplo, como muestra la siguiente Tabla, René Cortázar (Lista del Apruebo
 
 Pero lo anterior puede ser meramente anecdótico. Por eso, para responder la pregunta, recopilamos información sobre el financiamiento electoral de los 1,278 candidatos que compitieron por uno de los 138 cupos a la Convención. También recopilamos el número y el porcentaje de votos que cada obtuvieron en la elección.
 
-La primera pregunta es si mayor financiamiento electoral conlleva a una mayor votación. Para contestar eso debemos hacernos cargo de los distintos límites de financiamiento electoral, y número de votantes por distrito. Por eso, operacionalizamos financiamiento como el porcentaje de pesos recolectados del tope legal. Así mismo, usamos el porcentaje de votos (y no número).
+La primera pregunta es si mayor financiamiento electoral conlleva a una mayor votación. Para contestar eso debemos hacernos cargo de los distintos límites de financiamiento electoral, y número de votantes por distrito. Por eso, operacionalizamos financiamiento como el porcentaje de pesos recolectados del tope legal. Así mismo, usamos el porcentaje de votos (y no el número).
 
 La figura de abajo muestra un gráfico de dispersión con ambas variables. La línea roja representa una [regresión lineal](https://es.wikipedia.org/wiki/Regresi%C3%B3n_lineal) que, con [errores estándar robustos](https://es.wikipedia.org/wiki/Regresi%C3%B3n_robusta), es positiva y significativa. Es decir, mientras más recursos juntan los candidatos, más alta tiende a ser su votación. Por cada 10% de financiamiento adicional de un candidato (respecto al tope), su votación aumenta en promedio 1.3%.
 
@@ -44,16 +44,16 @@ Luego de una [regresión logística](https://es.wikipedia.org/wiki/Regresi%C3%B3
 ![figura 2](https://user-images.githubusercontent.com/85262128/124526065-90aa9800-ddcf-11eb-9119-69333ba30f44.png)
 
 
-De lo anterior concluimos dos cosas. Primero, que la relación entre financiamiento de campañas y resultados electorales observada en la elección de diputados de 2017 se mantiene. Al igual que esa vez, en la elección de constituyentes de 2021, más financiamiento también conlleva a un mayor porcentaje de votos, así como también a una mayor probabilidad de ganar. 
+De lo anterior concluimos dos cosas. Primero, que la relación entre financiamiento de campañas y resultados electorales observada en la elección de diputados de 2017 se mantiene. Al igual que esa vez, en la elección de constituyentes de 2021, más financiamiento también conlleva a un mayor porcentaje de votos, así como también a una mayor probabilidad de ganar.
 
-Segundo, concluimos que siempre hay excepciones a la regla ([*outliers*](https://es.wikipedia.org/wiki/Valor_at%C3%ADpico)). De hecho, la [regresión lineal](https://es.wikipedia.org/wiki/Regresi%C3%B3n_lineal) (simple y minimalista, en su espíritu exploratorio) muestra que el financiamiento sólo explica alrededor  de un 15% de la varianza en los resultados electorales. Aunque Cortázar hubiese juntado 100% de financiamiento, probablemente estaba condenado a perder desde antes. 
+Segundo, concluimos que siempre hay excepciones a la regla ([*outliers*](https://es.wikipedia.org/wiki/Valor_at%C3%ADpico)). De hecho, la [regresión lineal](https://es.wikipedia.org/wiki/Regresi%C3%B3n_lineal) (simple y minimalista, en su espíritu exploratorio) muestra que el financiamiento sólo explica alrededor  de un 15% de la varianza en los resultados electorales. Aunque Cortázar hubiese juntado 100% de financiamiento, probablemente estaba condenado a perder desde antes.
 
-Finalmente, cabe recordar que este trabajo es solo exploratorio. Recomendamos a quienes están interesados en seguir investigando la relación entre plata y elecciones a complejizar los modelos con otras variables. También sería interesante comparar la magnitud de la relación entre tipo de elecciones; por ejemplo entre constituyentes y diputados. 
+Finalmente, cabe recordar que este trabajo es solo exploratorio. Recomendamos a quienes están interesados en seguir investigando la relación entre plata y elecciones a complejizar los modelos con otras variables. También sería interesante comparar la magnitud de la relación entre tipo de elecciones; por ejemplo entre constituyentes y diputados.
 
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
-Si quieres replicar estos gráficos, descarga las bases en formato CSV [**aquí**](). Si usas **R** o **Stata** puedes importar el archivo directo con la dirección del enlace).
+Si quieres replicar estos gráficos, descarga las bases en formato CSV [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/A3ZMVM). Si usas **R** o **Stata** puedes importar el archivo directo con la dirección del enlace).
 
 
 <style>
@@ -65,8 +65,3 @@ Si quieres replicar estos gráficos, descarga las bases en formato CSV [**aquí*
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
 <script src="/js/topsecret.js"></script>
-
-
-
-
-

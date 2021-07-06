@@ -1,6 +1,6 @@
 ---
 title: "La plata no asegura una victoria pero ayuda bastante"
-date: 2021-07-05
+date: 2021-07-06
 permalink: /posts/2021/07/financiamiento/
 comments: true
 tags:

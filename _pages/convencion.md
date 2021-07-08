@@ -7,7 +7,7 @@ author_profile: true
 
 En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente.
 
-Página actualizada: **08 de julio de 2021**.
+Página actualizada: **08 de julio de 2021**. 
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Convención Constitucional"
-permalink: /convenciónconstitucional/
+permalink: /convencion/
 author_profile: true
 ---
 

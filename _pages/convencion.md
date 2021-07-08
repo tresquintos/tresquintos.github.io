@@ -5,25 +5,25 @@ permalink: /convencion/
 author_profile: true
 ---
 
-En esta sección puedes ver el funcionamiento de la Convención y sus 155 Constituyentes electos. Parte con un **Mapa Ideólogico** de posicionamiento espacial de los 155 Convencionales construido por **Tresquintos** y finaliza con una figura que muestra la **Disciplina** de cada Convencional en el ejercicio de su trabajo en la redacción de la Nueva Constitución.
+En esta sección puedes ver el funcionamiento de la Convención Constitucional y sus 155 Constituyentes electos. Parte con una Imagen que muestra las votaciones de cada tema en tabla (que se irá actualizando diariamente) y finaliza con una Tabla que muestra, las proximas sesiones de Convención.
 
-Página actualizada: **10 de junio de 2021**.
-
----
-
-### Mapa ideológico
-
-Abajo puedes ver un mapa ideológico de los 155 Convencionales electos. Construido siguiendo los métodos explicados en el punto anterior.
-
-![cc](/images/155.png){:height="100%" width="100%"}
+Página actualizada: **08 de julio de 2021**.
 
 ---
 
-### Disciplina
+### Votaciones
 
-Abajo puedes ver la disciplina por pacto de cada Convencional, la cual se irá actualizando a medida que estén disponible las sesiones de cada tema a tratar en la Convención Constitucional.
+Abajo puedes ver un mapa Imagen que muestra las votaciones de la última sesión de la Convención Constitucional. La Imagen incluye, el tema votado, el total de votos a favor, en contra, las abstenciones, el total de votos emitidos y el número de quienes no votaron.
 
-![cc](/images/155.png){:height="100%" width="100%"}
+![cc](/images/sesion 07-07.jpg){:height="100%" width="100%"}
+
+---
+
+### Próximas sesiones
+
+Abajo puedes ver una Tabla que muestra las próximas sesiones y los temas que se discutiran en cada una.
+
+
 
 ---
 <!-- NES -->

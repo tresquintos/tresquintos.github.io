@@ -1,27 +1,29 @@
 ---
 layout: single
 title: "Convención Constitucional"
-permalink: /convencion/
+permalink: /convenciónconstitucional/
 author_profile: true
 ---
 
-En esta sección puedes ver el funcionamiento de la Convención Constitucional y sus 155 Constituyentes electos. Parte con una Imagen que muestra las votaciones de cada tema en tabla (que se irá actualizando diariamente) y finaliza con una Tabla que muestra, las proximas sesiones de Convención.
+En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente.
 
 Página actualizada: **08 de julio de 2021**.
 
 ---
 
-### Votaciones
+![cc](/images/sesion 07-07.jpg){:height="100%" width="100%"}
 
-Abajo puedes ver un mapa Imagen que muestra las votaciones de la última sesión de la Convención Constitucional. La Imagen incluye, el tema votado, el total de votos a favor, en contra, las abstenciones, el total de votos emitidos y el número de quienes no votaron.
+---
 
 ![cc](/images/sesion 07-07.jpg){:height="100%" width="100%"}
 
 ---
 
-### Próximas sesiones
+![cc](/images/sesion 07-07.jpg){:height="100%" width="100%"}
 
-Abajo puedes ver una Tabla que muestra las próximas sesiones y los temas que se discutiran en cada una.
+---
+
+![cc](/images/sesion 07-07.jpg){:height="100%" width="100%"}
 
 
 

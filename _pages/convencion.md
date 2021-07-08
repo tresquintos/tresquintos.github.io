@@ -12,6 +12,7 @@ Página actualizada: **08 de julio de 2021**.
 ---
 
 *P1*: Propuesta de Pedro Muñoz (PS)
+
 *P2*: Propuesta Lista del Pueblo + PP.OO
 
 

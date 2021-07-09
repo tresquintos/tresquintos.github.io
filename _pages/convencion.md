@@ -11,17 +11,22 @@ Página actualizada: **08 de julio de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210708.png){:height="100%" width="100%"}
-
-*P1*: Propuesta de Pedro Muñoz (PS)
-
-*P2*: Propuesta Lista del Pueblo + PP.OO
+![cc](/images/rollcall/sesion_20210708a.png){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210707.jpg){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210707.png){:height="100%" width="100%"}
 
 ---
+
+![cc](/images/rollcall/sesion_20210705b.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210705a.png){:height="100%" width="100%"}
+
+---
+
 <!-- NES -->
 <style>
 .aligncenter {

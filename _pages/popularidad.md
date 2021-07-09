@@ -14,14 +14,14 @@ Página actualizada: **08 de julio de 2021**.
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
 
-![Top-3](/images/popularidad_presidencial.png){:height="100%" width="100%"}
+![Top-3](/images/main graphs/popularidad_presidencial.png){:height="100%" width="100%"}
 
 
 ## Diferencia
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018, además de la diferencia entre aprobación y desaprobación (las barras). El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
 
-![Top-3](/images/popularidad_presidencial_dif.png){:height="100%" width="100%"}
+![Top-3](/images/main graphs/popularidad_presidencial_dif.png){:height="100%" width="100%"}
 
 
 ## Popularidad

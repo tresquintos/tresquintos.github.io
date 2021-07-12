@@ -16,6 +16,8 @@ Al comparar la composición de la Cámara de Diputados y Diputadas y de la Conve
 
 **¿Cuál fue el efecto del sistema electoral usado para la elección de constituyentes (paridad, n-1 para PP.OO) si se compara con el sistema usado para la legislativa de 2017?**
 
+*Por: [Kenneth Bunker](https://twitter.com/kennethbunker), [Sofía Contreras](https://twitter.com/SofiaContrerasU) y [Pablo Toro](https://twitter.com/pablotoro_)*
+
 Para responder a la pregunta, primero usamos los resultados para los 1278 candidatos que compitieron en los 28 distritos en la elección de mayo. Descontando a los candidatos que compitieron por los 17 escaños reservados, calculamos el número y porcentaje de escaños que habría obtenido cada lista tanto con el sistema utilizado para la elección de constituyentes (138 escaños), como con el sistema utilizado para la elección de diputados de 2017 (155 escaños).  
 
 La Tabla de abajo muestra la comparación entre los dos sistemas desagregados por lista y la diferencia en porcentaje de escaños entre ambos. Se observa que, en porcentaje de escaños, la coalición más perjudicada es la Lista del Apruebo, quienes mantienen sus 25 escaños, pero al aumentar el número de escaños de 138 a 155, reducen en un 2% su porcentaje. La segunda coalición más perjudicada es Chile Vamos, quienes pese a sumar 2 escaños más, reducen en un 1.7% su porcentaje. 
@@ -40,7 +42,7 @@ Finalmente, si contabilizamos sólo a los 138 candidatos electos, en los totales
 
 En general, vemos que si se eliminan los 17 escaños para PP.OO y se mantienen los 155 escaños en 28 distritos, las listas más beneficiadas serían las listas de independientes (sin la Lista del Pueblo e Independientes No Neutrales) y Apruebo Dignidad. Las listas más perjudicadas serían los sectores tradicionales (Lista de Apruebo y Chile Vamos). 
 
-En cuanto a la regla de paridad, en líneas generales–y sin considerar las correcciones en las candidaturas de PP.OO– esta favoreció a los hombres por sobre las mujeres, pero con diferencias dentro de cada lista. Fueron las candidatas de Chile Vamos las más beneficiadas por la norma de paridad y las de Independientes No Neutrales las más perjudicadas. 
+En cuanto a la regla de paridad, en líneas generales–y sin considerar las correcciones en las candidaturas de PP.OO–esta favoreció a los hombres por sobre las mujeres, pero con diferencias dentro de cada lista. Fueron las candidatas de Chile Vamos las más beneficiadas por la norma de paridad y las de Independientes No Neutrales las más perjudicadas. 
 
 Finalmente, recordar que este ejercicio es solo experimental. Las distintas reglas electorales no sólo generan distintos incentivos mecánicos en los resultados, sino también incentivos psicológicos en los votantes (ver [aquí](https://www.sciencedirect.com/science/article/abs/pii/S0261379403000209)).  Es probable que si se hubiera aplicado el mismo sistema de 2017 a la elección de constituyentes los resultados habrían sido distintos. Nuevas investigaciones podrían profundizar lo que hemos presentado en este artículo. 
 

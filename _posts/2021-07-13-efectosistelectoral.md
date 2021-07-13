@@ -1,6 +1,6 @@
 ---
 title: "Los que ganan y los que pierden con la paridad y los escaños reservados"
-date: 2021-07-12
+date: 2021-07-13
 permalink: /posts/2021/07/efectosistelectoral/
 comments: true
 tags:

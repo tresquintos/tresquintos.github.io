@@ -14,17 +14,15 @@ Página actualizada: **14 de julio de 2021**.
 
 ## Apruebo Dignidad
 
-![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/boric2021p.png)
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/jadue2021p.png)
-![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(https://t.co/CLyza1U7u2?amp=1)
-
+[![Boric](/images/programas/boric2021p.png){:height="15%" width="15%"}](https://t.co/CLyza1U7u2?amp=1)
+[![Jadue](/images/programas/jadue2021p.png){:height="15%" width="15%"}](https://t.co/Q9Th9kNZlP?amp=1)
 
 ## Chile Vamos
 
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/briones2021p.png)
-![image-text](https://t.co/Q9Th9kNZlP?amp=1){:height="20%" width="20%"}(/images/programas/desbordes2021p.png)
-![image-text](https://t.co/IttYvTZq2D?amp=1){:height="20%" width="20%"}(/images/programas/lavín2021p.png)
-![image-text](https://t.co/3aiXwyInl3?amp=1){:height="20%" width="20%"}(/images/programas/sichel2021p.png)
+[![Briones](/images/programas/briones2021p.png){:height="15%" width="15%"}](https://t.co/CLyza1U7u2?amp=1)
+[![Desbordes](/images/programas/desbordes2021p.png){:height="15%" width="15%"}](https://t.co/Q9Th9kNZlP?amp=1)
+[![Lavín](/images/programas/lavín2021p.png){:height="15%" width="15%"}](https://t.co/IttYvTZq2D?amp=1)
+[![Sichel](/images/programas/sichel2021p.png){:height="15%" width="15%"}](https://t.co/3aiXwyInl3?amp=1)
 
 
 ---

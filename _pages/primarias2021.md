@@ -17,6 +17,7 @@ Página actualizada: **14 de julio de 2021**.
 ![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/boric2021p.png)
 ![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/jadue2021p.png)
 
+
 ## Chile Vamos
 
 ![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/briones2021p.png)
@@ -24,30 +25,6 @@ Página actualizada: **14 de julio de 2021**.
 ![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/lavín2021p.png)
 ![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/sichel2021p.png)
 
-
-
-## Candidatos
-
-Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe. Los candidatos de la lista de **Chile Vamos** y **Apruebo Dignidad** medirán sus fuerzas en la primaria presidencial del 18 de julio de 2021.
-
-<iframe id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1036"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-
-## Endosos
-
-Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registro de información relativo a las principales autoridades del país. En total son 436 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); Gobernadores Regionales (16); Convencionales (155); alcaldes de las comunas con más electores del país (40); senadores (43); diputados (155).
-
-<iframe id="https://datawrapper.dwcdn.net/Ruxeg/1/" src="https://datawrapper.dwcdn.net/Ruxeg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3997"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-
-## Equipos
-
-Abajo puedes ver la lista de los equipos de campaña para cada candidato presidencial. La Tabla incluye el nombre del candidato, la lista a la que pertenece, el partido político que los inscribe, el nombre codificado de cada área de trabajo y el nombre de la persona encargada de esa área.
-
-<iframe title="" aria-label="table" id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/15/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2988"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
 
 ---
 

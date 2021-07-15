@@ -1,34 +1,23 @@
 ---
 layout: single
-title: "Presidencial 2021"
-permalink: /presidencial2021/
+title: "Primarias Presidenciales 2021"
+permalink: /primarias2021/
 author_profile: true
 ---
 
-En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de los principales candidatos; la segunda, los candidatos en competencia; la tercera, la lista de endosos de cada uno de los candidatos de las principales autoridades del país; y la cuarta, los equipos de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
-
+En esta página puedes descargar los programas de los candidatos que competirán en las primarias presidenciales del 18 de julio de 2021.
 
 
 Página actualizada: **14 de julio de 2021**.
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407503168724869121)
-[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407143257289760770)
-[![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1387115480486400002)
-[![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1394788831723933701)
-[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1406994977922691074)
-[![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1343728950892228609)
-
+---
 
 ## Apruebo Dignidad
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los principales candidatos. La línea de tendencia es un promedio móvil de 15 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).
-
-![Top-10](/images/main graphs/intención_de_voto_escenario1.png){:height="100%" width="100%"}
-
+![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/boric2021p.png)
+![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/jadue2021p.png)
 
 ## Chile Vamos
-
-Abajo puedes ver lo datos de las [encuestas](https://tresquintos.cl/encuestas/) (intención de voto primera vuelta), por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 15 encuestas. Pincha en las imágenes para ver los detalles.
 
 ![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/briones2021p.png)
 ![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/desbordes2021p.png)

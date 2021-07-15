@@ -16,6 +16,7 @@ Página actualizada: **14 de julio de 2021**.
 
 ![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/boric2021p.png)
 ![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/jadue2021p.png)
+![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(https://t.co/CLyza1U7u2?amp=1)
 
 
 ## Chile Vamos

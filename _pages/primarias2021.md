@@ -21,10 +21,10 @@ Página actualizada: **14 de julio de 2021**.
 
 ## Chile Vamos
 
-![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/briones2021p.png)
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/desbordes2021p.png)
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/lavín2021p.png)
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/sichel2021p.png)
+![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/briones2021p.png)
+![image-text](https://t.co/Q9Th9kNZlP?amp=1){:height="20%" width="20%"}(/images/programas/desbordes2021p.png)
+![image-text](https://t.co/IttYvTZq2D?amp=1){:height="20%" width="20%"}(/images/programas/lavín2021p.png)
+![image-text](https://t.co/3aiXwyInl3?amp=1){:height="20%" width="20%"}(/images/programas/sichel2021p.png)
 
 
 ---

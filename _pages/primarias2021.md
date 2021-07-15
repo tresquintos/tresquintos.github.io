@@ -26,15 +26,15 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 ![Top-10](/images/main graphs/intención_de_voto_escenario1.png){:height="100%" width="100%"}
 
 
-## Coaliciones
+## Chile Vamos
 
 Abajo puedes ver lo datos de las [encuestas](https://tresquintos.cl/encuestas/) (intención de voto primera vuelta), por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 15 encuestas. Pincha en las imágenes para ver los detalles.
 
-![image-text](/images/programas/briones2021p.png){:height="32%" width="32%"}(/images/programas/briones2021p.png)
-![image-text](https://t.co/CLyza1U7u2?amp=1){:height="32%" width="32%"}(/images/programas/briones2021p.png)
+![image-text](/images/programas/briones2021p.png){:height="20%" width="20%"}(/images/programas/briones2021p.png)
+![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/desbordes2021p.png)
+![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/lavín2021p.png)
+![image-text](https://t.co/CLyza1U7u2?amp=1){:height="20%" width="20%"}(/images/programas/sichel2021p.png)
 
-[![image-text](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png)
-[![image-text](/images/main graphs/intención_de_voto_unidadconstituyente_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_unidadconstituyente_primarias.png)
 
 
 ## Candidatos

@@ -15,7 +15,8 @@ Página actualizada: **14 de julio de 2021**.
 ## Apruebo Dignidad
 
 [![Boric](/images/programas/boric2021p.png){:height="15%" width="15%"}](https://t.co/CLyza1U7u2?amp=1)
-[![Jadue](/images/programas/jadue2021p.png){:height="15%" width="15%"}](https://t.co/Q9Th9kNZlP?amp=1)
+[![Jadue](/images/programas/jadue2021p.png){:height="15%" width="15%"}](https://t.co/2TVjM1w8sJ?amp=1)
+
 
 ## Chile Vamos
 

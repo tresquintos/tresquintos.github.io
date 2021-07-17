@@ -11,6 +11,11 @@ Página actualizada: **14 de julio de 2021**.
 
 ---
 
+![cc](/images/rollcall/sesion_20210715a.png){:height="100%" width="100%"}
+
+---
+
+
 ![cc](/images/rollcall/sesion_20210714c.png){:height="100%" width="100%"}
 
 ---

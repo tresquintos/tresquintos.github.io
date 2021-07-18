@@ -12,6 +12,9 @@ Página actualizada: **14 de julio de 2021**.
 
 ---
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0Z9MXi7G5YFcb-Q_Q8b3afMIQAZm82dQv23rqMiKcsVu3Bw0CTv-oh1MlFQAe3e9cnQULSBDfkjoX/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
 ## Apruebo Dignidad
 
 [![Boric](/images/programas/boric2021p.png){:height="15%" width="15%"}](https://t.co/CLyza1U7u2?amp=1)

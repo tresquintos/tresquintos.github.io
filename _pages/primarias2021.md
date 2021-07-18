@@ -8,7 +8,7 @@ author_profile: true
 En esta página puedes descargar los programas de los candidatos que competirán en las primarias presidenciales del 18 de julio de 2021.
 
 
-Página actualizada: **14 de julio de 2021**.
+Página actualizada: **16 de julio de 2021**.
 
 ---
 

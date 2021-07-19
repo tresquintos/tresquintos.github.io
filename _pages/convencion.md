@@ -11,40 +11,40 @@ Página actualizada: **18 de julio de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210715a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210715a.jpg){:height="100%" width="100%"}
 
 ---
 
 
-![cc](/images/rollcall/sesion_20210714c.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210714c.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210714b.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210714b.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210714a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210714a.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210713a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210713a.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210708a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210708a.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210707a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210707a.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210705b.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210705b.jpg){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_20210705a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210705a.jpg){:height="100%" width="100%"}
 
 ---
 

@@ -51,7 +51,6 @@ Página actualizada: **18 de julio de 2021**.
 
 ---
 
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3a6f5773bbbc78ea5a0003f67/7c3ef49d4fb0650979628f3b6.js");</script>
 
 <!-- NES -->
 <style>

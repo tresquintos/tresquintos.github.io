@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tendencias: Presidenciales 2021"
-permalink: /presidenciales2021/
+permalink: /presidenciales2021_old/
 author_profile: true
 ---
 

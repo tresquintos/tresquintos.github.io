@@ -23,8 +23,12 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 Abajo puedes ver la tendencia en las encuestas de los candidatos que están compitiendo en las primarias para la elección presidencial de 2021. Puedes ver la lista de todos los candidatos [aquí](https://tresquintos.cl/presidencial2021/#candidatos), los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos). Para ver los detalles, pincha [aquí](https://tresquintos.cl/presidencial2021/).
 
-[![Chile Vamos](/images/main graphs/intención_de_voto_chilevamos_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
-[![Apruebo Dignidad](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png){:height="49%" width="49%"}](https://tresquintos.cl/presidencial2021/)
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los candidatos que están en [nuestra lista](https://tresquintos.cl/encuestas/#candidatos) y que han marcado en [encuestas de opinión pública ](https://tresquintos.cl/encuestas/). La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
+
+![Top-10](/images/main graphs/intención_de_voto_escenario1.png){:height="100%" width="100%"}
+
+Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
+
 
 [![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407503168724869121)
 [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407143257289760770)

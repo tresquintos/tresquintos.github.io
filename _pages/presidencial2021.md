@@ -28,7 +28,7 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 
 ## Coaliciones
 
-Abajo puedes ver lo datos de las [encuestas](https://tresquintos.cl/encuestas/) (intención de voto primera vuelta), por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 15 encuestas. Pincha en las imágenes para ver los detalles.
+Abajo puedes ver lo datos de las [encuestas](https://tresquintos.cl/encuestas/) (intención de voto primera vuelta), por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 7 encuestas. Pincha en las imágenes para ver los detalles.
 
 [![image-text](/images/main graphs/intención_de_voto_chilevamos_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_chilevamos_primarias.png)
 [![image-text](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png)

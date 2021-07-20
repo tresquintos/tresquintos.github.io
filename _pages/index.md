@@ -38,7 +38,7 @@ Si quieres saber más de los candidatos, puedes revisar los endosos que han reci
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 días. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
+Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
 
 [![Top-3](/images/main graphs/popularidad_presidencial.png){:height="100%" width="100%"}](https://tresquintos.cl/popularidad/)
 

@@ -7,8 +7,8 @@ layout: splash
 
 
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="50%" width="50%"}](https://twitter.com/tresquintos/status/1407503168724869121)
-[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="50%" width="50%"}](https://twitter.com/tresquintos/status/1407143257289760770)
+[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407503168724869121)
+[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407143257289760770)
 
 
 ---

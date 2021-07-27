@@ -19,7 +19,7 @@ Abajo puedes ver las encuestas más recientes que han medido intención de voto 
 
 ## Primarias Presidenciales 2021
 
-En esta sección puedes ver las encuestas más recientes que han medido intención de voto para candidatos a las elecciones primarias Presidenciales 2021 de ambos pactos que las diputaron el 18 de julio de 2021. Por otro lado, se encuentran las encuestas de intención de voto para la Consulta Ciudadana Presidencial del pacto "Unidad Constituyente" fijada para el 21 de agosto de 2021.
+En esta sección puedes ver las encuestas más recientes que han medido intención de voto para candidatos a las elecciones primarias Presidenciales 2021 de los pactos "Apruebo Dignidad" y "Vamos por Chile" que se disputaron el 18 de julio de 2021. Por otro lado, se encuentran las encuestas de intención de voto para la Consulta Ciudadana Presidencial del pacto "Unidad Constituyente" fijada para el 21 de agosto de 2021.
 
 ### Unidad Constituyente
 

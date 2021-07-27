@@ -1,0 +1,76 @@
+##########################
+
+TRESQUINTOS
+
+Bases de Datos de Tresquintos
+Serie: “Participación Electoral, 1900-2017”
+Base: "participación_1900-2017"
+Sitio: https://tresquintos.cl/datos
+
+##########################
+
+INFORMACIÓN
+
+columnas: 16
+filas: 62
+
+##########################
+
+VARIABLES 
+
+id:
+año: año de la elección
+fecha: fecha de la votación, dd/mm/aaaa	
+tipo: tipo de la elección
+población: población total de Chile
+inscritos: población inscrita para votar
+pev: población en edad de votar
+v_emitidos: votos emitidos
+p_inscritos: porcentaje de inscritos del total de población [p_inscritos/población]
+p_pev: porcentaje en edad de votar del total de la población [pev/población]
+part_población: porcentaje de participación del total de población [v_emitidos/población]
+part_inscritos: porcentaje de inscritos del total de votos emitidos [v_emitidos/inscritos]
+part_pev: porcentaje de [v_emitidos/pev]
+p_abstención: porcentaje de abstención [100/part_inscritos]
+
+##########################
+
+FUENTES
+
+[1]  Contreras, Gonzalo y Patricio Navia. 2013. "Diferencias generacionales en la participación electoral en Chile 1988-2010". Revista de Ciencia Política 33(2).
+
+[2]  Brieba, Daniel y Kenneth Bunker. 2019. "Voter Equalization and Turnout Bias After Electoral Reform: Evidence from Chile’s Voluntary Voting Law". Latin American Politics and Society 61(4): 23-46.
+
+[3]  Nazer, Ricardo y Jaime Rosemblit. 2000. "Electores, sufragio y democracia en Chile". Revista e Humanidades y Ciencias Sociales 48(2): 215-228.
+
+[4]  Tricel: https://tribunalcalificador.cl/resultados-de-elecciones/
+
+[5]  Servel: https://servel.cl/
+
+##########################
+
+PATHS
+
+### R
+path <- 'https://raw.githubusercontent.com/tresquintos/datos/master/participacionelectoral/participacionelectoral_1900-2017.csv'
+             
+df <- read.csv(path, header =  TRUE, sep = ',', stringsAsFactors =FALSE)
+length(df)
+
+### Stata 
+import delimited "https://raw.githubusercontent.com/tresquintos/datos/master/participacionelectoral/participacionelectoral_1900-2017.csv", encoding(utf8) clear
+
+##########################
+
+REFERENCIA
+
+Tresquintos.cl
+
+##########################
+
+CONTACTO
+
+nombre: Kenneth Bunker
+email: kabunker [@] gmail [.] com
+
+##########################

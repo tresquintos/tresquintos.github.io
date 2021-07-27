@@ -7,7 +7,7 @@ layout: splash
 
 
 
-[![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+[![bayes](/images/bayes.png){:height="100%" width="100%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem)
 
 
 

@@ -28,15 +28,6 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 ![Top-10](/images/main graphs/intención_de_voto_escenario2.png){:height="100%" width="100%"}
 
 
-## Coaliciones
-
-Abajo puedes ver lo datos de las [encuestas](https://tresquintos.cl/encuestas/) (intención de voto primera vuelta), por coalición. Al igual que arriba, la línea de tendencia es un promedio móvil de 7 encuestas. Pincha en las imágenes para ver los detalles.
-
-[![image-text](/images/main graphs/intención_de_voto_chilevamos_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_chilevamos_primarias.png)
-[![image-text](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_apruebodignidad_primarias.png)
-[![image-text](/images/main graphs/intención_de_voto_unidadconstituyente_primarias.png){:height="32%" width="32%"}](/images/main graphs/intención_de_voto_unidadconstituyente_primarias.png)
-
-
 ## Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe.

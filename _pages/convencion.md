@@ -10,7 +10,7 @@ redirect_from:
 
 En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Descarga los datos consolidados de las votaciones individuales (por constituyente) [aquí](https://raw.githubusercontent.com/tresquintos/datos/master/convencionales/votaci%C3%B3n%20particular.csv?token=AEX6A3TIC37WVA7NR2OOR43BAGMMK).
 
-Página actualizada: **26 de julio de 2021**.
+Página actualizada: **27 de julio de 2021**.
 
 ---
 

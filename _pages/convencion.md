@@ -13,7 +13,7 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 Página actualizada: **27 de julio de 2021**.
 
 
-![cc](/images/rollcall/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall/votos.png){:height="49%" width="49%"}
+![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 ---
 

@@ -7,6 +7,8 @@ author_profile: true
 
 En esta página podrás ver la lista de bases de datos que manejamos en **Tresquintos**. Hay dos categorías: **bases gratuitas** y **bases premium**, y cuatro series: presidenciales, parlamentarias (senadores y diputados), municipales (alcaldes y concejales), y otros. Cada serie se divide en distintas bases de datos. A su vez, cada base viene asociada a tres formatos: [1] un enlace a la descarga directa de los datos en formato Excel (**.xlsx**), [2] un enlace con el permalink para importar los datos desde GitHub (**.csv**), y [3] un enlace con un archivo que contiene toda la información relativa a los datos (i.e., detalles de matriz; descripción de variables; fuentes; referencia; contacto), además de los códigos exactos para su importación directa desde **Stata** o **R** (en formato **".txt"**).
 
+Página actualizada: **28 de julio de 2021.**
+ 
 ---
 
 ![2](/images/datos/presidenciales.png){:height="45%" width="45%"}
@@ -79,30 +81,37 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_17.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_17.txt)
+  
 - Elección senadores 2013
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_13.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_13.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_13.txt)
+  
 - Elección senadores 2009
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_09.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_09.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_09.txt)
+  
 - Elección senadores 2005
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_05.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_05.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_05.txt)
+  
 - Elección senadores 2001
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_01.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_01.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_01.txt)
+ 
 - Elección senadores 1997
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_97.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_97.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_97.txt)
+  
 - Elección senadores 1993
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_93.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_93.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/readme_93.txt)
+  
 - Elección senadores 1989
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/senadores/senadores_89.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/senadores/senadores_89.csv)
@@ -115,30 +124,37 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_17.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_17.txt)
+  
 - Elección diputados 2013
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_13.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_13.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_13.txt)
+  
 - Elección diputados 2009
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_09.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_09.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_09.txt)
+  
 - Elección diputados 2005
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_05.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_05.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_05.txt)
+  
 - Elección diputados 2001
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_01.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_01.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_01.txt)
+  
 - Elección diputados 1997
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_97.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_97.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_97.txt)
+  
 - Elección diputados 1993
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_93.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_93.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/readme_93.txt)
+  
 - Elección diputados 1989
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/diputados/diputados_89.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/diputados/diputados_89.csv)
@@ -148,18 +164,26 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![4](/images/datos/municipales.png){:height="45%" width="45%"}
 
+- Elección alcaldes 2021
+  - [excel (.xlsx)](https://www.dropbox.com/s/k3ath7qarphl0re/alcaldes_2021.xlsx?dl=0)
+  - [github stata/r](https://www.dropbox.com/s/7jc1wbmzx7kagde/alcaldes_2021.csv?dl=0)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_2021.txt?token=APKQMHRP52NCR6ZJQIDFZ2LBAIHNO)
+  
 - Elección alcaldes 2016
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_16.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_16.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_16.txt)
+  
 - Elección alcaldes 2012
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_12.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_12.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_12.txt)
+  
 - Elección alcaldes 2008
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_08.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_08.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/readme_08.txt)
+ 
 - Elección alcaldes 2004
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/alcaldes/alcaldes_04.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/alcaldes/alcaldes_04.csv)
@@ -167,18 +191,31 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ---
 
+- Elección concejales 2021
+  - [excel (.xlsx)](https://www.dropbox.com/s/h2664mwxj1g1z2q/concejales_21.xlsx?dl=0)
+  - [github stata/r](https://www.dropbox.com/s/9dg05f5iyk86jep/concejales_21.csv?dl=0)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_21.txt?token=APKQMHX77B4FKYCKJUIVYPTBAIKNC)
+
 - Elección concejales 2016
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_16.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_16.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_16.txt)
+
+- Elección concejales 2016
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_16.xlsx?raw=true)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_16.csv)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_16.txt)
+  
 - Elección concejales 2012
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_12.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_12.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_12.txt)
+  
 - Elección concejales 2008
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_08.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_08.csv)
   - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/readme_08.txt)
+  
 - Elección concejales 2004
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/concejales/concejales_04.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/concejales/concejales_04.csv)
@@ -203,6 +240,21 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
 
 ![5](/images/datos/otros.png){:height="45%" width="45%"}
 
+- Elección primaria presidencial en el exterior 2021
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/primarias/2021_pres_votoexterior.xlsx)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/primarias/2021_pres_votoexterior.csv?token=APKQMHQVGTGX6Y6KHTI5Z33BAIFGY)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/primarias/readme_2021.txt?token=APKQMHVVVEWEQ6FGOVM3SXTBAIFIK)
+
+- Elección primaria alcaldes 2020
+  - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/primarias/primarias2020.xlsx)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/primarias/primarias2020.csv?token=APKQMHTDTDYY7PBDT2AAOYTBAIFKS)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/primarias/readme_2020.txt?token=APKQMHVWSNXLU7XS7EJ2U5LBAIFMC)
+
+- Plebiscito 2020
+  - [archivo.xlsx](https://github.com/tresquintos/datos/blob/master/plebiscitos/plebiscito_20.xlsx)
+  - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/plebiscitos/plebiscito_20.csv?token=APKQMHVANEFQOPZUKSJ2UDLBAIJNM)
+  - [readme.txt](https://raw.githubusercontent.com/tresquintos/datos/master/plebiscitos/readme_20.txt?token=APKQMHXWT6MSNKPED5ZDE2DBAIJOW)
+
 - Elecciones presidenciales, 1989-2017
   - [excel (.xlsx)](https://github.com/tresquintos/datos/blob/master/presidenciales/presidenciales_89-17.xlsx?raw=true)
   - [github stata/r](https://raw.githubusercontent.com/tresquintos/datos/master/presidenciales/presidenciales_89-17.csv)
@@ -223,12 +275,12 @@ En esta página podrás ver la lista de bases de datos que manejamos en **Tresqu
   - [ejemplo.csv](https://www.dropbox.com/s/o54g9jlvo99oaj8/plebiscito_88_corto.csv?dl=0)
   - [readme.txt](https://www.dropbox.com/s/1dxxdend6ij3vrn/readme_88.txt?dl=0)
 
-- Acusaciones Constitucionales, 1868-2020
+- Acusaciones Constitucionales, 1868-2021
   - [archivo.xlsx](https://www.dropbox.com/s/rbsb9e60s5x3cuh/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/9cagpk766nksg04/Acusaciones%20Constitucionales%20en%20Chile%2C%201868-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/l0lkn736h2euxlf/readme.txt?dl=0)
 
-- Interpelaciones, 2006-2020
+- Interpelaciones, 2006-2021
   - [archivo.xlsx](https://www.dropbox.com/s/lqkvk5or5e0d9of/Interpelaciones%20en%20Chile%2C%202006-2020.xlsx?dl=0)
   - [ejemplo.csv](https://www.dropbox.com/s/nlpp94gtm40xz6r/Interpelaciones%20en%20Chile%2C%202006-2020%20corto.xlsx?dl=0)
   - [readme.txt](https://www.dropbox.com/s/m3y5vyruolrxqu9/readme.txt?dl=0)

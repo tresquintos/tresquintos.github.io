@@ -22,19 +22,19 @@ Página actualizada: **27 de julio de 2021**.
 ---
 
 
-![cc](/images/rollcall/sesion_20210721a.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210721a.jpg){:height="100%" width="100%"}
 
 
-![cc](/images/rollcall/sesion_20210721b.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210721b.jpg){:height="100%" width="100%"}
 
 
-![cc](/images/rollcall/sesion_20210721c.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210721c.jpg){:height="100%" width="100%"}
 
 
-![cc](/images/rollcall/sesion_20210721d.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210721d.jpg){:height="100%" width="100%"}
 
 
-![cc](/images/rollcall/sesion_20210721e.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210721e.jpg){:height="100%" width="100%"}
 
 ---
 

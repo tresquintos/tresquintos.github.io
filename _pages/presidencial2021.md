@@ -40,7 +40,7 @@ Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. 
 
 Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registro de información relativo a las principales autoridades del país. En total son 436 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); Gobernadores Regionales (16); Convencionales (155); alcaldes de las comunas con más electores del país (40); senadores (43); diputados (155).
 
-<iframe title="endosos" aria-label="table" id="datawrapper-chart-Ruxeg" src="https://datawrapper.dwcdn.net/Ruxeg/72/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2813"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="endosos" aria-label="table" id="datawrapper-chart-Ruxeg" src="https://datawrapper.dwcdn.net/Ruxeg/73/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2813"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 

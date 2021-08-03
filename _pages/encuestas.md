@@ -27,8 +27,9 @@ En esta sección puedes ver las encuestas más recientes que han medido intenci�
 
 Abajo puedes ver las encuestas más recientes para candidatos a la Consulta Ciudadana Presidencial 2021 del pacto "Unidad Constituyente". La Tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", y el porcentaje de apoyo (intención de voto/popularidad).
 
-<iframe title="" aria-label="table" id="datawrapper-chart-0Y8bA" src="https://datawrapper.dwcdn.net/0Y8bA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="189"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="unidad constituyente 2021" aria-label="table" id="datawrapper-chart-0Y8bA" src="https://datawrapper.dwcdn.net/0Y8bA/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="186"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
 
 ### Chile Vamos
 

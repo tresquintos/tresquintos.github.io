@@ -28,7 +28,7 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de popula
 
 Abajo puedes ver una Tabla que muestra las encuestas más recientes que han medido aprobación presidencial (o popularidad). La Tabla incluye, la fecha de campo de la encuesta, el nombre de la encuestadora, el porcentaje de aprobación y rechazo presidencial, y la diferencia entre el porcentaje de aprobación y rechazo.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-HuPsp" src="https://datawrapper.dwcdn.net/HuPsp/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2988"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="popularidad presidencial" aria-label="table" id="datawrapper-chart-HuPsp" src="https://datawrapper.dwcdn.net/HuPsp/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2813"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

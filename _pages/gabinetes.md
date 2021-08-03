@@ -14,15 +14,17 @@ Página actualizada: **26 de julio de 2021**.
 
 Abajo puedes ver la lista de actuales ministros de Estado. La Tabla incluye, el ministerio que lideran, su nombre, su partido político, y la fecha en que asumieron. Solo 2 carteras no han sufrido modificaciones desde el comienzo del periodo de gobierno de Sebastián Piñera, el 11 de marzo de 2018. Estas corresponden a los ministerios de Justicia y Transporte.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-fG2aj" src="https://datawrapper.dwcdn.net/fG2aj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="803"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="gabinete" aria-label="table" id="datawrapper-chart-fG2aj" src="https://datawrapper.dwcdn.net/fG2aj/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="761"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
 
 ## Evolución del total de ministros, desde 1990
 
 Abajo puedes ver un gráfico que muestra el número total de ministros de cada gobierno, desde 1990 a la fecha.
-    
+
 [![cc](/images/gabinete/chile_gabinete_numero_total.png){:height="100%" width="100%"}](https://tresquintos.cl/images/gabinete/chile_gabinete_numero_total.png)
-    
+
+
 ## Evolución de mujeres en el gabinete, desde 1990
 
 Abajo puedes ver dos gráficos que muestran el número y porcentaje de mujeres en los gabinetes ministeriales a través del tiempo. Por ejemplo, el gráfico de la derecha muestra que al comienzo del gobierno de Bachelet (2006-2010) hubo un poco más de 50% de mujeres, pero el número relativo de mujeres en relación a hombres descendió hacia la mitad de su cuatrienio para solo volver a subir hacia el final del gobierno.

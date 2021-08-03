@@ -16,7 +16,7 @@ Página actualizada: **28 de julio de 2021**.
 
 Abajo puedes ver la lista de potenciales candidatos a senador. La Tabla incluye, la región a la que buscaría representar, la circunscripción electoral, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribiría.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-wvqX0" src="https://datawrapper.dwcdn.net/wvqX0/25/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1636"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="candidatos senador 2021" aria-label="table" id="datawrapper-chart-wvqX0" src="https://datawrapper.dwcdn.net/wvqX0/28/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1517"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 
@@ -24,7 +24,7 @@ Abajo puedes ver la lista de potenciales candidatos a senador. La Tabla incluye,
 
 Abajo puedes ver la lista de potenciales candidatos a diputados. La Tabla incluye, la comuna con más electores de la zona a la que representaría, el distrito al que buscaría representar, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribiría.
 
-<iframe title="" aria-label="table" id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/30/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2988"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="candidatos diputado 2021" aria-label="table" id="datawrapper-chart-QbX0b" src="https://datawrapper.dwcdn.net/QbX0b/36/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2813"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 ---

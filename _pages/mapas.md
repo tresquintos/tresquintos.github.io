@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /alcaldes/
+permalink: /mapas/
 author_profile: true
 ---
 

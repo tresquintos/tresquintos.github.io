@@ -9,7 +9,11 @@ layout: single
 ## Presidencial 2021
 
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 12-m"},{"keyword":"/g/1213hcq4","geo":"CL","time":"today 12-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 12-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=CL&q=%2Fg%2F11g1lwpbd2,%2Fg%2F1213hcq4,%2Fm%2F0406crw,%2Fg%2F1233lscq&date=today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 12-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 12-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 12-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 12-m"},{"keyword":"/g/11c2kc0yf2","geo":"CL","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,%2Fg%2F11c2kc0yf2&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
+
+## Regional
+
+
 
 
 

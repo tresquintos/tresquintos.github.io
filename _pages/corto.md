@@ -2,7 +2,7 @@
 title: "Corto"
 permalink: /corto/
 author_profile: true
-layout: single
+layout: splash
 ---
 
 

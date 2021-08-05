@@ -1,15 +1,17 @@
 ---
-title: "Corto"
-permalink: /corto/
+title: "Google Presidencial"
+permalink: /google/
 author_profile: true
 layout: single
 ---
 
 
+## Presidencial 2021
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407503168724869121) [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407143257289760770)
 
-[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1406994977922691074) [![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1343728950892228609)
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 12-m"},{"keyword":"/g/1213hcq4","geo":"CL","time":"today 12-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 12-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=CL&q=%2Fg%2F11g1lwpbd2,%2Fg%2F1213hcq4,%2Fm%2F0406crw,%2Fg%2F1233lscq&date=today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+
 
 ---
 

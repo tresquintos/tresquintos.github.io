@@ -17,7 +17,7 @@ Página actualizada: **03 de agosto de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210803.PNG){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210803.jpg){:height="100%" width="100%"}
 
 ---
 ![cc](/images/rollcall/sesion_20210727a.jpg){:height="100%" width="100%"}

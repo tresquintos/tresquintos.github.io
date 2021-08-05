@@ -35,6 +35,11 @@ Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. 
 <iframe title="candidatos presidente 2021" aria-label="table" id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/33/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="869"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+## Google
+
+Abajo puedes ver
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"2021-05-17 2021-08-05"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"2021-05-17 2021-08-05"},{"keyword":"/m/0406crw","geo":"CL","time":"2021-05-17 2021-08-05"},{"keyword":"/g/1233lscq","geo":"CL","time":"2021-05-17 2021-08-05"},{"keyword":"/g/11c2kc0yf2","geo":"CL","time":"2021-05-17 2021-08-05"}],"category":0,"property":""}, {"exploreQuery":"date=2021-05-17%202021-08-05&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,%2Fg%2F11c2kc0yf2","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 
 ## Endosos
 

@@ -28,19 +28,19 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 ![Top-10](/images/main graphs/intención_de_voto_escenario2.png){:height="100%" width="100%"}
 
 
+## Google
+
+Abajo puedes ver un mapa de Chile que muestra los cinco candidatos presidenciales con más preferencias en las encuestas. El gráfico compara el porcentaje de búsquedas por cada candidato en los últimos 30 días.
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 1-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"},{"keyword":"/g/11c2kc0yf2","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,%2Fg%2F11c2kc0yf2","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
+
+
 ## Candidatos
 
 Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe.
 
 <iframe title="candidatos presidente 2021" aria-label="table" id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/33/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="869"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
-
-## Google
-
-Abajo puedes ver un mapa de Chile que muestra los cinco candidatos presidenciales con más preferencias en las encuestas. El gráfico compara el porcentaje de búsquedas por cada candidato en los últimos 30 días.
-
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2578_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 1-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"},{"keyword":"/g/11c2kc0yf2","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,%2Fg%2F11c2kc0yf2","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 
 
 ## Endosos
@@ -54,7 +54,7 @@ Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registr
 ## Equipos
 
 Abajo puedes ver la lista de los equipos de campaña para cada candidato presidencial. La Tabla incluye, el nombre codificado de cada área de trabajo, el nombre de la persona encargada del área, su partido político y el candidato presidencial del cual forma equipo.
-  
+
 <iframe title="equipos" aria-label="table" id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/35/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1895"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 

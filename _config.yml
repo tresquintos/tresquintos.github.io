@@ -10,7 +10,7 @@ locale                   : "es-ES"
 title                    : "Tresquintos"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Análisis político e información electoral"
+description              : &description "Información electoral + análisis político"
 url                      : https://tresquintos.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : "tresquintos/tresquintos.github.io"
@@ -87,7 +87,7 @@ author:
   name             : "Tresquintos"
   avatar           : "logo_short.png"
   inicio           : "tresquintos.cl" # avatar links here (I made this)
-  bio              : "Información electoral y análisis político"
+  bio              : "Información electoral + análisis político"
   location         : #
   employer         :
   pubmed           : #

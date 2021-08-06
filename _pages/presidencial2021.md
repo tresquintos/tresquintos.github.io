@@ -11,7 +11,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 
 
-Página actualizada: **05 de agosto de 2021**.
+Página actualizada: **06 de agosto de 2021**.
 
 [![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407503168724869121)
 [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407143257289760770)

@@ -69,7 +69,110 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <!-- Popup -->
 <script src="/donationrequest/dist/script.js"></script>
 
-
+<div class="container theme-background-white main-body">
+  <div class="col-md-12">
+    <div class="row donate-bar">  
+      <div class="col-md-4 theme-blue">
+        GIVE WHERE NEEDED MOST
+      </div>
+      <div class="col-md-8">
+        <ul class="nav navbar-nav navbar-left donate-buttons" id="donate-buttons">
+          <li><a href="#">
+            <button class="btn-blue active" data-dollars='25' data-impact="Covers housing or counseling services for one person">
+              $25
+            </button>
+          </a></li>
+          <li><a href="#">
+            <button class="btn-blue" data-dollars='50' data-impact="Covers housing or counseling services for two people">
+              $50
+            </button>
+          </a></li>
+          <li><a href="#">
+            <button class="btn-blue" data-dollars='100' data-impact="Covers housing or counseling services for four people">
+              $100
+            </button>
+          </a></li>
+          <li><a href="#">
+            <button class="btn-blue" data-dollars='500' data-impact="Covers housing or counseling services for twenty people">
+              $500
+            </button>
+          </a></li>
+          <li id="other"><a href="#">
+            <button class="btn-blue-other" data-dollars='other' data-impact="Thank you!">
+              OTHER
+            </button>
+          </a></li>
+          <li id="other-input">
+            <span>$</span>
+           <input data-impact="That’s great. Thank you!">
+          </li>
+          <li><a href="#">
+            <button class="btn-green" data-toggle="modal" data-target="#myModal">
+              DONATE
+            </button>
+          </a></li>
+          <li style="display: none;"><a href="#">
+            LEARN MORE<i class="fa fa-chevron-right margin-left"></i>
+          </a></li>
+        </ul>
+        <p class="impact">
+          Covers housing or counseling services for one person
+        </p>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header well text-center theme-background-blue">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h2>You’re Donating:</h2>
+                <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
+                <em>Thank you!</em>
+              </div>
+              <div class="modal-body">
+                <div class="row">  
+                  <section class="col-md-12">
+                    <form>
+                      <fieldset class="col-md-6">
+                        <legend>
+                          Your personal info
+                        </legend>
+                        <label>Your Name</label>
+                        <input type="string" class="form-control">
+                        <label>Your email</label>
+                        <input type="email" class="form-control">
+                        <label>Address</label>
+                        <input type="email" class="form-control">
+                        <label>City, State, Zip Code</label>
+                        <input type="email" class="form-control">
+                      </fieldset>
+                      <fieldset class="col-md-6">
+                        <legend>
+                          Credit Card Information
+                        </legend>
+                        <label for="card-number">Credit Card Number</label>
+                        <input placeholder="1234 5678 9012 3456" pattern="[0-9]*" type="text" class="form-control card-number" id="card-number">
+                        <label for="card-number">Expiration Date</label>
+                        <input placeholder="MM/YY" pattern="[0-9]*" type="text" class="form-control card-expiration" id="card-expiration">
+                        <label for="card-number">CVV Number</label>
+                        <input placeholder="CVV" pattern="[0-9]*" type="text" class="form-control card-cvv" id="card-cvv">
+                        <label for="card-number">Billing Zip Code</label>
+                        <input placeholder="ZIP" pattern="[0-9]*" type="text" class="form-control card-zip" id="card-zip">
+                      </fieldset>
+                    </form>
+                  </section>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">BACK</button>
+                <button type="button" class="btn-green">CONTINUE</button>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+      </div>
+    </div><!--/.donate-bar-->
+  </div><!-- /.col-md-12 -->
+  
 <!-- Mailchimp -->
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3a6f5773bbbc78ea5a0003f67/7c3ef49d4fb0650979628f3b6.js");</script>

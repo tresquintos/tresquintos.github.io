@@ -66,6 +66,11 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
 
 
+<!-- Popup -->
+<script src="sweetalert2.all.min.js"></script>
+
+
+
 
 <!-- Mailchimp -->
 

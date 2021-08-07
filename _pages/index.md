@@ -69,6 +69,8 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <!-- Popup -->
 <script src="/donationrequest/dist/script.js"></script>
 
+<html>
+<body>
 <div class="container theme-background-white main-body">
   <div class="col-md-12">
     <div class="row donate-bar">  
@@ -172,7 +174,10 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
       </div>
     </div><!--/.donate-bar-->
   </div><!-- /.col-md-12 -->
-  
+
+</body>
+</html>
+
 <!-- Mailchimp -->
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3a6f5773bbbc78ea5a0003f67/7c3ef49d4fb0650979628f3b6.js");</script>

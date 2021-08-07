@@ -70,8 +70,15 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script src="/sweetalert2/dist/sweetalert2.all.min.js"></script>
 <link rel="stylesheet" href="sweetalert2.min.css">
 
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<html>
 
+Swal.fire({
+  title: 'Error!',
+  text: 'Do you want to continue',
+  icon: 'error',
+  confirmButtonText: 'Cool'
+})
+</html>
 
 
 

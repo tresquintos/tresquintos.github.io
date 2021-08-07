@@ -67,7 +67,9 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 <!-- Popup -->
-<div class="container theme-background-white main-body">
+<script src="/donationrequest/dist/script.js"></script>
+
+div class="container theme-background-white main-body">
   <div class="col-md-12">
     <div class="row donate-bar">  
       <div class="col-md-4 theme-blue">

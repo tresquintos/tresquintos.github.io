@@ -69,6 +69,12 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <!-- Popup -->
 <script src="sweetalert2.all.min.js"></script>
 
+Swal.fire({
+  title: 'Error!',
+  text: 'Do you want to continue',
+  icon: 'error',
+  confirmButtonText: 'Cool'
+})
 
 
 

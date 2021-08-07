@@ -71,6 +71,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <link rel="stylesheet" href="sweetalert2.min.css">
 
 <html>
+<body>
 
 Swal.fire({
   title: 'Error!',
@@ -78,6 +79,7 @@ Swal.fire({
   icon: 'error',
   confirmButtonText: 'Cool'
 })
+</body>
 </html>
 
 

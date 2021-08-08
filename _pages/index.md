@@ -67,16 +67,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 <!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
-<script src="/sweetalerts2/dist/sweetalert2.min.js"></script>
-<link rel="stylesheet" href="/sweetalerts2/dist/sweetalert2.min.css">
-
-Swal.fire({
-  title: 'Error!',
-  text: 'Do you want to continue',
-  icon: 'error',
-  confirmButtonText: 'Cool'
-})
 
 
 <!-- Mailchimp -->

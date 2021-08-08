@@ -67,7 +67,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 <!-- Popup -->
-<script src="/sweetalerts2/sweetalert2.all.min.js"></script>
+<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 
 <!-- Mailchimp -->

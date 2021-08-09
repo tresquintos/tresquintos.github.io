@@ -66,23 +66,6 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
 
 
-<!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
-
-<script type="text/javascript">
-
-Swal.fire({
-  title: 'Suscríbete',
-  text: 'Gracias por visitar Tresquintos!',
-  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
-  imageUrl: '/images/pc.png',
-  imageWidth: 80,
-  imageHeight: 80,
-  imageAlt: 'Custom image',
-})
-
-</script>
-
 
 <!-- Mailchimp -->
 

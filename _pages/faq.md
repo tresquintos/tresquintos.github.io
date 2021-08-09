@@ -94,6 +94,24 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 
 
+<!-- Popup -->
+<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+
+<script type="text/javascript">
+
+Swal.fire({
+  title: 'Suscríbete',
+  text: 'Gracias por visitar Tresquintos!',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
+  imageUrl: '/images/pc.png',
+  imageWidth: 80,
+  imageHeight: 80,
+  imageAlt: 'Custom image',
+})
+
+</script>
+
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

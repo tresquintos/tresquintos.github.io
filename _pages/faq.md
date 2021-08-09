@@ -99,13 +99,13 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 Swal.fire({
-  title: 'Suscríbete',
-  text: 'Click en "Ok" para suscribirte a nuestro mailing list. Envíos Jueves y Domingo.',
+  title: 'Ayuda a mantener Tresquintos activo e indepndiente',
+  text: '¡Hace una donación!',
   footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
   showDenyButton: true,
   showCancelButton: true,
-  confirmButtonText: `Ok`,
-  denyButtonText: `No`,
+  confirmButtonText: `Una Vez`,
+  denyButtonText: `Mensual`,
   imageUrl: '/images/pc.png',
   imageWidth: 80,
   imageHeight: 80,

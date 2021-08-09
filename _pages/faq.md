@@ -99,8 +99,6 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 
-setTimeout(sweetalert2, 3000);
-
 Swal.fire({
   title: '¡Apoya a Tresquintos!',
   text: 'Ayúdanos a mantener el sitio activo e independiente',
@@ -124,11 +122,7 @@ Swal.fire({
   } else if (result.isDenied) {
     window.open("https://tresquintos.cl/donaciones/")
   }
-
   })  
-
-
-
 </script>
 
 

@@ -99,7 +99,12 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 
-Swal.fire({
+setTimeout(load_js, 4000); // Delay 4 seconds in loading function
+
+
+function load_js()
+{
+  Swal.fire({
   title: '¡Apoya a Tresquintos!',
   text: 'Ayúdanos a mantener el sitio activo e independiente',
   footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
@@ -122,7 +127,8 @@ Swal.fire({
   } else if (result.isDenied) {
     window.open("https://tresquintos.cl/donaciones/")
   }
-  })  
+  })
+     }
 </script>
 
 

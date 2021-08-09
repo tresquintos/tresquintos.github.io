@@ -113,7 +113,7 @@ Swal.fire({
   denyButtonText: `Mensual`,
   }).then((result) => {
   if (result.isConfirmed) {
-    Swal.fire('href="https://www.latercera.cl"', '', '/images/pc.png')
+    window.open("https://www.w3schools.com")
   } else if (result.isDenied) {'href="https://www.latercera.cl"'
   }
 

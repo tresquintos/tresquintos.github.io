@@ -101,7 +101,7 @@ Es un misterio solo resuelto por las mentes más curiosas.
 Swal.fire({
   title: '¡Hace una donación!',
   text: 'Ayuda a mantener Tresquintos activo e independiente',
-  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
   imageUrl: '/images/pc.png',
   imageWidth: 80,
   imageHeight: 80,

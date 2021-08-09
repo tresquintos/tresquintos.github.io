@@ -99,11 +99,7 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 
-setTimeout(load_js, 4000); // Delay 4 seconds in loading function
-
-
-function load_js()
-{
+setTimeout(function() {
   Swal.fire({
   title: '¡Apoya a Tresquintos!',
   text: 'Ayúdanos a mantener el sitio activo e independiente',
@@ -128,7 +124,8 @@ function load_js()
     window.open("https://tresquintos.cl/donaciones/")
   }
   })
-     }
+  );
+}, 6000);
 </script>
 
 

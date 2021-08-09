@@ -108,12 +108,15 @@ Swal.fire({
   imageAlt: 'Custom image',
   timer: 45000,
   timerProgressBar: true,
+  width: 600,
+  padding: '3em',
+  background: '#fff url(/images/trees.png)',
   backdrop: `
-  rgba(0,0,123,0.4)
-  url("/images/nyan-cat.gif")
-  left top
-  no-repeat
-`
+    rgba(0,0,123,0.4)
+    url("/images/nyan-cat.gif")
+    left top
+    no-repeat
+  `
   showCloseButton: true,
   showDenyButton: true,
   showCancelButton: false,

@@ -115,14 +115,14 @@ Swal.fire({
   confirmButtonText: `Una Vez`,
   denyButtonText: `Mensual`,
   cancelButtonText: `No por ahora`,
-  }).then((result) => {
+  }  setTimeout(Swal.fire(){ alert("Hello"); }, 5000)).then((result) => {
   if (result.isConfirmed) {
     window.open("https://tresquintos.cl/donaciones/")
   } else if (result.isDenied) {
     window.open("https://tresquintos.cl/donaciones/")
   }
 
-  })  setTimeout(Swal.fire(){ alert("Hello"); }, 5000);
+  })  
 
 </script>
 

@@ -99,7 +99,7 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 
-setTimeout(Swal.fire, 3000);
+setTimeout(sweetalerts2, 3000);
 
 Swal.fire({
   title: '¡Apoya a Tresquintos!',

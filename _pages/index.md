@@ -67,18 +67,13 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 <!-- Popup -->
+<script src="sweetalert2/dist/sweetalert2.all.min.js"></script>
+
 <script type="text/javascript">
-function example_popup() {
-    var w = window.open('', '', 'width=400,height=400,resizeable,scrollbars');
-    w.document.write(document.getElementById('example_text').value);
-    w.document.close(); // needed for chrome and safari
-}
+Swal.fire('Any fool can use a computer')
+
 </script>
 
-<form>
-    <input type="text" id="example_text" size="50" value="This is some test content" /><br />
-    <input type="button" value="Write to popup" onclick="example_popup()" />
-</form>
 
 <!-- Mailchimp -->
 

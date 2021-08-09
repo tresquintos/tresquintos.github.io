@@ -113,12 +113,11 @@ Swal.fire({
   denyButtonText: `Mensual`,
   }).then((result) => {
   if (result.isConfirmed) {
-    Swal.fire('<a href="https://www.latercera.cl">Suscríbete aquí</a>', '', '<a href="https://www.emol.com">Suscríbete aquí</a>')
+    Swal.fire('href="https://www.latercera.cl"', '', 'href="https://www.emol.com"')
   } else if (result.isDenied) {
     Swal.fire('Changes are not saved', '', 'info')
   }
 
-  })
   })
 </script>
 

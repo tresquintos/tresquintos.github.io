@@ -97,6 +97,8 @@ Es un misterio solo resuelto por las mentes más curiosas.
 <!-- Popup -->
 <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
+setTimeout(Swal.fire(){ alert("Hello"); }, 5000);
+
 <script type="text/javascript">
 Swal.fire({
   title: '¡Apoya a Tresquintos!',

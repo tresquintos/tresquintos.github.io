@@ -107,6 +107,7 @@ Swal.fire({
   imageHeight: 80,
   imageAlt: 'Custom image',
   timer: 45000,
+  showCloseButton: true,
   showDenyButton: true,
   showCancelButton: true,
   confirmButtonText: `Una Vez`,

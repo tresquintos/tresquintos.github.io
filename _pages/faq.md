@@ -107,7 +107,7 @@ Swal.fire({
   imageWidth: 80,
   imageHeight: 80,
   imageAlt: 'Custom image',
-  timer: 1000
+  timer: 45000
 })
 
 </script>

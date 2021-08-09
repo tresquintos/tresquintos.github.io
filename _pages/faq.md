@@ -113,9 +113,8 @@ Swal.fire({
   denyButtonText: `Mensual`,
   }).then((result) => {
   if (result.isConfirmed) {
-    Swal.fire('href="https://www.latercera.cl"', '', 'href="https://www.emol.com"')
-  } else if (result.isDenied) {
-    Swal.fire('Changes are not saved', '', 'info')
+    Swal.fire('href="https://www.latercera.cl"', '', '/images/pc.png')
+  } else if (result.isDenied) {'href="https://www.latercera.cl"'
   }
 
   })

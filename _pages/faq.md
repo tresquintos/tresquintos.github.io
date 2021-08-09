@@ -107,12 +107,6 @@ Swal.fire({
   imageWidth: 80,
   imageHeight: 80,
   imageAlt: 'Custom image',
-  backdrop: `
-  rgba(0,0,123,0.4)
-  url("https://giphy.com/stickers/nintendo-mario-yoshi-OzhU5Yn4bTemY")
-  left top
-  no-repeat
-`
 })
 
 </script>

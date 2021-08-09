@@ -26,6 +26,40 @@ Página actualizada: **26 de julio de 2021**.
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
 
+
+<!-- Popup -->
+<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+
+<script type="text/javascript">
+
+setTimeout(function(){Swal.fire({
+  title: '¡Apoya a Tresquintos!',
+  text: 'Ayúdanos a mantener el sitio activo e independiente',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
+  imageUrl: '/images/pc.png',
+  imageWidth: 80,
+  imageHeight: 80,
+  imageAlt: 'Custom image',
+  timer: 45000,
+  timerProgressBar: true,
+  width: 500,
+  showCloseButton: true,
+  showDenyButton: true,
+  showCancelButton: false,
+  confirmButtonText: `Una Vez`,
+  denyButtonText: `Mensual`,
+  cancelButtonText: `No por ahora`,
+  }).then((result) => {
+  if (result.isConfirmed) {
+    window.open("https://tresquintos.cl/donaciones/")
+  } else if (result.isDenied) {
+    window.open("https://tresquintos.cl/donaciones/")
+  }
+  })
+  },5000);
+</script>
+
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

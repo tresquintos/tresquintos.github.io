@@ -124,9 +124,11 @@ Swal.fire({
 
   })  
 
+  setTimeout(Swal.fire, 30000);
+
+
 </script>
 
-setTimeout(Swal.fire, 30000);
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

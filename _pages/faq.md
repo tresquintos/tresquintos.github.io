@@ -123,7 +123,7 @@ setTimeout(function(){Swal.fire({
     window.open("https://tresquintos.cl/donaciones/")
   }
   })
-  },8000); 
+  },5000); 
 </script>
 
 

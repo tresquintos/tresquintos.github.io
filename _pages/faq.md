@@ -111,6 +111,7 @@ Swal.fire({
   showCancelButton: true,
   confirmButtonText: `Una Vez`,
   denyButtonText: `Mensual`,
+  cancelButtonText: `No por ahora`,
   }).then((result) => {
   if (result.isConfirmed) {
     window.open("https://www.w3schools.com")

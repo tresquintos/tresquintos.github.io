@@ -99,13 +99,20 @@ Es un misterio solo resuelto por las mentes más curiosas.
 
 <script type="text/javascript">
 Swal.fire({
-  title: 'Ayuda a mantener Tresquintos activo e indepndiente',
-  text: '¡Hace una donación!',
+  title: '¡Hace una donación!',
+  text: 'Ayuda a mantener Tresquintos activo e independiente',
   footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
   showDenyButton: true,
   showCancelButton: true,
   confirmButtonText: `Una Vez`,
   denyButtonText: `Mensual`,
+  }).then((result) => {
+  /* Read more about isConfirmed, isDenied below */
+  if (result.isConfirmed) {
+    Swal.fire('<a href="https://www.latercera.cl">Suscríbete aquí</a>', '', '<a href="https://www.emol.com">Suscríbete aquí</a>')
+  } else if (result.isDenied) {
+    Swal.fire('Changes are not saved', '', 'info')
+  }
   imageUrl: '/images/pc.png',
   imageWidth: 80,
   imageHeight: 80,

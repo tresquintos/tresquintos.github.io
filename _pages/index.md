@@ -72,11 +72,11 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script type="text/javascript">
 
 Swal.fire({
-  title: 'Probando',
+  title: 'Suscríbete',
   text: 'Gracias por visitar Tresquintos!',
   imageUrl: '/images/pc.png',
-  imageWidth: 200,
-  imageHeight: 200,
+  imageWidth: 100,
+  imageHeight: 100,
   imageAlt: 'Custom image',
 })
 

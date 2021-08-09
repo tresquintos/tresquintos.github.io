@@ -124,7 +124,7 @@ Swal.fire({
 
   })  
 
-  setTimeout(Swal.fire, 30000);
+  setTimeout(Swal.fire, 3000);
 
 
 </script>

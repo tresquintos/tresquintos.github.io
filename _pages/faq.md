@@ -102,7 +102,7 @@ Swal.fire({
   title: 'Suscríbete',
   text: 'Click en "Ok" para suscribirte a nuestro mailing list. Envíos Jueves y Domingo.',
   footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete aquí</a>',
-  confirmButtonText: 'Cool'
+  confirmButtonText: 'Cool',
   imageUrl: '/images/pc.png',
   imageWidth: 80,
   imageHeight: 80,

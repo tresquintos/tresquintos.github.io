@@ -114,8 +114,9 @@ Swal.fire({
   cancelButtonText: `No por ahora`,
   }).then((result) => {
   if (result.isConfirmed) {
-    window.open("https://www.w3schools.com")
-  } else if (result.isDenied) {'href="https://www.latercera.cl"'
+    window.open("https://tresquintos.cl/donaciones/")
+  } else if (result.isDenied) {
+    window.open("https://tresquintos.cl/donaciones/")
   }
 
   })

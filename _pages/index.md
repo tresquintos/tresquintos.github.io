@@ -67,7 +67,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 <!-- Popup -->
-<script src="sweetalert2/dist/sweetalert2.all.min.js"></script>
+<script src="sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
 Swal.fire('Any fool can use a computer')

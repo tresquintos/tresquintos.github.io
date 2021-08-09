@@ -72,8 +72,8 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script type="text/javascript">
 
 Swal.fire({
-  title: 'Sweet!',
-  text: 'Modal with a custom image.',
+  title: 'Probando',
+  text: 'Gracias por visitar Tresquintos!',
   imageUrl: '/images/pc.png',
   imageWidth: 200,
   imageHeight: 200,

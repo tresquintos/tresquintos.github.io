@@ -100,7 +100,7 @@ Es un misterio solo resuelto por las mentes más curiosas.
 <script type="text/javascript">
 Swal.fire({
   title: '¡Hace una donación!',
-  text: 'Ayuda a mantener Tresquintos activo e independiente',
+  text: 'Ayuda a mantener nuestro sitio activo e independiente',
   footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
   imageUrl: '/images/pc.png',
   imageWidth: 80,
@@ -108,7 +108,7 @@ Swal.fire({
   imageAlt: 'Custom image',
   timer: 45000,
   timerProgressBar: true,
-  width: 400,
+  width: 500,
   showCloseButton: true,
   showDenyButton: true,
   showCancelButton: false,

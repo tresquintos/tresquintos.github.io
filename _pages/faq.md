@@ -107,6 +107,7 @@ Swal.fire({
   imageHeight: 80,
   imageAlt: 'Custom image',
   timer: 45000,
+  timerProgressBar: true,
   showCloseButton: true,
   showDenyButton: true,
   showCancelButton: true,

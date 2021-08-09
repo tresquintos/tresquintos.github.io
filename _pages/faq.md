@@ -110,7 +110,7 @@ Swal.fire({
   timerProgressBar: true,
   showCloseButton: true,
   showDenyButton: true,
-  showCancelButton: true,
+  showCancelButton: false,
   confirmButtonText: `Una Vez`,
   denyButtonText: `Mensual`,
   cancelButtonText: `No por ahora`,

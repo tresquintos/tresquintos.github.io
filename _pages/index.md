@@ -70,7 +70,15 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
-Swal.fire('Any fool can use a computer')
+
+Swal.fire({
+  title: 'Sweet!',
+  text: 'Modal with a custom image.',
+  imageUrl: '/images/pc.png',
+  imageWidth: 200,
+  imageHeight: 200,
+  imageAlt: 'Custom image',
+})
 
 </script>
 

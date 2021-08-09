@@ -107,10 +107,17 @@ Swal.fire({
   imageWidth: 80,
   imageHeight: 80,
   imageAlt: 'Custom image',
+  backdrop: `
+  rgba(0,0,123,0.4)
+  url("https://giphy.com/stickers/nintendo-mario-yoshi-OzhU5Yn4bTemY")
+  left top
+  no-repeat
+`
 })
 
 </script>
 
+<div style="width:100%;height:0;padding-bottom:95%;position:relative;"><iframe src="https://giphy.com/embed/OzhU5Yn4bTemY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/nintendo-mario-yoshi-OzhU5Yn4bTemY">via GIPHY</a></p>
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

@@ -5,7 +5,7 @@ permalink: /partidos/
 author_profile: true
 ---
 
-### Lista de Partidos Políticos 
+### Lista de Partidos Políticos
 
 En esta página puedes ver la lista de partidos políticos constituidos, en trámite y en formación, ordenados de forma descendente respecto al número de militantes. La lista se actualiza cada vez que el Servel sube datos referentes a nuevas entradas o salidas de militantes. Abajo puedes ver una Tabla que incluye, el nombre del partido político, su sigla, el estado de este, la incial del nombre y apellido de los presidentes de cada partido político, y el número total de militantes. Los datos fueron recolectados a través del Servicio Electoral (Servel).
 
@@ -26,6 +26,40 @@ Página actualizada: **03 de agosto de 2021**.
 <p class="aligncenter">
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>
+
+
+<!-- Popup -->
+<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+
+<script type="text/javascript">
+
+setTimeout(function(){Swal.fire({
+  title: '¡Apoya a Tresquintos!',
+  text: 'Ayúdanos a mantener el sitio activo e independiente',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
+  imageUrl: '/images/pc.png',
+  imageWidth: 80,
+  imageHeight: 80,
+  imageAlt: 'Custom image',
+  timer: 45000,
+  timerProgressBar: true,
+  width: 500,
+  showCloseButton: true,
+  showDenyButton: true,
+  showCancelButton: false,
+  confirmButtonText: `Una Vez`,
+  denyButtonText: `Mensual`,
+  cancelButtonText: `No por ahora`,
+  }).then((result) => {
+  if (result.isConfirmed) {
+    window.open("https://tresquintos.cl/donaciones/")
+  } else if (result.isDenied) {
+    window.open("https://tresquintos.cl/donaciones/")
+  }
+  })
+  },5000);
+</script>
+
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

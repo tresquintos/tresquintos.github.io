@@ -71,9 +71,9 @@ setTimeout(function(){Swal.fire({
   cancelButtonText: `No por ahora`,
   }).then((result) => {
   if (result.isConfirmed) {
-    window.open("https://tresquintos.cl/donaciones/")
+    window.open("https://tresquintos.cl/donaciones/#donación-única")
   } else if (result.isDenied) {
-    window.open("https://tresquintos.cl/donaciones/")
+    window.open("https://tresquintos.cl/donaciones/#donación-mensual")
   }
   })
   },5000);

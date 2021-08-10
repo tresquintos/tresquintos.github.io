@@ -52,6 +52,10 @@ Abajo puedes ver una Tabla que muestra las encuestas más recientes que han medi
 
 <script type="text/javascript">
 
+<link href="//cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css" rel="stylesheet">
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+
+
 setTimeout(function(){Swal.fire({
   title: '¡Apoya a Tresquintos!',
   text: 'Ayúdanos a mantener el sitio activo e independiente',

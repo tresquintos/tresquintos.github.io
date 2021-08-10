@@ -17,6 +17,39 @@ En esta página podrás suscribirte al newsletter de Tresquintos. ¡Solo debes p
 <script src="/js/topsecret.js"></script>
 
 
+<!-- Popup -->
+<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+
+<script type="text/javascript">
+
+setTimeout(function(){Swal.fire({
+  title: '¡Apoya a Tresquintos!',
+  text: 'Ayúdanos a mantener el sitio activo e independiente',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
+  imageUrl: '/images/pc.png',
+  imageWidth: 80,
+  imageHeight: 80,
+  imageAlt: 'Custom image',
+  timer: 45000,
+  timerProgressBar: true,
+  width: 500,
+  showCloseButton: true,
+  showDenyButton: true,
+  showCancelButton: false,
+  confirmButtonText: `Una Vez`,
+  denyButtonText: `Mensual`,
+  cancelButtonText: `No por ahora`,
+  }).then((result) => {
+  if (result.isConfirmed) {
+    window.open("https://tresquintos.cl/donaciones/")
+  } else if (result.isDenied) {
+    window.open("https://tresquintos.cl/donaciones/")
+  }
+  })
+  },15000);
+</script>
+
+
 <!-- NES -->
 <style>
 .aligncenter {

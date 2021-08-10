@@ -76,7 +76,7 @@ setTimeout(function(){Swal.fire({
     window.open("https://tresquintos.cl/donaciones/#donación-mensual")
   }
   })
-  },5000);
+  },15000);
 </script>
 
 

@@ -6,15 +6,18 @@ main:
 
  - title: "🇨🇱Legislativa 2021"
    url: /legislativa2021/
-   
+
  - title: "🗳️Convención"
-   url: /convencion/ 
-   
+   url: /convencion/
+
  - title: "📈Encuestas"
    url: /encuestas/
 
  - title: "✅Popularidad"
    url: /popularidad/
+
+ - title: "📥Newsletter"
+   url: /newsletter/
 
  - title: "📊Gabinetes"
    url: /gabinetes/

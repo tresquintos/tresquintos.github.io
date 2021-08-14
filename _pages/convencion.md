@@ -86,7 +86,7 @@ Página actualizada: **13 de agosto de 2021**.
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
-Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato CSV [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos directamente a **R**, **Python** o **Stata** puedes hacerlo pinchando [**aquí**](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
+Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato tabulado [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos en formato CSV directamente a **R**, **Python** o **Stata**, lo puedes hacer pinchando [**aquí**](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
 
 
 

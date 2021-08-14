@@ -8,9 +8,9 @@ redirect_from:
   - /constituyentes2021/
 ---
 
-En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Descarga los datos consolidados de las votaciones individuales (por constituyente) [aquí](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
+En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977492&version=2.0) y revisar el Codebook [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para importar los datos directamente a tu procesador, revisa las instrucciones al final de esta página.
 
-Página actualizada: **12 de agosto de 2021**.
+Página actualizada: **13 de agosto de 2021**.
 
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
@@ -83,6 +83,11 @@ Página actualizada: **12 de agosto de 2021**.
 ![cc](/images/rollcall/sesion_20210705a.jpg){:height="100%" width="100%"}
 
 ---
+
+### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
+
+Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato CSV [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos directamente a **R**, **Python** o **Stata** puedes hacerlo pinchando [**aquí**](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
+
 
 
 <!-- NES -->

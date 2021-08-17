@@ -3,9 +3,6 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-description: Información electoral y análisis político
-header:
-  og_image: pc.png
 redirect_from:
   - /tsm/
   - /sx/

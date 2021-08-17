@@ -134,7 +134,7 @@ setTimeout(function(){Swal.fire({
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://tresquintos.cl/">
 <meta property="twitter:title" content="Tresquintos">
-<meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 5.">
+<meta property="twitter:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Candidatos senadores y diputados.">
 <meta property="twitter:image" content="pc.png/">
 
 

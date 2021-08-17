@@ -7,7 +7,6 @@ description: Información electoral y análisis político
 header:
   image: pc.png
   og_image: pc.png
-  twitter:image: pc.png
 redirect_from:
   - /tsm/
   - /sx/
@@ -116,9 +115,6 @@ setTimeout(function(){Swal.fire({
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Primary Meta Tags -->
-<meta name="title" content="Tresquintos">
-<meta name="description" content="Información electoral y análisis político. Tendencias, Candidatos, Resultados.">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="article">

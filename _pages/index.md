@@ -127,8 +127,8 @@ setTimeout(function(){Swal.fire({
 <meta property="og:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Candidatos senadores y diputados.">
 <meta property="og:image" content="pc.png/">
 <meta property="og:image:type" content="image/png" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="500" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">

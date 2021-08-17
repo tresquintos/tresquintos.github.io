@@ -102,8 +102,6 @@ setTimeout(function(){Swal.fire({
 
 
 <!-- Favicon -->
-<html prefix="og: https://ogp.me/ns#">
-<head>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -114,11 +112,13 @@ setTimeout(function(){Swal.fire({
 <meta name="theme-color" content="#ffffff">
 
 <!-- Unfurl Meta -->
-<meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
-<meta property="og:type"               content="article" />
-<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
-<meta property="og:description"        content="How much does culture influence creative thinking?" />
-<meta property="og:image"              content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Tresquintos" />
+<meta property="og:image" content="https://tresquintos.cl/images/pc.png/" />
+<meta property="og:image:secure_url" content="https://tresquintos.cl/images/pc.png/" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
 
 
 <!-- Twitter card -->
@@ -128,8 +128,6 @@ setTimeout(function(){Swal.fire({
 <meta name="twitter:description" content="Información electoral y análisis testing">
 <meta name="twitter:image" content="https://tresquintos.cl/images/pc.png/">
 
-</head>
-</html>
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

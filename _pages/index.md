@@ -4,6 +4,7 @@ title: ""
 permalink: /
 author_profile: true
 redirect_from:
+teaser: "/images/website/header.png"
   - /tsm/
   - /sx/
   - /gores/

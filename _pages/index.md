@@ -134,7 +134,7 @@ setTimeout(function(){Swal.fire({
 <meta name="twitter:site" content="@tresquintos">
 <meta name="twitter:title" content="Tresquintos">
 <meta name="twitter:description" content="Información electoral y análisis testing3">
-<meta name="twitter:image" property="twitter:image" content="/images/pc.png"/>
+<meta name="twitter:image:src" content="https://tresquintos.cl/images/pc.png/"/>
 
 </head>
 </html>

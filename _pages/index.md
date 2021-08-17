@@ -102,6 +102,8 @@ setTimeout(function(){Swal.fire({
 
 
 <!-- Favicon -->
+<script type="text/javascript">
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -128,6 +130,7 @@ setTimeout(function(){Swal.fire({
 <meta name="twitter:title" content="Tresquintos">
 <meta name="twitter:description" content="Información electoral y análisis político">
 <meta property="twitter:image" content="http://tresquintos.cl/images/pc.png/"/>
+</script>
 
 
 

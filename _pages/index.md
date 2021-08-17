@@ -115,13 +115,19 @@ setTimeout(function(){Swal.fire({
 
 
 <!-- Unfurl Meta -->
-<meta property="og:image:width" content="279">
-<meta property="og:image:height" content="279">
-<meta name="description" property="og:description" content="Informaci&oacute;n electoral y an&aacute;lisis pol&iacute;tico">
-<meta name="title" property="og:title" content="Tresquintos">
-<meta name="url" property="og:url" content="https://tresquintos.cl">
-<meta name="type" property="og:type" content="article" />
-<meta name="image" property="og:image" content="https://tresquintos.cl/images/pc.png/">
+
+<meta property="og:description" content="Pears and apples">
+
+
+
+<meta property="og:title" content="Tresquintos">
+<meta property="og:image" content="https://tresquintos.cl/images/pc.png/" />
+<meta property="og:image:secure_url" content="https://tresquintos.cl/images/pc.png/" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="Info electoral y otros ..." />
+
 
 
 

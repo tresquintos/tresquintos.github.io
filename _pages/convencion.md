@@ -10,10 +10,14 @@ redirect_from:
 
 En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977492&version=2.0) y revisar el Codebook [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para importar los datos directamente a tu procesador, revisa las instrucciones al final de esta página.
 
-Página actualizada: **13 de agosto de 2021**.
+Página actualizada: **17 de agosto de 2021**.
 
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210817.jpg){:height="100%" width="100%"}
 
 ---
 

@@ -116,7 +116,7 @@ setTimeout(function(){Swal.fire({
 <meta property="og:site_name" content="Tresquintos"/>
 <meta property="og:title" content="Tresquintos.cl"/>
 <meta property="og:description" content="Información electoral + análisis político"/>
-<meta property="og:image" content="https://tresquintos.cl/images/pc.png"/>
+<meta property="og:image" content="pc.png"/>
 
 
 

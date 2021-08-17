@@ -14,7 +14,7 @@ description              : &description "Información electoral + análisis pol�
 url                      : https://tresquintos.cl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : "tresquintos/tresquintos.github.io"
-teaser                   : "/pc.png" # default: 500x300
+teaser                   :  "" # default: 500x300
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 future                   : false

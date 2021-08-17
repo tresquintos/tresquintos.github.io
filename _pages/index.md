@@ -120,14 +120,14 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image:width" content="400" />
 <meta property="og:image:height" content="300" />
 
-<meta property="og:image" content="https://graemeharrison.com/assets/images/pc.png" />
+<meta property="og:image" content="https://tresquintos.cl/assets/images/pc.png" />
 
 
 <!-- Twitter card -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@tresquintos">
 <meta name="twitter:title" content="Tresquintos">
-<meta name="twitter:description" content="Información electoral y análisis testing">
+<meta name="twitter:description" content="Información electoral y análisis testing 77">
 <meta name="twitter:image" content="https://tresquintos.cl/images/pc.png/">
 
 

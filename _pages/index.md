@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 description: Información electoral y análisis político
 header:
-  image: pc.png
   og_image: pc.png
 redirect_from:
   - /tsm/

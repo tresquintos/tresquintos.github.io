@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "pc.png"
+og_image                 : 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -88,7 +88,6 @@ author:
   avatar           : "logo_short.png"
   inicio           : "tresquintos.cl" # avatar links here (I made this)
   bio              : "Información electoral + análisis político"
-  og_image         : "pc.png"
   location         : #
   employer         :
   pubmed           : #
@@ -158,7 +157,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md,meta"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown

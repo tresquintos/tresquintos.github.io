@@ -118,7 +118,7 @@ setTimeout(function(){Swal.fire({
 
 <!-- Primary Meta Tags -->
 <meta name="title" content="Tresquintos">
-<meta name="description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 3.">
+<meta name="description" content="Información electoral y análisis político. Tendencias, Candidatos, Resultados.">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="article">
@@ -134,7 +134,7 @@ setTimeout(function(){Swal.fire({
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://tresquintos.cl/">
 <meta property="twitter:title" content="Tresquintos">
-<meta property="twitter:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Candidatos senadores y diputados.">
+<meta property="twitter:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Tendencias y resultados.">
 <meta property="twitter:image" content="pc.png/">
 
 

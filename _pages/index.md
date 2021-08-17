@@ -115,8 +115,6 @@ setTimeout(function(){Swal.fire({
 <meta name="theme-color" content="#ffffff">
 
 <!-- Primary Meta Tags -->
-<head>
-
 <meta name="title" content="Tresquintos">
 <meta name="description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 3.">
 
@@ -136,7 +134,6 @@ setTimeout(function(){Swal.fire({
 <meta property="twitter:title" content="Tresquintos">
 <meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 5.">
 <meta property="twitter:image" content="/images/pc.png/">
-</head>
 
 
 <!-- Finisce sempre così, con la morte.

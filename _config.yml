@@ -88,6 +88,7 @@ author:
   avatar           : "logo_short.png"
   inicio           : "tresquintos.cl" # avatar links here (I made this)
   bio              : "Información electoral + análisis político"
+  og_image         : "pc.png"
   location         : #
   employer         :
   pubmed           : #

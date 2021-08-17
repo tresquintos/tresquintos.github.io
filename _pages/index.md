@@ -123,7 +123,7 @@ setTimeout(function(){Swal.fire({
 <meta property="og:url" content="https://tresquintos.cl/">
 <meta property="og:title" content="Tresquintos">
 <meta property="og:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 4.">
-<meta property="og:image" content="/images/pc.png/">
+<meta property="og:image" content="https://tresquintos.cl/images/pc.png/">
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -133,7 +133,7 @@ setTimeout(function(){Swal.fire({
 <meta property="twitter:url" content="https://tresquintos.cl/">
 <meta property="twitter:title" content="Tresquintos">
 <meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 5.">
-<meta property="twitter:image" content="/images/pc.png/">
+<meta property="twitter:image" content="https://tresquintos.cl/images/pc.png/">
 
 
 <!-- Finisce sempre così, con la morte.

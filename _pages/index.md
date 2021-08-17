@@ -114,6 +114,7 @@ setTimeout(function(){Swal.fire({
 <meta property="og:description" content="Tresquintos. Información electoral + análisis político" />
 <meta property="og:url" content="https://tresquintos.cl" />
 <meta property="og:image" content="https://tresquintos.cl/images/pc.png" />
+<meta property="og:type" content="website" />
 
 
 <!-- Finisce sempre così, con la morte.

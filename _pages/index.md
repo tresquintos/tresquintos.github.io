@@ -117,6 +117,14 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image" content="https://tresquintos.cl/images/pc.png" />
 <meta property="og:type" content="website" />
 
+<!-- Unfurl Meta -->
+<meta property="og:url" content="https://tresquintos.cl"/>
+<meta property="og:site_name" content="Tresquintos"/>
+<meta property="og:title" content="Hack Or Snooze"/>
+<meta property="og:description" content="Información electoral + análisis político"/>
+<meta property="og:image" content="pc.png"/>
+
+
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

@@ -3,7 +3,7 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-image: "pc.png"
+og:image: "pc.png"
 redirect_from:
   - /tsm/
   - /sx/

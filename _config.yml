@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/images/pc.png"
+og_image                 :  /images/pc.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

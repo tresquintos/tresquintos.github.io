@@ -213,33 +213,6 @@ defaults:
       layout: single
       author_profile: true
       og_image: images/pc.png
-  # _presidenciales2021
-  - scope:
-      path: ""
-      type: presidenciales2021
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _tsm
-  - scope:
-      path: ""
-      type: tsm
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _convención2020
-  - scope:
-      path: ""
-      type: convención2020
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:

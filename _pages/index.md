@@ -3,7 +3,9 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-og:image: "pc.png"
+header:
+  image: /images/pc.png
+  og_image: /images/pc.png
 redirect_from:
   - /tsm/
   - /sx/

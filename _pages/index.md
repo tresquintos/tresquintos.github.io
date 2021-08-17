@@ -109,6 +109,8 @@ setTimeout(function(){Swal.fire({
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
+
+<meta property="og:title" content="your_link_title">
 <meta name="image" property="og:image" content="/image/website/header.png">
 
 

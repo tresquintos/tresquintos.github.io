@@ -5,8 +5,8 @@ permalink: /
 author_profile: true
 image:
   path: /images/pc.png
-  height: 100
-  width: 100
+  height: 50
+  width: 50
 redirect_from:
   - /tsm/
   - /sx/

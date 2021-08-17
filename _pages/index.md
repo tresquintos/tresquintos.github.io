@@ -115,7 +115,6 @@ setTimeout(function(){Swal.fire({
 <!-- Primary Meta Tags -->
 <head>
 
-<title>Tresquintos</title>
 <meta name="title" content="Tresquintos">
 <meta name="description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 3.">
 

@@ -111,7 +111,15 @@ setTimeout(function(){Swal.fire({
 
 
 <meta property="og:title" content="your_link_title">
+<meta property="og:title" content="your_link_title">
+
 <meta name="image" property="og:image" content="https://tresquintos.cl/images/pc.png">
+
+
+<meta property="og:title" content="The Rock" />
+<meta property="og:description" content="Tresquintos. Información electoral + análisis político" />
+<meta property="og:url" content="https://tresquintos.cl" />
+<meta property="og:image" content="https://tresquintos.cl/images/pc.png" />
 
 
 <!-- Finisce sempre così, con la morte.

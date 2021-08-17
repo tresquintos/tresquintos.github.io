@@ -3,10 +3,6 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-image:
-  path: /images/pc.png
-  height: 50
-  width: 50
 redirect_from:
   - /tsm/
   - /sx/
@@ -115,7 +111,7 @@ setTimeout(function(){Swal.fire({
 
 
 <meta property="og:title" content="your_link_title">
-<meta name="image" property="og:image" content="/image/website/header.png">
+<meta name="image" property="og:image" content="https://tresquintos.cl/images/pc.png">
 
 
 <!-- Finisce sempre così, con la morte.

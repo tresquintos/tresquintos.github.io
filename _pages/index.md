@@ -3,6 +3,10 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
+image:
+  path: /images/pc.png
+  height: 100
+  width: 100
 redirect_from:
   - /tsm/
   - /sx/

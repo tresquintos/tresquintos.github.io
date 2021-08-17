@@ -129,6 +129,9 @@ setTimeout(function(){Swal.fire({
 <meta property="twitter:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Tendencias y resultados.">
 <meta property="twitter:image" content="pc.png/">
 
+<!-- Google -->
+<meta name="google-site-verification" content="d4oC0jMusDV-s3t7t9Euii04l8Z8QRftGoGXVxWV8Sw" />
+
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

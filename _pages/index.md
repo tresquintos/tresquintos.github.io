@@ -102,7 +102,8 @@ setTimeout(function(){Swal.fire({
 
 
 <!-- Favicon -->
-<script type="text/javascript">
+<html prefix="og: https://ogp.me/ns#">
+<head>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -130,9 +131,9 @@ setTimeout(function(){Swal.fire({
 <meta name="twitter:title" content="Tresquintos">
 <meta name="twitter:description" content="Información electoral y análisis político">
 <meta property="twitter:image" content="http://tresquintos.cl/images/pc.png/"/>
-</script>
 
-
+</head>
+</html>
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

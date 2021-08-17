@@ -119,6 +119,13 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image" content="pc.png"/>
 
 
+<!-- Twitter card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@tresquintos">
+<meta name="twitter:title" content="Tresquintos">
+<meta name="twitter:description" content="Información electoral y análisis político">
+
+
 
 <!-- Finisce sempre così, con la morte.
 Prima però c’è stata la vita,

@@ -112,25 +112,6 @@ setTimeout(function(){Swal.fire({
 <meta name="theme-color" content="#ffffff">
 
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://tresquintos.cl/">
-<meta property="og:title" content="Tresquintos">
-<meta property="og:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Candidatos senadores y diputados.">
-<meta property="og:image" content="pc.png/">
-<meta property="og:image:type" content="image/png" />
-<meta property="og:image:width" content="500" />
-<meta property="og:image:height" content="500" />
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://tresquintos.cl/">
-<meta property="twitter:title" content="Tresquintos">
-<meta property="twitter:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Tendencias y resultados.">
-<meta property="twitter:image" content="pc.png/">
-
-<!-- Google -->
-<meta name="google-site-verification" content="d4oC0jMusDV-s3t7t9Euii04l8Z8QRftGoGXVxWV8Sw" />
 
 
 <!-- Finisce sempre così, con la morte.

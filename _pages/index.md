@@ -112,7 +112,7 @@ setTimeout(function(){Swal.fire({
 <meta name="theme-color" content="#ffffff">
 
 <!-- Primary Meta Tags -->
-<head>
+
 
 <title>Tresquintos</title>
 <meta name="title" content="Tresquintos">
@@ -129,12 +129,20 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image:height" content="630" />
 
 <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://tresquintos.cl/">
-<meta property="twitter:title" content="Tresquintos">
-<meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 5.">
-<meta property="twitter:image" content="/images/pc.png/">
-</head>
+{% block extrahead %}
+  {% set title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = title ~ " - " ~ page.meta.title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = title ~ " - " ~ page.title | striptags %}
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@tresquintos" />
+  <meta name="twitter:creator" content="@tresquintos" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ config.site_description }}" />
+  <meta name="twitter:image" content="https://tresquintos.cl/images/pc.png" />
+{% endblock %}
 
 
 <!-- Finisce sempre così, con la morte.

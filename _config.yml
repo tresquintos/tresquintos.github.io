@@ -212,8 +212,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        og_image: images/pc.png
+
 
 # Sass/SCSS
 sass:

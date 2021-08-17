@@ -113,9 +113,7 @@ setTimeout(function(){Swal.fire({
 <meta name="msapplication-TileColor" content="#b91d47">
 <meta name="theme-color" content="#ffffff">
 
-
 <!-- Unfurl Meta -->
-
 <meta property="og:type" content="website" >
 <meta property="og:title" content="Tresquintos">
 <meta property="og:image" content="https://tresquintos.cl/images/pc.png/" >
@@ -123,10 +121,6 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="400" >
 <meta property="og:image:height" content="300" >
-
-
-
-
 
 <!-- Twitter card -->
 <meta name="twitter:card" content="summary">

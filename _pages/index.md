@@ -117,11 +117,11 @@ setTimeout(function(){Swal.fire({
 <!-- Unfurl Meta -->
 <meta property="og:image:width" content="279">
 <meta property="og:image:height" content="279">
-<meta property="og:description" content="Informaci&oacute;n electoral y an&aacute;lisis pol&iacute;tico">
-<meta property="og:title" content="Tresquintos">
-<meta property="og:url" content="https://tresquintos.cl">
-<meta property="og:type" content="website" />
-<meta property="og:image" content="https://tresquintos.cl/images/pc.png/">
+<meta name="description" property="og:description" content="Informaci&oacute;n electoral y an&aacute;lisis pol&iacute;tico">
+<meta name="title" property="og:title" content="Tresquintos">
+<meta name="url" property="og:url" content="https://tresquintos.cl">
+<meta name="type" property="og:type" content="website" />
+<meta name="image" property="og:image" content="https://tresquintos.cl/images/pc.png/">
 
 
 

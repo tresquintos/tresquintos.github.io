@@ -124,7 +124,7 @@ setTimeout(function(){Swal.fire({
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://tresquintos.cl/">
 <meta property="og:title" content="Tresquintos">
-<meta property="og:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 4.">
+<meta property="og:description" content="Información electoral y análisis político. Tendencias presidenciales 2021; Candidatos senadores y diputados.">
 <meta property="og:image" content="pc.png/">
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="1200" />

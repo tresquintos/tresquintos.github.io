@@ -123,8 +123,7 @@ setTimeout(function(){Swal.fire({
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="400" >
 <meta property="og:image:height" content="300" >
-<meta property="og:image:alt" content="Info electoral y otros ...">
-<meta property="og:description" content="Pears and apples" />
+
 
 
 
@@ -133,8 +132,8 @@ setTimeout(function(){Swal.fire({
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@tresquintos">
 <meta name="twitter:title" content="Tresquintos">
-<meta name="twitter:description" content="Información electoral y análisis testing4">
-<meta name="twitter:image:src" content="https://tresquintos.cl/images/pc.png/"/>
+<meta name="twitter:description" content="Información electoral y análisis testing">
+<meta name="twitter:image:src" content="https://tresquintos.cl/images/pc.png/">
 
 </head>
 </html>

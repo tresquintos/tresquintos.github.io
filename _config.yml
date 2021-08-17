@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "tresquintos"
 facebook:
-  username               :
+  username               : 3quintos
   app_id                 :
   publisher              :
-og_image                 : "/images/pc.png"
+og_image                 : "pc.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

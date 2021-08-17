@@ -123,14 +123,14 @@ setTimeout(function(){Swal.fire({
 <meta property="og:url" content="https://tresquintos.cl/">
 <meta property="og:title" content="Tresquintos">
 <meta property="og:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021.">
-<meta property="og:image" content="https://tresquintos.cl/images/pc.png/">
+<meta property="og:image" content="/images/pc.png/">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://tresquintos.cl/">
 <meta property="twitter:title" content="Tresquintos">
-<meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021.">
-<meta property="twitter:image" content="https://tresquintos.cl/images/pc.png/">
+<meta property="twitter:description" content="Información electoral y análisis político. Tendencias Presidenciales 2021 2.">
+<meta property="twitter:image" content="/images/pc.png/">
 </head>
 
 

@@ -10,8 +10,9 @@ author_profile: true
 
 En esta página puedes ver dos secciones referentes a la elección legislativa que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra una lista de potenciales candidatos a la elección de senadores, y la segunda sección muestra una lista de potenciales candidatos a la elección de diputados. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **18 de agosto de 2021**.
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Página actualizada: **19 de agosto de 2021**.
 
 ## Candidatos al Senado
 

@@ -17,9 +17,6 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F3quintos&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=200255536693138" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los candidatos que están en [nuestra lista](https://tresquintos.cl/encuestas/#candidatos) y que han marcado en [encuestas de opinión pública ](https://tresquintos.cl/encuestas/). La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.

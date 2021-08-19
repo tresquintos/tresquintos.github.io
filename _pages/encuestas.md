@@ -7,8 +7,9 @@ description: Información electoral + análisis político. Lista de encuestas el
 
 En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la intención de voto (o popularidad electoral) para candidatos en competencia a elecciones de Chile. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
-Página actualizada: **16 de agosto de 2021**.
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Página actualizada: **19 de agosto de 2021**.
 
 ## Presidencial 2021
 

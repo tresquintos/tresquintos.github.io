@@ -8,7 +8,9 @@ author_profile: true
 
 En esta página puedes ver la lista de los 138 constituyentes electos más los 17 pertenecientes a los escaños reservados para Pueblos Originarios, quienes se espera que comiencen a trabajar en la redacción de la Nueva Constitución entre junio y julio de 2021. Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombre, el nombre de la lista general o Pueblo Originario al que pertenece, el partido político por el que fueron electos, y el total de votos y porcentaje obtenido.
 
-Página actualizada: **26 de julio de 2021**.
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Página actualizada: **19 de agosto de 2021**.
 
 ### Convencionales Constituyentes
 

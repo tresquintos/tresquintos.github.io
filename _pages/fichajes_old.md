@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fichajes"
-permalink: /fichajes/
+permalink: /fichajes_old/
 description: Información electoral + análisis político. Lista de renuncias y remociones.
 author_profile: true
 ---

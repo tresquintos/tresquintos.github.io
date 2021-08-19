@@ -3,6 +3,7 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
+description: Hola, bienvenido a tresquintos!!
 redirect_from:
   - /tsm/
   - /sx/

@@ -2,7 +2,7 @@
 layout: single
 title: "Convención Constitucional"
 permalink: /convencion/
-description: Información electoral + análisis político. Votaciones generales y votos particulares de la Convención Constitucional.
+description: Información electoral + análisis político. Votación general y particular de la Convención Constitucional.
 author_profile: true
 redirect_from:
   - /convencionales2021/
@@ -14,6 +14,9 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Página actualizada: **19 de agosto de 2021**.
+
+
+## Votación General
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 

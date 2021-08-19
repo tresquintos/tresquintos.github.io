@@ -13,6 +13,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F3quintos&width=150&layout=button_count&action=like&size=small&share=true&height=46&appId=200255536693138" width="150" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Página actualizada: **18 de agosto de 2021**.
 

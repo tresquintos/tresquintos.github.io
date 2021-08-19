@@ -2,6 +2,7 @@
 layout: single
 title: "Preguntas Frecuentes"
 permalink: /faq/
+description: Información electoral + análisis político. Preguntas frecuentes.
 author_profile: true
 ---
 

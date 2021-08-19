@@ -2,7 +2,7 @@
 layout: single
 title: "Financiamiento Electoral 2021"
 permalink: /aportes/
-description: Información electoral y análisis político. Ayuda a Tresquintos a mantenerse activo e independiente.
+description: Información electoral + análisis político. Revisa estadísticas de financiamiento electoral.
 author_profile: true
 ---
 

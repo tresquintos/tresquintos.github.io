@@ -3,7 +3,7 @@ layout: single
 title: ""
 permalink: /
 author_profile: true
-description: Información electoral y análisis político. Candidatos, elecciones y tendencias.
+description: Información electoral + análisis político. Candidatos, elecciones y tendencias.
 redirect_from:
   - /tsm/
   - /sx/

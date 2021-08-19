@@ -2,6 +2,7 @@
 layout: single
 title: "Congreso Nacional"
 permalink: /congreso/
+description: Información electoral + análisis político. Nombres de Senadores y Diputados.
 author_profile: true
 ---
 

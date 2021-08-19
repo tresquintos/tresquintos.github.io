@@ -2,6 +2,7 @@
 layout: single
 title: "Newsletter"
 permalink: /newsletter/
+description: Información electoral + análisis político. Suscríbete al newsletter oficial de Tresquintos.
 author_profile: true
 ---
 

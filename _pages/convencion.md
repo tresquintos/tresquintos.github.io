@@ -2,6 +2,7 @@
 layout: single
 title: "Convención Constitucional"
 permalink: /convencion/
+description: Información electoral + análisis político. Votaciones generales y votos particulares de la Convención Constitucional.
 author_profile: true
 redirect_from:
   - /convencionales2021/

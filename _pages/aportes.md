@@ -2,7 +2,7 @@
 layout: single
 title: "Financiamiento Electoral 2021"
 permalink: /aportes/
-description: Información electoral + análisis político. Revisa estadísticas de financiamiento electoral.
+description: Información electoral + análisis político. Estadísticas de financiamiento electoral.
 author_profile: true
 ---
 

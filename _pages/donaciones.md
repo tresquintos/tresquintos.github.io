@@ -2,6 +2,7 @@
 layout: single
 title: "Donaciones"
 permalink: /donaciones/
+description: Información electoral + análisis político. Ayuda a mantener a Tresquintos activo e independiente.
 author_profile: true
 ---
 

@@ -2,6 +2,7 @@
 layout: single
 title: "Legislativa 2021"
 permalink: /legislativa2021/
+description: Información electoral + análisis político. Lista de candidatos a senador y diputado.
 author_profile: true
 
 ---

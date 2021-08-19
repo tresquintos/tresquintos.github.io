@@ -2,6 +2,7 @@
 layout: single
 title: "Tienda"
 permalink: /merch/
+description: Información electoral + análisis político. Merchandise oficial de Tresquintos.
 author_profile: true
 ---
 

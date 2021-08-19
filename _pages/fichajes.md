@@ -2,6 +2,7 @@
 layout: single
 title: "Fichajes"
 permalink: /fichajes/
+description: Información electoral + análisis político. Lista de renuncias y remociones.
 author_profile: true
 ---
 

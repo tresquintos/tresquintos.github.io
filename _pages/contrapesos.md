@@ -2,6 +2,7 @@
 layout: single
 title: "Contrapesos"
 permalink: /contrapesos/
+description: Información electoral + análisis político. Acusaciones constitucionales e interpelaciones.
 author_profile: true
 ---
 

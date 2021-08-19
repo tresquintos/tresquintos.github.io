@@ -3,6 +3,7 @@ layout: single
 title: "Presidencial 2021"
 permalink: /presidencial2021/
 author_profile: true
+description: Información electoral + análisis político. Tendencia de intención de voto.
 redirect_from:
   - /presidenciales2021/
 ---

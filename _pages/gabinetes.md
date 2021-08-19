@@ -2,6 +2,7 @@
 layout: single
 title: "Gabinetes"
 permalink: /gabinetes/
+description: Información electoral + análisis político. Lista de ministros.
 author_profile: true
 ---
 

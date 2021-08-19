@@ -2,7 +2,7 @@
 layout: single
 title: "Encuestas"
 permalink: /encuestas/
-author_profile: true
+description: Información electoral + análisis político. Lista de encuestas electorales.
 ---
 
 En esta página puedes ver la lista de encuestas que se han publicado con datos referentes a la intención de voto (o popularidad electoral) para candidatos en competencia a elecciones de Chile. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.

@@ -2,6 +2,7 @@
 layout: single
 title: "Constituyentes"
 permalink: /constituyentes/
+description: Información electoral + análisis político. Lista de constituyentes actuales.
 author_profile: true
 ---
 

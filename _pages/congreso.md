@@ -2,7 +2,7 @@
 layout: single
 title: "Congreso Nacional"
 permalink: /congreso/
-description: Información electoral + análisis político. Nombres de Senadores y Diputados.
+description: Información electoral + análisis político. Lista de senadores y diputados actuales.
 author_profile: true
 ---
 

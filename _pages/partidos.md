@@ -2,6 +2,7 @@
 layout: single
 title: "Partidos Políticos"
 permalink: /partidos/
+description: Información electoral + análisis político. Lista de partidos políticos y militantes.
 author_profile: true
 ---
 

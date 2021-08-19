@@ -11,6 +11,7 @@ redirect_from:
 En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de los principales candidatos; la segunda, los candidatos en competencia; la tercera, la lista de endosos de cada uno de los candidatos de las principales autoridades del país; y la cuarta, los equipos de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 
+<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="box_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 Página actualizada: **18 de agosto de 2021**.
 

@@ -3,7 +3,7 @@ layout: single
 title: "Presidencial 2021"
 permalink: /presidencial2021/
 author_profile: true
-description: Información electoral + análisis político. Tendencia de intención de voto.
+description: Información electoral + análisis político. Elección Presidencial de 2021; tendencia, candidatos, encuestas, endosos y equipos.
 redirect_from:
   - /presidenciales2021/
 ---

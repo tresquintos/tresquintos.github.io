@@ -11,20 +11,7 @@ redirect_from:
 En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de los principales candidatos; la segunda, los candidatos en competencia; la tercera, la lista de endosos de cada uno de los candidatos de las principales autoridades del país; y la cuarta, los equipos de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F3quintos&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=200255536693138" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<script type="text/javascript">
-
-twttr.widgets.createFollowButton(
-  "tresquintos",
-  document.getElementById("container"),
-  {
-    showScreenName: "false",
-    showCount: false,
-    size: "large"
-  }
-);
-</script>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F3quintos&width=150&layout=button_count&action=like&size=small&share=true&height=46&appId=200255536693138" width="150" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 Página actualizada: **18 de agosto de 2021**.

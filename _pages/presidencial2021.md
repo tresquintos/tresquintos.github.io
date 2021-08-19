@@ -15,9 +15,13 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 <a class="twitter-follow-button" href="https://twitter.com/tresquintos"> Sigue a @Tresquintos</a>
 
-<iframe id="tweet-button" allowtransparency="true" frameborder="0" scrolling="no"
-            src="http://platform.twitter.com/widgets/tweet_button.html?via=tresquintos&amp;text=replace%20me&amp;count=horizontal"
-            style="width:110px; height:20px;"></iframe>
+<iframe
+  src="https://platform.twitter.com/widgets/follow_button.html?screen_name=tresquintos&show_screen_name=false&show_count=false&size=l"
+  title="Sigue a Tresquintos"
+  width="80"
+  height="30"
+  style="border: 0; overflow: hidden;"
+  ></iframe>
 
 
 Página actualizada: **18 de agosto de 2021**.

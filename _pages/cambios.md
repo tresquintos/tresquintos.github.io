@@ -24,7 +24,7 @@ Abajo puedes ver la lista de los cambios parlamentarios desde 2018 a la fecha. L
 
 ## Switchers
 
-Abajo puedes ver la lista de cambios de partidos políticos desde 2018 a la fecha. La Tabla incluye, el año del cambio de partido político, el cargo parlamentario de cada uno, su nombre, la sigla del partido político antiguo (con el que asumieron su cargo), la sigla del partido político al cual se cambiaron durante el ejercio de su cargo, y la fecha en la que se llevó a cabo el cambio de partido político.
+Abajo puedes ver la lista de cambios de partidos políticos desde 2018 a la fecha. La Tabla incluye, el año del cambio de partido político, el cargo de cada uno, su nombre, la sigla del partido político antiguo (con el que asumieron su cargo), la sigla del partido político al cual se cambiaron durante el ejercio de su cargo, y la fecha en la que se llevó a cabo el cambio de partido político.
 
 <iframe title="" aria-label="table" id="datawrapper-chart-ehCbi" src="https://datawrapper.dwcdn.net/ehCbi/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2441"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

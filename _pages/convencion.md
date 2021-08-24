@@ -22,6 +22,12 @@ Página actualizada: **24 de agosto de 2021**.
 
 ---
 
+![cc](/images/rollcall/sesion_20210824a.jpg){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210824b.jpg){:height="100%" width="100%"}
+
+---
+
 ![cc](/images/rollcall/sesion_20210817.jpg){:height="100%" width="100%"}
 
 ---

@@ -26,7 +26,7 @@ Página actualizada: **27 de agosto de 2021**.
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los candidatos que han declarado estar en competencia y están en [nuestra lista](https://tresquintos.cl/encuestas/#candidatos), y que han marcado en [encuestas de opinión pública ](https://tresquintos.cl/encuestas/). La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
 
-![Top-10](/images/main graphs/intención_de_voto_escenario2.png){:height="100%" width="100%"}
+![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}
 
 
 ## Google

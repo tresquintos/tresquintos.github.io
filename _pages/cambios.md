@@ -8,7 +8,7 @@ redirect_from:
   - /fichajes/
 ---
 
-En esta página puedes ver dos secciones referentes a rotaciones parlamentarias, como también cambios respecto a los partidos políticos de parlamentarios en ejercicio, ambas secciones desde 2018 a la fecha, referentes al actual periodo de gobierno de Sebastián Piñera 2018-2022. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "switchers" o parlamentarios que cambian su partido político en el ejercicio de su cargo. Cada vez que ocurra un cambio parlamentario o de partido político, todas las tablas se actualizarán instantáneamente.
+En esta página puedes ver dos secciones referentes a rotaciones parlamentarias, como también cambios respecto a los partidos políticos de parlamentarios en ejercicio, ambas secciones desde 2018 a la fecha, referentes al actual periodo de gobierno de Sebastián Piñera 2018-2022. Primero muestra las entradas y salidas, y en segundo lugar se presentan los denominados "switchers" o parlamentarios que cambian su partido político en el ejercicio de su cargo, también estamos siguiendo a los convencionales. Cada vez que ocurra un cambio parlamentario o de partido político, todas las tablas se actualizarán instantáneamente.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

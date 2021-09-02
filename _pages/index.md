@@ -17,6 +17,8 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
+![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
+
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los candidatos que están en [nuestra lista](https://tresquintos.cl/encuestas/#candidatos) y que han marcado en [encuestas de opinión pública ](https://tresquintos.cl/encuestas/). La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
@@ -24,9 +26,6 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 [![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
 
 Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
-
-
-![Daniel Jadue](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021

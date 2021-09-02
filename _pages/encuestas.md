@@ -9,7 +9,7 @@ En esta página puedes ver la lista de encuestas que se han publicado con datos 
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **29 de agosto de 2021**.
+Página actualizada: **02 de septiembre de 2021**.
 
 ## Presidencial 2021
 

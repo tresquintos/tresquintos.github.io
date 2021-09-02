@@ -30,7 +30,6 @@ Si quieres saber más de los candidatos, puedes revisar los endosos que han reci
 
 ![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"}
 
-
 ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"}
 
 ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}

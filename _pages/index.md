@@ -26,12 +26,14 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
 
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407503168724869121)
-[![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1407143257289760770)
-[![Pamela Jiles](/images/tsm/card_2021_Pamela%20Jiles_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1387115480486400002)
-[![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1394788831723933701)
-[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1406994977922691074)
-[![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="15%" width="15%"}](https://twitter.com/tresquintos/status/1343728950892228609)
+![Daniel Jadue](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"}
+
+![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"}
+
+
+![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"}
+
+![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021

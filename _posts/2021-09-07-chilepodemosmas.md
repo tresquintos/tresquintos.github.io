@@ -49,6 +49,7 @@ El segundo desafío, es la presencia esta vez de una lista parlamentaria que com
 
 Por último, esta vez el abanderado presidencial de la centroderecha es un candidato independiente con poco arraigo en los partidos que componen la coalición. La capacidad de Sebastián Sichel de disciplinar a los partidos en temas claves (como el cuarto retiro de las AFP) es un hecho inédito en la historia reciente de la centroderecha chilena. Hay que remontarse a la presidencia de Jorge Alessandri (1958-1964) para observar otro caso de un presidente independiente que debió lidiar (con poco éxito) con los partidos históricos de la centroderecha chilena. 
 
+
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
 Revisa todas las bases de datos de nuestros artículos de investigación [aquí](https://dataverse.harvard.edu/dataverse/tresquintos).

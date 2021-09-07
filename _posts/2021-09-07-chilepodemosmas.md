@@ -1,6 +1,6 @@
 ---
 title: "La configuración electoral de Chile Podemos Más"
-date: 2021-09-06
+date: 2021-09-07
 permalink: /posts/2021/09/chilepodemosmas/
 comments: true
 tags:

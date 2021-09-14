@@ -17,7 +17,7 @@ Página actualizada: **09 de septiembre de 2021**.
 
 ## Votación Reglamento
 
-[![cc](/images/reglamentoCC.png){:height="100%" width="100%"}](/files/documento93.pdf)
+[![cc](/images/reglamentoCC.png){:height="50%" width="50%"}](/files/documento93.pdf)
 
 
 ## Votación General

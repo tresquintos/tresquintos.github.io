@@ -42,7 +42,7 @@ Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (
 
 ### ¿Quién está en el equipo de Tresquintos?
 
-Sofía Contreras Ubal es la coordinadora de investigación e investigadora asistente, Pablo Toro Monroy es analista de datos e investigador asistente, Mauricio Rojas Casimiro es periodista e investigador asociado, Camila González Piucol es asistente de investigación del área constitucional y Francisca Urquiza Bórquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
+Sofía Contreras Ubal es Coordinadora de Investigación e Investigadora Asistente, Pablo Toro Monroy es Analista de Datos e Investigador Asistente, Mauricio Rojas Casimiro es Periodista e Investigador Asociado, Camila González Piucol es Asistente de Investigación del Àrea Constitucional y Francisca Urquiza Bórquez es Ilustradora. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
 [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro)  [![twitter](/images/camilagonzalez.jpg){:height="5%" width="5%"}](https://twitter.com/cpaz__) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
 

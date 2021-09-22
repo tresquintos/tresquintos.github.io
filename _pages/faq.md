@@ -35,7 +35,7 @@ Estamos en todas las redes sociales.
 
 ### ¿Quién está en el equipo de Tresquintos?
 
-Kenneth Bunker es el Director Ejecutivo. Sofía Contreras Ubal es Coordinadora de Investigación e Investigadora Asistente, Pablo Toro Monroy es Analista de Datos e Investigador Asistente, Mauricio Rojas Casimiro es Periodista e Investigador Asociado, Camila González Piucol es Asistente de Investigación del Àrea Constitucional y Francisca Urquiza Bórquez es Ilustradora. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
+Kenneth Bunker es el Director Ejecutivo. Sofía Contreras Ubal es Coordinadora de Investigación e Investigadora Asistente, Pablo Toro Monroy es Analista de Datos e Investigador Asistente, Mauricio Rojas Casimiro es Periodista e Investigador Asociado, Camila González Piucol es Asistente de Investigación del Àrea Constitucional, Marcelo Jerez Herrera es Asistente de Investigación en el Área de Comunicaciones y Francisca Urquiza Bórquez es Ilustradora. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
 [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro)  [![twitter](/images/camilagonzalez.jpg){:height="5%" width="5%"}](https://twitter.com/cpaz__) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
 

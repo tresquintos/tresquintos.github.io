@@ -76,10 +76,10 @@ Página actualizada: **23 de septiembre de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210812a.jpg){:height="100%" width="100%"}
-
-
 ![cc](/images/rollcall/sesion_20210812b.jpg){:height="100%" width="100%"}
+
+
+![cc](/images/rollcall/sesion_20210812a.jpg){:height="100%" width="100%"}
 
 ---
 

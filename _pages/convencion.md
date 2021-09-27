@@ -13,12 +13,26 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **23 de septiembre de 2021**.
+Página actualizada: **27 de septiembre de 2021**.
 
 
 ## Votación General
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210927f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927lc.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927a.png){:height="100%" width="100%"}
 
 ---
 

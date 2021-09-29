@@ -9,7 +9,7 @@ author_profile: true
 
 En esta página podrás suscribirte al newsletter de Tresquintos. ¡Solo debes pinchar en la imagen, y luego elegir el newsletter que quieres recibir!
 
-[![Mailchimp](/images/Brand/Ads/suscribe.gif){:height="100%" width="210%"}](https://t.co/W52ozoZFFh?amp=1)
+[![Mailchimp](/images/brand/Ads/suscribe.gif){:height="100%" width="210%"}](https://t.co/W52ozoZFFh?amp=1)
 
 
 ---

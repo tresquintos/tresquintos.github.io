@@ -12,7 +12,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **27 de septiembre de 2021**.
+Página actualizada: **02 de octubre de 2021**.
 
 ![Daniel Jadue](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 

@@ -13,12 +13,41 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **29 de septiembre de 2021**.
+Página actualizada: **01 de octubre de 2021**.
 
 
 ## Votación General
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
+
+
+---
+
+![cc](/images/rollcall/sesion_20211001a.png){:height="100%" width="100%"}
+
+---
+
+
+![cc](/images/rollcall/sesion_20210930j.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930a.png){:height="100%" width="100%"}
+
 
 ---
 

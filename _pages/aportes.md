@@ -8,10 +8,10 @@ author_profile: true
 
 En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por pactos realizados distrito por distrito para la elección de Diputados; y el desglose por región para la elección de Senadores. La información se actualiza semanalmente.
 
-Página actualizada: **04 de octubre de 2021**.
+Página actualizada: **05 de octubre de 2021**.
 
 
-### Total de aportes a nivel nacional para las cuatro elecciones
+## Elecciones Generales
 
 El siguiente gráfico muestra el total de aportes realizados a nivel nacional para cada una de las elecciones.
 
@@ -19,14 +19,29 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional pa
 ![cc](/images/financiamiento/aportes2021-11_todos.png){:height="100%" width="100%"}
 
 
-### Total de aportes por candidatos para la elección presidencial
+## Elección Presidencial
 
 El siguiente gráficos muestra el total de aportes realizados para cada uno de los candidatos presidenciales en competencia.
 
 ![cc](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
 
 
-### Total de aportes para la elección de Diputados, por distrito
+## Elección Senadores
+
+Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
+
+![cc](/images/financiamiento/senadores2021_nombre_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Coquimbo.png){:height="49" width="49%"}
+
+![cc](/images/financiamiento/senadores2021_nombre_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Ohiggins.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/senadores2021_nombre_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Biobío.png){:height="49%" width="49%"}
+
+![cc](/images/financiamiento/senadores2021_nombre_LosRíos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_LosLagos.png){:height="49" width="49%"}
+
+![cc](/images/financiamiento/senadores2021_nombre_Magallanes.png){:height="49%" width="49%"}
+
+
+## Elección Diputados
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 
@@ -59,19 +74,6 @@ Los siguientes gráficos muestran el total de aportes realizados por pactos de c
 ![cc](/images/financiamiento/diputados2021_pacto_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_28.png){:height="49%" width="49%"}
 
 
-### Total aportes elección Senadores, por región y nombre de candidato
-
-Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
-
-![cc](/images/financiamiento/senadores2021_nombre_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Coquimbo.png){:height="49" width="49%"}
-
-![cc](/images/financiamiento/senadores2021_nombre_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Ohiggins.png){:height="49%" width="49%"}
-
-![cc](/images/financiamiento/senadores2021_nombre_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Biobío.png){:height="49%" width="49%"}
-
-![cc](/images/financiamiento/senadores2021_nombre_LosRíos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_LosLagos.png){:height="49" width="49%"}
-
-![cc](/images/financiamiento/senadores2021_nombre_Magallanes.png){:height="49%" width="49%"}
 
 ---
 

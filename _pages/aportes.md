@@ -6,18 +6,25 @@ description: Información electoral + análisis político. Estadísticas de fina
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para las cuatro elecciones del 15 y 16 de mayo de 2021: Convencionales Constituyentes, Gores, Alcaldes y Concejales. También puedes ver el desglose de los aportes por pactos realizados distrito por distrito para la elección de la Convención Constituyente y el desglose por región para la elección de Gobernadores Regionales. La información se actualiza semanalmente.
+En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por pactos realizados distrito por distrito para la elección de Diputados; y el desglose por región para la elección de Senadores. La información se actualiza semanalmente.
+
+Página actualizada: **04 de octubre de 2021**.
 
 
-### Total de aportes a nivel nacional
+### Total de aportes a nivel nacional para las cuatro elecciones
 
-El siguiente gráfico muestra el total de aportes realizados a nivel nacional por pactos.
+El siguiente gráfico muestra el total de aportes realizados a nivel nacional para cada una de las elecciones.
 
 
 ![cc](/images/aportes2021_todos.png){:height="100%" width="100%"}
 
 
-### Total de aportes para la elección de Convencionales, por distrito
+### Total de aportes por candidatos para la elección presidencial
+
+El siguiente gráficos muestra el total de aportes realizados para cada uno de los candidatos presidenciales en competencia.
+
+
+### Total de aportes para la elección de Diputados, por distrito
 
 Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
 
@@ -50,9 +57,9 @@ Los siguientes gráficos muestran el total de aportes realizados por pactos de c
 ![cc](/images/financiamiento/cc_aportes_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/cc_aportes_28.png){:height="49%" width="49%"}
 
 
-### Total aportes elección Gobernadores Regionales, por región y nombre de candaditos
+### Total aportes elección Senadores, por región y pacto
 
-Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
+Los siguientes gráficos muestran el total de aportes realizados por pacto para cada región.
 
 ![cc](/images/financiamiento/gores_aportes_nombre_Arica.png){:height="49%" width="49%"} ![cc](/images/financiamiento/gores_aportes_nombre_Tarapacá.png){:height="49" width="49%"}
 

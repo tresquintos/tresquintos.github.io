@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Financiamiento Electoral 2021"
-permalink: /aportes/
+permalink: /financiamiento/
 description: Información electoral + análisis político. Estadísticas de financiamiento electoral.
 author_profile: true
 ---

@@ -20,6 +20,40 @@ Página actualizada: **05 de octubre de 2021**.
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
+---
+
+![cc](/images/rollcall/sesion_20211005i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005a.png){:height="100%" width="100%"}
+
+
+---
+
+![cc](/images/rollcall/sesion_20211004f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004a.png){:height="100%" width="100%"}
 
 ---
 

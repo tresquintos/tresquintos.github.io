@@ -13,7 +13,7 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **05 de octubre de 2021**.
+Página actualizada: **07 de octubre de 2021**.
 
 
 ## Votación General
@@ -21,6 +21,48 @@ Página actualizada: **05 de octubre de 2021**.
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 ---
+
+## Continuación votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
+
+![cc](/images/rollcall/sesion_20211007g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007a.png){:height="100%" width="100%"}
+
+---
+
+## Continuación votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
+
+![cc](/images/rollcall/sesion_20211006i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006a.png){:height="100%" width="100%"}
+
+---
+
+## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
 
 ![cc](/images/rollcall/sesion_20211005i.png){:height="100%" width="100%"}
 
@@ -43,6 +85,8 @@ Página actualizada: **05 de octubre de 2021**.
 
 ---
 
+## Continuación votación Reglamento de Participación y Consulta Indígena
+
 ![cc](/images/rollcall/sesion_20211004f.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall/sesion_20211004e.png){:height="100%" width="100%"}
@@ -57,9 +101,13 @@ Página actualizada: **05 de octubre de 2021**.
 
 ---
 
+## Votación Reglamento de Participación y Consulta Indígena
+
 ![cc](/images/rollcall/sesion_20211001a.png){:height="100%" width="100%"}
 
 ---
+
+## Votación Reglamento de Ética
 
 
 ![cc](/images/rollcall/sesion_20210930j.png){:height="100%" width="100%"}
@@ -85,6 +133,8 @@ Página actualizada: **05 de octubre de 2021**.
 
 ---
 
+## Continuación votación Reglamento General
+
 ![cc](/images/rollcall/sesion_20210929d.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall/sesion_20210929c.png){:height="100%" width="100%"}
@@ -95,6 +145,8 @@ Página actualizada: **05 de octubre de 2021**.
 
 
 ---
+
+## Continuación votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210928l.png){:height="100%" width="100%"}
 
@@ -123,6 +175,8 @@ Página actualizada: **05 de octubre de 2021**.
 
 ---
 
+## Continuación votación Reglamento General
+
 ![cc](/images/rollcall/sesion_20210927f.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall/sesion_20210927e.png){:height="100%" width="100%"}
@@ -136,6 +190,8 @@ Página actualizada: **05 de octubre de 2021**.
 ![cc](/images/rollcall/sesion_20210927a.png){:height="100%" width="100%"}
 
 ---
+
+## Votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210923n.png){:height="100%" width="100%"}
 

@@ -11,9 +11,14 @@ redirect_from:
 
 En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977492&version=2.0) y revisar el Codebook [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para importar los datos directamente a tu procesador, revisa las instrucciones al final de esta página.
 
+## Reglamento General
+
+¡Ya está listo el Reglamento General de la Convención Constitucional!, puedes leerlo completo [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/images/rollcall/Reglamento%20General%20de%20la%20Convenci%C3%B3n.pdf).
+
+
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **07 de octubre de 2021**.
+Página actualizada: **08 de octubre de 2021**.
 
 
 ## Votación General

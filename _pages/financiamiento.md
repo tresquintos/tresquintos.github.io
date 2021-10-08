@@ -30,20 +30,20 @@ El siguiente gráficos muestra el total de aportes realizados para cada uno de l
 
 Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
 
-![cc](/images/financiamiento/senadores2021_nombre_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Coquimbo.png){:height="49" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/senadores2021_nombre_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Ohiggins.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_OHiggins.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/senadores2021_nombre_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_Biobío.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Biobío.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/senadores2021_nombre_LosRíos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombre_LosLagos.png){:height="49" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Los Ríos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Los Lagos.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/senadores2021_nombre_Magallanes.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Magallanes.png){:height="49%" width="49%"}
 
 
 ## Elección Diputados
 
-Los siguientes gráficos muestran el total de aportes realizados por pactos de cada distrito.
+Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato por distrito.
 
 ![cc](/images/financiamiento/diputados2021_pacto_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_2.png){:height="49" width="49%"}
 

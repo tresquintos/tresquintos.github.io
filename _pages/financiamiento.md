@@ -45,33 +45,33 @@ Los siguientes gráficos muestran el total de aportes realizados por nombre de c
 
 Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato por distrito.
 
-![cc](/images/financiamiento/diputados2021_pacto_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_2.png){:height="49" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_3.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_4.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_3.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_4.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_5.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_6.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_5.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_6.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_7.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_8.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_7.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_8.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_9.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_10.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_9.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_10.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_11.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_12.png){:height="49" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_11.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_12.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_13.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_14.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_13.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_14.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_15.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_16.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_15.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_16.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_17.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_18.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_17.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_18.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_19.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_20.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_19.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_20.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_21.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_22.png){:height="49" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_21.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_22.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_23.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_24.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_23.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_24.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_25.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_26.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_25.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_26.png){:height="49%" width="49%"}
 
-![cc](/images/financiamiento/diputados2021_pacto_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_pacto_28.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/diputados2021_nombres_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_28.png){:height="49%" width="49%"}
 
 
 

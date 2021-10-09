@@ -16,6 +16,11 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 ¡Ya está listo el Reglamento General de la Convención Constitucional!, puedes leerlo completo [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/images/rollcall/Reglamento%20General%20de%20la%20Convenci%C3%B3n.pdf).
 
 
+## Integrantes Comisiones Temáticas
+
+Revisa el documento oficial con los nombres delo convencionales que integraran las 7 comisiones temáticas aprobadas durante la votación del Reglamento General [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/images/rollcall/Integrantes%20comisiones%20tem%C3%A1ticas%20Convenci%C3%B3n.pdf).
+
+
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Página actualizada: **08 de octubre de 2021**.

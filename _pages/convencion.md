@@ -22,7 +22,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-### Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
+#### Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
 
 ![cc](/images/rollcall/sesion_20211007g.png){:height="100%" width="100%"}
 
@@ -60,8 +60,6 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
-
 ![cc](/images/rollcall/sesion_20211005i.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall/sesion_20211005h.png){:height="100%" width="100%"}
@@ -83,7 +81,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-## Continuación votación Reglamento de Participación y Consulta Indígena
+### Votación Reglamento de Participación y Consulta Indígena
 
 ![cc](/images/rollcall/sesion_20211004f.png){:height="100%" width="100%"}
 
@@ -99,13 +97,11 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-## Votación Reglamento de Participación y Consulta Indígena
-
 ![cc](/images/rollcall/sesion_20211001a.png){:height="100%" width="100%"}
 
 ---
 
-## Votación Reglamento de Ética
+### Votación Reglamento de Ética
 
 
 ![cc](/images/rollcall/sesion_20210930j.png){:height="100%" width="100%"}
@@ -131,7 +127,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-## Continuación votación Reglamento General
+### Votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210929d.png){:height="100%" width="100%"}
 
@@ -141,10 +137,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ![cc](/images/rollcall/sesion_20210929a.png){:height="100%" width="100%"}
 
-
 ---
-
-## Continuación votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210928l.png){:height="100%" width="100%"}
 
@@ -170,10 +163,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ![cc](/images/rollcall/sesion_20210928a.png){:height="100%" width="100%"}
 
-
 ---
-
-## Continuación votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210927f.png){:height="100%" width="100%"}
 
@@ -188,8 +178,6 @@ Página actualizada: **08 de octubre de 2021**.
 ![cc](/images/rollcall/sesion_20210927a.png){:height="100%" width="100%"}
 
 ---
-
-## Votación Reglamento General
 
 ![cc](/images/rollcall/sesion_20210923n.png){:height="100%" width="100%"}
 

@@ -13,7 +13,7 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 ## Documentos
 
-Revisa el Reglamento General de la Convención Constitucional [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/images/rollcall/Reglamento%20General%20de%20la%20Convenci%C3%B3n.pdf). Revisa el documento los Integrantes de las 7 Comisiones Temáticas [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/images/rollcall/Integrantes%20comisiones%20tem%C3%A1ticas%20Convenci%C3%B3n.pdf).
+Descarga el Reglamento General de la Convención Constitucional [**aquí**](https://github.com/tresquintos/tresquintos.github.io/raw/master/images/rollcall/Reglamento%20General%20de%20la%20Convenci%C3%B3n.pdf). Descarga el documento oficial con los nombres de los integrantes de las 7 Comisiones Temáticas [**aquí**](https://github.com/tresquintos/tresquintos.github.io/raw/master/images/rollcall/Integrantes%20comisiones%20tem%C3%A1ticas%20Convenci%C3%B3n.pdf).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -22,7 +22,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-#### Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación y Educación Popular Constituyente
+## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación
 
 ![cc](/images/rollcall/sesion_20211007g.png){:height="100%" width="100%"}
 
@@ -81,7 +81,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-### Votación Reglamento de Participación y Consulta Indígena
+## Votación Reglamento de Participación y Consulta Indígena
 
 ![cc](/images/rollcall/sesion_20211004f.png){:height="100%" width="100%"}
 
@@ -101,7 +101,7 @@ Página actualizada: **08 de octubre de 2021**.
 
 ---
 
-### Votación Reglamento de Ética
+## Votación Reglamento de Ética
 
 
 ![cc](/images/rollcall/sesion_20210930j.png){:height="100%" width="100%"}

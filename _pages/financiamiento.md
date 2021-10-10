@@ -13,7 +13,7 @@ Página actualizada: **10 de octubre de 2021**.
 
 ## Elecciones Generales
 
-El siguiente gráfico muestra el total de aportes realizados a nivel nacional para cada una de las elecciones.
+El siguiente gráfico muestra el monto total de donaciones realizados a nivel nacional para cada una de las elecciones.
 
 
 ![Elección General](/images/financiamiento/aportes2021-11_todos.png){:height="100%" width="100%"}
@@ -32,7 +32,7 @@ El siguiente gráfico muestra el número total de donaciones recibidos para cada
 
 ## Elección Senadores
 
-Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación. ¡Pincha en las imágenes para ver detalles!
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación. ¡Pincha en las imágenes para ver los detalles!
 
 [![Antofagasta](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Antofagasta.png) [![Coquimbo](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Coquimbo.png)
 
@@ -47,7 +47,7 @@ Los siguientes gráficos muestran el monto total de aportes recibidos para cada 
 
 ## Elección Diputados
 
-Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación. ¡Pincha en las imágenes para ver detalles!
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación. ¡Pincha en las imágenes para ver los detalles!
 
 [![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_1.png) [![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_2.png)
 

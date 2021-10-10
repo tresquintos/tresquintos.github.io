@@ -21,9 +21,11 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional pa
 
 ## Elección Presidencial
 
-El siguiente gráfico muestra el monto total de aportes recibidos para cada uno de los candidatos presidenciales en competencia.
+El siguiente gráfico muestra el monto total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia.
 
 ![Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
+
+El siguiente gráfico muestra el número total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia.
 
 ![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="100%" width="100%"}
 

@@ -21,14 +21,16 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional pa
 
 ## Elección Presidencial
 
-El siguiente gráficos muestra el total de aportes realizados para cada uno de los candidatos presidenciales en competencia.
+El siguiente gráfico muestra el monto total de aportes recibidos para cada uno de los candidatos presidenciales en competencia.
 
-![cc](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
+[Monto Donaciones](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
+
+[Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes){:height="100%" width="100%"}
 
 
 ## Elección Senadores
 
-Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato para cada región.
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación.
 
 ![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
 
@@ -43,7 +45,7 @@ Los siguientes gráficos muestran el total de aportes realizados por nombre de c
 
 ## Elección Diputados
 
-Los siguientes gráficos muestran el total de aportes realizados por nombre de candidato por distrito.
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación.
 
 ![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}
 

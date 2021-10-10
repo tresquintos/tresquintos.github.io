@@ -23,7 +23,7 @@ El siguiente gráfico muestra el total de aportes realizados a nivel nacional pa
 
 El siguiente gráfico muestra el monto total de aportes recibidos para cada uno de los candidatos presidenciales en competencia.
 
-[![Monto Donaciones](/images/financiamiento/presidenciales2021.png)]{:height="100%" width="100%"}
+[Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
 
 [Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes){:height="100%" width="100%"}
 
@@ -32,7 +32,12 @@ El siguiente gráfico muestra el monto total de aportes recibidos para cada uno 
 
 Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación.
 
-![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
+
+[![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
+
+
+
+[![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"}](https://tresquintos.cl/financiamiento/senadores2021_nombres_Antofagasta.png) ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
 
 ![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_O'Higgins.png){:height="49%" width="49%"}
 

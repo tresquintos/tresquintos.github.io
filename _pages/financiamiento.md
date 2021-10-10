@@ -47,33 +47,33 @@ Los siguientes gráficos muestran el monto total de aportes recibidos para cada 
 
 Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación. ¡Pincha en las imágenes para ver detalles!
 
-![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_1.png) [![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_2.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_3.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_4.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_3.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_3.png) [![cc](/images/financiamiento/diputados2021_nombres_4.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_4.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_5.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_6.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_5.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_6.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_6.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_7.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_8.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_7.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_7.png) [![cc](/images/financiamiento/diputados2021_nombres_8.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_9.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_10.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_9.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_10.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_11.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_12.png){:height="49" width="49%"}
+[[cc](/images/financiamiento/diputados2021_nombres_11.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_12.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_13.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_14.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_13.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_14.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_15.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_16.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_15.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_16.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_17.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_18.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_17.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_18.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_19.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_20.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_19.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_20.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_21.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_22.png){:height="49" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_21.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png) [![cc](/images/financiamiento/diputados2021_nombres_22.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_5.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_23.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_24.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_23.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_23.png) [![cc](/images/financiamiento/diputados2021_nombres_24.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_24.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_25.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_26.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_25.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_25.png) [![cc](/images/financiamiento/diputados2021_nombres_26.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_26.png)
 
-![cc](/images/financiamiento/diputados2021_nombres_27.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_28.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/diputados2021_nombres_27.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_27.png) [![cc](/images/financiamiento/diputados2021_nombres_28.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres28.png)
 
 
 

@@ -6,9 +6,9 @@ description: Información electoral + análisis político. Estadísticas de fina
 author_profile: true
 ---
 
-En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por pactos realizados distrito por distrito para la elección de Diputados; y el desglose por región para la elección de Senadores. La información se actualiza semanalmente.
+En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por nombre de candidatos realizados distrito por distrito para la elección de Diputados; y el desglose por región de cada candidato para la elección de Senadores. La información se actualiza semanalmente.
 
-Página actualizada: **05 de octubre de 2021**.
+Página actualizada: **10 de octubre de 2021**.
 
 
 ## Elecciones Generales
@@ -32,7 +32,7 @@ Los siguientes gráficos muestran el total de aportes realizados por nombre de c
 
 ![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
 
-![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_OHiggins.png){:height="49%" width="49%"}
+![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_O'Higgins.png){:height="49%" width="49%"}
 
 ![cc](/images/financiamiento/senadores2021_nombres_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Biobío.png){:height="49%" width="49%"}
 

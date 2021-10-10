@@ -32,12 +32,10 @@ El siguiente gráfico muestra el monto total de aportes recibidos para cada uno 
 
 Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación.
 
-
-[![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
-
+https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Coquimbo.png
 
 
-[![cc](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"}](https://tresquintos.cl/financiamiento/senadores2021_nombres_Antofagasta.png) ![cc](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}
+[![Antofagasta](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Antofagasta.png) [![Coquimbo](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Coquimbo.png)
 
 ![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_O'Higgins.png){:height="49%" width="49%"}
 

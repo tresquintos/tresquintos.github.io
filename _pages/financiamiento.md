@@ -25,7 +25,7 @@ El siguiente gráfico muestra el monto total de aportes recibidos para cada uno 
 
 ![Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
 
-![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes){:height="100%" width="100%"}
+![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="100%" width="100%"}
 
 
 ## Elección Senadores

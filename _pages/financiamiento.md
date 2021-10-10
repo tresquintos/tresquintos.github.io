@@ -30,25 +30,22 @@ El siguiente gráfico muestra el monto total de aportes recibidos para cada uno 
 
 ## Elección Senadores
 
-Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación.
-
-https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Coquimbo.png
-
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a senador que ha recibido una donación. ¡Pincha en las imágenes para ver detalles!
 
 [![Antofagasta](/images/financiamiento/senadores2021_nombres_Antofagasta.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Antofagasta.png) [![Coquimbo](/images/financiamiento/senadores2021_nombres_Coquimbo.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Coquimbo.png)
 
-![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_O'Higgins.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/senadores2021_nombres_Metropolitana.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Metropolitana.png] [![cc](/images/financiamiento/senadores2021_nombres_O'Higgins.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_O'Higgins.png]
 
-![cc](/images/financiamiento/senadores2021_nombres_Ñuble.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Biobío.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/senadores2021_nombres_Ñuble.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Ñuble.png] [![cc](/images/financiamiento/senadores2021_nombres_Biobío.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Biobío.png]
 
-![cc](/images/financiamiento/senadores2021_nombres_Los Ríos.png){:height="49%" width="49%"} ![cc](/images/financiamiento/senadores2021_nombres_Los Lagos.png){:height="49" width="49%"}
+[![cc](/images/financiamiento/senadores2021_nombres_Los Ríos.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Los Ríos.png] [![cc](/images/financiamiento/senadores2021_nombres_Los Lagos.png){:height="49" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Los Lagos.png]
 
-![cc](/images/financiamiento/senadores2021_nombres_Magallanes.png){:height="49%" width="49%"}
+[![cc](/images/financiamiento/senadores2021_nombres_Magallanes.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/senadores2021_nombres_Magallanes.png]
 
 
 ## Elección Diputados
 
-Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación.
+Los siguientes gráficos muestran el monto total de aportes recibidos para cada uno de los candidatos a diputado que ha recibido una donación. ¡Pincha en las imágenes para ver detalles!
 
 ![cc](/images/financiamiento/diputados2021_nombres_1.png){:height="49%" width="49%"} ![cc](/images/financiamiento/diputados2021_nombres_2.png){:height="49" width="49%"}
 

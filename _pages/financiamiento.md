@@ -16,16 +16,16 @@ Página actualizada: **10 de octubre de 2021**.
 El siguiente gráfico muestra el total de aportes realizados a nivel nacional para cada una de las elecciones.
 
 
-![cc](/images/financiamiento/aportes2021-11_todos.png){:height="100%" width="100%"}
+![Elección General](/images/financiamiento/aportes2021-11_todos.png){:height="100%" width="100%"}
 
 
 ## Elección Presidencial
 
 El siguiente gráfico muestra el monto total de aportes recibidos para cada uno de los candidatos presidenciales en competencia.
 
-[Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
+![Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
 
-[Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes){:height="100%" width="100%"}
+![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes){:height="100%" width="100%"}
 
 
 ## Elección Senadores

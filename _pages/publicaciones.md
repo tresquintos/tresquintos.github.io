@@ -21,7 +21,7 @@ Abajo puedes ver las portadas e índice de cada Manual para las elecciones Presi
 
 Elección Presidenciales
 
-[![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="60%" width="60%"}] [![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="60%" width="60%"}]
+(/images/publicaciones/manualpresidencialportada.png){:height="60%" width="60%"}(/images/publicaciones/manualpresidencialindice.png){:height="60%" width="60%"}
 
 
 Elección Senadores
@@ -31,7 +31,7 @@ Elección Senadores
 
 Elección Diputados
 
-[![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="60%" width="60%"}] [![Diputados](/images/publicaciones/manualdiputadosindice.png){:height="60%" width="60%"}]
+(/images/publicaciones/manualdiputadosportada.png){:height="60%" width="60%"}(/images/publicaciones/manualdiputadosindice.png){:height="60%" width="60%"}
 
 
 ## Reportes elecciones Senadores y Diputados
@@ -40,7 +40,7 @@ Abajo puedes ver las portadas de cada Reporte región por región para la elecci
 
 Elección Senadores
 
-[![Antofagasta](/images/publicaciones/antofagasta.png){:height="49%" width="49%"}] [![Coquimbo](/images/publicaciones/coquimbo.png){:height="49" width="49%"}]
+[![Antofagasta](/images/publicaciones/antofagasta.png){:height="49%" width="49%"}] [!Coquimbo(/images/publicaciones/coquimbo.png){:height="49" width="49%"}]
 
 [![Metropolitana](/images/publicaciones/metropolitana.png){:height="49%" width="49%"}] [![OHiggins](/images/publicaciones/o´higgins.png){:height="49%" width="49%"}]
 

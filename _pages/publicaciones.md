@@ -15,30 +15,30 @@ Puedes solicitar los Manuales y Reportes haciendo click [**aquí**](https://twit
 
 Página actualizada: **19 de octubre de 2021**.
 
-## Manuales Elecciones 2021
+## Manuales
 
-Abajo puedes ver las portadas e índice de cada Manual para las elecciones Presidenciales, Senadores y Diputados.
+### Manual Elección Presidencial
 
 Elección Presidenciales
 
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="49%" width="49%"} ![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="49%" width="49%"}
 
 
-Elección Senadores
+### Manual Elección Senadores
 
 ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="49%" width="49%"} ![Senadores](/images/publicaciones/manualsenadoresindice.png){:height="49%" width="49%"}
 
 
-Elección Diputados
+### Manual Elección Diputados
 
 [![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="49%" width="49%"}][![Diputados](/images/publicaciones/manualdiputadosindice.png){:height="49%" width="49%"}]
 
 
-## Reportes elecciones Senadores y Diputados
 
-Abajo puedes ver las portadas de cada Reporte región por región para la elección de Senadores y de cada distrito para la elección de Diputados.
+## Reportes
 
-Elección Senadores
+
+### Reportes Regionales
 
 ![Antofagasta](/images/publicaciones/antofagasta.png){:height="49%" width="49%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="49" width="49%"}]
 
@@ -50,22 +50,21 @@ Elección Senadores
 
 ![Magallanes](/images/publicaciones/magallanes.png){:height="49%" width="49%"}
 
-Elección Diputados
+### Reportes Distritales
 
-[![dip](/images/publicaciones/distrito1.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito2.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito3.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito4.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito5.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito6.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito7.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito8.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito9.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito10.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito11.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito12.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito13.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito14.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito15.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito16.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito17.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito18.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito19.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito20.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito21.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito22.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito23.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito24.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito25.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito26.png){:height="49" width="49%"}]
-[![dip](/images/publicaciones/distrito27.png){:height="49%" width="49%"}] [![dip](/images/publicaciones/distrito28.png){:height="49" width="49%"}]
+![dip](/images/publicaciones/distrito1.png){:height="25%" width="25%"} [![dip](/images/publicaciones/distrito2.png){:height="25%" width="25%"} ![dip](/images/publicaciones/distrito3.png){:height="25%" width="25%"} ![dip](/images/publicaciones/distrito4.png){:height="25%" width="25%"}]
+![dip](/images/publicaciones/distrito5.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito6.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito7.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito8.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito9.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito10.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito11.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito12.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito13.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito14.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito15.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito16.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito17.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito18.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito19.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito20.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito21.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito22.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito23.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito24.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito25.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito26.png){:height="49" width="49%"}
+![dip](/images/publicaciones/distrito27.png){:height="49%" width="49%"} ![dip](/images/publicaciones/distrito28.png){:height="49" width="49%"}
 
 
 

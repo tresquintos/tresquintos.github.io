@@ -17,23 +17,7 @@ Página actualizada: **19 de octubre de 2021**.
 
 ## Manuales
 
-### Manual Elección Presidencial
-
-![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="49%" width="49%"} ![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="49%" width="49%"}
-
-
-### Manual Elección Senadores
-
-![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="49%" width="49%"} ![Senadores](/images/publicaciones/manualsenadoresindice.png){:height="49%" width="49%"}
-
-
-### Manual Elección Diputados
-
-![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="49%" width="49%"} ![Diputados](/images/publicaciones/manualdiputadosindice.png){:height="49%" width="49%"}
-
-
-
-## Reportes
+![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}
 
 
 ### Reportes Regionales

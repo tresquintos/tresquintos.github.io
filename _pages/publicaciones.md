@@ -29,7 +29,7 @@ Página actualizada: **19 de octubre de 2021**.
 
 ### Manual Elección Diputados
 
-[![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="49%" width="49%"}][![Diputados](/images/publicaciones/manualdiputadosindice.png){:height="49%" width="49%"}]
+![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="49%" width="49%"} ![Diputados](/images/publicaciones/manualdiputadosindice.png){:height="49%" width="49%"}
 
 
 

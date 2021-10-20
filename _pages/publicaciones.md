@@ -22,11 +22,11 @@ Página actualizada: **19 de octubre de 2021**.
 
 ### Reportes Regionales
 
-![Antofagasta](/images/publicaciones/antofagasta.png){:height="33%" width="33%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="33" width="33%"}] ![Metropolitana](/images/publicaciones/metropolitana.png){:height="33%" width="33%"}
+![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"}] ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 
-![OHiggins](/images/publicaciones/o´higgins.png){:height="33%" width="33%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="33%" width="33%"} ![Biobio](/images/publicaciones/biobio.png){:height="33%" width="33%"}
+![OHiggins](/images/publicaciones/o´higgins.png){:height="32%" width="32%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="32%" width="32%"} ![Biobio](/images/publicaciones/biobio.png){:height="32%" width="32%"}
 
-![Los Ríos](/images/publicaciones/losrios.png){:height="33%" width="33%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="33" width="33%"} ![Magallanes](/images/publicaciones/magallanes.png){:height="33%" width="33%"}
+![Los Ríos](/images/publicaciones/losrios.png){:height="32%" width="32%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="32" width="32%"} ![Magallanes](/images/publicaciones/magallanes.png){:height="32%" width="32%"}
 
 
 ### Reportes Distritales

@@ -21,12 +21,12 @@ Abajo puedes ver las portadas e índice de cada Manual para las elecciones Presi
 
 Elección Presidenciales
 
-[![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="49%" width="49%"}][![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="49%" width="49%"}]
+![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="49%" width="49%"} ![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="49%" width="49%"}
 
 
 Elección Senadores
 
-[![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="49%" width="49%"}][![Senadores](/images/publicaciones/manualsenadoresindice.png){:height="49%" width="49%"}]
+![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="49%" width="49%"} ![Senadores](/images/publicaciones/manualsenadoresindice.png){:height="49%" width="49%"}
 
 
 Elección Diputados
@@ -40,15 +40,15 @@ Abajo puedes ver las portadas de cada Reporte región por región para la elecci
 
 Elección Senadores
 
-[![Antofagasta](/images/publicaciones/antofagasta.png){:height="49%" width="49%"}] [![Coquimbo](/images/publicaciones/coquimbo.png){:height="49" width="49%"}]
+![Antofagasta](/images/publicaciones/antofagasta.png){:height="49%" width="49%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="49" width="49%"}]
 
-[![Metropolitana](/images/publicaciones/metropolitana.png){:height="49%" width="49%"}] [![OHiggins](/images/publicaciones/o´higgins.png){:height="49%" width="49%"}]
+![Metropolitana](/images/publicaciones/metropolitana.png){:height="49%" width="49%"} ![OHiggins](/images/publicaciones/o´higgins.png){:height="49%" width="49%"}
 
-[![Ñuble](/images/publicaciones/ñuble.png){:height="49%" width="49%"}] [![Biobio](/images/publicaciones/biobio.png){:height="49%" width="49%"}]
+![Ñuble](/images/publicaciones/ñuble.png){:height="49%" width="49%"} ![Biobio](/images/publicaciones/biobio.png){:height="49%" width="49%"}
 
-[![Los Ríos](/images/publicaciones/losrios.png){:height="49%" width="49%"}] [![Los Lagos](/images/publicaciones/loslagos.png){:height="49" width="49%"}]
+![Los Ríos](/images/publicaciones/losrios.png){:height="49%" width="49%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="49" width="49%"}
 
-[![Magallanes](/images/publicaciones/magallanes.png){:height="49%" width="49%"}]
+![Magallanes](/images/publicaciones/magallanes.png){:height="49%" width="49%"}
 
 Elección Diputados
 

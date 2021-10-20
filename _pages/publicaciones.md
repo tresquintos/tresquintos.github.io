@@ -22,7 +22,7 @@ Página actualizada: **19 de octubre de 2021**.
 
 ### Reportes Regionales
 
-![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"}] ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
+![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 
 ![OHiggins](/images/publicaciones/o´higgins.png){:height="32%" width="32%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="32%" width="32%"} ![Biobio](/images/publicaciones/biobio.png){:height="32%" width="32%"}
 

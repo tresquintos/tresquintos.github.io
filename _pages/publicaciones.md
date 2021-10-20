@@ -2,12 +2,12 @@
 layout: single
 title: "Publicaciones 2021"
 permalink: /publicaciones/
-description: Información electoral + análisis político. Lista de candidatos a senador y diputado.
+description: Información electoral + análisis político. Publicaciones para descargar
 author_profile: true
 
 ---
 
-En esta página puedes ver los Manuales y Reportes que tenemos disponibles para la elección presidencial y legislativa del 21 de noviembre de 2021. Los documentos estarán disponibles de forma gratuita para todos nuestros suscriptores anuales. Si no eres suscriptor, tienes preguntas sobre los contenidos o te interesa descargar un Manual o Reportes, escríbenos [**aquí**](mailto: comunicaciones@tresquintos.cl).
+En esta página puedes ver los Manuales y Reportes que tenemos disponibles para la elección presidencial y legislativa del 21 de noviembre de 2021. Los documentos estarán disponibles de forma gratuita para todos nuestros [**suscriptores anuales**](https://tresquintos.cl/donaciones). Si no eres suscriptor, tienes preguntas sobre los contenidos o te interesa descargar un Manual o Reportes, escríbenos [**aquí**](mailto: comunicaciones@tresquintos.cl).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

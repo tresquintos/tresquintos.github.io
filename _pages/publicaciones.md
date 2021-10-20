@@ -19,8 +19,6 @@ Página actualizada: **19 de octubre de 2021**.
 
 ### Manual Elección Presidencial
 
-Elección Presidenciales
-
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="49%" width="49%"} ![Presidenciales](/images/publicaciones/manualpresidencialindice.png){:height="49%" width="49%"}
 
 

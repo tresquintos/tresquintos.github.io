@@ -7,13 +7,11 @@ author_profile: true
 
 ---
 
-En esta página puedes ver tres secciones referentes a los Manuales y Reportes de la elección presidencial y legislativa que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra los Manuales referentes a las elecciones Presidencial, Senadores y Diputados y la segunda sección muestra los Reportes por región y distrito para las elecciones de Senadores y Diputados, respectivamente.
-
-Puedes solicitar los Manuales y Reportes haciendo click [**aquí**](https://twitter.com/tresquintos)
+En esta página puedes ver los Manuales y Reportes que tenemos dispoibles para la elección presidencial y legislativa del 21 de noviembre de 2021. Los documentos estarán disponibles de forma gratuita para todos nuestros suscriptores anuales. Si no eres suscriptor, tienes preguntas sobre los contenidos o te interesa descargar un Manual o Reportes, escríbenos [**aquí**](mailto: comunicaciones@tresquintos.cl).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **19 de octubre de 2021**.
+Página actualizada: **20 de octubre de 2021**.
 
 ## Manuales
 

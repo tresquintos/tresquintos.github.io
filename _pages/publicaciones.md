@@ -26,7 +26,7 @@ Elección Presidenciales
 
 Elección Senadores
 
-[![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="60%" width="60%"}] [![Senadores](/images/publicaciones/manualsenadoresindice.png){:height="60%" width="60%"}]
+(/images/publicaciones/manualsenadoresportada.png){:height="60%" width="60%"}(/images/publicaciones/manualsenadoresindice.png){:height="60%" width="60%"}
 
 
 Elección Diputados

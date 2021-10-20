@@ -19,7 +19,7 @@ Página actualizada: **20 de octubre de 2021**.
 
 
 ### Reportes Regionales
-
+---
 ![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 
 ![OHiggins](/images/publicaciones/o´higgins.png){:height="32%" width="32%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="32%" width="32%"} ![Biobio](/images/publicaciones/biobio.png){:height="32%" width="32%"}
@@ -28,7 +28,7 @@ Página actualizada: **20 de octubre de 2021**.
 
 
 ### Reportes Distritales
-
+---
 ![dip](/images/publicaciones/distrito1.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito2.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito3.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito4.png){:height="24%" width="24%"}
 
 ![dip](/images/publicaciones/distrito5.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito6.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito7.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito8.png){:height="24" width="24%"}

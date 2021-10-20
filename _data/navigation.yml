@@ -18,6 +18,9 @@ main:
 
  - title: "📥Newsletter"
    url: /newsletter/
+  
+ - title: "💰Financiamiento"
+   url: /financiamiento/
 
  - title: "📊Gabinetes"
    url: /gabinetes/

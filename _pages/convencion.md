@@ -9,15 +9,11 @@ redirect_from:
   - /constituyentes2021/
 ---
 
-En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977492&version=2.0) y revisar el Codebook [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para importar los datos directamente a tu procesador, revisa las instrucciones al final de esta página.
+En esta sección puedes ver un registro de las votaciones en la Convención Constitucional. La votaciones están en orden descendiente. Es decir, comienza con la votación más reciente. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977492&version=2.0) y revisar el Codebook [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para importar los datos directamente a tu procesador, revisa las instrucciones al final de esta página. Descarga el Reglamento General de la Convención Constitucional [**aquí**](https://github.com/tresquintos/tresquintos.github.io/raw/master/images/rollcall/Reglamento%20General%20de%20la%20Convenci%C3%B3n.pdf). Descarga el documento oficial con los nombres de los integrantes de las 7 Comisiones Temáticas [**aquí**](https://github.com/tresquintos/tresquintos.github.io/raw/master/images/rollcall/Integrantes%20comisiones%20tem%C3%A1ticas%20Convenci%C3%B3n.pdf).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **14 de septiembre de 2021**.
-
-## Votación Reglamento
-
-[![cc](/images/reglamentoCC.png){:height="50%" width="50%"}](/files/documento93.pdf)
+Página actualizada: **08 de octubre de 2021**.
 
 
 ## Votación General
@@ -26,13 +22,200 @@ Página actualizada: **14 de septiembre de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210914a.png){:height="100%" width="100%"}
+## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación
 
-![cc](/images/rollcall/sesion_20210914b.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211007g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211007a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20211006i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211006a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20211005i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211005a.png){:height="100%" width="100%"}
+
+
+---
+
+## Votación Reglamento de Participación y Consulta Indígena
+
+![cc](/images/rollcall/sesion_20211004f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20211004a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20211001a.png){:height="100%" width="100%"}
+
+---
+
+## Votación Reglamento de Ética
+
+
+![cc](/images/rollcall/sesion_20210930j.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210930a.png){:height="100%" width="100%"}
+
+
+---
+
+### Votación Reglamento General
+
+![cc](/images/rollcall/sesion_20210929d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210929c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210929b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210929a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210928l.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928k.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928j.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210928a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210927f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210927a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210923n.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923m.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923l.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923k.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923j.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923i.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923h.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923g.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923f.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923e.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923d.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923c.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210923a.png){:height="100%" width="100%"}
+
+---
+
+![cc](/images/rollcall/sesion_20210914d.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall/sesion_20210914c.png){:height="100%" width="100%"}
 
-![cc](/images/rollcall/sesion_20210914d.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20210914b.png){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210914a.png){:height="100%" width="100%"}
 
 ---
 
@@ -40,9 +223,9 @@ Página actualizada: **14 de septiembre de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210824a.jpg){:height="100%" width="100%"}
-
 ![cc](/images/rollcall/sesion_20210824b.jpg){:height="100%" width="100%"}
+
+![cc](/images/rollcall/sesion_20210824a.jpg){:height="100%" width="100%"}
 
 ---
 
@@ -50,10 +233,10 @@ Página actualizada: **14 de septiembre de 2021**.
 
 ---
 
-![cc](/images/rollcall/sesion_20210812a.jpg){:height="100%" width="100%"}
-
-
 ![cc](/images/rollcall/sesion_20210812b.jpg){:height="100%" width="100%"}
+
+
+![cc](/images/rollcall/sesion_20210812a.jpg){:height="100%" width="100%"}
 
 ---
 
@@ -163,7 +346,7 @@ setTimeout(function(){Swal.fire({
     window.open("https://tresquintos.cl/donaciones/")
   }
   })
-  },15000);
+  },35000);
 </script>
 
 

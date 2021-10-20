@@ -12,7 +12,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **13 de septiembre de 2021**.
+Página actualizada: **18 de octubre de 2021**.
 
 ![Daniel Jadue](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
@@ -28,6 +28,7 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de intenc
 Abajo puedes ver un mapa de Chile que compara el porcentaje de búsquedas en Google para los cinco candidatos con más preferencias en las encuestas. El gráfico se actualiza automáticamente todos los minutos, y muestra la tendencia de los últimos 30 días.
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 1-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"},{"keyword":"Franco Parisi","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,Franco%20Parisi","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
+
 
 
 ## Candidatos
@@ -85,7 +86,7 @@ setTimeout(function(){Swal.fire({
     window.open("https://tresquintos.cl/donaciones/")
   }
   })
-  },15000);
+  },35000);
 </script>
 
 

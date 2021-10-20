@@ -33,18 +33,11 @@ Estamos en todas las redes sociales.
 [![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos/) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos/) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/3quintos/) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/c/tresquintos) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.tv/tresquintos/)
 
 
-### ¿Quién edita Tresquintos?
-
-Kenneth Bunker, Doctor (PhD.) en Ciencia Política, London School of Economics (Reino Unido). Master of Research (MRes) en Ciencia Política, London School of Economics (Reino Unido). Master of Arts (M.A.) en Ciencia Política, San Diego State University (Estados Unidos). Licenciado (B.A.) en Ciencia Política, Universidad Diego Portales (Chile). Su cuenta de twitter es [@kennethbunker](https://www.twitter.com/kennethbunker).
-
-[![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/kennethbunker)  [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/kennethbunker) [![academia](/images/academia.png){:height=5%" width="5%"}](https://lse.academia.edu/KennethBunker) [![researchgate](/images/researchgate.png){:height=5%" width="5%"}](https://www.researchgate.net/profile/Kenneth_Bunker) [![medium](/images/medium.png){:height="5%" width="5%"}](https://medium.com/@kennethbunker) [![googlescholar](/images/scholar.png){:height=5%" width="5%"}](https://scholar.google.cl/citations?user=kFHaW6wAAAAJ&hl) [![dataverse](/images/dataverse.png){:height=5%" width="5%"}](https://dataverse.harvard.edu/dataverse/kennethbunker)
-
-
 ### ¿Quién está en el equipo de Tresquintos?
 
-Sofía Contreras Ubal es la encargada de investigación, Pablo Toro Monroy es analista de datos e investigador asistente, Mauricio Rojas Casimiro es investigador asociado, y Francisca Urquiza Bórquez está a cargo de las ilustraciones. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
+Kenneth Bunker es el Director Ejecutivo. Sofía Contreras Ubal es Coordinadora de Investigación e Investigadora Asistente, Pablo Toro Monroy es Analista de Datos e Investigador Asistente, Mauricio Rojas Casimiro es Periodista e Investigador Asociado, Camila González Piucol es Asistente de Investigación del Área Constitucional, Mario Orellana Rojas es Asistente de Investigación del Área Electoral y Francisca Urquiza Bórquez es Ilustradora. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
 
-[![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
+[![twitter](/images/kennethbunker.jpg){:height="5%" width="5%"}](https://twitter.com/kennethbunker)  [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro)  [![twitter](/images/camilagonzalez.jpg){:height="5%" width="5%"}](https://twitter.com/cpaz__) [![twitter](/images/marioorellana.jpg){:height="5%" width="5%"}](https://twitter.com/MarioAnd7) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
 
 
 ### ¿Qué programas se usan para generar y distribuir contenido?

@@ -75,7 +75,7 @@ Los siguientes gráficos muestran el monto total de aportes recibidos para cada 
 
 [![cc](/images/financiamiento/diputados2021_nombres_25.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_25.png) [![cc](/images/financiamiento/diputados2021_nombres_26.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_26.png)
 
-[![cc](/images/financiamiento/diputados2021_nombres_27.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_27.png) [![cc](/images/financiamiento/diputados2021_nombres_28.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres28.png)
+[![cc](/images/financiamiento/diputados2021_nombres_27.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_27.png) [![cc](/images/financiamiento/diputados2021_nombres_28.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/diputados2021_nombres_28.png)
 
 
 

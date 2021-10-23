@@ -21,6 +21,9 @@ main:
   
  - title: "💰Financiamiento"
    url: /financiamiento/
+     
+ - title: "📑Publicaciones"
+   url: /publicaciones/
 
  - title: "📊Gabinetes"
    url: /gabinetes/

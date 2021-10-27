@@ -1,7 +1,7 @@
 ---
-title: "Declaración encuestas"
+title: "Sobre las encuestas: imposible saber"
 date: 2021-10-26
-permalink: /posts/2021/10/encuestas/
+permalink: /posts/2021/10/encuestas2021/
 comments: true
 tags:
   - Métodos
@@ -26,7 +26,7 @@ La segunda columna es la de Noam Titelman, también publicada en Tercera Dosis: 
 
 Para personas que buscan un soporte intelectual para sostener sus argumentos “en contra” de las encuestas, es una columna perfecta. Resume muy bien los argumentos de cómo las encuestas se pueden equivocar, entrelazándolo con el rol de los medios, y cubriendo la problemática que significa para la democracia en general. El autor toca temas que rara vez se discuten en el foro público local, y por lo mismo es de gran importancia.
 
-En fin, ambas columnas tienen mérito y la intención aquí no es repetir lo que allí se ha hecho. Aquí, en cambio, se busca complementar el debate con más información sobre lo que sabemos de las encuestas en los últimos años de una perspectiva comparada. La idea es también generar un puente entre ambas contribuciones, unificando lo especifico con lo general, y la evidencia que conocemos de la experiencia chilena con que se ha observado en otras partes del mundo. 
+En fin, ambas columnas tienen mérito y la intención aquí no es repetir lo que allí se ha hecho. Aquí, en cambio, se busca complementar el debate con más información sobre lo que sabemos de las encuestas en los últimos años de una perspectiva comparada. La idea es también generar un puente entre ambas contribuciones, unificando lo especifico con lo general, y la evidencia que conocemos de la experiencia chilena con que se ha observado en otras partes del mundo.
 
 Es importante partir precisamente por lo último: ¿se equivocan las encuestas? Normalmente se da a entender que sí. Comúnmente se cita a Brexit y a la elección de Trump como ejemplos. Pero es sabido que ninguna de esas elecciones son buenos ejemplos. En ambos casos, las encuestas estuvieron dentro, o muy cerca, de los márgenes de error reportados. En el caso de Estados Unidos, el problema fue la proyección de resultados combinados por Estados.
 
@@ -38,24 +38,23 @@ Antes, es importante recalcar que el punto de la discordia (al menos aquí) es s
 
 Ese tema ha sido largamente discutido dentro del mundo académico de los pronósticos electorales ([electoral forecasting](https://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0023.xml)): cómo anticipar resultados de elecciones. [Y allí hay diferentes métodos](https://faculty.wharton.upenn.edu/wp-content/uploads/2017/11/ForecastingMethods-225-Last-Wk-Paper-1312018.pdf). Uno de varios se basa en la agregación de encuestas. Su utilidad es que es simple y no requiere muchas premisas. Obviamente corre el riesgo de terminar siendo un modelo [GIGO](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out). Lo que sucede, sin embargo, es que en general tienden a ser relativamente certeras
 
-Hay muchos ejemplos de este tipo de estudio en el mundo, pero un estudio que es familiar para nosotros es [A two-stage model to forecast elections in new democracies](https://econpapers.repec.org/article/eeeintfor/v_3a36_3ay_3a2020_3ai_3a4_3ap_3a1407-1419.htm). Ese estudio, hecho con datos de encuestas de 10 países de América Latina (para ir moviéndonos hacia el caso chileno), muestra que es posible construir modelos predictivos que anticipan resultados de elecciones dentro de márgenes aceptables. 
+Hay muchos ejemplos de este tipo de estudio en el mundo, pero un estudio que es familiar para nosotros es [A two-stage model to forecast elections in new democracies](https://econpapers.repec.org/article/eeeintfor/v_3a36_3ay_3a2020_3ai_3a4_3ap_3a1407-1419.htm). Ese estudio, hecho con datos de encuestas de 10 países de América Latina (para ir moviéndonos hacia el caso chileno), muestra que es posible construir modelos predictivos que anticipan resultados de elecciones dentro de márgenes aceptables.
 
 Los gráficos de abajo muestran la comparación entre el error de las encuestas y el error del modelo predictivo presentado en ese artículo. El gráfico de la izquierda muestra el error absoluto promedio por elección, y el gráfico de la derecha muestra lo mismo pero desagregado a nivel de candidatos presidenciales. Si el error fuera igual entre encuestas y el modelo de agregación, los errores caerían en seguidilla sobre la línea roja de 45 grados.
 
 Pero lo que muestran los gráficos es que en la gran mayoría de los casos el modelo es superior a las encuestas (produce un error más bajo). A pesar de que el error puede ser alto en algunos casos, rara vez el modelo produce un error más alto que el de las encuestas. Esto va al punto de que, aunque la información que entre sea mala (la cuál, como ya sabemos, no necesariamente es el caso), la información que sale puede ser útil.
 
-![foto 1](https://user-images.githubusercontent.com/64292382/138991032-764625b3-01d0-4da3-9ebf-a1244ac4a3e9.png)
-![foto 2](https://user-images.githubusercontent.com/64292382/138991058-fb0007bb-8e44-4f3a-82f4-f97a02550a80.png)
+![foto 1](/images/declaracion_encuestas_1){:height="49%" width="49%"} ![foto 2](/images/declaracion_encuestas_1){:height="49%" width="49%"}
 
 Pasemos a revisar cómo se relaciona todo esto con el caso chileno, y las razones de por qué nosotros no vamos a realizar un pronóstico en 2021. Para empezar, es importante subrayar que no repetiremos lo que ya se ha dicho en otros lugares, de forma clara y concisa. Por lo mismo, quizás a algunos, quienes no están siguiendo el debate más coyuntural, todo esto les parecerá abstracto. A ellos les recomendamos revisar los enlaces en detalle.
 
-Comencemos. Se dice, y se repite, una y otra vez, que en Chile las encuestas son malas. Que no le apuntan. Que no sirven. Pero, ¿es cierto? ¿Dónde están los datos? ¿Dónde están las referencias a las encuestas? ¿Dónde están los estudios con los números, mostrando la magnitud de los aciertos y errores? Si solo repetimos que las encuestas de 2017 fallaron porque no le apuntaron ni a Piñera y ni a Sánchez, no aprenderemos nada. 
+Comencemos. Se dice, y se repite, una y otra vez, que en Chile las encuestas son malas. Que no le apuntan. Que no sirven. Pero, ¿es cierto? ¿Dónde están los datos? ¿Dónde están las referencias a las encuestas? ¿Dónde están los estudios con los números, mostrando la magnitud de los aciertos y errores? Si solo repetimos que las encuestas de 2017 fallaron porque no le apuntaron ni a Piñera y ni a Sánchez, no aprenderemos nada.
 
 Pues bien, Tresquintos tiene algo de experiencia en ese análisis, habiendo seguido elecciones en vivo desde al menos 2010. Y una cosa que hemos aprendido es que las encuestas se equivocan, pero también le apuntan. No todo es color de hormiga. Lamentablemente, sin embargo, en la mayoría de las notas publicadas en los medios esto no se menciona. Simplemente se comienza de la base que las encuestas no sirven. Esto es problemático para el debate en general.
 
 Lo cierto es que en Chile hay estudios del comportamiento de las encuestas. Una investigación temprana, [Pronósticos Electorales y Seguimiento de Opinión Publica en Latino América: Una aplicación a Chile](https://revistas.uchile.cl/index.php/RP/article/view/44781), cubre las elecciones de 2005, 2009 y 2013. Lo que muestra es que es más fácil predecir elecciones de lo que se piensa. Para esas elecciones fue relativamente sencillo construir modelos predictivos para apuntarle a los resultados (expost en el caso de 2005 y 2009).
 
-A todas luces, la “crisis” de las encuestas en Chile comienza en 2017. No entraremos en profundidad en las razones bajo el capó de las encuestas locales, ni tampoco en la teoría general de por qué las encuestas se equivocan (porque, otra vez, eso está desarrollado en otra parte). Pero sí es importante notar que hasta 2013 las encuestas le apuntaban relativamente bien a los resultados (dentro de ciertos márgenes). 
+A todas luces, la “crisis” de las encuestas en Chile comienza en 2017. No entraremos en profundidad en las razones bajo el capó de las encuestas locales, ni tampoco en la teoría general de por qué las encuestas se equivocan (porque, otra vez, eso está desarrollado en otra parte). Pero sí es importante notar que hasta 2013 las encuestas le apuntaban relativamente bien a los resultados (dentro de ciertos márgenes).
 
 Como es sabido, el problema de 2017 fue, principalmente, la sobreestimación del resultado para Piñera y la subestimación del resultado para Sánchez. No hay que minimizar eso. Pero, para el resto de los candidatos (los otros 6), las encuestas estuvieron relativamente certeras, dentro de sus márgenes. Esto vuelve al punto de que cuando las encuestas aciertan, se suele barrer bajo la alfombra. Después de todo, ¿quién tiene interés en defender a las encuestadoras?
 
@@ -129,7 +128,7 @@ Considerando lo anterior, es posible pensar en un escenario favorable tanto para
 
 Un ejemplo final. ¿Cómo se explica la persistencia de Parisi en las encuestas? El candidato ha marcado ininterrumpidamente desde 2018 en preguntas abiertas y cerradas, sin poner un pie en el país. De hecho, nadie sabe quién lo apoya ni por qué, y aun así figura consistentemente. ¿Estamos en condiciones de decir que no hay que creer en las encuestas y que tiene más sentido pensar que no va a marcar por que no está presente? Dudamos.
 
-En fin, no están las condiciones para creer ni desconfiar de las encuestas. Uno puede desconfiar en el método, pero si las encuestas le apuntan a la elección, cuál es la utilidad del argumento. ¿La calidad de una encuesta se debe medir por su capacidad predictiva o por su metodología? Son dos caras de la misma moneda que se debaten constantemente en la academia. Aprovechamos de dejar una lista de literatura [aquí](https://www.dropbox.com/s/7jnewvafpoxczrw/LiteraturaEncuestas.pdf?dl=0) para quienes quieran conocer más de aquello. 
+En fin, no están las condiciones para creer ni desconfiar de las encuestas. Uno puede desconfiar en el método, pero si las encuestas le apuntan a la elección, cuál es la utilidad del argumento. ¿La calidad de una encuesta se debe medir por su capacidad predictiva o por su metodología? Son dos caras de la misma moneda que se debaten constantemente en la academia. Aprovechamos de dejar una lista de literatura [aquí](https://www.dropbox.com/s/7jnewvafpoxczrw/LiteraturaEncuestas.pdf?dl=0) para quienes quieran conocer más de aquello.
 
 Es posible que las encuestas le apunten a la elección y es posible que no le apunten. El problema es que no sabemos cuál es la probabilidad de cada una de esas opciones, y, nos parece que jugar a experimentar en un momento político tan inestable como el actual no ayuda a nadie. Es por eso que temprano en el ciclo decidimos no hacer un pronóstico. Decidimos tratar de aportar de otra manera, respetando los peligros del contexto político.
 

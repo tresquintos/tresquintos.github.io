@@ -21,11 +21,11 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de intención de voto presidencial desde 2018. Muestra a los candidatos que están en [nuestra lista](https://tresquintos.cl/encuestas/#candidatos) y que han marcado en [encuestas de opinión pública ](https://tresquintos.cl/encuestas/). La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
+Abajo puedes ver un gráfico que muestra el resultado de todas las encuestas de preferencia presidencial desde 2018. Cada punto representa una encuesta. La línea de tendencia es un [promedio móvil](https://www.stata.com/manuals/rlowess.pdf). El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Puedes ver todas las encuestas de opinión pública [aquí](https://tresquintos.cl/encuestas/). Puedes leer nuestra posición sobre las encuestas en Chile en 2021 [aquí](https://tresquintos.cl/posts/2021/10/encuestas2021/).
 
 [![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
 
-Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#candidatos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
+Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#endosos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021

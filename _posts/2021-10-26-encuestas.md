@@ -1,6 +1,6 @@
 ---
 title: "Sobre las encuestas: imposible saber"
-date: 2021-10-26
+date: 2021-10-27
 permalink: /posts/2021/10/encuestas2021/
 comments: true
 tags:

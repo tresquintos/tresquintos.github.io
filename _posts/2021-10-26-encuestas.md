@@ -44,8 +44,8 @@ Los gráficos de abajo muestran la comparación entre el error de las encuestas 
 
 Pero lo que muestran los gráficos es que en la gran mayoría de los casos el modelo es superior a las encuestas (produce un error más bajo). A pesar de que el error puede ser alto en algunos casos, rara vez el modelo produce un error más alto que el de las encuestas. Esto va al punto de que, aunque la información que entre sea mala (la cuál, como ya sabemos, no necesariamente es el caso), la información que sale puede ser útil.
 
-![foto 1](![image](/images/1 declaracion encuestas.png))
-![foto 2](![image](/images/2 declaracion encuestas.png))
+![foto 1](!(tresquintos.github.io/images/1 declaracion encuestas.png))
+![foto 2](!(tresquintos.github.io/images/2 declaracion encuestas.png))
 
 Pasemos a revisar cómo se relaciona todo esto con el caso chileno, y las razones de por qué nosotros no vamos a realizar un pronóstico en 2021. Para empezar, es importante subrayar que no repetiremos lo que ya se ha dicho en otros lugares, de forma clara y concisa. Por lo mismo, quizás a algunos, quienes no están siguiendo el debate más coyuntural, todo esto les parecerá abstracto. A ellos les recomendamos revisar los enlaces en detalle.
 

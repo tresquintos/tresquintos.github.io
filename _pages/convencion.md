@@ -20,6 +20,7 @@ Página actualizada: **21 de octubre de 2021**.
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
+![cc](/images/rollcall graphs/horario.png){:height="100%" width="100%"}
 ---
 
 ## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación

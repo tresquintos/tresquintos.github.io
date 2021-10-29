@@ -12,7 +12,7 @@ En esta página puedes ver dos secciones, primero la lista de los 155 convencion
 
 Página actualizada: **29 de octubre de 2021**.
 
-### Pactos/Colectivos dentro de la Convención
+### Pactos/Colectivos
 
 Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombre, el partido político por el que fueron electos, y el pacto/colectivo que integran.
 

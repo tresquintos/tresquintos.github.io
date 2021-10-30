@@ -26,6 +26,10 @@ Página actualizada: **28 de octubre de 2021**.
 
 ---
 
+![cc](/images/rollcall/sesion_20211028.png){:height="100%" width="100%"}
+
+---
+
 ## Votación Reglamento de Mecanismos, Orgánica y Metodologías de Participación
 
 ![cc](/images/rollcall/sesion_20211007g.png){:height="100%" width="100%"}

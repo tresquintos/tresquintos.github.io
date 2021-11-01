@@ -20,7 +20,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 ## 2021 Primarias
 
-[![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) [![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Jadue.pdf)
+[![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) [![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Jadue.pdf)
 
 ## 2021 Consulta Ciudadana
 

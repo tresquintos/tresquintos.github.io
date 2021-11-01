@@ -73,4 +73,4 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 ## 1970 Primera Vuelta
 
-[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf)
+[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Tomic.pdf)

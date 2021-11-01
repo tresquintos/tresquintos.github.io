@@ -20,9 +20,11 @@ En esta página puedes los programas de gobierno de los candidatos presidenciale
 
 ## 2021 Primarias
 
-![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) ![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf)
+[![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) [![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf)
 
-[![Provoste](/images/programas/2021p_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Provoste.pdf)
+## 2021 Consulta Ciudadana
+
+[![Provoste](/images/programas/2021p_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Provoste.pdf) [![Narvaez](/images/programas/2021p_Narvaez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Narvaez.pdf) [![Maldonado](/images/programas/2021p_Maldonado.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Maldonado.pdf)
 
 
 ## 2017

@@ -58,3 +58,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 [![Bachelet](/images/programas/2005_Bachelet.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Bachelet.pdf) [![Piñera](/images/programas/2005_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Pinera.pdf) [![Lavín](/images/programas/2005_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Lavin.pdf)
 
 [![Hirsch](/images/programas/2005_Hirsch.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Hirsch.pdf)
+
+## 1999 Primera Vuelta
+
+[![Lavín](/images/programas/1999_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lavin.pdf) [![Lagos](/images/programas/1999_Lagos.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lagos.pdf) [![Marin](/images/programas/1999_Marin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Marin.pdf) 

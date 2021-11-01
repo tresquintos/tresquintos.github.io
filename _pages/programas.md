@@ -37,3 +37,11 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 [![Artes](/images/programas/2017_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Artes.pdf) [![Enriquez](/images/programas/2017_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Enriquez.pdf) [![Piñera](/images/programas/2017_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Pinera.pdf)
 
 [![Navarro](/images/programas/2017_Navarro.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Navarro.pdf) [![Goic](/images/programas/2017_Goic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Goic.pdf)
+
+## 2013 Primera Vuelta
+
+[![Kast](/images/programas/2017_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Kast.pdf) [![Guillier](/images/programas/2017_Guillier.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Guillier.pdf) [![Sanchez](/images/programas/2017_Sanchez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Sanchez.pdf)
+
+[![Artes](/images/programas/2017_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Artes.pdf) [![Enriquez](/images/programas/2017_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Enriquez.pdf) [![Piñera](/images/programas/2017_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Pinera.pdf)
+
+[![Navarro](/images/programas/2017_Navarro.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Navarro.pdf) [![Goic](/images/programas/2017_Goic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Goic.pdf)

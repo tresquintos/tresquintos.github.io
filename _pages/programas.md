@@ -8,7 +8,7 @@ redirect_from:
   - /presidenciales2021/
 ---
 
-En esta página puedes los programas de gobierno de los candidatos presidenciales en Chile. Pinchar una imagen te llevará a descargar el programa en formato PDF.
+En esta página puedes descargar los programas de gobierno de los candidatos presidenciales en Chile 2021. Si pinchas en una imagen, el programa de esa candidatura se descargara de forma automática en formato PDF.
 
 ## 2021 Primera Vuelta
 

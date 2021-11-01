@@ -52,3 +52,10 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 [![Enriquez](/images/programas/2009_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Enriquez.pdf) [![Frei](/images/programas/2009_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Frei.pdf) [![Piñera](/images/programas/2009_Piñera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Pinera.pdf)
 
 [![Arrate](/images/programas/2009_Arrate.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Arrate.pdf)
+
+
+## 2005 Primera Vuelta
+
+[![Bachelet](/images/programas/2005_Bachelet.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Bachelet.pdf) [![Piñera](/images/programas/2005_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Pinera.pdf) [![Lavín](/images/programas/2005_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Lavin.pdf)
+
+[![Hirsch](/images/programas/2005_Hirsch.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2005%20-%20Hirsch.pdf)

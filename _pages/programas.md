@@ -71,6 +71,10 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 [![Aylwin](/images/programas/1989_Aylwin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Aylwin.pdf) [![Buchi](/images/programas/1989_Buchi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Buchi.pdf)
 
-## 1970 Primera Vuelta
+## 1970
 
-[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Tomic.pdf) [![Alessandri](/images/programas/1970_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Alessandri.pdf)
+[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Tomic.pdf)
+
+## 1958
+
+[![Alessandri](/images/programas/1958_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1958%20-%20Alessandri.pdf)

@@ -48,7 +48,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 ## 2009 Primera Vuelta
 
-[![Enriquez](/images/programas/2009_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Enriquez.pdf) [![Frei](/images/programas/2009_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Frei.pdf) [![Piñera](/images/programas/2009_Piñera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Pinera.pdf)
+[![Enriquez](/images/programas/2009_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Enriquez.pdf) [![Frei](/images/programas/2009_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Frei.pdf) [![Piñera](/images/programas/2009_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Pinera.pdf)
 
 [![Arrate](/images/programas/2009_Arrate.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Arrate.pdf)
 

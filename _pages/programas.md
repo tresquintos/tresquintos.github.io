@@ -12,7 +12,7 @@ En esta página puedes los programas de gobierno de los candidatos presidenciale
 
 ## 2021
 
-[![cc](/images/programa/2021_Artes.png){:height="100%" width="100%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes%20(20211101).pdf)
+[![cc](/images/programas/2021_Artes.png){:height="100%" width="100%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes%20(20211101).pdf)
 
 
 ## 2017

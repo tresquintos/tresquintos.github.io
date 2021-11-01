@@ -20,7 +20,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 [![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) [![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Jadue.pdf)
 
-[![Briones](/images/programas/2021p_Briones.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Briones.pdf) [![Desbordes](/images/programas/2021p_Desbordes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Sichel.pdf) [![Lavín](/images/programas/2021p_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Lavin.pdf)
+[![Briones](/images/programas/2021p_Briones.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Briones.pdf) [![Desbordes](/images/programas/2021p_Desbordes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Desbordes.pdf) [![Lavín](/images/programas/2021p_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Lavin.pdf)
 
 [![Sichel](/images/programas/2021p_Sichel.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Sichel.pdf)
 

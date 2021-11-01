@@ -12,7 +12,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 [![Artes](/images/programas/2021_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf) [![Boric](/images/programas/2021_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf) [![Enriquez](/images/programas/2021_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Enriquez.pdf)
 
-[![Kast](/images/programas/2021_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Kast.pdf) [![Parisi](/images/programas/2021_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20AParisi.pdf) [![Provoste](/images/programas/2021_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Provoste.pdf)
+[![Kast](/images/programas/2021_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Kast.pdf) [![Parisi](/images/programas/2021_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Parisi.pdf) [![Provoste](/images/programas/2021_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Provoste.pdf)
 
 [![Sichel](/images/programas/2021_Sichel.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Sichel.pdf)
 

@@ -78,4 +78,4 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 ## 1958
 
-[![Alessandri](/images/programas/1958_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1958%20-%20Alessandri.pdf)
+[![Alessandri](/images/programas/1958_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1958%20-%20Alessandri.pdf) [![Frei](/images/programas/1958_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1958%20-%20Frei.pdf)

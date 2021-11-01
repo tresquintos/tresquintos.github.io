@@ -45,3 +45,10 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 [![Claude](/images/programas/2013_Claude.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Claude.pdf) [![Jocelyn](/images/programas/2013_Jocelyn.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Jocelyn.pdf) [![Miranda](/images/programas/2013_Miranda.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Miranda.pdf)
 
 [![Parisi](/images/programas/2013_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Parisi.pdf) [![Sfeir](/images/programas/2013_Sfeir.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Sfeir.pdf)
+
+
+## 2009 Primera Vuelta
+
+[![Enriquez](/images/programas/2009_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Enriquez.pdf) [![Frei](/images/programas/2009_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Frei.pdf) [![Piñera](/images/programas/2009_Piñera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Pinera.pdf)
+
+[![Arrate](/images/programas/2009_Arrate.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Arrate.pdf)

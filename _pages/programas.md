@@ -66,3 +66,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 ## 1993 Primera Vuelta
 
 [![Frei](/images/programas/1993_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1993%20-%20Frei.pdf) [![Alessandri](/images/programas/1993_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1993%20-%20Alessandri.pdf)
+
+## 1989 Primera Vuelta
+
+[![Aylwin](/images/programas/1989_Aylwin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Aylwin.pdf) [![Buchi](/images/programas/1989_Buchi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Buchi.pdf)

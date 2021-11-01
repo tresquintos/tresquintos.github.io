@@ -61,4 +61,8 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 ## 1999 Primera Vuelta
 
-[![Lavín](/images/programas/1999_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lavin.pdf) [![Lagos](/images/programas/1999_Lagos.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lagos.pdf) [![Marin](/images/programas/1999_Marin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Marin.pdf) 
+[![Lavín](/images/programas/1999_Lavin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lavin.pdf) [![Lagos](/images/programas/1999_Lagos.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Lagos.pdf) [![Marin](/images/programas/1999_Marin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1999%20-%20Marin.pdf)
+
+## 1993 Primera Vuelta
+
+[![Frei](/images/programas/1993_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1993%20-%20Frei.pdf) [![Alessandri](/images/programas/1993_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1993%20-%20Alessandri.pdf)

@@ -8,6 +8,10 @@ description: Información electoral + análisis político. Programas de Gobierno
 
 En esta página puedes descargar los programas de gobierno de los candidatos presidenciales en Chile 2021. Si pinchas en una imagen, el programa de esa candidatura se descargara de forma automática en formato PDF.
 
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Página actualizada: **01 de noviembre de 2021**.
+
 ## 2021 Primera Vuelta
 
 [![Artes](/images/programas/2021_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf) [![Boric](/images/programas/2021_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf) [![Enriquez](/images/programas/2021_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Enriquez.pdf)

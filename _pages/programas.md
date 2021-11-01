@@ -77,7 +77,7 @@ Página actualizada: **01 de noviembre de 2021**.
 
 ## 1970
 
-[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Tomic.pdf) [![Alessandri](/images/programas/1970_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Alessandri.pdf)
+[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](http://www.archivopatricioaylwin.cl/bitstream/handle/123456789/6177/APA-0705.pdf?sequence=1&isAllowed=y) [![Alessandri](/images/programas/1970_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Alessandri.pdf)
 
 ## 1964
 

@@ -111,7 +111,7 @@ Página actualizada: **01 de noviembre de 2021**.
 setTimeout(function(){Swal.fire({
   title: '¡Apoya a Tresquintos!',
   text: 'Ayúdanos a mantener el sitio activo e independiente',
-  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">Suscríbete al Newsletter Aquí</a>',
+  footer: '<a href="https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&id=8c164eff0f">📩 Suscríbete al Newsletter Aquí 📩</a>',
   imageUrl: '/images/pc.png',
   imageWidth: 80,
   imageHeight: 80,

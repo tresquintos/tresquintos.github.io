@@ -75,6 +75,9 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 [![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf) [![Tomic](/images/programas/1970_Tomic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Tomic.pdf) [![Alessandri](/images/programas/1970_Alessandri.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Alessandri.pdf)
 
+## 1964
+
+[![Frei](/images/programas/1964_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1964%20-%20Frei.pdf)
 
 ## 1958
 

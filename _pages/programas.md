@@ -70,3 +70,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 ## 1989 Primera Vuelta
 
 [![Aylwin](/images/programas/1989_Aylwin.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Aylwin.pdf) [![Buchi](/images/programas/1989_Buchi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1989%20-%20Buchi.pdf)
+
+## 1970 Primera Vuelta
+
+[![Allende](/images/programas/1970_Allende.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/1970%20-%20Allende.pdf)

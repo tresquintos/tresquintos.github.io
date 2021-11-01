@@ -14,11 +14,15 @@ En esta página puedes los programas de gobierno de los candidatos presidenciale
 
 [![Artes](/images/programas/2021_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf) [![Boric](/images/programas/2021_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf) [![Enriquez](/images/programas/2021_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Enriquez.pdf)
 
-[![Sichel](/images/programas/2021_Sichel.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Sichel.pdf) [![Parisi](/images/programas/2021_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20AParisi.pdf) [![Provoste](/images/programas/2021_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf) 
+[![Sichel](/images/programas/2021_Sichel.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Sichel.pdf) [![Parisi](/images/programas/2021_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20AParisi.pdf) [![Provoste](/images/programas/2021_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf)
 
 [![Kast](/images/programas/2021_Kast.png){:height="20%" width="20%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Kast.pdf)
 
 ## 2021 Primarias
+
+![Boric](/images/programas/2021p_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Boric.pdf) ![Jadue](/images/programas/2021p_Jadue.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf)
+
+[![Provoste](/images/programas/2021p_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021p%20-%20Provoste.pdf)
 
 
 ## 2017

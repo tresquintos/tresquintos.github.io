@@ -16,7 +16,7 @@ En esta página puedes los programas de gobierno de los candidatos presidenciale
 
 [![Sichel](/images/programas/2021_Sichel.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Sichel.pdf) [![Parisi](/images/programas/2021_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20AParisi.pdf) [![Provoste](/images/programas/2021_Provoste.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf)
 
-[![Kast](/images/programas/2021_Kast.png){:height="20%" width="20%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Kast.pdf)
+[![Kast](/images/programas/2021_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Kast.pdf)
 
 ## 2021 Primarias
 

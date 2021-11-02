@@ -42,6 +42,11 @@ Página actualizada: **02 de noviembre de 2021**.
 
 [![Navarro](/images/programas/2017_Navarro.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Navarro.pdf) [![Goic](/images/programas/2017_Goic.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017%20-%20Goic.pdf)
 
+## 2017 Primarias
+
+[![Kast](/images/programas/2017p_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Kast.pdf) [![Piñera](/images/programas/2017p_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Pinera.pdf) [![Ossandón](/images/programas/2017p_Ossandon.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Ossandon.pdf)
+
+
 ## 2013 Primera Vuelta
 
 [![Enriquez](/images/programas/2013_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Enriquez.pdf) [![Bachelet](/images/programas/2013_Bachelet.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Bachelet.pdf) [![Matthei](/images/programas/2013_Matthei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Matthei.pdf)

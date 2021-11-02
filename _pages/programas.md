@@ -57,6 +57,12 @@ Página actualizada: **02 de noviembre de 2021**.
 
 [![Parisi](/images/programas/2013_Parisi.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Parisi.pdf) [![Sfeir](/images/programas/2013_Sfeir.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013%20-%20Sfeir.pdf)
 
+
+## 2013 Primarias
+
+[![Gómez](/images/programas/2013p_Gomez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2013p%20-%20Gomez.pdf)
+
+
 ## 2009 Primera Vuelta
 
 [![Enriquez](/images/programas/2009_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Enriquez.pdf) [![Frei](/images/programas/2009_Frei.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Frei.pdf) [![Piñera](/images/programas/2009_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2009%20-%20Piñera.pdf)

@@ -10,7 +10,7 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **01 de noviembre de 2021**.
+Página actualizada: **02 de noviembre de 2021**.
 
 ## 2021 Primera Vuelta
 

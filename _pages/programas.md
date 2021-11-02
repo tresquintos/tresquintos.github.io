@@ -46,6 +46,8 @@ Página actualizada: **02 de noviembre de 2021**.
 
 [![Kast](/images/programas/2017p_Kast.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Kast.pdf) [![Piñera](/images/programas/2017p_Pinera.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Pinera.pdf) [![Ossandón](/images/programas/2017p_Ossandon.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Ossandon.pdf)
 
+[![Sanchez](/images/programas/2017p_Sanchez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Sanchez.pdf) [![Mayol](/images/programas/2017p_Mayol.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2017p%20-%20Mayol.pdf)
+
 
 ## 2013 Primera Vuelta
 

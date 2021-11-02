@@ -25,7 +25,7 @@ Abajo puedes ver un gráfico que muestra el resultado de todas las encuestas de 
 
 [![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
 
-Si quieres saber más de los candidatos, puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#endosos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
+Si quieres saber más de los candidatos, puedes revisar sus programas de gobierno [aquí](https://tresquintos.cl/programas/).puedes revisar los endosos que han recibido hasta ahora [aquí](https://tresquintos.cl/presidencial2021/#endosos), y sus equipos de campaña [aquí](https://tresquintos.cl/presidencial2021/#equipos).
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021

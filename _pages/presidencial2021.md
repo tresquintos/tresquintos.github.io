@@ -8,13 +8,13 @@ redirect_from:
   - /presidenciales2021/
 ---
 
-En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de los principales candidatos; la segunda, los candidatos en competencia; la tercera, la lista de endosos de cada uno de los candidatos de las principales autoridades del país; y la cuarta, los equipos de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de los principales candidatos; la segunda, los candidatos en competencia; y la tercera, la tendencia en **Google**. Después, está la lista de **endosos** de cada uno de los candidatos de las principales autoridades del país y los **equipos** de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **29 de octubre de 2021**.
+Página actualizada: **01 de noviembre de 2021**.
 
-![Daniel Jadue](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Joaquín Lavín](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
+![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
 ## Tendencia
 
@@ -29,11 +29,9 @@ Abajo puedes ver un mapa de Chile que compara el porcentaje de búsquedas en Goo
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 1-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"},{"keyword":"Franco Parisi","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,Franco%20Parisi","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 
-
-
 ## Candidatos
 
-Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe.
+Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe. Revisa los programas de gobierno de los candidatos [aquí](https://tresquintos.cl/programas/).
 
 <iframe title="candidatos presidente 2021" aria-label="table" id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/33/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="869"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>

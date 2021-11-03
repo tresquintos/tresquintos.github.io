@@ -8,7 +8,7 @@ author_profile: true
 
 En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por nombre de candidatos realizados distrito por distrito para la elección de Diputados; y el desglose por región de cada candidato para la elección de Senadores. La información se actualiza semanalmente.
 
-Página actualizada: **02 de noviembre de 2021**.
+Página actualizada: **03 de noviembre de 2021**.
 
 
 ## Elecciones Generales

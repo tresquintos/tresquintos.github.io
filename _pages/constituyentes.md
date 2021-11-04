@@ -12,6 +12,11 @@ En esta página puedes ver dos secciones, primero la lista de los 155 convencion
 
 Página actualizada: **03 de noviembre de 2021**.
 
+### Evolución Política
+
+
+![cc](/images/rollcall/mapa_político.png){:height="100%" width="100%"} 
+
 ### Pactos/Colectivos
 
 Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombre, el partido político por el que fueron electos, y el pacto/colectivo que integran.

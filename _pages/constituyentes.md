@@ -12,7 +12,6 @@ En esta página puedes ver dos secciones, primero la lista de los 155 convencion
 
 Página actualizada: **04 de noviembre de 2021**.
 
-### Evolución
 
 [![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
 

@@ -14,8 +14,8 @@ Página actualizada: **04 de noviembre de 2021**.
 
 ### Evolución Política
 
+![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"} 
 
-![cc](/images/rollcall/mapa_político.png){:height="100%" width="100%"} 
 
 ### Pactos/Colectivos
 

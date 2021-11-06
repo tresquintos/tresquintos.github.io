@@ -8,7 +8,7 @@ author_profile: true
 
 En esta página puedes ver el total de aportes para las cuatro elecciones del 21 de noviembre de 2021: Presidenciales, Senadores, Diputados y Consejeros Regionales. También puedes ver el desglose de los aportes de cada candidato presidencial; el desglose por nombre de candidatos realizados distrito por distrito para la elección de Diputados; y el desglose por región de cada candidato para la elección de Senadores. La información se actualiza semanalmente.
 
-Página actualizada: **03 de noviembre de 2021**.
+Página actualizada: **06 de noviembre de 2021**.
 
 
 ## Elecciones Generales
@@ -21,14 +21,11 @@ El siguiente gráfico muestra el monto total de donaciones realizados a nivel na
 
 ## Elección Presidencial
 
-El siguiente gráfico muestra el monto total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia.
+Los siguientes gráficos muestran el monto total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia, y el número total de donaciones que han recibido.
 
-![Monto Total](/images/financiamiento/presidenciales2021.png){:height="100%" width="100%"}
+[![Monto Total](/images/financiamiento/presidenciales2021.png){:height="49%" width="49"%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png)
 
-El siguiente gráfico muestra el número total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia.
-
-![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="100%" width="100%"}
-
+[![Monto Total](/images/financiamiento/presidenciales2021_monto_aportes_fecha.png){:height="49%" width="49"%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_monto_aportes_fecha.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes_fecha.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_numero_aportes_fecha.png)
 
 ## Elección Senadores
 

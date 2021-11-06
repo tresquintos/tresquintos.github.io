@@ -23,9 +23,9 @@ El siguiente gráfico muestra el monto total de donaciones realizados a nivel na
 
 Los siguientes gráficos muestran el monto total de donaciones recibidos para cada uno de los candidatos presidenciales en competencia, y el número total de donaciones que han recibido.
 
-[![Monto Total](/images/financiamiento/presidenciales2021.png){:height="49%" width="49"%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png)
+[![Monto Total](/images/financiamiento/presidenciales2021.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021.png)
 
-[![Monto Total](/images/financiamiento/presidenciales2021_monto_aportes_fecha.png){:height="49%" width="49"%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_monto_aportes_fecha.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes_fecha.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_numero_aportes_fecha.png)
+[![Monto Total](/images/financiamiento/presidenciales2021_monto_aportes_fecha.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_monto_aportes_fecha.png) [![Número Donaciones](/images/financiamiento/presidenciales2021_numero_aportes_fecha.png){:height="49%" width="49%"}](https://tresquintos.cl/images/financiamiento/presidenciales2021_numero_aportes_fecha.png)
 
 ## Elección Senadores
 

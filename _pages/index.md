@@ -43,7 +43,7 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftresquintos%2Fprogramas%2Fraw%2Fmain%2F2021%2520-%2520Boric.pdf" alt="Descargas">
 
-
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Ftresquintos.cl)
 
 ---
 

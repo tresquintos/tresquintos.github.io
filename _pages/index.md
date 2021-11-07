@@ -40,11 +40,6 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de popula
 Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
 
 
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftresquintos%2Fprogramas%2Fraw%2Fmain%2F2021%2520-%2520Boric.pdf" alt="Descargas">
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Ftresquintos.cl)
-
 ---
 
 <!-- NES -->

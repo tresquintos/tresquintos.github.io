@@ -41,7 +41,9 @@ Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). 
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftresquintos%2Fprogramas%2Fraw%2Fmain%2F2021%2520-%2520Boric.pdf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=descargas&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftresquintos%2Fprogramas%2Fraw%2Fmain%2F2021%2520-%2520Boric.pdf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Boric&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftresquintos%2Fprogramas%2Fraw%2Fmain%2F2021%2520-%2520Kast.pdf&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Kast&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 

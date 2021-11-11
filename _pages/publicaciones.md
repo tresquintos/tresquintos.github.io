@@ -38,7 +38,7 @@ Página actualizada: **12 de noviembre de 2021**.
 
 
 ## Insumos distritales
----
+
 ![dip](/images/publicaciones/distrito1.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito2.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito3.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito4.png){:height="24%" width="24%"}
 
 ![dip](/images/publicaciones/distrito5.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito6.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito7.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito8.png){:height="24" width="24%"}

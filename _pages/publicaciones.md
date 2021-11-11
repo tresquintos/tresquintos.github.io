@@ -17,6 +17,11 @@ Página actualizada: **12 de noviembre de 2021**.
 
 ![Breve Historia](/images/publicaciones/breve_historia.png){:height="99%" width="99%"}
 
+<p class="aligncenter">
+    <img src="/images/publicaciones/breve_historia.png" width="50" height="50" alt="konami" />
+</p>
+
+
 ## Manuales
 
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}

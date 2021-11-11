@@ -18,7 +18,7 @@ Página actualizada: **12 de noviembre de 2021**.
 
 <p class="aligncenter">
 <a href="https://tresquintos.cl">
-  <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" href="https://tresquintos.cl" />
+  <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/353903145_CODEBOOK_Votaciones_Individuales_de_la_Convencion_Constitucional_de_Chile/data/61178d9d0c2bfa282a42a85c/roll-call-codebook-spanish.pdf" />
 </a>
 </p>
 

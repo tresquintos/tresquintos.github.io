@@ -13,7 +13,8 @@ En esta página puedes ver las publicaciones que tenemos para descarga. Para inf
 
 Página actualizada: **12 de noviembre de 2021**.
 
-## Descarga 📥 
+
+## Descarga 📥
 
 <p class="aligncenter">
 <a href="https://tresquintos.cl">
@@ -27,7 +28,7 @@ Página actualizada: **12 de noviembre de 2021**.
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}
 
 
-### Insumos
+## Insumos
 ---
 ![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 

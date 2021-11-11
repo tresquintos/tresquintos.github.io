@@ -18,7 +18,7 @@ Página actualizada: **12 de noviembre de 2021**.
 
 <p class="aligncenter">
 <a href="https://tresquintos.cl/">
-  <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" />
+  <img src="/images/publicaciones/breve_historia.jpeg" width="50%" height="50%" />
 </a>
 </p>
 

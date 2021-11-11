@@ -28,8 +28,8 @@ Página actualizada: **12 de noviembre de 2021**.
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}
 
 
-## Insumos
----
+## Insumos regionales
+
 ![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 
 ![OHiggins](/images/publicaciones/o´higgins.png){:height="32%" width="32%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="32%" width="32%"} ![Biobio](/images/publicaciones/biobio.png){:height="32%" width="32%"}
@@ -37,7 +37,7 @@ Página actualizada: **12 de noviembre de 2021**.
 ![Los Ríos](/images/publicaciones/losrios.png){:height="32%" width="32%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="32" width="32%"} ![Magallanes](/images/publicaciones/magallanes.png){:height="32%" width="32%"}
 
 
-### Reportes Distritales
+### Insumos distritales
 ---
 ![dip](/images/publicaciones/distrito1.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito2.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito3.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito4.png){:height="24%" width="24%"}
 

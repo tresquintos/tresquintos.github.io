@@ -17,9 +17,11 @@ Página actualizada: **12 de noviembre de 2021**.
 
 ![Breve Historia](/images/publicaciones/breve_historia.png){:height="99%" width="99%"}
 
+<a href="https://tresquintos.cl">
 <p class="aligncenter">
     <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" alt="konami" />
 </p>
+</a>
 
 
 ## Manuales

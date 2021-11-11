@@ -37,7 +37,7 @@ Página actualizada: **12 de noviembre de 2021**.
 ![Los Ríos](/images/publicaciones/losrios.png){:height="32%" width="32%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="32" width="32%"} ![Magallanes](/images/publicaciones/magallanes.png){:height="32%" width="32%"}
 
 
-### Insumos distritales
+## Insumos distritales
 ---
 ![dip](/images/publicaciones/distrito1.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito2.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito3.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito4.png){:height="24%" width="24%"}
 

@@ -13,6 +13,10 @@ En esta página puedes ver los Manuales y Reportes que tenemos disponibles para 
 
 Página actualizada: **02 de noviembre de 2021**.
 
+## Descarga
+
+![Breve Historia](/images/publicaciones/breve_historia.png){:height="99%" width="99%"}
+
 ## Manuales
 
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}

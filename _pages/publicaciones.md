@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-En esta página puedes ver los Manuales y Reportes que tenemos disponibles para la elección presidencial y legislativa del 21 de noviembre de 2021. Para información enviar email a **comunicaciones@tresquintos.cl**.
+En esta página puedes ver las publicaciones que tenemos para descarga. Para información enviar email a **comunicaciones@tresquintos.cl**.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -21,12 +21,12 @@ Página actualizada: **12 de noviembre de 2021**.
 
 
 
-## Manuales
+## Secciones
 
 ![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}
 
 
-### Reportes Regionales
+### Insumos
 ---
 ![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
 

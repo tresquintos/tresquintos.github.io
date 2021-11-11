@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-En esta página puedes ver las publicaciones que tenemos para descarga. Para información enviar email a **comunicaciones@tresquintos.cl**.
+En esta página puedes ver las publicaciones que tenemos disponibles para descargar. Para más información, envía un e-mail a **comunicaciones@tresquintos.cl**.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

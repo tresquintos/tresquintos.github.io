@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-En esta página puedes ver las publicaciones que tenemos disponibles para descargar. Para más información, envía un e-mail a **comunicaciones@tresquintos.cl**.
+En esta página puedes ver las publicaciones que tenemos disponibles para descargar. La descarga se hace en una modalidad [**Paga-Lo-Que-Crees-Que-Vale**](https://app.reveniu.com/wp/checkout/rQlHnoDyO72NnFTsfts3xVJH5p4qbmF6/tresquintos). Todas las contribuciones serán para mantener a Tresquintos activo e independiente. Para más información, envía un e-mail a **comunicaciones@tresquintos.cl**.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

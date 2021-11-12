@@ -14,7 +14,7 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 Página actualizada: **12 de noviembre de 2021**.
 
 
-## Descarga 📥
+## Descarga y Paga-Lo-Que-Crees-Que-Vale 📥
 
 <p class="aligncenter">
 <a href="https://tresquintos.cl/">

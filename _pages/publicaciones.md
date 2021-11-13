@@ -11,9 +11,6 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
-
 ## Descarga y Paga-Lo-Que-Crees-Que-Vale 📥
 
 <p class="aligncenter">

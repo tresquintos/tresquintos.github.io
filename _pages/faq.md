@@ -33,13 +33,6 @@ Estamos en todas las redes sociales.
 [![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos/) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos/) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/3quintos/) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/c/tresquintos) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.tv/tresquintos/)
 
 
-### ¿Quién está en el equipo de Tresquintos?
-
-Kenneth Bunker es el Director Ejecutivo. Sofía Contreras Ubal es Coordinadora de Investigación e Investigadora Asistente, Pablo Toro Monroy es Analista de Datos e Investigador Asistente, Mauricio Rojas Casimiro es Periodista e Investigador Asociado, Camila González Piucol es Asistente de Investigación del Área Constitucional, Mario Orellana Rojas es Asistente de Investigación del Área Electoral y Francisca Urquiza Bórquez es Ilustradora. Para otros miembros, antiguos y presentes, pincha [aquí](https://www.linkedin.com/company/5126624/admin/).
-
-[![twitter](/images/kennethbunker.jpg){:height="5%" width="5%"}](https://twitter.com/kennethbunker)  [![twitter](/images/sofiacontreras.png){:height="5%" width="5%"}](https://twitter.com/SofiaContrerasU) [![twitter](/images/pablotoro.jpg){:height="5%" width="5%"}](https://twitter.com/PabloToro_) [![twitter](/images/mauriciorojas.jpg){:height="5%" width="5%"}](https://twitter.com/mrojascasimiro)  [![twitter](/images/camilagonzalez.jpg){:height="5%" width="5%"}](https://twitter.com/cpaz__) [![twitter](/images/marioorellana.jpg){:height="5%" width="5%"}](https://twitter.com/MarioAnd7) [![twitter](/images/franurquiza.png){:height="5%" width="5%"}](https://twitter.com/fran_urquiza)
-
-
 ### ¿Qué programas se usan para generar y distribuir contenido?
 
 Además de los programas más básicos, como TextEdit y Excel, se usan las siguientes interfaces de forma frecuente.

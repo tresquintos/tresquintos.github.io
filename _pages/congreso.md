@@ -10,8 +10,6 @@ En esta página puedes ver dos secciones referentes a los actuales parlamentario
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **02 de noviembre de 2021**.
-
 ## Senadores
 
 Abajo puedes ver la lista de los 43 senadores. La Tabla incluye, la circunscripción que representa, su nombre, la lista a la que pertenece, el partido por el que fue electo, puedes ver la lista de quienes cambiaron de partido político y fueron reemplazados de su cargo [aquí](https://tresquintos.cl/cambios/), y el número y porcentaje de votos obtenidos en la elección.

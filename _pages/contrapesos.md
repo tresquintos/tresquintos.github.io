@@ -10,7 +10,6 @@ En esta página puedes ver estadísticas relativas a las herramientas utilizadas
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
 
 ## Acusaciones Constitucionales
 

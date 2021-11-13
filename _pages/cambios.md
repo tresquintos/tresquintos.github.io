@@ -12,8 +12,6 @@ En esta página puedes ver dos secciones referentes a rotaciones parlamentarias,
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **02 de noviembre de 2021**.
-
 ## Salidas
 
 Abajo puedes ver la lista de los cambios parlamentarios desde 2018 a la fecha. La Tabla incluye, el año en que asumió, el cargo por el que asumió, su nombre, su partido político, y la fecha de salida del cargo de entrada, puedes ver sus reemplazos [aquí](https://tresquintos.cl/congreso/).

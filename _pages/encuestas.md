@@ -9,8 +9,6 @@ En esta página puedes ver la lista de encuestas que se han publicado con datos 
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
 ## Presidencial 2021
 
 Abajo puedes ver las encuestas más recientes que han medido intención de voto (o popularidad electoral) para candidatos a la elección presidencial de 2021. La Tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", los tres nombres de los candidatos con mayor popularidad en las encuestas, y el porcentaje de apoyo (intención de voto/popularidad electoral).

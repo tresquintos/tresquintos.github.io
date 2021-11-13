@@ -12,8 +12,6 @@ En esta página puedes ver dos secciones referentes a la elección legislativa q
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
 ## Candidatos al Senado
 
 Abajo puedes ver la lista de candidatos a senador. La Tabla incluye, la región a la que representa, la circunscripción electoral, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe.

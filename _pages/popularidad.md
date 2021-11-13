@@ -10,8 +10,6 @@ En esta página puedes ver la tendencia de popularidad presidencial, además de 
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
 ## Tendencia
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 15 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver todas las encuestas, pincha [aquí](https://tresquintos.cl/encuestas/).

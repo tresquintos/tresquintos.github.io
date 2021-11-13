@@ -10,8 +10,6 @@ En esta página puedes descargar los programas de gobierno de los candidatos pre
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
 ## 2021 Primera Vuelta
 
 [![Artes](/images/programas/2021_Artes.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Artes.pdf) [![Boric](/images/programas/2021_Boric.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Boric.pdf) [![Enriquez](/images/programas/2021_Enriquez.png){:height="32%" width="32%"}](https://github.com/tresquintos/programas/raw/main/2021%20-%20Enriquez.pdf)

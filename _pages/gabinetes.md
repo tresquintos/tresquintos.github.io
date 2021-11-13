@@ -8,9 +8,6 @@ author_profile: true
 
 En esta página puedes ver estadísticas de los gabinetes ministeriales en Chile, desde 1990. Hay datos generales, como los actuales ministros de Estado para el periodo 2018-2022, y el número total de ministros por cada gobierno. Pero también hay datos más específicos, como el número y porcentaje de ministras en cada gobierno. Cada vez que ocurra un cambio de gabinete, todos los gráficos se actualizarán instantáneamente para reflejar cómo el particular ajuste influye sobre la serie.
 
-Página actualizada: **02 de noviembre de 2021**.
-
-
 ## Ministros de Estado
 
 Abajo puedes ver la lista de actuales ministros de Estado. La Tabla incluye, el ministerio que lideran, su nombre, su partido político, y la fecha en que asumieron. Solo 2 carteras no han sufrido modificaciones desde el comienzo del periodo de gobierno de Sebastián Piñera, el 11 de marzo de 2018. Estas corresponden a los ministerios de Justicia y Transporte.

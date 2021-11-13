@@ -12,8 +12,6 @@ En esta página puedes ver la lista de partidos políticos constituidos, en trá
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Página actualizada: **12 de noviembre de 2021**.
-
 <iframe title="" aria-label="table" id="datawrapper-chart-9GnW2" src="https://datawrapper.dwcdn.net/9GnW2/29/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1263"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 

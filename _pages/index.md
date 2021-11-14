@@ -20,9 +20,9 @@ En este sitio podrás encontrar análisis político e información electoral par
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
 
-## Una breve historia de la elección presidencial y legislativa de Chile 2021 📥
+## Una breve historia de la elección presidencial y legislativa de Chile 2021
 
-Con un click en la imagen puedes descargar el documento de 529 páginas. Su objetivo es servir de una guía básica de la elección de 2021. Si te gusta el trabajo, te invitamos a hacer contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
+Con un click en la imagen puedes descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***, un documento de 529 páginas. Su objetivo es servir de una guía básica de la elección de 2021. Si te gusta el trabajo, te invitamos a hacer contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
 
 <p class="aligncenter">
 <a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf?_sg%5B0%5D=uvWBZORJxGmVXCUTUas1xCBG8IMi46Jtaiejotq4WyhRJGHStu03RIWZBFRpvBlJavMLlj-agxNR8rblMLIEIA.t9XDzEsRP900_bjrd5xSt2XxB7SSg60rnXUNvRtOPm9oOWTlF8fT8lCylaTbx8f8_3P6WDRWsua-fm2gZ9glwQ.OH1DBMtmFmEBwMQb_10MOSGuSxo7byIFWbmJH9zOdg81uPcnPPuYj21SRAdDHbFz9wizk6OXoLjTm9icNnkRpQ&_sg%5B1%5D=5bVQ97WUpvlozquVVBzhFOEf-mLv7DrVU2obmFDl41IChdiBSPXtH5eveVFtltcLk1YInsaKV6igG_16i6_WL4U-xshrKMVPI8vXPNQUeEWH.t9XDzEsRP900_bjrd5xSt2XxB7SSg60rnXUNvRtOPm9oOWTlF8fT8lCylaTbx8f8_3P6WDRWsua-fm2gZ9glwQ.OH1DBMtmFmEBwMQb_10MOSGuSxo7byIFWbmJH9zOdg81uPcnPPuYj21SRAdDHbFz9wizk6OXoLjTm9icNnkRpQ&_iepl=">

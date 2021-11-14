@@ -19,8 +19,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
-
-## Una breve historia de la elección presidencial y legislativa de Chile 2021
+---
 
 📥 Pincha la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El objetivo del documento es servir de una guía básica de la elección de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
 

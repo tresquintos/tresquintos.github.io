@@ -14,7 +14,7 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 ## Descarga y Paga-Lo-Que-Crees-Que-Vale 📥
 
 <p class="aligncenter">
-<a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf?_sg%5B0%5D=uvWBZORJxGmVXCUTUas1xCBG8IMi46Jtaiejotq4WyhRJGHStu03RIWZBFRpvBlJavMLlj-agxNR8rblMLIEIA.t9XDzEsRP900_bjrd5xSt2XxB7SSg60rnXUNvRtOPm9oOWTlF8fT8lCylaTbx8f8_3P6WDRWsua-fm2gZ9glwQ.OH1DBMtmFmEBwMQb_10MOSGuSxo7byIFWbmJH9zOdg81uPcnPPuYj21SRAdDHbFz9wizk6OXoLjTm9icNnkRpQ&_sg%5B1%5D=5bVQ97WUpvlozquVVBzhFOEf-mLv7DrVU2obmFDl41IChdiBSPXtH5eveVFtltcLk1YInsaKV6igG_16i6_WL4U-xshrKMVPI8vXPNQUeEWH.t9XDzEsRP900_bjrd5xSt2XxB7SSg60rnXUNvRtOPm9oOWTlF8fT8lCylaTbx8f8_3P6WDRWsua-fm2gZ9glwQ.OH1DBMtmFmEBwMQb_10MOSGuSxo7byIFWbmJH9zOdg81uPcnPPuYj21SRAdDHbFz9wizk6OXoLjTm9icNnkRpQ&_iepl=">
+<a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">
   <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" />
 </a>
 </p>

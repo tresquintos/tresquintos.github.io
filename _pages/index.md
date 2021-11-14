@@ -22,7 +22,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ## Una breve historia de la elección presidencial y legislativa de Chile 2021
 
-📥 Con un click en la imagen puedes descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***, un documento de 529 páginas. Su objetivo es servir de una guía básica de la elección de 2021. Si te gusta el trabajo, te invitamos a hacer contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
+📥 Pincha la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El objetivo del documento es servir de una guía básica de la elección de 2021. Si te gusta el trabajo, te invitamos a hacer contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
 
 <p class="aligncenter">
 <a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">

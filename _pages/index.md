@@ -17,11 +17,11 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
+![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Elección Presidencial 2021
 
-Abajo puedes ver un gráfico que muestra el resultado de todas las encuestas de preferencia presidencial desde 2018. Cada punto representa una encuesta. La línea de tendencia es un [promedio móvil](https://www.stata.com/manuals/rlowess.pdf). El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Puedes ver todas las encuestas de opinión pública [aquí](https://tresquintos.cl/encuestas/). **Puedes leer nuestra posición sobre las encuestas en 2021 [aquí](https://tresquintos.cl/posts/2021/10/encuestas2021/)**.
+Abajo puedes ver un gráfico que muestra el resultado de todas las encuestas de preferencia presidencial desde 2018. Cada punto representa una encuesta. La línea de tendencia es un [promedio móvil](https://www.stata.com/manuals/rlowess.pdf). El gráfico se actualizó hasta el día 7 de noviembre (por lo tanto, no mide el impacto de ninguno de los hechos anteriores). Puedes ver todas las encuestas de opinión pública [aquí](https://tresquintos.cl/encuestas/). **Puedes leer nuestra posición sobre las encuestas en 2021 [aquí](https://tresquintos.cl/posts/2021/10/encuestas2021/)**.
 
 [![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}](https://tresquintos.cl/presidencial2021/)
 

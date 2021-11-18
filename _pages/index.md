@@ -25,7 +25,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 <p class="aligncenter">
 <a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">
-  <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" />
+  <img src="/images/publicaciones/breve_historia.png" width="30%" height="30%" />
 </a>
 </p>
 

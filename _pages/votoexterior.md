@@ -37,11 +37,13 @@ En esta página puedes ver el total de votos en el exterior.
 </html>
 
 <style>
-.header {
+.footer {
 display: none;
 }
+</style>
 
-.footer {
+<style>
+.headers {
 display: none;
 }
 </style>

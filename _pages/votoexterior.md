@@ -21,7 +21,9 @@ author_profile: true
             {
                 position:absolute; left: 0; right: 0; bottom: 0; top: 0px;
             }
-
+            .footer {
+            display: none;
+            }
         </style>
     </head>
     <body>
@@ -31,9 +33,3 @@ author_profile: true
     </body>
 
 </html>
-
-<style>
-.footer {
-display: none;
-}
-</style>

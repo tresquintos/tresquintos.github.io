@@ -41,9 +41,3 @@ En esta página puedes ver el total de votos en el exterior.
 display: none;
 }
 </style>
-
-<style>
-.headers {
-display: none;
-}
-</style>

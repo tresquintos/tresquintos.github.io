@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Voto Exterior 2021"
+title-heading: false
 permalink: /votoexterior/
 description: Información electoral + análisis político. Estadísticas parciales de voto en el exterior
 author_profile: true

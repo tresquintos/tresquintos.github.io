@@ -19,7 +19,7 @@ En esta página puedes ver el total de votos en el exterior.
         <style type="text/css">
             body, html
             {
-                margin: 0; padding: 0; height: 90%; overflow: hidden;
+                margin: 0; padding: 10; height: 90%; overflow: hidden;
             }
 
             #content

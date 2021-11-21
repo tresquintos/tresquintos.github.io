@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "Voto Exterior 2021"
 permalink: /votoexterior/
 description: Información electoral + análisis político. Estadísticas parciales de voto en el exterior
@@ -30,7 +29,7 @@ En esta página puedes ver el total de votos en el exterior.
             .footer {
               display: none;
             }
-            
+
         </style>
     </head>
     <body>

@@ -26,6 +26,11 @@ En esta página puedes ver el total de votos en el exterior.
             {
                 position:absolute; left: 0; right: 0; bottom: 0; top: 5px;
             }
+
+            .footer {
+              display: none;
+            }
+            
         </style>
     </head>
     <body>

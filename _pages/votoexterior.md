@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: votoexterior
 title: "Voto Exterior 2021"
 title-heading: false
 permalink: /votoexterior/

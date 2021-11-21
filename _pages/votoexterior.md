@@ -23,7 +23,7 @@ En esta página puedes ver el total de votos en el exterior.
 
             #content
             {
-                position:absolute; left: 0; right: 0; bottom: 0; top: 0px;
+                position:absolute; left: 0; right: 0; bottom: 0; top: 5px;
             }
         </style>
     </head>

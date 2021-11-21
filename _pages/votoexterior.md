@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Financiamiento Electoral 2021"
 permalink: /votoexterior/
 description: Información electoral + análisis político. Estadísticas de voto en el exterior

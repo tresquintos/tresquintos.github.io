@@ -14,41 +14,17 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="24%" width="24%"} ![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
 
-## Tendencia
+## Tendencia Google
 
-Abajo puedes ver un gráfico que muestra el resultado de todas las encuestas de preferencia presidencial desde 2018. Cada punto representa una encuesta. La línea de tendencia es un [promedio móvil](https://www.stata.com/manuals/rlowess.pdf). El gráfico se actualizó hasta el día 7 de noviembre (por lo tanto, no mide el impacto de ninguno de los hechos anteriores). Puedes ver todas las encuestas de opinión pública [aquí](https://tresquintos.cl/encuestas/). **Puedes leer nuestra posición sobre las encuestas en 2021 [aquí](https://tresquintos.cl/posts/2021/10/encuestas2021/)**.
+Abajo puedes ver un mapa de Chile que compara el porcentaje de búsquedas en Google para los dos candidatos que pasaron a segunda vuelta. El gráfico se actualiza automáticamente todos los minutos, y muestra la tendencia de los últimos 30 días.
 
-![Top-10](/images/main graphs/intención_de_voto_escenario3.png){:height="100%" width="100%"}
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F1233lscq","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 
-
-## Google
+## Búsquedas por región
 
 Abajo puedes ver un mapa de Chile que compara el porcentaje de búsquedas en Google para los cinco candidatos con más preferencias en las encuestas. El gráfico se actualiza automáticamente todos los minutos, y muestra la tendencia de los últimos 30 días.
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/11g1lwpbd2","geo":"CL","time":"today 1-m"},{"keyword":"/m/0406crw","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"},{"keyword":"Franco Parisi","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F11g1lwpbd2,%2Fm%2F0406crw,%2Fg%2F1233lscq,Franco%20Parisi","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
-
-## Candidatos
-
-Abajo puedes ver la lista de candidatos para la elección presidencial de 2021. La Tabla incluye, el nombre del candidato, la lista a la que pertenece y el partido político (en caso de tener) que lo inscribe. Revisa los programas de gobierno de los candidatos [aquí](https://tresquintos.cl/programas/).
-
-<iframe title="candidatos presidente 2021" aria-label="table" id="datawrapper-chart-TMmrS" src="https://datawrapper.dwcdn.net/TMmrS/33/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="869"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-
-## Endosos
-
-Abajo puedes ver la lista de endosos presidenciales. La Tabla incluye un registro de información relativo a las principales autoridades del país. En total son 436 personas que ocupan (o ocuparon) cargos políticos de primera línea. La distribución exacta es la siguiente: presidente (1); ex-presidentes (3); ministros (23); Gobernadores Regionales (16); Convencionales (155); alcaldes de las comunas con más electores del país (40); senadores (43); diputados (155).
-
-<iframe title="endosos" aria-label="table" id="datawrapper-chart-Ruxeg" src="https://datawrapper.dwcdn.net/Ruxeg/73/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2813"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-
-## Equipos
-
-Abajo puedes ver la lista de los equipos de campaña para cada candidato presidencial. La Tabla incluye, el nombre codificado de cada área de trabajo, el nombre de la persona encargada del área, su partido político y el candidato presidencial del cual forma equipo.
-
-<iframe title="equipos" aria-label="table" id="datawrapper-chart-x4Wiy" src="https://datawrapper.dwcdn.net/x4Wiy/41/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2988"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F1233lscq","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 
 ---
 

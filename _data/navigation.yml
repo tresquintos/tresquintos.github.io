@@ -37,9 +37,6 @@ main:
  - title: "🏛️Congreso Nacional"
    url: /congreso/
 
- - title: "🔄Cambios"
-   url: /cambios/
-
  - title: "📖Constituyentes"
    url: /constituyentes/
 

@@ -17,7 +17,7 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="24%" width="24%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="24%" width="24%"}
+![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
 
 ---
 

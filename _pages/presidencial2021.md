@@ -16,7 +16,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 ## Tendencia Google
 
-Abajo puedes ver un mapa de Chile que compara el porcentaje de búsquedas en Google para los dos candidatos que pasaron a segunda vuelta. El gráfico se actualiza automáticamente todos los minutos, y muestra la tendencia de los últimos 30 días.
+Abajo puedes ver líneas de tendencia que comparan el porcentaje de búsquedas en Google para los dos candidatos que pasaron a segunda vuelta. El gráfico se actualiza automáticamente todos los minutos, y muestra la tendencia de los últimos 30 días.
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/g/1213hcq4","geo":"CL","time":"today 1-m"},{"keyword":"/g/1233lscq","geo":"CL","time":"today 1-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%201-m&geo=CL&q=%2Fg%2F1213hcq4,%2Fg%2F1233lscq","guestPath":"https://trends.google.es:443/trends/embed/"}); </script>
 

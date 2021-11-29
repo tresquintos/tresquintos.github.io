@@ -8,11 +8,20 @@ redirect_from:
   - /presidenciales2021/
 ---
 
-En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de **Google**. Después, está la lista de **endosos** de las principales autoridades del país y los **equipos** de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de las encuestas. Después, está la tendencia de Google, la lista de **endosos** de las principales autoridades del país y los **equipos** de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
+
+## Segunda vuelta presidencial 2021
+
+Abajo puedes ver las encuestas que midieron intención de voto (o popularidad electoral) para candidatos a la segunda vuelta presidencial de 2021. La tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", los nombres de los dos candidatos, y su porcentaje de apoyo declarado (intención de voto/popularidad electoral).
+
+<iframe title="" aria-label="table" id="datawrapper-chart-m72IK" src="https://datawrapper.dwcdn.net/m72IK/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="690"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+![Top-2](/images/main graphs/escenario6.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/escenario7.png){:height="49%" width="49%"}
 
 ## Tendencia Google
 

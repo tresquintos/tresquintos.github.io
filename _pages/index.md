@@ -28,7 +28,7 @@ Abajo puedes ver las encuestas que midieron intención de voto (o popularidad el
 <iframe title="" aria-label="table" id="datawrapper-chart-m72IK" src="https://datawrapper.dwcdn.net/m72IK/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="690"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-![Top-2](/images/main graphs/escenario6.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/escenario7.png){:height="49%" width="49%"}
+![Top-2](/images/main graphs/intención_de_voto_escenario6.png.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/intención_de_voto_escenario6.png){:height="49%" width="49%"}
 
 ## Descarga Libro
 

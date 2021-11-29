@@ -19,7 +19,6 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
 
----
 
 ## Segunda vuelta presidencial 2021
 

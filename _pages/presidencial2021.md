@@ -14,6 +14,7 @@ En esta página puedes ver cuatro secciones referentes a la elección presidenci
 
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
 
+
 ## Segunda vuelta presidencial 2021
 
 Abajo puedes ver las encuestas que midieron intención de voto (o popularidad electoral) para candidatos a la segunda vuelta presidencial de 2021. La tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", los nombres de los dos candidatos, y su porcentaje de apoyo declarado (intención de voto/popularidad electoral).
@@ -22,6 +23,7 @@ Abajo puedes ver las encuestas que midieron intención de voto (o popularidad el
 </script>
 
 ![Top-2](/images/main graphs/escenario6.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/escenario7.png){:height="49%" width="49%"}
+
 
 ## Tendencia Google
 

@@ -14,9 +14,8 @@ En esta página puedes ver los resultados de la elección legislativa del 21 de 
 
 ## Senadores 2022-2030
 
-<iframe title="candidatos senado 2021" aria-label="table" id="datawrapper-chart-meqRJ" src="https://datawrapper.dwcdn.net/meqRJ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2240"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="" aria-label="table" id="datawrapper-chart-v4rhh" src="https://datawrapper.dwcdn.net/v4rhh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="3068"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-
 
 ## Diputados 2022-2026
 

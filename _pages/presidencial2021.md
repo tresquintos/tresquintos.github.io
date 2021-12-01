@@ -8,7 +8,7 @@ redirect_from:
   - /presidenciales2021/
 ---
 
-En esta página puedes ver cuatro secciones referentes a la elección presidencial que se llevará a cabo el 21 de noviembre de 2021. La primera sección muestra la tendencia presidencial de las encuestas. Después, está la tendencia de Google, la lista de **endosos** de las principales autoridades del país y los **equipos** de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
+En esta página puedes ver cuatro secciones referentes a la elección presidencial de 2021. La primera sección muestra la tendencia presidencial de las encuestas. Después, está la tendencia de Google, la lista de **endosos** de las principales autoridades del país y los **equipos** de campaña de los candidatos. Los datos fueron recolectados desde diferentes fuentes; revisión de prensa y medios de comunicación, rastreo de redes sociales y comunicación privada.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

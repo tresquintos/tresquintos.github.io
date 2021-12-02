@@ -29,6 +29,7 @@ Abajo puedes ver las encuestas que midieron intención de voto (o popularidad el
 
 ![Top-2](/images/main graphs/intención_de_voto_escenario6.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/intención_de_voto_escenario7.png){:height="49%" width="49%"}
 
+
 ## Descarga Libro
 
 📥 Pincha en la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El propósito del documento de 529 páginas es servir como una guía básica de la elección de la elección presidencial y legislativa de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/). Si tienes comentarios o correcciones, escríbenos a comunicaciones@tresquintos.cl.

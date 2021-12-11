@@ -24,19 +24,19 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 ---
 
-![cc](/images/rollcall/sesion_2021209.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211209.png){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_2021203.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211203.png){:height="100%" width="100%"}
 
 ---
 
-![cc](/images/rollcall/sesion_2021202c.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211202c.png){:height="100%" width="100%"}
 
-![cc](/images/rollcall/sesion_2021202b.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211202b.png){:height="100%" width="100%"}
 
-![cc](/images/rollcall/sesion_2021202c.png){:height="100%" width="100%"}
+![cc](/images/rollcall/sesion_20211202c.png){:height="100%" width="100%"}
 
 ---
 

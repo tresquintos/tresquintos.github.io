@@ -19,9 +19,6 @@ main:
  - title: "📥Newsletter"
    url: /newsletter/
 
- - title: "💰Financiamiento"
-   url: /financiamiento/
-
  - title: "📑Publicaciones"
    url: /publicaciones/
 
@@ -39,15 +36,6 @@ main:
 
  - title: "📖Constituyentes"
    url: /constituyentes/
-
- - title: "📉Partidos Políticos"
-   url: /partidos/
-
- - title: "📝Blog"
-   url: /blog/
-
- - title: "💎Donaciones"
-   url: /donaciones/
 
  - title: "📌FAQ"
    url: /faq/

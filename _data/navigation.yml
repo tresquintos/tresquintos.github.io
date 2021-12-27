@@ -1,12 +1,6 @@
 # main links links
 main:
 
- - title: "🇨🇱Presidencial 2021"
-   url: /presidencial2021/
-
- - title: "🇨🇱Legislativa 2021"
-   url: /legislativa2021/
-
  - title: "🗳️Convención"
    url: /convencion/
 

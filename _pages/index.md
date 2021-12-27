@@ -10,6 +10,11 @@ redirect_from:
   - /gores/
   - /alcaldes/
   - /gores2021/
+  - /merch/
+  - /financiamiento/
+  - /congreso/
+  - /presidenciales2021/
+  - /legislativas2021/
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!

@@ -4,6 +4,9 @@ main:
  - title: "🗳️Convención"
    url: /convencion/
 
+ - title: "📖Constituyentes"
+   url: /constituyentes/
+
  - title: "📈Encuestas"
    url: /encuestas/
 
@@ -27,9 +30,6 @@ main:
 
  - title: "🏛️Congreso Nacional"
    url: /congreso/
-
- - title: "📖Constituyentes"
-   url: /constituyentes/
 
  - title: "📌FAQ"
    url: /faq/

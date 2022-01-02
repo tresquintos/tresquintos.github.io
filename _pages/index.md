@@ -25,19 +25,16 @@ En este sitio podrás encontrar análisis político e información electoral par
 ![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
 
 
-## Segunda vuelta presidencial 2021
+## Votación General
 
-Abajo puedes ver las encuestas que midieron intención de voto (o popularidad electoral) para candidatos a la segunda vuelta presidencial de 2021. La tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", los nombres de los dos candidatos, y su porcentaje de apoyo declarado (intención de voto/popularidad electoral).
+Abajo puedes ver el número total de votaciones y de votos emitidos por la Convención Constitucional. Para revisar el Codebook, pincha [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para conocer el proyecto Constitucional de Tresquintos en la Convención escríbenos un [**email**](https://tresquintos.cl/faq).
 
-<iframe title="" aria-label="table" id="datawrapper-chart-m72IK" src="https://datawrapper.dwcdn.net/m72IK/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="861"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-![Top-2](/images/main graphs/intención_de_voto_escenario6.png){:height="49%" width="49%"} ![Top-2](/images/main graphs/intención_de_voto_escenario7.png){:height="49%" width="49%"}
+![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
 ## Descarga Libro
 
-📥 Pincha en la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El propósito del documento de 529 páginas es servir como una guía básica de la elección de la elección presidencial y legislativa de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/). Si tienes comentarios o correcciones, escríbenos a comunicaciones@tresquintos.cl.
+📥 Pincha en la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El propósito del documento de 529 páginas es servir como una guía básica de la elección de la elección presidencial y legislativa de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
 
 <p class="aligncenter">
 <a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">

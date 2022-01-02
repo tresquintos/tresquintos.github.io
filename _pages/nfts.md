@@ -15,9 +15,7 @@ Como parte del proyecto "Chile Político 2021", Tresquintos convirtió una selec
 
 [![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
 
-
-[![Sebastián Sichel](/images/tsm/card_2021_Sebastián%20Sichel_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
-
+[![Sebastián Sichel](/images/tsm/card_2021_Sebastian%20Sichel_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
 
 [![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242)
 

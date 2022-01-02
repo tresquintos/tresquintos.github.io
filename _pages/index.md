@@ -22,17 +22,14 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"} ![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}
+## Convención Constitucional
 
-
-## Votación General
-
-Abajo puedes ver el número total de votaciones y de votos emitidos por la Convención Constitucional. Para revisar el Codebook, pincha [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para conocer el proyecto Constitucional de Tresquintos en la Convención escríbenos un [**email**](https://tresquintos.cl/faq).
+Abajo puedes ver el número total de votaciones y de votos emitidos por la Convención Constitucional. Para revisar el Codebook, pincha [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
-## Descarga Libro
+## Descarga nuestro libro
 
 📥 Pincha en la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El propósito del documento de 529 páginas es servir como una guía básica de la elección de la elección presidencial y legislativa de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).
 

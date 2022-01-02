@@ -1,16 +1,25 @@
 ---
-title: "Corto"
-permalink: /corto/
+title: "NFTs"
+permalink: /nfts/
 author_profile: true
 layout: splash
 ---
 
+### NFTs
 
-Como parte del proyecto "Chile Político 2021", Tresquintos convirtió una selección de ilustraciones de la artista visual chilena Francisca Urquízar a NFTs [(token no fungible)](https://cnnespanol.cnn.com/2021/03/24/que-son-tokens-no-fungibles-nft-trax/). Son los primeros NFTs de políticos chilenos de la historia. Para acceder a la colección completa, pincha [aquí](https://opensea.io/collection/tresquintos-politico-2021).
+Como parte del proyecto "Chile Político 2021", Tresquintos convirtió una selección de ilustraciones de la artista visual chilena Francisca Urquízar a NFTs [(token no fungibles)](https://cnnespanol.cnn.com/2021/03/24/que-son-tokens-no-fungibles-nft-trax/). Son los primeros NFTs de políticos chilenos de la historia. Para acceder a la colección completa, pincha [aquí](https://opensea.io/collection/tresquintos-politico-2021).
 
 [![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703802467153346570) [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703796969595207690)
 
 [![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
+
+[![Gabriel Boric](/images/tsm/card_2021_Gabriel%20Boric_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Yasna Provoste](/images/tsm/card_2021_Yasna%20Provoste_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
+
+
+[![Sebastián Sichel](/images/tsm/card_2021_Sebastián%20Sichel_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Evelyn Matthei](/images/tsm/card_2021_Evelyn%20Matthei_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
+
+
+[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242)
 
 ---
 

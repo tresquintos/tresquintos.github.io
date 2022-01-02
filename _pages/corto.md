@@ -6,10 +6,11 @@ layout: splash
 ---
 
 
+Compra un NFT de Tresquintos pinchando las imágenes.
 
-[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407503168724869121) [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1407143257289760770)
+[![Daniel Jadue](/images/tsm/card_2021_Daniel%20Jadue_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703802467153346570) [![Joaquín Lavín](/images/tsm/card_2021_Joaquín%20Lavín_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703796969595207690)
 
-[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1406994977922691074) [![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="49%" width="49%"}](https://twitter.com/tresquintos/status/1343728950892228609)
+[![José Antonio Kast](/images/tsm/card_2021_José%20Antonio%20Kast_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703799168618463242) [![Paula Narváez](/images/tsm/card_2021_Paula%20Narváez_c.png){:height="49%" width="49%"}](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/89139989740430984659164203162570808717549276517589796213154703798069106835466)
 
 ---
 

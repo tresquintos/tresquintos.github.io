@@ -15,6 +15,7 @@ redirect_from:
   - /congreso/
   - /presidenciales2021/
   - /legislativas2021/
+  - /congreso/
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!

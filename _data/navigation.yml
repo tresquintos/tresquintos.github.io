@@ -19,8 +19,5 @@ main:
  - title: "📑Publicaciones"
    url: /publicaciones/
 
- - title: "🏛️Congreso Nacional"
-   url: /congreso/
-
  - title: "📌FAQ"
    url: /faq/

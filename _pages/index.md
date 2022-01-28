@@ -30,11 +30,11 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
-## Convención Constitucional
+## Iniciativas Populares
 
 Abajo puedes ver el resumen de iniciativas populares para la Convención Constitucional.
 
-![cc](/images/rollcall graphs/total_iniciativas.png){:height="33%" width="33%"} ![cc](/images/rollcall graphs/total_firmas.png){:height="33%" width="33%"} ![cc](/images/rollcall graphs/total_firmas2.png){:height="33%" width="33%"}
+![cc](/images/rollcall graphs/total_iniciativas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas2.png){:height="32%" width="32%"}
 
 
 ## Descarga nuestro libro

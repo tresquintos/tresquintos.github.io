@@ -17,6 +17,8 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
+---
+
 ![cc](/images/rollcall graphs/horario.png){:height="100%" width="100%"}
 
 ![cc](/images/rollcall graphs/fecha_votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/fecha_cumulativo.png){:height="49%" width="49%"}

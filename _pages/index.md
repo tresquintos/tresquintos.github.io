@@ -32,7 +32,7 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 
 ## Iniciativas Populares
 
-Abajo puedes ver el resumen de iniciativas populares para la Convención Constitucional.
+Abajo puedes ver el resumen de iniciativas populares para la Convención Constitucional. Descarga el excel (directo) pinchando [aquí](/files/iniciativas_populares.xls).
 
 ![cc](/images/rollcall graphs/total_iniciativas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas2.png){:height="32%" width="32%"}
 

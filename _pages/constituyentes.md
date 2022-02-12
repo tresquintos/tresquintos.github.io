@@ -10,6 +10,21 @@ En esta página puedes ver dos secciones, primero la lista de los 155 convencion
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+### Cambios de partido
+![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_nombres2.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="100%" width="100%"}
+
+
+### Cambios de partido
+
 [![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
 
 
@@ -19,6 +34,9 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 
 <iframe title="Pactos/Colectivos Convención" aria-label="table" id="datawrapper-chart-V1UMZ" src="https://datawrapper.dwcdn.net/V1UMZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
+
+
 
 ### Convencionales Constituyentes
 

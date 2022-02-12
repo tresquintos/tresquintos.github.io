@@ -15,18 +15,20 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ### Posicionamiento ideológico de constituyentes
 ![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="100%" width="100%"}
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_nombres2.png){:height="100%" width="100%"}
+
 
 ### Posicionamiento ideológico de coaliciones
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_apruebodignidad.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
 
+
 ### Posicionamiento ideológico de comisiones
-![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="49%" width="49%"}
 
 
 ### Convencionales Constituyentes

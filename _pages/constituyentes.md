@@ -6,7 +6,7 @@ description: Información electoral + análisis político. Lista de constituyent
 author_profile: true
 ---
 
-En esta página puedes ver dos secciones, primero la lista de los 155 convencionales electos y el pacto/colectivo que integran dentro de la Convención Constitucional y segundo; la lista de los 138 constituyentes electos más los 17 pertenecientes a los escaños reservados para Pueblos Originarios.
+En esta página puedes detalles de los constituyentes. La primera sección usa el total de votaciones emitidas en el pleno para ordenar a los constituyentes en un eje ideológico (de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección muestra la lista de los 155 convencionales electos, las listas que los apoyaron y su rendimiento electoral. La última sección muestra un esquema de cambios partidarios a través del tiempo.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -23,19 +23,6 @@ En esta página puedes ver dos secciones, primero la lista de los 155 convencion
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="100%" width="100%"}
 
 
-### Cambios de partido
-
-[![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
-
-
-### Pactos/Colectivos
-
-Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombre, el partido político por el que fueron electos, y el pacto/colectivo que integran.
-
-<iframe title="Pactos/Colectivos Convención" aria-label="table" id="datawrapper-chart-V1UMZ" src="https://datawrapper.dwcdn.net/V1UMZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-
 
 
 ### Convencionales Constituyentes
@@ -44,6 +31,13 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 
 <iframe title="convencionales" aria-label="table" id="datawrapper-chart-0Rr0P" src="https://datawrapper.dwcdn.net/0Rr0P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1694"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
+
+### Cambios de partido
+
+[![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
+
+
 
 ---
 

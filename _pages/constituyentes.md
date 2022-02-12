@@ -10,6 +10,7 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
 ### Posicionamiento ideológico de constituyentes
 ![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="100%" width="100%"}

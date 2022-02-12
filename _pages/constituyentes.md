@@ -11,18 +11,21 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Cambios de partido
-![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="100%" width="100%"}
+### Posicionamiento ideológico de constituyentes
 ![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="100%" width="100%"}
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 ![cc](/images/posicionamiento/puntos_ideales_nombres2.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="100%" width="100%"}
-![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="100%" width="100%"}
 
+![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
 
+### Posicionamiento comisiones
+
+![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="100%" width="100%"}
+![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="100%" width="100%"}
 
 
 ### Convencionales Constituyentes

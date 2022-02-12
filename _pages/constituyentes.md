@@ -13,7 +13,6 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ---
 
 ### Posicionamiento ideológico de constituyentes
-![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="100%" width="100%"}
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
 

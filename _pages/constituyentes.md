@@ -20,9 +20,10 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_apruebodignidad.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_listadelpueblo.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_noneutrales.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_independientes.png){:height="32%" width="32%"}
 
 
 ### Posicionamiento ideológico de comisiones

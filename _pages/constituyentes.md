@@ -90,6 +90,11 @@ setTimeout(function(){Swal.fire({
 </script>
 
 
+### Posicionamiento ideológico de constituyentes 2
+![cc](/images/posicionamiento/puntos_ideales_individual.png){:height="100%" width="100%"}
+
+
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

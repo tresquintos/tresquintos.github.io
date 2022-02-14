@@ -5,7 +5,7 @@ permalink: /datos/
 description: Información electoral + análisis político. Descarga de datos.
 ---
 
-En esta página puedes ver la lista de bases de datos que tenemos disponibles para descargar.
+En esta página puedes ver la lista de bases de datos (con respectivos codebooks) que tenemos disponibles para descargar.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

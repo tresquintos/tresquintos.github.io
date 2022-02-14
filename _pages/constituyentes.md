@@ -15,6 +15,8 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ### Posicionamiento ideológico de constituyentes
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
+![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="49%" width="49%"}
 
 ### Posicionamiento ideológico de coaliciones
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
@@ -43,8 +45,20 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 [![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
 
 
-
 ---
+
+### Posicionamiento ideológico de constituyentes 2
+![cc](/images/posicionamiento/puntos_ideales_individual.png){:height="100%" width="100%"}
+
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="theme-color" content="#ffffff">
 
 <!-- NES -->
 <style>
@@ -88,18 +102,3 @@ setTimeout(function(){Swal.fire({
   })
   },15000);
 </script>
-
-
-### Posicionamiento ideológico de constituyentes 2
-![cc](/images/posicionamiento/puntos_ideales_individual.png){:height="100%" width="100%"}
-
-
-
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#b91d47">
-<meta name="theme-color" content="#ffffff">

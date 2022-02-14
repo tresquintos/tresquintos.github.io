@@ -6,7 +6,7 @@ description: Información electoral + análisis político. Lista de constituyent
 author_profile: true
 ---
 
-En esta página puedes detalles de los constituyentes. La primera sección usa el total de votaciones emitidas en el pleno para ordenar a los constituyentes en un eje ideológico (de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección muestra la lista de los 155 convencionales electos, las listas que los apoyaron y su rendimiento electoral. La última sección muestra un esquema de cambios partidarios a través del tiempo.
+En esta página puedes detalles de los constituyentes. La primera sección usa el total de votaciones emitidas en el pleno para ordenar a los constituyentes en un eje ideológico (de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección muestra la lista de los 155 convencionales electos, las listas que los apoyaron y su rendimiento electoral. La última sección muestra un esquema de cambios partidarios a través del tiempo. Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

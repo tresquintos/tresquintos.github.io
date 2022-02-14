@@ -25,7 +25,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ## Convención Constitucional
 
-Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno de la Convención Constitucional. Para revisar el Codebook, pincha [**aquí**](https://dataverse.harvard.edu/file.xhtml?fileId=4977496&version=2.0). Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
+Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno de la Convención Constitucional. Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para ver tendencias sobre las votaciones de los constituyentes (rollcall), pincha [**aquí**](https://tresquintos.cl/constituyentes). Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
 
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 

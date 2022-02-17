@@ -2,32 +2,24 @@
 layout: single
 title: "Constituyentes"
 permalink: /constituyentes/
-description: Información electoral + análisis político. Lista de constituyentes actuales.
+description: Información electoral + análisis político. Constituyentes.
 author_profile: true
 ---
 
-En esta página puedes detalles de los constituyentes. La primera sección usa el total de votaciones emitidas en el pleno para ordenar a los constituyentes en un eje ideológico (de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección muestra la lista de los 155 convencionales electos, las listas que los apoyaron y su rendimiento electoral. La última sección muestra un esquema de cambios partidarios a través del tiempo. Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos).
+En esta página puedes detalles de los constituyentes. La primera sección muestra el total de votaciones y votos registrados. La segunda sección usa el total de votos para ordenar a los constituyentes en una dimensión (que presumimos que es de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección usa los datos del pleno para ordenar a los constituyentes de izquierda a derecha por lista electoral. La cuarta sección usa los datos de las comisiones para ordenar a los constituyentes de izquierda a derecha por Comisión. La sección final muestra la lista de los 155 constituyentes. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales y el Codebook [**aquí**](https://tresquintos.cl/datos).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 ---
+## Votación Pleno
+
+![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
+
 
 ### Posicionamiento ideológico de constituyentes
 
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
-
-
-### Posicionamiento ideológico de coaliciones y partidos
-
-![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="32%" width="32%"}
-
-
-
-### Posicionamiento ideológico de bancadas
-
-![cc](/images/posicionamiento/puntos_ideales_colectivo3.png){:height="100%" width="100%"}
 
 
 ### Posicionamiento ideológico de coaliciones
@@ -58,15 +50,7 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 <iframe title="convencionales" aria-label="table" id="datawrapper-chart-0Rr0P" src="https://datawrapper.dwcdn.net/0Rr0P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1694"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-
-### Cambios de partido
-
-[![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
-
-
-### Posicionamiento ideológico de constituyentes 2
-![cc](/images/posicionamiento/puntos_ideales_individual.png){:height="100%" width="100%"}
-
+---
 
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

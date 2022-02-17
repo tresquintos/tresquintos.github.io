@@ -17,11 +17,17 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
 
-### Posicionamiento ideológico de coaliciones, partidos y colectivos
+### Posicionamiento ideológico de coaliciones y partidos
 
 ![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="32%" width="32%"}
+
+
+### Posicionamiento ideológico de bancadas
+
+![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="100%" width="100%"}
+
+![cc](/images/posicionamiento/puntos_ideales_colectivo3.png){:height="100%" width="100%"}
 
 
 ### Posicionamiento ideológico de coaliciones

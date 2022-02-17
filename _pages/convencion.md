@@ -20,7 +20,7 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 
 ---
 
-### Posicionamiento ideológico de coaliciones y partidos
+### Posicionamiento ideológico de colectivos
 
 ![cc](/images/posicionamiento/puntos_ideales_cajas_dosdimensiones.png){:height="100%" width="100%"}
 

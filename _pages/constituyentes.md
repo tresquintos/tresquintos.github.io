@@ -31,13 +31,13 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 
 /Users/kennethbunker/Dropbox/GitHub/tresquintos.github.io/images/posicionamiento/puntos_ideales_sistema_politico.png
 
-![cc](/images/posicionamiento/puntos_ideales_sistema_politico.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_principiosfundamentales.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_formaestado.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/derechosfundamentales.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_medioambiente.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_justicia.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_conocimiento.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision2.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision3.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision4.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision5.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision6.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision7.png){:height="49%" width="49%"}
 
 
 ### Convencionales Constituyentes

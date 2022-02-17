@@ -13,10 +13,11 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ---
 
 ### Posicionamiento ideológico de constituyentes
+
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
-![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="49%" width="49%"}
 
 ### Posicionamiento ideológico de coaliciones
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
@@ -28,8 +29,6 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 
 
 ### Posicionamiento ideológico de comisiones
-
-/Users/kennethbunker/Dropbox/GitHub/tresquintos.github.io/images/posicionamiento/puntos_ideales_sistema_politico.png
 
 ![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_comision2.png){:height="49%" width="49%"}
@@ -52,8 +51,6 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 
 [![cc](/images/rollcall/coaliciones_mapa.png){:height="100%" width="100%"}](https://tresquintos.cl/images/rollcall/coaliciones_mapa.png)
 
-
----
 
 ### Posicionamiento ideológico de constituyentes 2
 ![cc](/images/posicionamiento/puntos_ideales_individual.png){:height="100%" width="100%"}

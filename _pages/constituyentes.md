@@ -16,12 +16,12 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
-### Posicionamiento de constituyentes
+## Posicionamiento de constituyentes
 
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
 
-### Posicionamiento de coaliciones
+## Posicionamiento de coaliciones
 
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
@@ -31,7 +31,7 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
 
 
-### Posicionamiento de comisiones
+## Posicionamiento de comisiones
 
 ![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_comision2.png){:height="49%" width="49%"}
@@ -42,7 +42,7 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_comision7.png){:height="49%" width="49%"}
 
 
-### Convencionales Constituyentes
+## Convencionales Constituyentes
 
 Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombre, el nombre de la lista general o Pueblo Originario al que pertenece, el partido político por el que fueron electos, y el total de votos y porcentaje obtenido.
 

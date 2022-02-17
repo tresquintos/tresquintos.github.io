@@ -19,9 +19,10 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 
 ### Posicionamiento ideológico de coaliciones, partidos y colectivos
 
-![cc](/images/posicionamiento/puntos_ideales_bancada.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="49%" width="49%"}
-![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="32%" width="32%"}
+
 
 ### Posicionamiento ideológico de coaliciones
 

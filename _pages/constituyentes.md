@@ -16,12 +16,12 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
-### Posicionamiento ideológico de constituyentes
+### Posicionamiento de constituyentes
 
 ![cc](/images/posicionamiento/puntos_ideales_nombres.png){:height="100%" width="100%"}
 
 
-### Posicionamiento ideológico de coaliciones
+### Posicionamiento de coaliciones
 
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
@@ -31,7 +31,7 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
 
 
-### Posicionamiento ideológico de comisiones
+### Posicionamiento de comisiones
 
 ![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_comision2.png){:height="49%" width="49%"}

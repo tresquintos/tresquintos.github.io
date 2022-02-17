@@ -52,6 +52,13 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 
 ---
 
+### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
+
+Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato tabulado [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos en formato CSV directamente a **R**, **Python** o **Stata**, lo puedes hacer pinchando [**aquí**](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
+
+
+---
+
 <!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

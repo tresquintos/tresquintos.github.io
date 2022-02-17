@@ -20,6 +20,7 @@ En esta página puedes detalles de los constituyentes. La primera sección usa e
 ![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="49%" width="49%"}
 
 ### Posicionamiento ideológico de coaliciones
+
 ![cc](/images/posicionamiento/puntos_ideales_vamosporchile.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_lda.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_apruebodignidad.png){:height="32%" width="32%"}

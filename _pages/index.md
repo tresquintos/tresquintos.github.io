@@ -30,11 +30,15 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 ![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
-## Iniciativas Populares
+## Borrador del texto Constitucional
 
 Abajo puedes ver el resumen de iniciativas populares para la Convención Constitucional. Descarga la base de datos en formato excel con todas las iniciativas populares, de forma directa, pinchando [aquí](/files/iniciativas_populares.xls).
 
-![cc](/images/rollcall graphs/total_iniciativas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas.png){:height="32%" width="32%"} ![cc](/images/rollcall graphs/total_firmas2.png){:height="32%" width="32%"}
+<p class="aligncenter">
+<a href="https://docs.google.com/document/d/1s2lu_V50teHVIE3KmySJvkZhTomhK-SN/edit">
+  <img src="/images/borrador.png" width="30%" height="30%" />
+</a>
+</p>
 
 
 ## Descarga nuestro libro

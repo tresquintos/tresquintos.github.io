@@ -32,7 +32,7 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 
 ## Borrador del texto Constitucional
 
-Abajo puedes revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 de los constituyenytes, y que irán directo a la Comisión de Armonización. El documento también contiene un apartado con los artículos (o incisos) que fueron rechazados con menos de 2/3 pero más de la mayoría, y que podrán ser debatidos si son reformulados en sus comisiones de origen.
+**Pincha en la imagen abajo** revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 de los constituyenytes, y que irán directo a la Comisión de Armonización. El documento también contiene un apartado con los artículos (o incisos) que fueron rechazados con menos de 2/3 pero más de la mayoría, y que podrán ser debatidos si son reformulados en sus comisiones de origen.
 
 <p class="aligncenter">
 <a href="https://docs.google.com/document/d/1s2lu_V50teHVIE3KmySJvkZhTomhK-SN/edit">

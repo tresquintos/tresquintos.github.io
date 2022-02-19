@@ -12,9 +12,6 @@ En esta página puedes ver la lista de bases de datos (con respectivos codebooks
 
 ## Votaciones Individuales de la Convención Constitucional de Chile
 
-
-Abajo puedes ver las encuestas de intención de voto (o popularidad electoral) para candidatos a la segunda vuelta presidencial de 2021. La tabla incluye, la fecha de la encuesta, el nombre de la encuestadora, el número de encuestados, una columna que indica si la encuesta fue declarada como "voto probable", los nombres de los dos candidatos, y su porcentaje de apoyo declarado (intención de voto/popularidad electoral).
-
 [![Datos](/images/descarga_datos.png){:height="49%" width="49%"}](https://docs.google.com/forms/d/e/1FAIpQLSeabRx977f_OxcKO84JRu2BhN1PC08it1tvChkUu74kWjkA7Q/viewform)
 [![Codebook](/images/descarga_codebook.png){:height="49%" width="49%"}](https://www.researchgate.net/publication/358594952_Codebook_Votaciones_Individuales_de_la_Convencion_Constitucional_de_Chile)
 

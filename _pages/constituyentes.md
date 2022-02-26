@@ -31,6 +31,17 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_pueblosoriginarios.png){:height="32%" width="32%"}
 
 
+## Posicionamiento de colectivos
+
+![cc](/images/posicionamiento/puntos_ideales_No%20Neutrales.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Pueblo%20Constituyente.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Pueblos%20Indigenas.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Un%20Chile%20Unido.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Unidos%20Por%20Chile.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Mov%20Sociales.png){:height="32%" width="32%"}
+
+
+
 ## Posicionamiento de comisiones
 
 ![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}

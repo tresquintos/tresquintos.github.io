@@ -29,9 +29,9 @@ En esta sección puedes ver un registro de las votaciones en la Convención Cons
 ![cc](/images/posicionamiento/puntos_ideales_cajas_dosdimensiones.png){:height="100%" width="100%"}
 
 
-## Posicionamiento de coaliciones y partidos
+## Posicionamiento de colectivos y partidos
 
-![cc](/images/posicionamiento/puntos_ideales_coalicion.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_colectivo.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_partido.png){:height="49%" width="49%"}
 
 

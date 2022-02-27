@@ -41,7 +41,7 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_Mov%20Sociales.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_Mixto.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_Independiente.png){:height="32%" width="32%"}
-![cc](/images/posicionamiento/puntos_ideales_Indep%20%+%20RN%20+%20EVO.png){:height="32%" width="32%"}
+![cc](/images/posicionamiento/puntos_ideales_Indep%20+%20RN%20+%20EVO.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_Frente%20Amplio%20+.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_Coord%20Const%20Plurinacional.png){:height="32%" width="32%"}
 ![cc](/images/posicionamiento/puntos_ideales_Colectivo%20del%20Apruebo.png){:height="32%" width="32%"}

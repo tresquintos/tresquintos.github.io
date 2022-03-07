@@ -13,42 +13,11 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 
 ## Descarga y Paga-Lo-Que-Crees-Que-Vale 📥
 
-[![1](/images/libro2022.png){:height="49%" width="49%"}](https://www.researchgate.net/publication/359063509_Resumen_y_analisis_de_las_elecciones_presidenciales_y_legislativas_de_Chile_2021)
-
-[![2](/images/publicaciones/libro2022.png){:height="49%" width="49%"}](https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf)
-
-
-## Secciones
-
-![Presidenciales](/images/publicaciones/manualpresidencialportada.png){:height="32%" width="32%"} ![Senadores](/images/publicaciones/manualsenadoresportada.png){:height="32%" width="32%"} ![Diputados](/images/publicaciones/manualdiputadosportada.png){:height="32%" width="32%"}
-
-
-## Insumos regionales
-
-![Antofagasta](/images/publicaciones/antofagasta.png){:height="32%" width="32%"} ![Coquimbo](/images/publicaciones/coquimbo.png){:height="32" width="32%"} ![Metropolitana](/images/publicaciones/metropolitana.png){:height="32%" width="32%"}
-
-![OHiggins](/images/publicaciones/o´higgins.png){:height="32%" width="32%"} ![Ñuble](/images/publicaciones/ñuble.png){:height="32%" width="32%"} ![Biobio](/images/publicaciones/biobio.png){:height="32%" width="32%"}
-
-![Los Ríos](/images/publicaciones/losrios.png){:height="32%" width="32%"} ![Los Lagos](/images/publicaciones/loslagos.png){:height="32" width="32%"} ![Magallanes](/images/publicaciones/magallanes.png){:height="32%" width="32%"}
-
-
-## Insumos distritales
-
-![dip](/images/publicaciones/distrito1.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito2.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito3.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito4.png){:height="24%" width="24%"}
-
-![dip](/images/publicaciones/distrito5.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito6.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito7.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito8.png){:height="24" width="24%"}
-
-![dip](/images/publicaciones/distrito9.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito10.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito11.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito12.png){:height="24" width="24%"}
-
-![dip](/images/publicaciones/distrito13.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito14.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito15.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito16.png){:height="24" width="24%"}
-
-![dip](/images/publicaciones/distrito17.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito18.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito19.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito20.png){:height="24" width="24%"}
-
-![dip](/images/publicaciones/distrito21.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito22.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito23.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito24.png){:height="24" width="24%"}
-
-![dip](/images/publicaciones/distrito25.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito26.png){:height="24" width="24%"} ![dip](/images/publicaciones/distrito27.png){:height="24%" width="24%"} ![dip](/images/publicaciones/distrito28.png){:height="24" width="24%"}
-
-
+<p class="aligncenter">
+<a href="https://www.researchgate.net/publication/359063509_Resumen_y_analisis_de_las_elecciones_presidenciales_y_legislativas_de_Chile_2021">
+  <img src="/images/publicaciones/libro2022.png" width="50%" height="50%" />
+</a>
+</p>
 
 
 ---

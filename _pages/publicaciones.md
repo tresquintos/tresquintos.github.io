@@ -13,11 +13,9 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 
 ## Descarga y Paga-Lo-Que-Crees-Que-Vale 📥
 
-<p class="aligncenter">
-<a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">
-  <img src="/images/publicaciones/breve_historia.png" width="50%" height="50%" />
-</a>
-</p>
+[![1](/images/libro2022.png){:height="49%" width="49%"}](https://www.researchgate.net/publication/359063509_Resumen_y_analisis_de_las_elecciones_presidenciales_y_legislativas_de_Chile_2021)
+
+[![2](/images/publicaciones/libro2022.png){:height="49%" width="49%"}](https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf)
 
 
 ## Secciones

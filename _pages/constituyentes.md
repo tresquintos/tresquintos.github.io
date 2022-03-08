@@ -50,7 +50,9 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 
 
 
-## Posicionamiento de comisiones
+## Posicionamiento de comisiones (votaciones pleno)
+
+Los siguientes gráficos usan votaciones en el pleno para mostrar el posicionamiento de los constituyentes en sus comisiones.
 
 ![cc](/images/posicionamiento/puntos_ideales_1.%20Sistema%20Politico.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_2.%20Principios%20Fundamentales.png){:height="49%" width="49%"}
@@ -59,6 +61,18 @@ En esta página puedes detalles de los constituyentes. La primera sección muest
 ![cc](/images/posicionamiento/puntos_ideales_5.%20Medio%20Ambiente.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_6.%20Sistema%20de%20Justicia.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_7.%20Sistemas%20de%20Conocimientos.png){:height="49%" width="49%"}
+
+## Posicionamiento de comisiones (votaciones comisiones)
+
+Los siguientes gráficos usan votaciones en las comisiones para mostrar el posicionamiento de los constituyentes en las mismas comisiones.
+
+![cc](/images/posicionamiento/puntos_ideales_comision1.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision2.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision3.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision4.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision5.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision6.png){:height="49%" width="49%"}
+![cc](/images/posicionamiento/puntos_ideales_comision7.png){:height="49%" width="49%"}
 
 
 ## Convencionales Constituyentes

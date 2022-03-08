@@ -62,6 +62,7 @@ Los siguientes gráficos usan votaciones en el pleno para mostrar el posicionami
 ![cc](/images/posicionamiento/puntos_ideales_6.%20Sistema%20de%20Justicia.png){:height="49%" width="49%"}
 ![cc](/images/posicionamiento/puntos_ideales_7.%20Sistemas%20de%20Conocimientos.png){:height="49%" width="49%"}
 
+
 ## Posicionamiento de comisiones (votaciones comisiones)
 
 Los siguientes gráficos usan votaciones en las comisiones para mostrar el posicionamiento de los constituyentes en las mismas comisiones.

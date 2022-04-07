@@ -40,13 +40,6 @@ Además de los programas más básicos, como TextEdit y Excel, se usan las sigui
 [![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
 
 
-### ¿Cómo puedo contribuir?
-
-Si quieres contribuir a mantener **Tresquintos** activo e independiente, puedes hacerlo con una pequeña donación. En nuestra página de [**donaciones**](https://tresquintos.cl/donaciones), podrás elegir el monto que quieres donar y si quieres hacer una donación única o una donación mensual. Para contribuciones con cuentas bancarias chilenas (Transbank), pincha aquí:
-
-[![Reveniu](/images/reveniu.png){:height="14%" width="14%"}](https://tresquintos.cl/donaciones)
-
-
 ### ¿Cómo me puedo suscribir?
 
 Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualice la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).

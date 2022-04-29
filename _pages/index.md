@@ -32,7 +32,7 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 
 ## Borrador del texto Constitucional
 
-**Pincha en la imagen abajo** revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 de los constituyenytes, y que irán directo a la Comisión de Armonización. El documento también contiene un apartado con los artículos (o incisos) que fueron rechazados con menos de 2/3 pero más de la mayoría, y que podrán ser debatidos si son reformulados en sus comisiones de origen.
+**Pincha en la imagen abajo** revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 del pleno, y que irán directo a la Comisión de Armonización. El documento también contiene un apartado con los artículos (o incisos) que fueron rechazados con menos de 2/3 pero más de la mayoría, y que podrán ser debatidos si son reformulados en sus comisiones de origen.
 
 <p class="aligncenter">
 <a href="https://docs.google.com/document/d/1s2lu_V50teHVIE3KmySJvkZhTomhK-SN/edit">
@@ -56,7 +56,8 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde 2018. Muestra aprobación y desaprobación. La línea de tendencia es un promedio móvil de 7 encuestas. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos. Para ver los detalles, pincha [aquí](https://tresquintos.cl/popularidad/).
 
-[![Top-3](/images/main graphs/popularidad_presidencial.png){:height="100%" width="100%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

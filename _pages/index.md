@@ -52,9 +52,9 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 </p>
 
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2021
+## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
+Abajo puedes ver gráficos con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. Los gráficos se actualiza automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
 [![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 

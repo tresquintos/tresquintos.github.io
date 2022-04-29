@@ -56,7 +56,7 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
 
 Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
 
-![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"} ![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}
+[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 
 

@@ -62,7 +62,7 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de popula
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si quieres contribuir a **Tresquintos**, te puedes suscribir a uno de nuestros planes en [Reveniu](https://tresquintos.cl/donaciones). Y si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67). No olvides pasar a nuestra [Tienda Virtual](https://tresquintos.cl/merch), donde puedes encargar *merchandise* de Tresquintos!
 
 
 ---

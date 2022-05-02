@@ -6,7 +6,7 @@ description: Información electoral + análisis político. Constituyentes.
 author_profile: true
 ---
 
-En esta página puedes detalles de los constituyentes. La primera sección muestra el total de votaciones y votos registrados. La segunda sección usa el total de votos para ordenar a los constituyentes en una dimensión (que presumimos que es de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección usa los datos del pleno para ordenar a los constituyentes de izquierda a derecha por lista electoral. La cuarta sección usa los datos de las comisiones para ordenar a los constituyentes de izquierda a derecha por Comisión. La sección final muestra la lista de los 155 constituyentes. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales y el Codebook [**aquí**](https://tresquintos.cl/datos). Revisa las tendencias de la Convención Constitucional [**aquí**](https://tresquintos.cl/convencion).
+En esta página puedes detalles de los constituyentes. La primera sección muestra el total de votaciones y votos registrados. La segunda sección usa el total de votos para ordenar a los constituyentes en una dimensión (que presumimos que es de izquierda a derecha). La segunda hace exactamente lo mismo, pero usando votaciones por comisión. La tercera sección usa los datos del pleno para ordenar a los constituyentes de izquierda a derecha por lista electoral. La cuarta sección usa los datos de las comisiones para ordenar a los constituyentes de izquierda a derecha por Comisión. La sección final muestra la lista de los 155 constituyentes. Si quieres usar estos datos para reportajes de prensa o investigación académica, puedes descargar los datos individuales [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/puntajes.xlsx?raw=true). Revisa las tendencias de la Convención Constitucional [**aquí**](https://tresquintos.cl/convencion).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -87,7 +87,7 @@ Abajo puedes ver una Tabla que incluye, el distrito al que representan, su nombr
 
 ### ![ep](/images/pc.png){:height="4%" width="4%"} Uso avanzado
 
-Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato tabulado [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos en formato CSV directamente a **R**, **Python** o **Stata**, lo puedes hacer pinchando [**aquí**](https://raw.githubusercontent.com/tresquintos/legislativo/main/votaci%C3%B3n%20particular.csv).
+Si quieres usar estos datos en tu procesados, puedes descargar los datos en formato tabulado [**aquí**](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JLTSRL). Si quieres importar los datos en formato CSV directamente a **R**, **Python** o **Stata**, lo puedes hacer pinchando [**aquí**](https://github.com/tresquintos/tresquintos.github.io/blob/master/files/puntajes.xls).
 
 
 ---

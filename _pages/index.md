@@ -23,22 +23,21 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-## Convención Constitucional
-
-Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno de la Convención Constitucional. Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para ver tendencias sobre las votaciones de los constituyentes (rollcall), pincha [**aquí**](https://tresquintos.cl/constituyentes). Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
-
-![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
-
-
 ## Borrador del texto Constitucional
 
-**Pincha en la imagen abajo** revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 del pleno, y que irán directo a la Comisión de Armonización. El documento también contiene un apartado con los artículos (o incisos) que fueron rechazados con menos de 2/3 pero más de la mayoría, y que podrán ser debatidos si son reformulados en sus comisiones de origen.
+**Pincha en la imagen abajo** para revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 del pleno. El documento también contiene un índice con el número de artículos por comisión.
 
 <p class="aligncenter">
 <a href="https://docs.google.com/document/d/1s2lu_V50teHVIE3KmySJvkZhTomhK-SN/edit">
   <img src="/images/borrador.png" width="30%" height="30%" />
 </a>
 </p>
+
+## Convención Constitucional
+
+Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno de la Convención Constitucional. Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para ver tendencias sobre las votaciones de los constituyentes (rollcall), pincha [**aquí**](https://tresquintos.cl/constituyentes). Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
+
+![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
 ## Descarga nuestro libro

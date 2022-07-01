@@ -23,13 +23,13 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
-## Borrador del texto Constitucional
+## Propuesta Constitucional
 
-**Pincha en la imagen abajo** para revisar el borrador del texto constitucional de Tresquintos. Contiene todos los artículos aprobados con más de 2/3 del pleno. El documento también contiene un índice con el número de artículos por comisión.
+**Pincha en la imagen abajo** para revisar la propuesta constitucional. Contiene todos los artículos aprobados con más de 2/3 del pleno, armonizado y despachado para ser votado en el plebiscito del 4 de septiembre de 2022.
 
 <p class="aligncenter">
-<a href="https://docs.google.com/document/d/1s2lu_V50teHVIE3KmySJvkZhTomhK-SN/edit">
-  <img src="/images/borrador.png" width="30%" height="30%" />
+<a href="https://www.diarioconstitucional.cl/wp-content/uploads/2022/06/texto-armonizado-v7.pdf">
+  <img src="/images/propuesta.png" width="30%" height="30%" />
 </a>
 </p>
 

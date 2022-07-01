@@ -25,7 +25,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 ## Propuesta Constitucional
 
-**Pincha en la imagen abajo** para revisar la propuesta constitucional. Contiene todos los artículos aprobados con más de 2/3 del pleno, armonizado y despachado para ser votado en el plebiscito del 4 de septiembre de 2022.
+**Pincha en la imagen abajo** para leer la propuesta constitucional. Contiene todos los artículos que fueron aprobados con más de 2/3 en el pleno, y que luego fueron armonizados y despachados para ser votados en el plebiscito del 4 de septiembre de 2022.
 
 <p class="aligncenter">
 <a href="https://www.diarioconstitucional.cl/wp-content/uploads/2022/06/texto-armonizado-v7.pdf">

@@ -28,7 +28,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 **Pincha en la imagen abajo** para leer la propuesta constitucional. Contiene todos los artículos que fueron aprobados con más de 2/3 en el pleno, y que luego fueron armonizados y despachados para ser votados en el plebiscito del 4 de septiembre de 2022.
 
 <p class="aligncenter">
-<a href="https://www.diarioconstitucional.cl/wp-content/uploads/2022/06/texto-armonizado-v7.pdf">
+<a href="https://github.com/tresquintos/tresquintos.github.io/raw/master/files/version_final_cc.pdf">
   <img src="/images/propuesta.png" width="30%" height="30%" />
 </a>
 </p>

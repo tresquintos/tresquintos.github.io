@@ -34,7 +34,7 @@ Abajo puedes ver un gráfico con los resultados de todas las encuestas de popula
 </p>
 
 <!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+<!-- <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
 
@@ -63,7 +63,7 @@ setTimeout(function(){Swal.fire({
   }
   })
   },35000);
-</script>
+</script> -->
 
 
 <!-- Favicon -->

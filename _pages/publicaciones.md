@@ -34,7 +34,7 @@ En esta página puedes ver las publicaciones que tenemos disponibles para descar
 
 
 <!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+<!-- <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
 
@@ -63,7 +63,7 @@ setTimeout(function(){Swal.fire({
   }
   })
   },15000);
-</script>
+</script> -->
 
 
 <!-- Favicon -->

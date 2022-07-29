@@ -81,7 +81,7 @@ Abajo puedes ver las encuestas más recientes para candidatos a la elección de 
 
 
 <!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+<!-- <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
 
@@ -110,7 +110,7 @@ setTimeout(function(){Swal.fire({
   }
   })
   },15000);
-</script>
+</script> -->
 
 
 <!-- Favicon -->

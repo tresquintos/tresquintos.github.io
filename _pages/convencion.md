@@ -56,7 +56,7 @@ Si quieres usar estos datos en tu procesados, puedes descargar los datos en form
 
 
 <!-- Popup -->
-<script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
+<!-- <script src="/sweetalerts2/dist/sweetalert2.all.min.js"></script>
 
 <script type="text/javascript">
 
@@ -85,7 +85,7 @@ setTimeout(function(){Swal.fire({
   }
   })
   },35000);
-</script>
+</script> -->
 
 
 <!-- Favicon -->

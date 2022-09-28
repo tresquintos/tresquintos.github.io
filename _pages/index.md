@@ -30,17 +30,6 @@ Abajo puedes ver gráficos con los resultados de todas las encuestas de populari
 [![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 
-## Propuesta Constitucional
-
-**Pincha en la imagen abajo** para leer la propuesta constitucional. Contiene todos los artículos que fueron aprobados con más de 2/3 en el pleno, y que luego fueron armonizados y despachados para ser votados en el plebiscito del 4 de septiembre de 2022.
-
-<p class="aligncenter">
-<a href="https://github.com/tresquintos/tresquintos.github.io/raw/master/files/version_final_cc.pdf">
-  <img src="/images/propuesta.png" width="30%" height="30%" />
-</a>
-</p>
-
-
 ## Descarga nuestro libro
 
 📥 Pincha en la imagen para descargar ***Una breve historia de la elección presidencial y legislativa de Chile 2021***. El propósito del documento de 529 páginas es servir como una guía básica de la elección de la elección presidencial y legislativa de 2021. Si te gusta el trabajo, te invitamos a contribuir en la modalidad [Paga-Lo-Que-Crees-Que-Vale](https://tresquintos.cl/publicaciones/).

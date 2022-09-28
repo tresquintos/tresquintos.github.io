@@ -23,6 +23,13 @@ redirect_from:
 En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
 
 
+## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
+
+Abajo puedes ver gráficos con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. Los gráficos se actualiza automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
+
+[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+
+
 ## Propuesta Constitucional
 
 **Pincha en la imagen abajo** para leer la propuesta constitucional. Contiene todos los artículos que fueron aprobados con más de 2/3 en el pleno, y que luego fueron armonizados y despachados para ser votados en el plebiscito del 4 de septiembre de 2022.
@@ -32,12 +39,6 @@ En este sitio podrás encontrar análisis político e información electoral par
   <img src="/images/propuesta.png" width="30%" height="30%" />
 </a>
 </p>
-
-## Convención Constitucional
-
-Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno de la Convención Constitucional. Para conocer el proyecto Constitucional de Tresquintos en la Convención, pincha [**aquí**](https://tresquintos.cl/convencion). Para ver tendencias sobre las votaciones de los constituyentes (rollcall), pincha [**aquí**](https://tresquintos.cl/constituyentes). Para descargar los datos y el Codebook, pincha [**aquí**](https://tresquintos.cl/datos). Para preguntas, escríbenos un [**email**](https://tresquintos.cl/faq).
-
-![cc](/images/rollcall graphs/votaciones.png){:height="49%" width="49%"} ![cc](/images/rollcall graphs/votos.png){:height="49%" width="49%"}
 
 
 ## Descarga nuestro libro
@@ -49,14 +50,6 @@ Abajo puedes ver el número total de votaciones y de votos emitidos por el pleno
   <img src="/images/publicaciones/breve_historia.png" width="30%" height="30%" />
 </a>
 </p>
-
-
-## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
-
-Abajo puedes ver gráficos con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. Los gráficos se actualiza automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
-
-[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
-
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

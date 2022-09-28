@@ -1,15 +1,6 @@
 # main links links
 main:
 
- - title: "🗳️Convención"
-   url: /convencion/
-
- - title: "📖Constituyentes"
-   url: /constituyentes/
-
- - title: "📈Encuestas"
-   url: /encuestas/
-
  - title: "✅Popularidad"
    url: /popularidad/
 
@@ -21,6 +12,3 @@ main:
 
  - title: "📌FAQ"
    url: /faq/
-
- - title: "👾NFTs"
-   url: /nfts/

@@ -1,14 +1,14 @@
 # main links links
 main:
 
- - title: "✅Popularidad"
+ - title: "✅ Popularidad"
    url: /popularidad/
 
- - title: "📥Newsletter"
+ - title: "📥 Newsletter"
    url: /newsletter/
 
- - title: "📑Publicaciones"
+ - title: "📑 Publicaciones"
    url: /publicaciones/
 
- - title: "📌FAQ"
+ - title: "📌 FAQ"
    url: /faq/

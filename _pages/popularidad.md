@@ -6,13 +6,13 @@ description: Información electoral + análisis político. Tendencia de populari
 author_profile: true
 ---
 
-En esta página puedes ver la tendencia de popularidad presidencial de Gabriel Boric.
+En esta página puedes ver el índice de popularidad presidencial de Tresquintos.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Tendencia
 
-Abajo puedes ver un gráfico con los resultados de todas las encuestas de popularidad presidencial desde el 11 de marzo de 2022. Muestra aprobación y desaprobación. El gráfico se actualiza automáticamente cada vez que se ingresa una encuesta nueva a nuestra base de datos.
+Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra aprobación y desaprobación al presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
 [![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 

@@ -9,24 +9,32 @@ author_profile: true
 
 ### Ministros
 
-![Alfonso de Urresti](/images/twitter/adeurresti.pdf){:height=15%" width="15%"}
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
 
 ### Senadores
-
-
-![some discription](/images/twitter/adeurresti.pdf "some discription")
 
 
 
 
 ### Diputados
 
-<iframe width="100%" height="800" src="/images/twitter/adeurresti.pdf">
 
 
-### Test 4
 
-![Image Title](/images/twitter/adeurresti.pdf){width=65%}
+### Medios
+
+
+
 
 
 ---

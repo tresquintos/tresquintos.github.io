@@ -19,7 +19,9 @@ author_profile: true
 
 ![Alfonso de Urresti](totiorellanag.png){:height=15%" width="15%"} ![Alfonso de Urresti](jcgarciapdea.png){:height=15%" width="15%"} ![Alfonso de Urresti](UrrejolaRREE.png){:height=15%" width="15%"}
 
-![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](camila_vallejo.png){:height=15%" width="15%"} ![Alfonso de Urresti](jeannette_jara.png){:height=15%" width="15%"} ![Alfonso de Urresti](JCMunozMarquez.png){:height=15%" width="15%"}
+
+![Alfonso de Urresti](carlosmontestwt.png){:height=15%" width="15%"}
 
 ### Senadores
 

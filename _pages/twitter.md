@@ -42,8 +42,8 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 ![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/KuschelSenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/ivanmoreirab.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/lcruzcoke.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Claupascualgrau.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/mjossandon.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/DignidadFabiola.png){:height=32%" width="32%"}

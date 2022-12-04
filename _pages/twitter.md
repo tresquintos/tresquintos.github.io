@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Twitter Tracker"
-permalink: /twitter/
+permalink: /twittertracker/
 description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true
 ---
@@ -67,6 +67,8 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 ![XXXXXXXXX](/images/twitter/ministers/adeurresti.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/loretosenadora.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/gustavosanhuez.png){:height=32%" width="32%"}
+
 
 
 ### Diputados

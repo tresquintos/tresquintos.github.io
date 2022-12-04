@@ -79,7 +79,7 @@ Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 
 ![XXXXXXXXX](/images/twitter/legislators/DiputadaD15.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/DiputadoArroyo.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/carlosmontestwt.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/JaimeSaezQuiroz.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/EricAedoJeldres.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/felipe_donosoc.png){:height=32%" width="32%"}
@@ -108,13 +108,6 @@ Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 ![XXXXXXXXX](/images/twitter/legislators/GaelDiputada.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/PamJiles.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Marcia_Raphaelm.png){:height=32%" width="32%"}
-
-![XXXXXXXXX](/images/twitter/legislators/JaimeSaezQuiroz.png){:height=32%" width="32%"}
-
-### Medios
-
-
-
 
 
 ---

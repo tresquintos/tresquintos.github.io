@@ -9,7 +9,7 @@ author_profile: true
 
 ### Ministros
 
-![Agricultura](images/twitter/ministers/tvalenzuelavt.png){:height=15%" width="15%"} ![Bienes Nacionales](images/twitter/ministers/jubrodsky.png){:height=15%" width="15%"} ![Defensa](images/twitter/ministers/Mayafernandeza.png){:height=15%" width="15%"}
+![Agricultura](/images/twitter/ministers/tvalenzuelavt.png){:height=15%" width="15%"} ![Bienes Nacionales](/images/twitter/ministers/jubrodsky.png){:height=15%" width="15%"} ![Defensa](/images/twitter/ministers/Mayafernandeza.png){:height=15%" width="15%"}
 
 ![Alfonso de Urresti](sadiaz1.png){:height=15%" width="15%"} ![Alfonso de Urresti](GiorgioJackson.png){:height=15%" width="15%"} ![Alfonso de Urresti](javieratoroc.png){:height=15%" width="15%"}
 

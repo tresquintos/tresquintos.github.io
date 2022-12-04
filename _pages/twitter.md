@@ -44,6 +44,12 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 
 ![XXXXXXXXX](/images/twitter/ministers/ivanmoreirab.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/mjossandon.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/DignidadFabiola.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/AKusanovicG.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/RojoEdwards.png){:height=32%" width="32%"}
+
 
 
 ### Diputados

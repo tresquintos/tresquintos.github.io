@@ -26,7 +26,24 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 
 ### Senadores
 
+![XXXXXXXXX](/images/twitter/ministers/sekeitel.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/javiermacaya.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/matiaswalkerp.png){:height=32%" width="32%"}
 
+![XXXXXXXXX](/images/twitter/ministers/daniel_nunez_a.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/paulinanu.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/ArayaPedro.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/vanrysselberghe.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/gastonsaavedra.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/fidelsenador.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/ivanmoreirab.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/KuschelSenador.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/ivanmoreirab.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
 
 
 ### Diputados
@@ -55,7 +72,6 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 ![XXXXXXXXX](/images/twitter/ministers/nromerotalguia.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/SchubertRubio.png){:height=32%" width="32%"}
 
-
 ![XXXXXXXXX](/images/twitter/ministers/CalamaVelasquez.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/DipSaraConcha.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/AnaMariaBravoC.png){:height=32%" width="32%"}
@@ -68,14 +84,7 @@ Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 ![XXXXXXXXX](/images/twitter/ministers/PamJiles.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Marcia_Raphaelm.png){:height=32%" width="32%"}
 
-
 ![XXXXXXXXX](/images/twitter/ministers/JaimeSaezQuiroz.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/nromerotalguia.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/SchubertRubio.png){:height=32%" width="32%"}
-
-
-
-
 
 ### Medios
 

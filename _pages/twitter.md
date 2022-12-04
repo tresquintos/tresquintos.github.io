@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Twitter Tracker"
-permalink: /twittertracker/
+permalink: /twitter/
 description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true
 ---

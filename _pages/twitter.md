@@ -31,85 +31,85 @@ Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 ![XXXXXXXXX](/images/twitter/ministers/UrrejolaRREE.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/camila_vallejo.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/jeannette_jara.png){:height=32%" width="15%"}
+![XXXXXXXXX](/images/twitter/ministers/jeannette_jara.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/JCMunozMarquez.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/carlosmontestwt.png){:height=32%" width="32%"}
 
 ### Senadores
 
-![XXXXXXXXX](/images/twitter/ministers/sekeitel.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/javiermacaya.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/matiaswalkerp.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/sekeitel.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/javiermacaya.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/matiaswalkerp.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/daniel_nunez_a.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/paulinanu.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/ArayaPedro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/daniel_nunez_a.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/paulinanu.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/ArayaPedro.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/vanrysselberghe.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/gastonsaavedra.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/fidelsenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/vanrysselberghe.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/gastonsaavedra.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/fidelsenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/ivanmoreirab.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/KarimBianchi.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/KuschelSenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/ivanmoreirab.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/KarimBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/KuschelSenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/lcruzcoke.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Claupascualgrau.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/mjossandon.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/lcruzcoke.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Claupascualgrau.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/mjossandon.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/DignidadFabiola.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/AKusanovicG.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/RojoEdwards.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/DignidadFabiola.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/AKusanovicG.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/RojoEdwards.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/ifloressenador.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/MjGaticaB.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/adeurresti.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/ifloressenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/MjGaticaB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/adeurresti.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/loretosenadora.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/gustavosanhuez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/loretosenadora.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/gustavosanhuez.png){:height=32%" width="32%"}
 
 
 
 ### Diputados
 
-![XXXXXXXXX](/images/twitter/ministers/clara_sagardia.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/BenjaminMorenob.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Candeladiputada.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/clara_sagardia.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/BenjaminMorenob.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Candeladiputada.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/DiputadaD15.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/DiputadoArroyo.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/carlosmontestwt.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/DiputadaD15.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/DiputadoArroyo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/carlosmontestwt.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/EricAedoJeldres.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/felipe_donosoc.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/florweissen.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/EricAedoJeldres.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/felipe_donosoc.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/florweissen.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/glorianaveillan.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/hector_ulloaa.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/henrylealbizama.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/glorianaveillan.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/hector_ulloaa.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/henrylealbizama.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/HugoReyM.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/JCBeltranSilva.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/mbeckeralvear.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/HugoReyM.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/JCBeltranSilva.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/mbeckeralvear.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/mperezdiputada.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/nromerotalguia.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/SchubertRubio.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/mperezdiputada.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/nromerotalguia.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/SchubertRubio.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/CalamaVelasquez.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/DipSaraConcha.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/AnaMariaBravoC.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/CalamaVelasquez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/DipSaraConcha.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/AnaMariaBravoC.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/HernanPalma_D12.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/JIrarrazavalR.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/CatalinaDelReal.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/HernanPalma_D12.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/JIrarrazavalR.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/CatalinaDelReal.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/GaelDiputada.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/PamJiles.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Marcia_Raphaelm.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/GaelDiputada.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/PamJiles.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Marcia_Raphaelm.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/JaimeSaezQuiroz.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/JaimeSaezQuiroz.png){:height=32%" width="32%"}
 
 ### Medios
 

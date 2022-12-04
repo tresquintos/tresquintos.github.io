@@ -9,13 +9,13 @@ author_profile: true
 
 ### Ministros
 
-![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](jubrodsky.png){:height=15%" width="15%"} ![Alfonso de Urresti](Mayafernandeza.png){:height=15%" width="15%"}
 
-![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](sadiaz1.png){:height=15%" width="15%"} ![Alfonso de Urresti](GiorgioJackson.png){:height=15%" width="15%"} ![Alfonso de Urresti](javieratoroc.png){:height=15%" width="15%"}
 
-![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](nico_grau.png){:height=15%" width="15%"} ![Alfonso de Urresti](ProfMarcoAvila.png){:height=15%" width="15%"} ![Alfonso de Urresti](mariomarcelc.png){:height=15%" width="15%"}
 
-![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](Carolina_Toha.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
 
 ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
 

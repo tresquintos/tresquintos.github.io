@@ -17,7 +17,7 @@ author_profile: true
 
 ![Alfonso de Urresti](Carolina_Toha.png){:height=15%" width="15%"} ![Alfonso de Urresti](mriost.png){:height=15%" width="15%"} ![Alfonso de Urresti](Maisa_Rojas.png){:height=15%" width="15%"}
 
-![Alfonso de Urresti](totiorellanag.png){:height=15%" width="15%"} ![Alfonso de Urresti](jcgarciapdea.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](totiorellanag.png){:height=15%" width="15%"} ![Alfonso de Urresti](jcgarciapdea.png){:height=15%" width="15%"} ![Alfonso de Urresti](UrrejolaRREE.png){:height=15%" width="15%"}
 
 ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"} ![Alfonso de Urresti](tvalenzuelavt.png){:height=15%" width="15%"}
 

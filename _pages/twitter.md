@@ -9,8 +9,7 @@ author_profile: true
 
 ### Ministros
 
-
-[![plebiscito2020](/images/twitter/adeurresti.pdf){:height=5%" width="5%"}]
+[![Alfonso de Urresti](/images/twitter/adeurresti.pdf){:height=5%" width="5%"}]
 
 ### Senadores
 

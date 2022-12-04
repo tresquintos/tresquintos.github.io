@@ -6,7 +6,7 @@ description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true
 ---
 
-Tracker de Tresquintos. Contacta al equipo para descargar los datos.
+Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 
 ### Ministros
 

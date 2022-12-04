@@ -6,7 +6,7 @@ description: Información electoral + análisis político. Suscríbete al newsle
 author_profile: true
 ---
 
-### NFTs
+### Newsletter
 
 En esta página podrás suscribirte al newsletter de Tresquintos. ¡Solo debes pinchar en la imagen, y luego elegir el newsletter que quieres recibir!
 

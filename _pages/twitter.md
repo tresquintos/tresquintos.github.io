@@ -9,13 +9,20 @@ author_profile: true
 
 ### Ministros
 
-[![Alfonso de Urresti](/images/twitter/adeurresti.pdf){:height=5%" width="5%"}]
+![Alfonso de Urresti](/images/twitter/adeurresti.pdf){:height=15%" width="15%"}
 
 ### Senadores
 
 
+![some discription](/images/twitter/adeurresti.pdf "some discription")
+
+
+
 
 ### Diputados
+
+<iframe width="100%" height="800" src="/images/twitter/adeurresti.pdf">
+
 
 
 

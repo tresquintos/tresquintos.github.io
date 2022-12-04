@@ -6,6 +6,7 @@ description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true
 ---
 
+Tracker de Tresquintos. Contacta al equipo para descargar los datos.
 
 ### Ministros
 
@@ -29,6 +30,49 @@ author_profile: true
 
 
 ### Diputados
+
+![XXXXXXXXX](/images/twitter/ministers/clara_sagardia.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/BenjaminMorenob.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/Candeladiputada.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/DiputadaD15.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/DiputadoArroyo.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/carlosmontestwt.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/EricAedoJeldres.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/felipe_donosoc.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/florweissen.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/glorianaveillan.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/hector_ulloaa.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/henrylealbizama.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/HugoReyM.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/JCBeltranSilva.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/mbeckeralvear.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/mperezdiputada.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/nromerotalguia.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/SchubertRubio.png){:height=33%" width="33%"}
+
+
+![XXXXXXXXX](/images/twitter/ministers/CalamaVelasquez.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/DipSaraConcha.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/AnaMariaBravoC.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/HernanPalma_D12.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/JIrarrazavalR.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/CatalinaDelReal.png){:height=33%" width="33%"}
+
+![XXXXXXXXX](/images/twitter/ministers/GaelDiputada.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/PamJiles.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/Marcia_Raphaelm.png){:height=33%" width="33%"}
+
+
+![XXXXXXXXX](/images/twitter/ministers/JaimeSaezQuiroz.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/nromerotalguia.png){:height=33%" width="33%"}
+![XXXXXXXXX](/images/twitter/ministers/SchubertRubio.png){:height=33%" width="33%"}
+
 
 
 

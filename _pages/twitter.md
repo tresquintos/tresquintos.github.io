@@ -9,19 +9,19 @@ author_profile: true
 
 ### Ministros
 
-![Agricultura](/images/twitter/ministers/tvalenzuelavt.png){:height=15%" width="15%"} ![Bienes Nacionales](/images/twitter/ministers/jubrodsky.png){:height=15%" width="15%"} ![Defensa](/images/twitter/ministers/Mayafernandeza.png){:height=15%" width="15%"}
+![Agricultura](/images/twitter/ministers/tvalenzuelavt.png){:height=33%" width="33%"} ![Bienes Nacionales](/images/twitter/ministers/jubrodsky.png){:height=33%" width="33%"} ![Defensa](/images/twitter/ministers/Mayafernandeza.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](sadiaz1.png){:height=15%" width="15%"} ![Alfonso de Urresti](GiorgioJackson.png){:height=15%" width="15%"} ![Alfonso de Urresti](javieratoroc.png){:height=15%" width="15%"}
+![XXXXXXXXX](/images/twitter/ministers/sadiaz1.png){:height=15%" width="15%"} ![XXXXXXXXX](/images/twitter/ministers/GiorgioJackson.png){:height=33%" width="33%"} ![XXXXXXXXX](/images/twitter/ministers/javieratoroc.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](nico_grau.png){:height=15%" width="15%"} ![Alfonso de Urresti](ProfMarcoAvila.png){:height=15%" width="15%"} ![Alfonso de Urresti](mariomarcelc.png){:height=15%" width="15%"}
+![XXXXXXXXX](/images/twitter/ministers/nico_grau.png){:height=33%" width="33%"} ![XXXXXXXXX](/images/twitter/ministers/ProfMarcoAvila.png){:height=15%" width="33%"} ![XXXXXXXXX](/images/twitter/ministers/mariomarcelc.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](Carolina_Toha.png){:height=15%" width="15%"} ![Alfonso de Urresti](mriost.png){:height=15%" width="15%"} ![Alfonso de Urresti](Maisa_Rojas.png){:height=15%" width="15%"}
+![XXXXXXXXX](/images/twitter/ministers/Carolina_Toha.png){:height=33%" width="33%"} ![XXXXXXXXX(mriost.png){:height=15%" width="15%"} ![Alfonso de Urresti](/images/twitter/ministers/Maisa_Rojas.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](totiorellanag.png){:height=15%" width="15%"} ![Alfonso de Urresti](jcgarciapdea.png){:height=15%" width="15%"} ![Alfonso de Urresti](UrrejolaRREE.png){:height=15%" width="15%"}
+![Alfonso de Urresti](/images/twitter/ministers/totiorellanag.png){:height=33%" width="33%"} ![Alfonso de Urresti](/images/twitter/ministers/jcgarciapdea.png){:height=33%" width="33%"} ![Alfonso de Urresti](/images/twitter/ministers/UrrejolaRREE.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](camila_vallejo.png){:height=15%" width="15%"} ![Alfonso de Urresti](jeannette_jara.png){:height=15%" width="15%"} ![Alfonso de Urresti](JCMunozMarquez.png){:height=15%" width="15%"}
+![Alfonso de Urresti](camila_vallejo.png){:height=33%" width="33%"} ![Alfonso de Urresti](/images/twitter/ministers/jeannette_jara.png){:height=33%" width="15%"} ![Alfonso de Urresti](/images/twitter/ministers/JCMunozMarquez.png){:height=33%" width="33%"}
 
-![Alfonso de Urresti](carlosmontestwt.png){:height=15%" width="15%"}
+![Alfonso de Urresti](/images/twitter/ministers/carlosmontestwt.png){:height=33%" width="33%"}
 
 ### Senadores
 

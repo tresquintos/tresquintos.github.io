@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Actividad Twitter"
+title: "Twitter Tracker"
 permalink: /twitter/
 description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true

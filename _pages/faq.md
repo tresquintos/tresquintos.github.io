@@ -19,12 +19,6 @@ Tres quintos (3/5) es uno de los umbrales de cambio y continuidad del sistema po
 
 [![bayes](/images/bayes.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Bayes%27_theorem) [![mcmc](/images/mcmc.png){:height="5%" width="5%"}](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)
 
-### ¿Con qué frecuencia se actualiza el sitio?
-
-El sitio se actualiza constantemente  dependiendo de la contingencia política del país, configuración de listas electorales y movimientos de los partidos y coaliciones. Considerando que hay varias elecciones programadas para los próximos años, la frecuencia será relativamente alta.
-
-[![plebiscito2020](/images/election1.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Plebiscito_nacional_de_Chile_de_2020) [![primarias2020](/images/election2.png){:height=5%" width="5%"}](https://www.servel.cl/primarias-2020/) [![concejales2020](/images/election3.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![alcaldes2020](/images/election4.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![constituyentes2020](/images/election5.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_convencionales_constituyentes_de_Chile_de_2020) [![gobernadores202](/images/election6.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_gobernadores_regionales_de_Chile_de_2020) [![primarias2021](/images/election7.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_municipales_de_Chile_de_2020) [![consejeros2021](/images/election8.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_de_consejeros_regionales_de_Chile_de_2021) [![diputados2021](/images/election9.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![senadores2021](/images/election10.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecciones_parlamentarias_de_Chile_de_2021) [![presidente2021](/images/election11.png){:height=5%" width="5%"}](https://es.wikipedia.org/wiki/Elecci%C3%B3n_presidencial_de_Chile_de_2021)
-
 
 ### ¿Dónde más puedo seguir a Tresquintos?
 
@@ -32,26 +26,12 @@ Estamos en todas las redes sociales.
 
 [![facebook](/images/facebook.png){:height="5%" width="5%"}](https://www.facebook.com/3quintos/) [![twitter](/images/twitter.png){:height="5%" width="5%"}](https://www.twitter.com/tresquintos/) [![instagram](/images/instagram.png){:height="5%" width="5%"}](https://www.instagram.com/3quintos/) [![youtube](/images/youtube.png){:height="5%" width="5%"}](https://www.youtube.com/c/tresquintos) [![github](/images/github.png){:height="5%" width="5%"}](https://www.github.com/tresquintos) [![twitch](/images/twitch.png){:height="5%" width="5%"}](https://www.twitch.tv/tresquintos/)
 
-
-### ¿Qué programas se usan para generar y distribuir contenido?
-
-Además de los programas más básicos, como TextEdit y Excel, se usan las siguientes interfaces de forma frecuente.
-
-[![r](/images/r.png){:height=5%" width="5%"}](https://www.r-project.org/) [![stata](/images/stata.png){:height="5%" width="5%"}](https://www.stata.constantemente) [![markdown](/images/markdown.png){:height=5%" width="5%"}](https://en.wikipedia.org/wiki/Markdown) [![atom](/images/atom.png){:height="5%" width="5%"}](https://atom.io/) [![tex](/images/tex.png){:height=5%" width="5%"}](https://www.latex-project.org/get/) [![github](/images/githubdesktop.png){:height="5%" width="5%"}](https://desktop.github.com/)
-
-
 ### ¿Cómo me puedo suscribir?
 
 Te puedes suscribir pinchando en el logo de abajo. Una vez que estes inscrito, recibirás un email (y si quieres un WhatsApp) cada vez que se actualice la página. (Todos los datos son confidenciales, y solo serán usados para el propósito de enviar información de **Tresquintos**).
 
 [![MailChimp](/images/mailchimp.png){:height="8%" width="8%"}](https://tresquintos.us15.list-manage.com/subscribe/post?u=3a6f5773bbbc78ea5a0003f67&amp;id=8c164eff0f)
 
-
-### ¿Qué representan los controladores NES?
-
-Es un misterio solo resuelto por las mentes más curiosas.
-
-[![nes](/images/nes.png){:height="8%" width="8%"}](https://en.wikipedia.org/wiki/Iliad#Menis)
 
 ---
 

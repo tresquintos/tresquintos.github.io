@@ -6,9 +6,11 @@ description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true
 ---
 
-Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
+Twitter Tracker de Tresquintos.
 
-### Ministros
+<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Ministros
 
 ![XXXXXXXXX](/images/twitter/ministers/tvalenzuelavt.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/jubrodsky.png){:height=32%" width="32%"}
@@ -36,7 +38,7 @@ Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 
 ![XXXXXXXXX](/images/twitter/ministers/carlosmontestwt.png){:height=32%" width="32%"}
 
-### Senadores
+## Senadores
 
 ![XXXXXXXXX](/images/twitter/legislators/sekeitel.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/javiermacaya.png){:height=32%" width="32%"}
@@ -69,9 +71,7 @@ Twitter Tracker de Tresquintos. Todos los datos disponible para descarga.
 ![XXXXXXXXX](/images/twitter/legislators/loretosenadora.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/gustavosanhuez.png){:height=32%" width="32%"}
 
-
-
-### Diputados
+## Diputados
 
 ![XXXXXXXXX](/images/twitter/legislators/clara_sagardia.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/BenjaminMorenob.png){:height=32%" width="32%"}

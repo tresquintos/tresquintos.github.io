@@ -29,6 +29,12 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 [![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
+## ![ep](/images/pc.png){:height="3%" width="3%"} Twitter Tracker 2022-2026
+
+Abajo puedes ver el Twitter Tracker de Tresquintos. Muestra el número de tweets recopilados por los servidores de Tresquintos de autoridades políticas. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
+
+[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+
 
 ## Descarga nuestro libro
 

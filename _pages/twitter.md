@@ -123,8 +123,17 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/alcaldes/CristobalLira.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/alcaldes/CarolinaLeitao.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/alcaldes/alimanouchehri.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/IraciHassler.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/cn_castro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/danieljadue.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/ClaudioRadonich.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/GervoyAlcalde.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/germancodina.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/alcaldes/evelynmatthei.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/alcaldes/TomasVodanovic.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/alcaldes/TomasVodanovic.png){:height=32%" width="32%"}
+
+
+
 
 
 

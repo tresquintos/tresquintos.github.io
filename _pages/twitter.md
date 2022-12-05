@@ -12,27 +12,27 @@ Twitter Tracker de Tresquintos.
 
 ## Ministros
 
+![XXXXXXXXX](/images/twitter/ministers/Carolina_Toha.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/camila_vallejo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/GiorgioJackson.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/mariomarcelc.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/nico_grau.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/UrrejolaRREE.png){:height=32%" width="32%"}
+
 ![XXXXXXXXX](/images/twitter/ministers/tvalenzuelavt.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/jubrodsky.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Mayafernandeza.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/sadiaz1.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/GiorgioJackson.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/javieratoroc.png){:height=32%" width="32%"}
-
-![XXXXXXXXX](/images/twitter/ministers/nico_grau.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/ProfMarcoAvila.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/mariomarcelc.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/Carolina_Toha.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/mriost.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Maisa_Rojas.png){:height=32%" width="32%"}
-
 ![XXXXXXXXX](/images/twitter/ministers/totiorellanag.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/jcgarciapdea.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/UrrejolaRREE.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/camila_vallejo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/jcgarciapdea.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/jeannette_jara.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/JCMunozMarquez.png){:height=32%" width="32%"}
 

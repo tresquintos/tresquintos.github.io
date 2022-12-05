@@ -40,13 +40,21 @@ Twitter Tracker de Tresquintos.
 
 ## Senadores
 
-![XXXXXXXXX](/images/twitter/legislators/sekeitel.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/javiermacaya.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/matiaswalkerp.png){:height=32%" width="32%"}
-
 ![XXXXXXXXX](/images/twitter/legislators/daniel_nunez_a.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/paulinanu.png){:height=32%" width="32%"}
+
 ![XXXXXXXXX](/images/twitter/legislators/ArayaPedro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/lcruzcoke.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/AKusanovicG.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/Claupascualgrau.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/mjossandon.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/DignidadFabiola.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/RojoEdwards.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/javiermacaya.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/sekeitel.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/vanrysselberghe.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/gastonsaavedra.png){:height=32%" width="32%"}
@@ -56,20 +64,13 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/KarimBianchi.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/KuschelSenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/lcruzcoke.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Claupascualgrau.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/mjossandon.png){:height=32%" width="32%"}
-
-![XXXXXXXXX](/images/twitter/legislators/DignidadFabiola.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/AKusanovicG.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/RojoEdwards.png){:height=32%" width="32%"}
-
 ![XXXXXXXXX](/images/twitter/legislators/ifloressenador.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/MjGaticaB.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/adeurresti.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/loretosenadora.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/gustavosanhuez.png){:height=32%" width="32%"}
+
 
 ## Diputados
 

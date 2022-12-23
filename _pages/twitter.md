@@ -37,6 +37,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/ministers/JCMunozMarquez.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/carlosmontestwt.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/AnaLyaUriarteR.png){:height=32%" width="32%"}
 
 
 ## Senadores

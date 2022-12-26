@@ -104,6 +104,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/ministers/Magallanes - KarimBianchi.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Magallanes - AKusanovicG.png){:height=32%" width="32%"}
 
+
 ## Diputados
 
 ![XXXXXXXXX](/images/twitter/legislators/D1 - EnriqueLeeF.png){:height=32%" width="32%"}
@@ -166,7 +167,6 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D9 - KarolCariola.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D9 - MaiteOrsini.png){:height=32%" width="32%"}
 
-
 ![XXXXXXXXX](/images/twitter/legislators/D10 - AlePlacenciaC.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D10 - DraMLCordero.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D10 - emischneiderv.png){:height=32%" width="32%"}
@@ -176,13 +176,11 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D10 - Jou_Kaiser.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D10 - lorefries.png){:height=32%" width="32%"}
 
-
 ![XXXXXXXXX](/images/twitter/legislators/D11 - carreragonzalo.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D11 - CatalinaDelReal.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D11 - cristian_arayal.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D11 - guilleramirez.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D11 - Panchoundurraga.png){:height=32%" width="32%"}
-
 
 ![XXXXXXXXX](/images/twitter/legislators/D12 - alvaro_carterf.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D12 - AnaMariaGazmuri.png){:height=32%" width="32%"}
@@ -277,10 +275,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D28 - JaviMoralesAl.png){:height=32%" width="32%"}
 
 
-
-
 ### Alcaldes
-
 
 ![XXXXXXXXX](/images/twitter/alcaldes/TomasVodanovic.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/alcaldes/rodolfocarter.png){:height=32%" width="32%"}

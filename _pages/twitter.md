@@ -44,7 +44,7 @@ Twitter Tracker de Tresquintos.
 
 ![XXXXXXXXX](/images/twitter/legislators/Arica - Duranasenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Tarapaca - SenadorJSoria.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Tarapac&aacute; - SenadorJSoria.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Tarapac&aacute; - Luzebensperger.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Antofagasta - CalamaVelasquez.png){:height=32%" width="32%"}
@@ -58,11 +58,11 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/Coquimbo - matiaswalkerp.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Coquimbo - sergiogahona.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Valparaiso - chahuan.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaiso - lagosweber.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaiso - IsabelAllendeB.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaíso - senadorLatorre.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaíso - PughSenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valpara&iacute;so - chahuan.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valpara&iacute;so - lagosweber.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valpara&iacute;so - IsabelAllendeB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valpara&iacute;so - senadorLatorre.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valpara&iacute;so - PughSenador.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Metropolitana - DignidadFabiola.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Metropolitana - mjossandon.png){:height=32%" width="32%"}
@@ -79,27 +79,27 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/Maule - galilea_rodrigo.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Maule - jacoloma.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Ñuble - loretosenadora.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Ñuble - gustavosanhuez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/&Ntilde;uble - loretosenadora.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/&Ntilde;uble - gustavosanhuez.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Bio-Bío - felipekast.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Bio-Bío - senadorquintana.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Bio-Bío - jgarciaruminot.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Bio-B&iacute;o - felipekast.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Bio-B&iacute;o - senadorquintana.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Bio-B&iacute;o - jgarciaruminot.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/La Araucanía - sekeitel.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/La Araucanía - gastonsaavedra.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/La Araucanía - vanrysselberghe.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/La Araucan&iacute;a - sekeitel.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/La Araucan&iacute;a - gastonsaavedra.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/La Araucan&iacute;a - vanrysselberghe.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Los Ríos - adeurresti.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Los Ríos - MjGaticaB.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Los Ríos - ifloressenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Los R&iacute;os - adeurresti.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Los R&iacute;os - MjGaticaB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Los R&iacute;os - ifloressenador.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Los Lagos - ivanmoreirab.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Los Lagos - fidelsenador.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Los Lagos - KuschelSenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Aysén - sandovalplaza.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Aysén - ximenaordenes.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Ays&eacute;n - sandovalplaza.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Ays&eacute;n - ximenaordenes.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Magallanes - KarimBianchi.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Magallanes - AKusanovicG.png){:height=32%" width="32%"}

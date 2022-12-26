@@ -42,37 +42,67 @@ Twitter Tracker de Tresquintos.
 
 ## Senadores
 
-![XXXXXXXXX](/images/twitter/legislators/matiaswalkerp.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/daniel_nunez_a.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/paulinanu.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Arica - Duranasenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/ArayaPedro.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/lcruzcoke.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/AKusanovicG.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Tarapacá - SenadorJSoria.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Tarapacá - Luzebensperger.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Claupascualgrau.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/mjossandon.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/DignidadFabiola.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Antofagasta - CalamaVelasquez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Antofagasta - ArayaPedro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Antofagasta - paulinanu.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/RojoEdwards.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/javiermacaya.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/sekeitel.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Atacama - ProvosteYasna.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Atacama - RafaelProhensE.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/vanrysselberghe.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/gastonsaavedra.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/fidelsenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Coquimbo - daniel_nunez_a.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Coquimbo - matiaswalkerp.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Coquimbo - sergiogahona.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/ivanmoreirab.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/KarimBianchi.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/KuschelSenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Valparaíso - chahuan.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Valparaíso - lagosweber.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Valparaíso - IsabelAllendeB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Valparaíso - senadorLatorre.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Valparaíso - PughSenador.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/ifloressenador.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/MjGaticaB.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/adeurresti.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Metropolitana - DignidadFabiola.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Metropolitana - mjossandon.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Metropolitana - RojoEdwards.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Metropolitana - lcruzcoke.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Metropolitana - Claupascualgrau.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/loretosenadora.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/gustavosanhuez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/OHiggins - DoctorJLCastro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/OHiggins - javiermacaya.png){:height=32%" width="32%"}
 
+![XXXXXXXXX](/images/twitter/ministers/Maule - SenadorCastro.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Maule - ximerincon.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Maule - alvaroelizalde.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Maule - galilea_rodrigo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Maule - jacoloma.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Ñuble - loretosenadora.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ñuble - gustavosanhuez.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Bio-Bío - felipekast.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Bio-Bío - senadorquintana.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Bio-Bío - jgarciaruminot.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/La Araucanía - sekeitel.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/La Araucanía - gastonsaavedra.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/La Araucanía - vanrysselberghe.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Los Ríos - adeurresti.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Los Ríos - MjGaticaB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Los Ríos - ifloressenador.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Los Lagos - ivanmoreirab.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Los Lagos - fidelsenador.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Los Lagos - KuschelSenador.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Aysén - sandovalplaza.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Aysén - ximenaordenes.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Magallanes - KarimBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Magallanes - AKusanovicG.png){:height=32%" width="32%"}
 
 ## Diputados
 

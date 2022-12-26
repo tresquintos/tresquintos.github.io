@@ -45,7 +45,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/Arica - Duranasenador.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Tarapaca - SenadorJSoria.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Tarapaca - Luzebensperger.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Tarapac&aacute; - Luzebensperger.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/Antofagasta - CalamaVelasquez.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Antofagasta - ArayaPedro.png){:height=32%" width="32%"}

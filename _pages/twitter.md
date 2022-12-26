@@ -58,9 +58,9 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/Coquimbo - matiaswalkerp.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Coquimbo - sergiogahona.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/Valparaíso - chahuan.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaíso - lagosweber.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/Valparaíso - IsabelAllendeB.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valparaiso - chahuan.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valparaiso - lagosweber.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/Valparaiso - IsabelAllendeB.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Valparaíso - senadorLatorre.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/Valparaíso - PughSenador.png){:height=32%" width="32%"}
 

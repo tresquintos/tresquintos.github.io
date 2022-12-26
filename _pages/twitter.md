@@ -125,9 +125,6 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D4 - Dani_Cicardini.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D4 - Juan_SantanaC.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D4 - Muletjaime.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/henrylealbizama.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/henrylealbizama.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/legislators/henrylealbizama.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/D5 - AbogadaTello.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D5 - danimanouchehri.png){:height=32%" width="32%"}
@@ -275,7 +272,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D28 - JaviMoralesAl.png){:height=32%" width="32%"}
 
 
-### Alcaldes
+## Alcaldes
 
 ![XXXXXXXXX](/images/twitter/alcaldes/TomasVodanovic.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/alcaldes/rodolfocarter.png){:height=32%" width="32%"}

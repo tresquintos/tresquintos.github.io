@@ -179,23 +179,22 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D15 - nromerotalguia.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D15 - Raul_Soto1.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/legislators/D12 - SerranoDaniela_.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D16 - _carlamoralesm.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D16 - cosme_mellado.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D16 - ecornejolagos.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D16 - felixbs_.png){:height=32%" width="32%"}
 
+![XXXXXXXXX](/images/twitter/legislators/D17 - BenjaminMorenob.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D17 - felipe_donosoc.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D17 - HugoReyM.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D17 - JorgeGuzmanZ.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D17 - mercebulnes.png){:height=32%" width="32%"}
 
+![XXXXXXXXX](/images/twitter/legislators/D18 - diputadonaranjo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D18 - GustavoBenavent.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D18 - velosodiputada.png){:height=32%" width="32%"}
 
-D16 - _carlamoralesm.png
-D16 - cosme_mellado.png
-D16 - ecornejolagos.png
-D16 - felixbs_.png
-D17 - BenjaminMorenob.png
-D17 - felipe_donosoc.png
-D17 - HugoReyM.png
-D17 - JorgeGuzmanZ.png
-D17 - mercebulnes.png
-D18 - diputadonaranjo.png
-D18 - GustavoBenavent.png
-D18 - velosodiputada.png
-D19 - frank_sauerbaum.png
+![XXXXXXXXX](/images/twitter/legislators/D19 - frank_sauerbaum.png){:height=32%" width="32%"}
 
 
 

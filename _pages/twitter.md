@@ -195,6 +195,56 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D18 - velosodiputada.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/legislators/D19 - frank_sauerbaum.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D19 - Marta_BravoS.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D19 - CamanoDiputado.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D19 - DipSaraConcha.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D20 - mperezdiputada.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - FrancescaD20Dip.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - Felixecologista.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - dipuBobadilla.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - leoromerosaez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - DiputadoArroyo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D20 - Candeladiputada.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D21 - CristobalUR2013.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D21 - florweissen.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D21 - joannaperezolea.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D21 - clara_sagardia.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D22 - JorgeRathgeb.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D22 - JCBeltranSilva.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D22 - glorianaveillan.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D22 - JorgeSaffirio.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D23 - henrylealbizama.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - mbeckeralvear.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - mauricio_ojedar.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - melladosuazo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - SchubertRubio.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - ericka_nanco.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D23 - AndresJouannet.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D24 - marcos_ilabaca.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D24 - patriciorosas.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D24 - AnaMariaBravoC.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D25 - HarryJurgensen.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D25 - DEmiliaNuyado.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D25 - hectorbarria.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D26 - Mauro_GonzalezV.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D26 - abernales.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D26 - hector_ulloaa.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D26 - Fernandoborquez.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D26 - JaimeSaezQuiroz.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D27 - MiguelCalisto.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D27 - alinco_rene.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D27 - Marcia_Raphaelm.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D28 - DiputadoBianchi.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D28 - JaviMoralesAl.png){:height=32%" width="32%"}
 
 
 

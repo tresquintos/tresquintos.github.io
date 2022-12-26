@@ -162,23 +162,27 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/legislators/D12 - PamJiles.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/legislators/D12 - SerranoDaniela_.png){:height=32%" width="32%"}
 
+![XXXXXXXXX](/images/twitter/legislators/D13 - EdoDuran.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D13 - GaelDiputada.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D13 - LorenaPizarroS.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D13 - MoreiraDiputado.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D13 - PrensaDaniMelo.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D14 - camila_musante.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D14 - JIrarrazavalR.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D14 - LeoSotoChile.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D14 - mariseka.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D15 - Diego_Schalper.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D15 - DiputadaD15.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D15 - Marcemomo.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D15 - nromerotalguia.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/legislators/D15 - Raul_Soto1.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/legislators/D12 - SerranoDaniela_.png){:height=32%" width="32%"}
 
 
-D13 - EdoDuran.png
-D13 - GaelDiputada.png
-D13 - LorenaPizarroS.png
-D13 - MoreiraDiputado.png
-D13 - PrensaDaniMelo.png
-D14 - camila_musante.png
-D14 - JIrarrazavalR.png
-D14 - LeoSotoChile.png
-D14 - mariseka.png
-D14 - RaulLeiva.png
-D15 - Diego_Schalper.png
-D15 - DiputadaD15.png
-D15 - Marcemomo.png
-D15 - nromerotalguia.png
-D15 - Raul_Soto1.png
+
 D16 - _carlamoralesm.png
 D16 - cosme_mellado.png
 D16 - ecornejolagos.png

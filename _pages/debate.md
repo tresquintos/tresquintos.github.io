@@ -36,9 +36,16 @@ Lee la lista de ministros registrados aquí.
 
 ## ¿De qué están hablando los Legisladores?
 
-Lee la lista de legisladores resgistrados aquí.
+Lee la lista de senadores y diputados registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_legislators.png){:height=100%" width="100%"}
+
+
+## ¿De qué están hablando los Alcaldes?
+
+Lee la lista de alcaldes registrados aquí.
+
+![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_alcaldes.png){:height=100%" width="100%"}
 
 
 ---

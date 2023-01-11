@@ -18,6 +18,10 @@ El debate online, por Tresquintos.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_political science.png){:height=100%" width="100%"}
 
+## Medios
+
+![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_media.png){:height=100%" width="100%"}
+
 ## Ministros
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_ministers.png){:height=100%" width="100%"}

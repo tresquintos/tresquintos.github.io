@@ -6,7 +6,7 @@ description: Información electoral + análisis político. El Debate.
 author_profile: true
 ---
 
-El debate es un sistema automático creado para recopilar y destacar los temas más importantes de la conversación política. Las nubes de palabras representan los asuntos a los cuales los distintos gremios le están dando mayor importancia.
+El debate es un sistema automático creado para recopilar y destacar los temas más importantes de la conversación política. Las nubes de palabras representan los asuntos a los cuales los distintos gremios le están dando mayor importancia. Los datos son recolectados por nuestro bot, [Cuatro Séptimos](https://twitter.com/cuatroseptimos).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

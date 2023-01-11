@@ -6,27 +6,37 @@ description: Información electoral + análisis político. El Debate.
 author_profile: true
 ---
 
-El debate online, por Tresquintos.
+El debate es un sistema automático creado para recopilar y destacar los temas más importantes de la conversación política. Las nubes de palabras representan los asuntos a los cuales los distintos gremios le están dando mayor importancia.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Economistas
 
+Lee la lista de economistas registrados aquí.
+
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_economists.png){:height=100%" width="100%"}
 
 ## Cientistas Políticos
+
+Lee la lista de economistas registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_political science.png){:height=100%" width="100%"}
 
 ## Medios
 
+Lee la lista de medios registrados aquí.
+
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_media.png){:height=100%" width="100%"}
 
 ## Ministros
 
+Lee la lista de ministros registrados aquí.
+
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_ministers.png){:height=100%" width="100%"}
 
 ## Legisladores
+
+Lee la lista de legisladores resgistrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_legislators.png){:height=100%" width="100%"}
 

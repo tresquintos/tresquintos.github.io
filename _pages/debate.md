@@ -10,31 +10,31 @@ El debate es un sistema automático creado para recopilar y destacar los temas m
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Economistas
+## ¿De qué están hablando los Economistas?
 
 Lee la lista de economistas registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_economists.png){:height=100%" width="100%"}
 
-## Cientistas Políticos
+## ¿De qué están hablando los Cientistas Políticos?
 
 Lee la lista de economistas registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_political science.png){:height=100%" width="100%"}
 
-## Medios
+## ¿De qué están hablando los Medios?
 
 Lee la lista de medios registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_media.png){:height=100%" width="100%"}
 
-## Ministros
+## ¿De qué están hablando los Ministros?
 
 Lee la lista de ministros registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_ministers.png){:height=100%" width="100%"}
 
-## Legisladores
+## ¿De qué están hablando los Legisladores?
 
 Lee la lista de legisladores resgistrados aquí.
 

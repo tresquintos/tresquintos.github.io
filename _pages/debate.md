@@ -20,7 +20,7 @@ Lee la lista de economistas registrados aquí.
 
 Lee la lista de economistas registrados aquí.
 
-![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_political science.png){:height=100%" width="100%"}
+![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_politicalscience.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Periodistas Políticos?
 

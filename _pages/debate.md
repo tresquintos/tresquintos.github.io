@@ -6,7 +6,7 @@ description: Información electoral + análisis político. El Debate.
 author_profile: true
 ---
 
-El debate es un sistema automático creado para recopilar y destacar los temas más importantes de la conversación política. Las nubes de palabras representan los asuntos a los cuales los distintos gremios le están dando mayor importancia. Los datos son recolectados por nuestro bot, [Cuatro Séptimos](https://twitter.com/cuatroseptimos).
+El debate es un sistema automático creado para recopilar y destacar los temas más importantes de la conversación política. Las nubes de palabras representan los asuntos a los cuales los distintos gremios le están dando mayor importancia. Los datos son recolectados por nuestro robot, [Cuatro Séptimos](https://twitter.com/cuatroseptimos). El Debate forma parte del proyecto de redes sociales de Tresquintos, que busca archivar tweets históricos de figuras políticas relevantes. Para datos descriptivos, pincha [aquí](https://tresquintos.cl/twitter).
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -21,6 +21,12 @@ Lee la lista de economistas registrados aquí.
 Lee la lista de economistas registrados aquí.
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_political science.png){:height=100%" width="100%"}
+
+## ¿De qué están hablando los Periodistas Políticos?
+
+Lee la lista de periodistas registrados aquí.
+
+![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_journalists.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Medios?
 

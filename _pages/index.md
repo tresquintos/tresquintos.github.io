@@ -34,7 +34,7 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 Abajo puedes ver el Twitter Tracker de Tresquintos. Muestra el número de tweets recopilados por los servidores de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
-![XXXXXXXXX](/images/twitter/ministers/Ministro - gabrielboric.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - totiorellanag){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - mariomarcelc.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - Carolina_Toha.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - camila_vallejo.png){:height=32%" width="32%"}

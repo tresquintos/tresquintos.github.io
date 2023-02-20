@@ -32,14 +32,14 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Twitter Tracker 2022-2026
 
-Abajo puedes ver el Twitter Tracker de Tresquintos. Muestra el número de tweets recopilados por los servidores de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
+Abajo puedes ver el Twitter Tracker de Tresquintos. Muestra el número de tweets recopilados por los los servidores de Tresquintos. Los gráficos se actualizan automáticamente, una vez por semana. Puedes seguir a nuestro robot [aquí]((https://twitter.com/cuatroseptimos/))
 
-![XXXXXXXXX](/images/twitter/ministers/Ministro - totiorellanag.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - mariomarcelc.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - Carolina_Toha.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - camila_vallejo.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - GiorgioJackson.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - nico_grau.png){:height=32%" width="32%"}
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - mariomarcelc.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - Carolina_Toha.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - camila_vallejo.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - totiorellanag.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - GiorgioJackson.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
+[![XXXXXXXXX](/images/twitter/ministers/Ministro - nico_grau.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
 
 
 ## Descarga nuestro libro

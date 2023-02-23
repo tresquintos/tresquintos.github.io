@@ -12,44 +12,44 @@ El debate es un sistema automático creado para recopilar y destacar los temas m
 
 ## ¿De qué están hablando los Economistas?
 
-Lee la lista de economistas registrados aquí.
+Lee la lista de economistas registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_economists.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Cientistas Políticos?
 
-Lee la lista de economistas registrados aquí.
+Lee la lista de cientistas políticos registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_politicalscience.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Periodistas Políticos?
 
-Lee la lista de periodistas registrados aquí.
+Lee la lista de periodistas políticos registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_journalists.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Medios?
 
-Lee la lista de medios registrados aquí.
+Lee la lista de medios registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_media.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Ministros?
 
-Lee la lista de ministros registrados aquí.
+Lee la lista de ministros registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_ministers.png){:height=100%" width="100%"}
 
 ## ¿De qué están hablando los Legisladores?
 
-Lee la lista de senadores y diputados registrados aquí.
+Lee la lista de senadores y diputados registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_legislators.png){:height=100%" width="100%"}
 
 
 ## ¿De qué están hablando los Alcaldes?
 
-Lee la lista de alcaldes registrados aquí.
+Lee la lista de alcaldes registrados [aquí](https://twitter.com/cuatroseptimos).
 
 ![XXXXXXXXX](/images/twitter/wordclouds/wordcloud_alcaldes.png){:height=100%" width="100%"}
 

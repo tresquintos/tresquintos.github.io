@@ -24,7 +24,7 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - jubrodsky.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - Mayafernandeza.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/Ministro - sadiaz1.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - Silvia_Diaz_A.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - javieratoroc.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - ProfMarcoAvila.png){:height=32%" width="32%"}
 

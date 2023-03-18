@@ -1,5 +1,6 @@
 ---
-layout: splash 
+layout: single 
+classes: wide
 title: "Twitter Tracker: personas"
 permalink: /personas/
 description: Información electoral + análisis político. Twitter Tracker.

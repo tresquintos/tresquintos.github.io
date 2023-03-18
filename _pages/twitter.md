@@ -17,14 +17,14 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - GiorgioJackson.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - mariomarcelc.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - nico_grau.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - UrrejolaRREE.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - AnaLyaUriarteR.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - AlbertoKlaveren.png){:height=32%" width="32%"}
 
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - tvalenzuelavt.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - jubrodsky.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - jlopezsaffie.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - Mayafernandeza.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/Ministro - Silvia_Diaz_A.png){:height=32%" width="32%"}
+![XXXXXXXXX](/images/twitter/ministers/Ministro - aisenamalia.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - javieratoroc.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - ProfMarcoAvila.png){:height=32%" width="32%"}
 
@@ -32,12 +32,11 @@ Twitter Tracker de Tresquintos.
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - Maisa_Rojas.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - totiorellanag.png){:height=32%" width="32%"}
 
-![XXXXXXXXX](/images/twitter/ministers/Ministro - jcgarciapdea.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - jeannette_jara.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - JCMunozMarquez.png){:height=32%" width="32%"}
-
 ![XXXXXXXXX](/images/twitter/ministers/Ministro - carlosmontestwt.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/ministers/Ministro - AnaLyaUriarteR.png){:height=32%" width="32%"}
+
+![XXXXXXXXX](/images/twitter/ministers/Ministro - nico_grau.png){:height=32%" width="32%"}
 
 
 ## Senadores

@@ -14,14 +14,14 @@ Twitter Tracker de Tresquintos.
 
 ## Ministros
 
-![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_Carolina_Toha.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_camila_vallejo.png){:height=32%" width="32%"}
-![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_GiorgioJackson.png){:height=32%" width="32%"}
+![XXXXXXXXX](images/twitter/wordclouds/individuals/ministers/wordcloud_Carolina_Toha.png){:height=32%" width="32%"}
+![XXXXXXXXX](images/twitter/wordclouds/individuals/ministers/wordcloud_GiorgioJackson.png){:height=32%" width="32%"}
+![XXXXXXXXX](images/twitter/wordclouds/individuals/ministers/wordcloud_camila_vallejo.png){:height=32%" width="32%"}
+
 
 ![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_mariomarcelc.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_AnaLyaUriarteR.png){:height=32%" width="32%"}
 ![XXXXXXXXX](/images/twitter/individuals/ministers/wordcloud_AlbertoKlaveren.png){:height=32%" width="32%"}
-
 
 
 

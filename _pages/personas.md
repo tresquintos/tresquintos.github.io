@@ -1,6 +1,6 @@
 ---
 layout: wide 
-title: "Twitter Tracker: personas"
+title: "Twitter Tracker"
 permalink: /personas/
 description: Información electoral + análisis político. Twitter Tracker.
 author_profile: true

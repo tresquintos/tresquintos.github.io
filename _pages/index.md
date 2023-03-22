@@ -27,7 +27,7 @@ En este sitio podrás encontrar análisis político e información electoral par
 
 Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra aprobación y desaprobación al presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
-[![Top-3](/images/main graphs/pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_rechaza.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Twitter Tracker 2022-2026

@@ -12,8 +12,7 @@ Tresquintos Popularity Trends.
 
 ## Argentina
 
-[![Top-3](/images/main graphs/argentina - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/argentina- pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
-
+[![Top-3](/images/main graphs/argentina - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/argentina - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Australia
 

@@ -110,10 +110,6 @@ Tresquintos Popularity Trends. Please contact our team to access full country re
 
 [![Top-3](/images/main graphs/japan - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/japan - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
 
-## Malaysia
-
-[![Top-3](/images/main graphs/malaysia - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/malaysia - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
-
 ## Mexico
 
 [![Top-3](/images/main graphs/mexico - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/mexico - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)

@@ -6,7 +6,7 @@ description: Election information + political analysis. Tresquintos popularity t
 author_profile: true
 ---
 
-Tresquintos Popularity Trends.
+Tresquintos Popularity Trends. Please contact our team for full reports: **contacto@tresquintos.cl**.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -37,11 +37,11 @@ Tresquintos Popularity Trends.
 
 ## Canada
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/canada - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/canada - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Chile
 
-[![Top-3](/images/main graphs/canada - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/canada - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 
 ## Colombia
@@ -62,11 +62,11 @@ Tresquintos Popularity Trends.
 
 ## El Salvador
 
-[![Top-3](/images/main graphs/el-salvador - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/el-salvador - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/el-salvador - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Finland
 
-[![Top-3](/images/main graphs/finland - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/finland - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/finland - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## France
 
@@ -74,7 +74,7 @@ Tresquintos Popularity Trends.
 
 ## Germany
 
-[![Top-3](/images/main graphs/germany - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/germany - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/germany - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Greece
 
@@ -106,7 +106,7 @@ Tresquintos Popularity Trends.
 
 ## Japan
 
-[![Top-3](/images/main graphs/japan - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/japan - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/japan - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Malaysia
 
@@ -122,7 +122,7 @@ Tresquintos Popularity Trends.
 
 ## New Zealand
 
-[![Top-3](/images/main graphs/new-zealand - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/new-zealand - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/new-zealand - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Norway
 
@@ -134,7 +134,7 @@ Tresquintos Popularity Trends.
 
 ## Paraguay
 
-[![Top-3](/images/main graphs/paraguay - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/paraguay - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/paraguay - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Peru
 
@@ -154,7 +154,7 @@ Tresquintos Popularity Trends.
 
 ## Switzerland
 
-[![Top-3](/images/main graphs/switzerland - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/switzerland - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/switzerland - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Turkey
 

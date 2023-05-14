@@ -30,11 +30,11 @@ Tresquintos Popularity Trends.
 
 ## Bolivia
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/bolivia - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/bolivia - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Brazil
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/brazil - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/brazil - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Canada
 
@@ -42,24 +42,24 @@ Tresquintos Popularity Trends.
 
 ## Chile
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/canada - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/canada - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 
 ## Colombia
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/colombia - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/colombia - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Costa Rica
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/costa-rica - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/costa-rica  - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Denmark
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/denmark - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/denmark - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## Ecuador
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/ecuador - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/ecuador - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
 ## El Salvador
 

@@ -6,8 +6,7 @@ description: Election information + political analysis. Tresquintos popularity t
 author_profile: true
 ---
 
-Tresquintos Popularity Trends. Please contact our team to access full country reports: **contacto@tresquintos.cl**.
-
+Tresquintos Popularity Trends. Please contact our team for full country access: **contacto@tresquintos.cl**.
 
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

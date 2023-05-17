@@ -115,7 +115,7 @@ Tresquintos Popularity Trends. Please contact our team for full country access: 
 
 ## Netherlands
 
-[![Top-3](/images/main graphs/netherlands - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/new-zealand - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
+[![Top-3](/images/main graphs/netherlands - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/netherlands - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
 
 ## New Zealand
 

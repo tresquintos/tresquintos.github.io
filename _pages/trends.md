@@ -123,7 +123,7 @@ Tresquintos Popularity Trends. Please contact our team for full country access: 
 
 ## Panama
 
-[![Top-3](/images/main graphs/panama - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/paraguay - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
+[![Top-3](/images/main graphs/panama - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/) [![Top-3](/images/main graphs/panama - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/trends/)
 
 ## Paraguay
 

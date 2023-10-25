@@ -15,7 +15,11 @@ redirect_from:
   - /congreso/
   - /presidenciales2021/
   - /legislativas2021/
-  - /congreso/
+  - /newsletter/
+  - /convencion/
+  - /datos/
+  - /debate/
+  - /popularidad/       
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} Tresquintos

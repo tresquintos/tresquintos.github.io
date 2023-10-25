@@ -20,9 +20,9 @@ redirect_from:
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
 
-En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a organizaciones que necesitan soluciones sostenibles. Para contratar nuestros servicios, enviar contáctanos [aquí](https://tresquintos.cl/contacto/).
+Tresquintos es una organización que produce y procesa análisis político e información electoral. La misión de la organización es entregar contexto a clientes que necesitan soluciones inmediatas, sostenibles, y de calidad. Para contratar nuestros servicios, contáctanos [aquí](https://tresquintos.cl/contacto/).
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
+## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial
 
 Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra aprobación y desaprobación al presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 

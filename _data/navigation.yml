@@ -4,17 +4,5 @@ main:
  - title: "✅ Popularidad"
    url: /popularidad/
 
- - title: "📥 Newsletter"
-   url: /newsletter/
-
- - title: "📑 Publicaciones"
-   url: /publicaciones/
-
- - title: "📱 Twitter Tracker"
-   url: /twitter/
-
- - title: "🤖 Debate"
-   url: /debate/
-
- - title: "📌 FAQ"
-   url: /faq/
+ - title: "📌 Contacto"
+   url: /contacto/

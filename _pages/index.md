@@ -20,7 +20,7 @@ redirect_from:
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
 
-En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Para contratar nuestros servicios, enviar un email directo a comunicaciones@tresquintos.cl.
+En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a organizaciones que necesitan soluciones sostenibles. Para contratar nuestros servicios, enviar contáctanos [aquí](https://tresquintos.cl/contacto/).
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
 
@@ -28,7 +28,7 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
-Descarga el reporte: PDF español; PDF inglés; PDF italiano.
+Descarga el reporte actualizado: [PDF español](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF inglés](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF italiano](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf).
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 

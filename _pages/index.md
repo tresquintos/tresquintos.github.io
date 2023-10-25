@@ -30,13 +30,17 @@ Tresquintos es una organización que produce análisis político y procesa infor
 
 Descarga el reporte actualizado en los siguientes idiomas.
 
-[![Español](/images/icons8-spain-16.png){:height="16%" width="16%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf)
+[![Español](/images/icons8-spain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf)
 
-[![English](/images/icons8-usa-16.png){:height="16%" width="16%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf)
+[![English (American)](/images/icons8-usa-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf)
 
-[![Italiano](/images/icons8-italy-16.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf)
+[![Italiano](/images/icons8-italy-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf)
 
-[![German](/images/icons8-germany-16.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+[![English (British)](/images/icons8-great-britain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+
+[![Japanese](/images/icons8-japan-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+
+[![German](/images/icons8-germany-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial de Chile

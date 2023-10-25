@@ -18,9 +18,9 @@ redirect_from:
   - /congreso/
 ---
 
-# ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
+# ![ep](/images/pc.png){:height="4%" width="4%"} Tresquintos
 
-Tresquintos es una organización que produce y procesa análisis político e información electoral. La misión de la organización es entregar contexto a clientes que necesitan soluciones inmediatas, sostenibles, y de calidad. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
+Tresquintos es una organización que produce y procesa análisis político e información electoral para clientes que necesitan soluciones inmediatas, sostenibles, y de calidad. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
 
 ## ![ep](/images/pdf.png){:height="3%" width="3%"} Reporte de Popularidad [PDF]
 

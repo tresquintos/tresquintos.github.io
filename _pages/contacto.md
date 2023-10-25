@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-### ¿Cómo puedo contratar sus servicios de asesoría?
+### ¿Cómo puedo saber más?
 
-Para solicitar un presupuesto: comunicaciones@tresquintos.cl.
+Para preguntas o solicitar un presupuesto: comunicaciones@tresquintos.cl.
 
 ---
 

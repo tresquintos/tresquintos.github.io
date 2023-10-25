@@ -28,7 +28,11 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
-Descarga el reporte actualizado: [PDF español](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF inglés](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF italiano](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf).
+Descarga el reporte actualizado: 
+
+![pdf](/images/pdf.png){:height="4%" width="4%"}
+
+[PDF español](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF inglés](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf); [PDF italiano](https://github.com/tresquintos/tresquintos.github.io/blob/d532398d36c8cddf04602dc60253d2526a9c286f/reports/2022-2026%20-%20chile%20(es).pdf).
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 

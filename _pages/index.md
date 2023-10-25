@@ -20,8 +20,7 @@ redirect_from:
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} ¡Bienvenidos a Tresquintos!
 
-En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. El sitio está integrado directamente a [GitHub](https://github.com/) para facilitar la interactividad. Si es tu primera vez en **Tresquintos**, te recomendamos partir por [aquí](https://tresquintos.cl/faq/).
-
+En este sitio podrás encontrar análisis político e información electoral para todas las elecciones de Chile. **Tresquintos** busca entregar contexto a votantes que cada vez más se enfrentan a información contradictoria. Para contratar nuestros servicios, enviar un email directo a comunicaciones@tresquintos.cl.
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Popularidad Presidencial 2022-2026
 
@@ -29,34 +28,11 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
-
-## ![ep](/images/pc.png){:height="3%" width="3%"} Twitter Tracker 2022-2026
-
-Abajo puedes ver el Twitter Tracker de Tresquintos. Muestra el número de tweets recopilados por los los servidores de Tresquintos. Los gráficos se actualizan automáticamente, una vez por semana. Puedes seguir a nuestro robot [aquí]((https://twitter.com/cuatroseptimos/)
-
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - mariomarcelc.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - Carolina_Toha.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - camila_vallejo.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - totiorellanag.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - GiorgioJackson.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-[![XXXXXXXXX](/images/twitter/ministers/Ministro - nico_grau.png){:height=32%" width="32%"}](https://tresquintos.cl/debate/)
-
-
-## Descarga nuestro libro
-
-📥 Pincha en la imagen para descargar el libro ***Breve historia de la elección presidencial y legislativa de Chile 2021***.
-
-<p class="aligncenter">
-<a href="https://www.researchgate.net/profile/Kenneth-Bunker/publication/356193914_Breve_historia_de_la_eleccion_presidencial_y_legislativa_de_Chile_2021/links/61916bae3068c54fa5e579a5/Breve-historia-de-la-eleccion-presidencial-y-legislativa-de-Chile-2021.pdf">
-  <img src="/images/publicaciones/breve_historia.png" width="30%" height="30%" />
-</a>
-</p>
-
+Descarga el reporte: PDF español; PDF inglés; PDF italiano.
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos) o [Discord](https://discord.gg/qPDkg67).
-
+Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos).
 
 ---
 

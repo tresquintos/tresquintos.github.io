@@ -30,15 +30,15 @@ Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra 
 
 Descarga el reporte actualizado: 
 
-![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-spain-16.png){:height="2%" width="2%"}
+![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-spain-16.png){:height="4%" width="4%"}
 
 [PDF español](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf)
 
-![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-usa-16.png){:height="2%" width="2%"}
+![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-usa-16.png){:height="4%" width="4%"}
 
 [PDF inglés](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf)
 
-![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-italy-16.png){:height="2%" width="2%"}
+![pdf](/images/pdf.png){:height="2%" width="2%"} ![pdf](/images/icons8-italy-16.png){:height="4%" width="4%"}
 
 [PDF italiano](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf)
 

@@ -26,28 +26,19 @@ redirect_from:
 
 Tresquintos es una organización que produce análisis político y procesa información electoral para clientes que necesitan soluciones inmediatas, sostenibles y rigurosas. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
 
-## ![ep](/images/pdf.png){:height="3%" width="3%"} Reporte de Popularidad [PDF]
-
-Descarga el reporte actualizado en los siguientes idiomas.
-
-[![Español](/images/icons8-spain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf)
-
-[![English (American)](/images/icons8-usa-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf)
-
-[![Italiano](/images/icons8-italy-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf)
-
-[![English (British)](/images/icons8-great-britain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
-
-[![Japanese](/images/icons8-japan-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
-
-[![German](/images/icons8-germany-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
-
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial de Chile
 
 Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra aprobación y desaprobación al presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+
+## ![ep](/images/pdf.png){:height="3%" width="3%"} Descarga
+
+Descarga el reporte actualizado en los siguientes idiomas.
+
+[![Español](/images/icons8-spain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf) [![English (American)](/images/icons8-usa-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf) [![Italiano](/images/icons8-italy-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf) [![English (British)](/images/icons8-great-britain-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf) [![Japanese](/images/icons8-japan-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf) [![German](/images/icons8-germany-40.png)](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces

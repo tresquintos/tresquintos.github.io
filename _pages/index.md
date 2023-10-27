@@ -29,7 +29,7 @@ Tresquintos es una organización que produce análisis político y procesa infor
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial de Chile
 
-Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra aprobación y desaprobación al presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
+Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra tendencias de aprobación y desaprobación para el presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
 
@@ -42,9 +42,9 @@ Descarga el reporte actualizado en los siguientes idiomas.
 
 
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Otros enlaces
+## ![ep](/images/pc.png){:height="3%" width="3%"} Enlaces
 
-Para ver las preguntas frecuentes, pincha [aquí](https://tresquintos.cl/faq/). Si tienes dudas, sugerencias o reclamos, nos puedes contactar directamente por [Twitter](https://www.twitter.com/tresquintos).
+Los enlaces a nuestras redes sociales están en la barra lateral. Nos puedes contactar directamente por [X](https://www.twitter.com/tresquintos) o por [e-mail](mailto:comunicaciones@tresquintos.cl).
 
 ---
 

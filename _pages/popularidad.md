@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Tendencias 2025"
-permalink: /2025/
-description: Información electoral + análisis político. Tendencia elección presidencial 2025.
+title: "Popularidad Presidencial"
+permalink: /popularidad/
+description: Información electoral + análisis político. Tendencia presidencial.
 author_profile: true
 ---
 

@@ -19,7 +19,8 @@ redirect_from:
   - /convencion/
   - /datos/
   - /debate/
-  - /popularidad/       
+  - /popularidad/   
+  - /constituyentes/    
 ---
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} Tresquintos

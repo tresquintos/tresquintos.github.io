@@ -47,7 +47,7 @@ Descarga el reporte actualizado en los siguientes idiomas.
 
 Revisa tendencias para los principales candidatos presidenciales en Chile.
 
-[![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile_2025 - Evelyn Matthei.png) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile_2025 - Michelle Bachelet.png)
+[![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Enlaces

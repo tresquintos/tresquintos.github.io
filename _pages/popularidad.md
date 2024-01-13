@@ -2,7 +2,7 @@
 layout: single
 title: "Popularidad Presidencial"
 permalink: /popularidad/
-description: Información electoral + análisis político. Tendencia presidencial.
+description: Información electoral + análisis político. Tendencia de popularidad presidencial.
 author_profile: true
 ---
 

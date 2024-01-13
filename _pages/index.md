@@ -19,7 +19,6 @@ redirect_from:
   - /convencion/
   - /datos/
   - /debate/
-  - /popularidad/   
   - /constituyentes/    
   - /twitter/
   - /convencion/

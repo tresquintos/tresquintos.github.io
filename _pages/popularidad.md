@@ -6,15 +6,13 @@ description: Información electoral + análisis político. Tendencia de populari
 author_profile: true
 ---
 
-Tendencia de popularidad presidencial de Tresquintos.
+Tendencia de popularidad presidencial.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Tendencia
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) 
-
-[![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png)
 
 
 ---

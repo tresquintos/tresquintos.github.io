@@ -40,7 +40,7 @@ Tresquintos es una organización que produce análisis político y procesa infor
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial
 
-Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra tendencias de aprobación y desaprobación para el presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
+Revisa el índice de popularidad presidencial de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
 
 Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
 
@@ -50,7 +50,7 @@ Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:heig
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Tendencias 2025
 
-Revisa tendencias para los principales candidatos presidenciales en Chile.
+Revisa tendencias para los principales candidatos presidenciales en Chile. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
 
 [![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
 

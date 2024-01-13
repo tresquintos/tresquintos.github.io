@@ -38,7 +38,7 @@ Tresquintos es una organización que produce análisis político y procesa infor
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial de Chile
+## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial
 
 Abajo puedes ver el índice de popularidad presidencial de Tresquintos. Muestra tendencias de aprobación y desaprobación para el presidente Gabriel Boric. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta nueva a la base de datos.
 

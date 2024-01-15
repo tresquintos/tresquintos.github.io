@@ -51,6 +51,8 @@ Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:heig
 
 Revisa tendencias para los principales candidatos presidenciales en Chile. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
 
+Descarga el reporte actualizado para el candidato favorito: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(it).pdf)
+
 [![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
 
 

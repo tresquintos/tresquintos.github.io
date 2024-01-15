@@ -10,9 +10,9 @@ Tendencia de popularidad presidencial.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Tendencia
-
 Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+
+## Tendencia
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png)
 

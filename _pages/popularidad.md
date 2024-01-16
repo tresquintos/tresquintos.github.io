@@ -14,7 +14,7 @@ Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:heig
 
 ## Tendencia
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png)
+[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_aprueba.png) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/images/main graphs/chile - pres_desaprueba.png)
 
 
 ---

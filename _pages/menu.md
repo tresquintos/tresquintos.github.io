@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: wide
 title: "Menu"
 permalink: /menu/
 description: Menu
@@ -9,7 +9,7 @@ author_profile: true
 
 [![Friday Night](/images/menus/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chiketos.pdf) 
 
-[![Saturday Lunch](/images/menus/grillhouse.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/grillhouse.pdf)
+[![Saturday Lunch](/images/menus/fortunatos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/fortunatos.pdf)
 
 [![Saturday Night](/images/menus/annas.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/annas.pdf)
 

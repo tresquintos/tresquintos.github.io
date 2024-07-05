@@ -6,7 +6,6 @@ description: Menu
 author_profile: true
 ---
 
-<p class="aligncenter">
 
 [![Friday Night](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chiketos.pdf) 
 
@@ -22,7 +21,6 @@ author_profile: true
 
 [![Kids](/images/chikettis.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chikettis.pdf)
 
-</p>
 
 ---
 

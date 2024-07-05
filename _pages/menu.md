@@ -17,9 +17,9 @@ author_profile: true
 
 [![Sunday Night](/images/menus/olivias.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/olivias.pdf)
 
-[![Other](/images/menus/marcelas.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/marcelas.pdf)
+[![Other](/images/menus/marcelas.png)](https://tresquintos.cl/menus/marcelas.pdf)
 
-[![Kids](/images/menus/chikettis.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chikettis.pdf)
+[![Kids](/images/menus/chikettis.png)](https://tresquintos.cl/menus/chikettis.pdf)
 
 
 ---

@@ -7,19 +7,7 @@ author_profile: true
 ---
 
 
-[![Friday Night](/images/menus/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chiketos.pdf) 
-
-[![Saturday Lunch](/images/menus/fortunatos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/fortunatos.pdf)
-
-[![Saturday Night](/images/menus/annas.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/annas.pdf)
-
-[![Sunday Lunch](/images/menus/belarminos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/belarminos.pdf)
-
-[![Sunday Night](/images/menus/olivias.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/olivias.pdf)
-
-[![Other](/images/menus/marcelas.png)](https://tresquintos.cl/menus/marcelas.pdf)
-
-[![Kids](/images/menus/chikettis.png)](https://tresquintos.cl/menus/chikettis.pdf)
+[![Friday Night](/images/menus/chiketos.png)](https://tresquintos.cl/menus/chiketos.pdf) [![Saturday Lunch](/images/menus/fortunatos.png)](https://tresquintos.cl/menus/fortunatos.pdf) [![Saturday Night](/images/menus/annas.png)](https://tresquintos.cl/menus/annas.pdf) [![Sunday Lunch](/images/menus/belarminos.png)](https://tresquintos.cl/menus/belarminos.pdf) [![Sunday Night](/images/menus/olivias.png)](https://tresquintos.cl/menus/olivias.pdf) [![Other](/images/menus/marcelas.png)](https://tresquintos.cl/menus/marcelas.pdf) [![Kids](/images/menus/chikettis.png)](https://tresquintos.cl/menus/chikettis.pdf)
 
 
 ---

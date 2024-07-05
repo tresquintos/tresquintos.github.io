@@ -9,7 +9,7 @@ author_profile: true
 
 ## Tendencia
 
-[![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/reports/2025%20-%20Michelle%20Bachelet%20(es).pdf) [![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/reports/2025%20-%20Michelle%20Bachelet%20(es).pdf)
+[![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/2chiketos.pdf) [![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/2chiketos.pdf)
 
 
 ---

@@ -6,9 +6,6 @@ description: Menu
 author_profile: true
 ---
 
-
-## Tendencia
-
 <p class="aligncenter">
 
 [![Friday Night](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chiketos.pdf) 

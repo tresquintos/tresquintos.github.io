@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Menu"
@@ -7,8 +6,6 @@ description: Menu
 author_profile: true
 ---
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
 
   <head>
 
@@ -81,4 +78,3 @@ In fondo è solo un trucco, si è solo un trucco. -->
           <!-- https://www.youtube.com/watch?v=Cz41FXw1lWA -->
 
   </body>
-</html>

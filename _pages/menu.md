@@ -9,13 +9,15 @@ author_profile: true
 
 ## Tendencia
 
-[![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/2chiketos.pdf) [![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/2chiketos.pdf)
+[![Top-2](/images/chiketos.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/chiketos.pdf) 
 
+[![Top-2](/images/annas.png){:height="49%" width="49%"}](https://tresquintos.cl/menus/annas.pdf)
+
+[![Top-2](/images/annas.png)](https://tresquintos.cl/menus/annas.pdf)
 
 ---
 
 
-</style>
 <p class="aligncenter">
     <img src="/images/nes.png" width="30" height="30" alt="konami" />
 </p>

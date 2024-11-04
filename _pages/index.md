@@ -41,7 +41,7 @@ Tresquintos es una organización que produce análisis político y procesa infor
 
 Revisa el índice de popularidad presidencial de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
 
-![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2022-2026%20-%20chile%20(de).pdf)
+![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%20Boric%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%20Boric%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%20Boric%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%20Boric%20(de).pdf)
 
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)

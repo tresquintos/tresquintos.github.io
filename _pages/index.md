@@ -37,6 +37,15 @@ Tresquintos es una organización que produce análisis político y procesa infor
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## ![ep](/images/pc.png){:height="3%" width="3%"} Primera Vuelta Presidencial 2025
+
+Revisa tendencias para los principales candidatos presidenciales en Chile. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
+
+![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202025%20(es).pdf)  + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202025%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202025%20(it).pdf) + [![German](/images/icons8-germany-16.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202025%20(de).pdf) 
+
+[![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
+
+
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial
 
 Revisa el índice de popularidad presidencial de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
@@ -45,15 +54,6 @@ Revisa el índice de popularidad presidencial de Tresquintos. Los gráficos se a
 
 
 [![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
-
-
-## ![ep](/images/pc.png){:height="3%" width="3%"} Tendencias 2025
-
-Revisa tendencias para los principales candidatos presidenciales en Chile. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
-
-![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado para el favorito: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/2025%20-%20Evelyn%20Matthei%20(it).pdf)
-
-[![Top-3](/images/main graphs/chile_2025 - Evelyn Matthei.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main graphs/chile_2025 - Michelle Bachelet.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
 
 
 ## ![ep](/images/pc.png){:height="3%" width="3%"} Enlaces

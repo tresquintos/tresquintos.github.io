@@ -9,7 +9,7 @@ author_profile: true
 
 ### ¿Cómo puedo saber más?
 
-Para preguntas o para solicitar un presupuesto, escríbenos un [e-mail](mailto:comunicaciones@tresquintos.cl).
+Para preguntas y cotizaciones, escríbenos un [e-mail](mailto:comunicaciones@tresquintos.cl).
 
 ---
 

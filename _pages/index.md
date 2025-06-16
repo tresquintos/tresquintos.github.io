@@ -31,7 +31,7 @@ redirect_from:
 
 # ![ep](/images/pc.png){:height="4%" width="4%"} Tresquintos
 
-Tresquintos es una organización que produce análisis político y procesa información electoral para clientes que necesitan soluciones inmediatas, sostenibles y rigurosas. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
+Tresquintos es una organización que produce análisis político y procesa información electoral para clientes que necesitan soluciones discretas, inmediatas, sostenibles y rigurosas. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
 
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

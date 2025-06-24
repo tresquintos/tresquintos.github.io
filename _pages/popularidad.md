@@ -10,7 +10,7 @@ Tendencia de popularidad presidencial.
 
 <a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](hhttps://tresquintos.cl/reports/Chile%20-%202022-2026%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(de).pdf)
+Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}] + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}] + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}] + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}]
 
 ## Tendencia
 

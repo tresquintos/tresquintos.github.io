@@ -1,0 +1,125 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\pagenumbering{gobble}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Monatlicher Durchschnitt der Präsidialgenehmigung und -missbilligung},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Monatlicher Durchschnitt der Präsidialgenehmigung und
+-missbilligung}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{lccc}
+\toprule
+Monat & Zustimmung (\%) & Missbilligung (\%) & Differenz (\%) \\
+\midrule
+2022-08 & 33.9 & 54.7 & -20.8 \\
+2022-09 & 34.9 & 55.7 & -20.8 \\
+2022-10 & 29.5 & 59.3 & -29.8 \\
+2022-11 & 30.6 & 58.5 & -27.9 \\
+2022-12 & 29.7 & 61.2 & -31.5 \\
+2023-01 & 28.5 & 61.8 & -33.3 \\
+2023-02 & 30.6 & 61.0 & -30.4 \\
+2023-03 & 32.7 & 59.5 & -26.8 \\
+2023-04 & 29.9 & 59.0 & -29.1 \\
+2023-05 & 34.0 & 58.8 & -24.8 \\
+2023-06 & 30.6 & 61.4 & -30.8 \\
+2023-07 & 30.8 & 60.9 & -30.1 \\
+2023-08 & 29.6 & 60.5 & -30.9 \\
+2023-09 & 29.1 & 61.4 & -32.3 \\
+2023-10 & 31.6 & 57.3 & -25.7 \\
+2023-11 & 30.9 & 56.9 & -26.0 \\
+2023-12 & 31.6 & 58.0 & -26.4 \\
+2024-01 & 30.7 & 57.5 & -26.8 \\
+2024-02 & 30.9 & 60.2 & -29.3 \\
+2024-03 & 30.3 & 60.6 & -30.3 \\
+2024-04 & 31.0 & 60.4 & -29.4 \\
+2024-05 & 27.6 & 63.4 & -35.8 \\
+2024-06 & 31.5 & 57.3 & -25.8 \\
+2024-07 & 29.6 & 60.5 & -30.9 \\
+2024-08 & 34.2 & 54.6 & -20.4 \\
+2024-09 & 33.4 & 55.3 & -21.9 \\
+2024-10 & 28.6 & 63.1 & -34.5 \\
+2024-11 & 30.0 & 59.9 & -29.9 \\
+2024-12 & 29.8 & 58.1 & -28.3 \\
+2025-01 & 31.1 & 59.7 & -28.6 \\
+2025-02 & 30.6 & 61.1 & -30.5 \\
+2025-03 & 29.0 & 63.5 & -34.5 \\
+2025-04 & 28.9 & 62.0 & -33.1 \\
+2025-05 & 27.4 & 65.2 & -37.8 \\
+2025-06 & 32.1 & 58.7 & -26.6 \\
+2025-07 & 34.2 & 56.9 & -22.7\\
+\bottomrule
+\end{tabular}
+\end{table}
+\vspace{5pt}
+\parbox{\linewidth}{\centering \textit{Hinweis: Für weitere Informationen siehe den Abschnitt Methoden.}}
+
+\end{document}

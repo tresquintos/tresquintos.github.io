@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: none
 title: ""
 permalink: /
-author_profile: true
 description: Información electoral + análisis político. Candidatos, elecciones y tendencias.
 redirect_from:
   - /tsm/
@@ -26,86 +25,258 @@ redirect_from:
   - /publicaciones/
   - /trends/
   - /personas/
-
 ---
 
-# ![ep](/images/pc.png){:height="4%" width="4%"} Tresquintos
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tresquintos — Inteligencia Electoral</title>
+    <meta name="description" content="Political analytics and computational intelligence">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-Tresquintos es una organización que produce análisis político y procesa información electoral para clientes que necesitan soluciones discretas, inmediatas, sostenibles y rigurosas. Para más información, pincha [aquí](https://tresquintos.cl/contacto/).
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: #ffffff;
+            color: #000000;
+            line-height: 1.4;
+        }
 
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
 
-<a href="https://twitter.com/tresquintos?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Sigue @tresquintos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        .header {
+            padding: 1.5rem 0;
+            border-bottom: 1px solid #000000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
+        .logo-header {
+            display: flex;
+            align-items: center;
+        }
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Primera Vuelta Presidencial 2025
+        .brand {
+            font-size: 0.9rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-Revisa tendencias para los principales candidatos presidenciales en Chile. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
+        .status {
+            font-size: 0.65rem;
+            color: #999;
+            letter-spacing: 1px;
+        }
 
-![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado: ![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}  + ![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"} + ![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"} + ![German](/images/icons8-germany-16.png){:height="2%" width="2%"}
+        .hero {
+            padding: 6rem 0 4rem 0;
+            text-align: center;
+        }
 
-[![Top-3](/images/main%20graphs/chile_2025 - Jeannette Jara.png){:height="49%" width="49%"}](https://tresquintos.cl/2025) [![Top-3](/images/main%20graphs/chile_2025 - José Antonio Kast.png){:height="49%" width="49%"}](https://tresquintos.cl/2025)
+        .hero-logo-img {
+            max-width: 300px;
+            margin-bottom: 2rem;
+            opacity: 0.95;
+        }
 
+        .hero-title {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 700;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            letter-spacing: -1.5px;
+        }
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Reporte de Popularidad Presidencial
+        .hero-subtitle {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 2.5rem;
+            font-weight: 400;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
-Revisa el índice de popularidad presidencial de Tresquintos. Los gráficos se actualizan automáticamente cada vez que se ingresa una encuesta a la base de datos.
+        .content-section {
+            max-width: 700px;
+            margin: 0 auto 4rem auto;
+            font-size: 0.9rem;
+            line-height: 1.7;
+            color: #333;
+        }
 
-![ep](/images/pdf.png){:height="2%" width="2%"} Descarga el reporte actualizado: [![Español](/images/icons8-spain-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(es).pdf) + [![English (American)](/images/icons8-usa-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(en).pdf) + [![Italiano](/images/icons8-italy-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(it).pdf) + [![German](/images/icons8-germany-40.png){:height="2%" width="2%"}](https://tresquintos.cl/reports/Chile%20-%202022-2026%20(de).pdf)
+        .services-inline {
+            margin: 2rem 0;
+            font-size: 0.85rem;
+            color: #666;
+        }
 
+        .values-inline {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            margin: 3rem 0 2rem 0;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: #000;
+        }
 
-[![Top-3](/images/main graphs/chile - pres_aprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/) [![Top-3](/images/main graphs/chile - pres_desaprueba.png){:height="49%" width="49%"}](https://tresquintos.cl/popularidad/)
+        .btn-group {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin: 3rem 0 4rem 0;
+        }
 
+        .btn {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 500;
+            padding: 0.8rem 2rem;
+            border: 1px solid #000000;
+            background: #ffffff;
+            color: #000000;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            letter-spacing: 0.5px;
+        }
 
-## ![ep](/images/pc.png){:height="3%" width="3%"} Enlaces
+        .btn-primary {
+            background: #000000;
+            color: #ffffff;
+        }
 
-Los enlaces a nuestras redes sociales están en la barra lateral. Nos puedes contactar directamente por [X](https://www.twitter.com/tresquintos) o por [e-mail](mailto:comunicaciones@tresquintos.cl).
+        .btn:hover {
+            background: #000000;
+            color: #ffffff;
+        }
 
----
+        .btn-primary:hover {
+            background: #ffffff;
+            color: #000000;
+        }
 
-<!-- NES -->
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-<p class="aligncenter">
-    <img src="/images/nes.png" width="30" height="30" alt="konami" />
-</p>
-<script src="/js/topsecret.js"></script>
+        .footer {
+            padding: 2rem 0;
+            border-top: 1px solid #000000;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.7rem;
+        }
 
-<script src="/js/cyberdelia.js"></script>
+        .footer-links {
+            display: flex;
+            gap: 1.5rem;
+        }
 
-<script type="text/javascript"> var msTag = {"site":"tnw","page":"home","cyberdelia_page_type":"home","data":{"sponsorName":false,"isSponsoredCategory":false}}</script>
+        .footer-link {
+            color: #666;
+            text-decoration: none;
+            letter-spacing: 0.5px;
+            transition: color 0.2s;
+        }
 
-<script src="https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/js/app.min.js?v=1585558461" type="text/javascript" async=""></script>
+        .footer-link:hover {
+            color: #000;
+        }
 
+        .copyright {
+            font-size: 0.7rem;
+            color: #999;
+        }
 
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1.5rem;
+            }
 
-<!-- Favicon -->
+            .hero {
+                padding: 4rem 0 3rem 0;
+            }
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#b91d47">
-<meta name="theme-color" content="#ffffff">
+            .values-inline {
+                flex-wrap: wrap;
+                gap: 1rem;
+            }
 
+            .btn-group {
+                flex-direction: column;
+            }
 
+            .footer {
+                flex-direction: column;
+                gap: 1.5rem;
+                text-align: center;
+            }
 
+            .footer-links {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo-header">
+                <span class="brand">TRESQUINTOS</span>
+            </div>
+            <div class="status">2026</div>
+        </header>
 
-<!-- Finisce sempre così, con la morte.
-Prima però c’è stata la vita,
-nascosta sotto i bla, bla, bla, bla, bla.
-È tutto sedimentato sotto il chiacchiericcio e il rumore:
-il silenzio e il sentimento,
-l’emozione e la paura,
-gli sparuti incostanti sprazzi di bellezza
-e poi lo squallore disgraziato e l’uomo miserabile.
-Tutto sepolto nella coperta
-dell’imbarazzo dello stare al mondo:
-bla, bla, bla, bla.
-Altrove c’è l’Altrove,
-io non mi occupo dell’Altrove.
-Dunque che questo romanzo abbia inizio.
-In fondo è solo un trucco, si è solo un trucco. kb. -->
+        <section class="hero">
+            <img src="https://i.imgur.com/tOB65Jd.png" alt="Tresquintos System" class="hero-logo-img">
+            <h1 class="hero-title">Inteligencia Electoral<br>y Análisis Político</h1>
+            <p class="hero-subtitle">
+                Tecnología computacional avanzada aplicada a campañas políticas. Machine learning, estadística y procesamiento de datos para instituciones que requieren inteligencia estratégica.
+            </p>
+
+            <div class="content-section">
+                <div class="services-inline">
+                    Machine Learning • Estadística Computacional • Análisis Electoral • Inteligencia de Campaña • Comunicación Política • Plataformas Tecnológicas
+                </div>
+            </div>
+
+            <div class="values-inline">
+                <span>Discreto</span>
+                <span>Inmediato</span>
+                <span>Sostenible</span>
+                <span>Riguroso</span>
+            </div>
+
+            <div class="btn-group">
+                <a href="mailto:comunicaciones@tresquintos.cl" class="btn btn-primary">Contactar</a>
+                <a href="https://twitter.com/tresquintos" class="btn" target="_blank">Seguir</a>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="copyright">© 2026 Tresquintos</div>
+            <div class="footer-links">
+                <a href="https://twitter.com/tresquintos" class="footer-link" target="_blank">Twitter</a>
+                <a href="https://www.linkedin.com/in/tresquintos" class="footer-link" target="_blank">LinkedIn</a>
+                <a href="https://github.com/tresquintos" class="footer-link" target="_blank">GitHub</a>
+                <a href="https://instagram.com/3quintos" class="footer-link" target="_blank">Instagram</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
